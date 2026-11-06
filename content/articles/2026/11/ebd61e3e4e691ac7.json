@@ -1,0 +1,35 @@
+{
+  "id": "ebd61e3e4e691ac7",
+  "slug": "xrogo-cemat-asia",
+  "titleZh": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+  "titleOriginal": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+  "summary": "像雇人一样雇机器人。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "像雇人一样雇机器人",
+    "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "XROGO",
+    "CeMAT ASIA",
+    "产品发布",
+    "AI",
+    "行业动态"
+  ],
+  "entities": [
+    "XROGO",
+    "CeMAT ASIA"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/507767.html",
+  "publishedAt": "2026-11-05T05:25:37.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 53,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "1d7d83c1c306698e",
+  "status": "published"
+}

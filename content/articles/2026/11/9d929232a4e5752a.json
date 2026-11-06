@@ -1,0 +1,35 @@
+{
+  "id": "9d929232a4e5752a",
+  "slug": "serve-robotics-launches-new-business-to-become-the-aws-for-r",
+  "titleZh": "Serve Robotics推出新业务，成为面向机器人的AWS",
+  "titleOriginal": "Serve Robotics launches new business to become the AWS for robots",
+  "summary": "Serve Robotics在其第三季度财报中宣布，它将推出一个名为Physical AI Services的新业务线，为客户提供其连接和数据工具。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Serve Robotics推出新业务，成为面向机器人的AWS",
+    "Serve Robotics在其第三季度财报中宣布",
+    "详见原文"
+  ],
+  "category": "tech",
+  "tags": [
+    "Serve Robotics",
+    "AWS",
+    "产品发布",
+    "科技",
+    "行业动态"
+  ],
+  "entities": [
+    "Serve Robotics",
+    "AWS"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+  "publishedAt": "2026-11-05T21:15:00.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 76,
+  "readMinutes": 1,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "00b7eb5e06a9c086",
+  "status": "published"
+}

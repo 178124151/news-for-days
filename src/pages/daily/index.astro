@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import { articleMap, digests, formatDay, href } from '../../lib/content.ts';
+import type { Article } from '../../lib/schema.ts';
+
+const list = digests();
+const map = articleMap();
+const total = (ids: string[]) => ids.map((id) => map.get(id)).filter((a): a is Article => Boolean(a));
+---
+
+<Base title="日报存档" description="Signal Daily 每日日报存档，按日期回看科技、金融、AI 的重要事件。">
+  <section class="border-b border-[var(--line)] pb-7">
+    <div class="eyebrow">ARCHIVE</div>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">日报存档</h1>
+    <p class="mt-3 text-sm text-[var(--muted)]">每天一份，共 {list.length} 期。点开任意日期可回看当日全部条目。</p>
+  </section>
+
+  <div class="mt-6 space-y-3">
+    {
+      list.map((d) => {
+        const headlines = total(d.headlineIds);
+        const count = headlines.length + Object.values(d.sections).flat().length;
+        return (
+          <a href={href(`daily/${d.date}/`)} class="card card-hover block p-5">
+            <div class="flex flex-wrap items-baseline justify-between gap-2">
+              <h2 class="text-lg font-semibold tracking-tight">{formatDay(d.date)}</h2>
+              <span class="text-[11px] text-[var(--faint)]">{count} 条 · {d.stats.sources} 个来源</span>
+            </div>
+            <ul class="mt-2 space-y-1 text-[13.5px] text-[var(--muted)]">
+              {headlines.slice(0, 3).map((a) => <li class="clamp-2">· {a.titleZh}</li>)}
+            </ul>
+          </a>
+        );
+      })
+    }
+    {list.length === 0 && <p class="py-10 text-center text-sm text-[var(--faint)]">还没有日报。</p>}
+  </div>
+</Base>

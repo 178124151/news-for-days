@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import { href } from '../lib/content.ts';
+---
+
+<Base title="页面不存在" noindex>
+  <section class="py-20 text-center">
+    <div class="text-[64px] font-semibold tracking-tight text-[var(--line-strong)]">404</div>
+    <h1 class="mt-2 text-2xl font-semibold">这条信号丢失了</h1>
+    <p class="mt-3 text-sm text-[var(--muted)]">页面可能已下架，或链接有误。</p>
+    <div class="mt-6 flex justify-center gap-3 text-sm">
+      <a href={href('')} class="rounded-lg bg-[var(--ink)] px-4 py-2 text-[var(--bg)] hover:opacity-90">回到首页</a>
+      <a href={href('search/')} class="rounded-lg border border-[var(--line)] px-4 py-2 hover:border-[var(--line-strong)]">站内搜索</a>
+    </div>
+  </section>
+</Base>

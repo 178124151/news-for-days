@@ -1,0 +1,202 @@
+[
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "type": "rss",
+    "url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "lang": "en",
+    "weight": 0.9,
+    "enabled": true
+  },
+  {
+    "id": "theverge",
+    "name": "The Verge",
+    "type": "rss",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "tech",
+    "lang": "en",
+    "weight": 0.85,
+    "enabled": true
+  },
+  {
+    "id": "arstechnica",
+    "name": "Ars Technica",
+    "type": "rss",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "tech",
+    "lang": "en",
+    "weight": 0.85,
+    "enabled": true
+  },
+  {
+    "id": "hackernews",
+    "name": "Hacker News",
+    "type": "rss",
+    "url": "https://hnrss.org/frontpage",
+    "category": "tech",
+    "lang": "en",
+    "weight": 0.7,
+    "enabled": true
+  },
+  {
+    "id": "mittr",
+    "name": "MIT Technology Review",
+    "type": "rss",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "tech",
+    "lang": "en",
+    "weight": 0.8,
+    "enabled": true
+  },
+  {
+    "id": "36kr",
+    "name": "36氪",
+    "type": "rss",
+    "url": "https://www.36kr.com/feed",
+    "category": "tech",
+    "lang": "zh",
+    "weight": 0.8,
+    "enabled": true
+  },
+  {
+    "id": "infoq-cn",
+    "name": "InfoQ 中文",
+    "type": "rss",
+    "url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "lang": "zh",
+    "weight": 0.7,
+    "enabled": true
+  },
+  {
+    "id": "techmeme",
+    "name": "Techmeme",
+    "type": "rss",
+    "url": "https://www.techmeme.com/feed.xml",
+    "category": "tech",
+    "lang": "en",
+    "weight": 0.75,
+    "enabled": true
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI News",
+    "type": "rss",
+    "url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "lang": "en",
+    "weight": 0.95,
+    "enabled": true
+  },
+  {
+    "id": "google-ai",
+    "name": "Google AI Blog",
+    "type": "rss",
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "lang": "en",
+    "weight": 0.85,
+    "enabled": true
+  },
+  {
+    "id": "deepmind",
+    "name": "Google DeepMind",
+    "type": "rss",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "category": "ai",
+    "lang": "en",
+    "weight": 0.85,
+    "enabled": true
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ai",
+    "lang": "en",
+    "weight": 0.75,
+    "enabled": true
+  },
+  {
+    "id": "arxiv-ai",
+    "name": "arXiv cs.AI",
+    "type": "api",
+    "url": "http://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=8",
+    "category": "ai",
+    "lang": "en",
+    "weight": 0.6,
+    "enabled": true
+  },
+  {
+    "id": "jiqizhixin",
+    "name": "机器之心",
+    "type": "rss",
+    "url": "https://www.jiqizhixin.com/rss",
+    "category": "ai",
+    "lang": "zh",
+    "weight": 0.75,
+    "enabled": true
+  },
+  {
+    "id": "qbitai",
+    "name": "量子位",
+    "type": "rss",
+    "url": "https://www.qbitai.com/feed",
+    "category": "ai",
+    "lang": "zh",
+    "weight": 0.75,
+    "enabled": true
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC Markets",
+    "type": "rss",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "category": "finance",
+    "lang": "en",
+    "weight": 0.8,
+    "enabled": true
+  },
+  {
+    "id": "marketwatch",
+    "name": "MarketWatch",
+    "type": "rss",
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "category": "finance",
+    "lang": "en",
+    "weight": 0.75,
+    "enabled": true
+  },
+  {
+    "id": "ftchinese",
+    "name": "FT中文网",
+    "type": "rss",
+    "url": "https://www.ftchinese.com/rss/feed",
+    "category": "finance",
+    "lang": "zh",
+    "weight": 0.8,
+    "enabled": true
+  },
+  {
+    "id": "sec-edgar",
+    "name": "SEC EDGAR 8-K",
+    "type": "api",
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&owner=include&count=20&output=atom",
+    "category": "policy",
+    "lang": "en",
+    "weight": 0.7,
+    "enabled": true
+  },
+  {
+    "id": "federalreserve",
+    "name": "美联储",
+    "type": "rss",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "category": "policy",
+    "lang": "en",
+    "weight": 0.85,
+    "enabled": true
+  }
+]

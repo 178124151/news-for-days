@@ -1,0 +1,39 @@
+{
+  "id": "4e5012f2a8293aa6",
+  "slug": "nasdaq-sell-off-batters-asian-chip-stocks-as-sk-hynix-samsun",
+  "titleZh": "纳斯达克抛售冲击亚洲芯片股，SK海力士、三星、软银、台积电跌势",
+  "titleOriginal": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+  "summary": "亚洲科技股周五大幅下跌，跟随周三夜间在华尔街的强劲抛售，导致以科技股为主的纳斯达克综合指数进入修正区间。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "纳斯达克抛售冲击亚洲芯片股，SK海力士、三星、软银、台积电跌势",
+    "亚洲科技股周五大幅下跌，跟随周三夜间在华尔街的强劲抛售",
+    "详见原文"
+  ],
+  "category": "finance",
+  "tags": [
+    "TSMC",
+    "Samsung",
+    "芯片",
+    "金融",
+    "行业动态"
+  ],
+  "entities": [
+    "TSMC",
+    "Samsung",
+    "Nasdaq",
+    "Asian",
+    "SK Hynix",
+    "Softbank"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+  "publishedAt": "2026-11-06T02:40:15.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 77,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "446c407e0d864cb6",
+  "status": "published"
+}

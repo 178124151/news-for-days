@@ -1,0 +1,41 @@
+{
+  "id": "6b10eb6fc59b7d97",
+  "slug": "asian-tech-stocks-plunge-amid-fears-us-democrats-may-delay-d",
+  "titleZh": "亚洲科技股因担忧美国民主党可能推迟数据中心而暴跌",
+  "titleOriginal": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)",
+  "summary": "Jada Nagumo / Nikkei Asia：亚洲科技股因担忧美国民主党可能推迟数据中心而暴跌；台湾台指出现历史日内点数跌幅，韩国KOSPI下跌8.7%，日经指数下跌6.7% — 东京 — 与人工智能热潮相关的亚洲股市在周五早盘因科技板块抛售而大幅下跌……",
+  "keyPoints": [
+    "亚洲科技股因担忧美国民主党可能推迟数据中心而暴跌",
+    "Jada Nagumo / Nikkei Asia：亚洲科技股因担忧美国民主党…",
+    "详见原文"
+  ],
+  "category": "tech",
+  "tags": [
+    "Asian",
+    "US Democrats",
+    "科技",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Asian",
+    "US Democrats",
+    "Taiwan",
+    "Taiex",
+    "Kospi",
+    "Nikkei",
+    "Jada Nagumo",
+    "Nikkei Asia"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261106/p2#a261106p2",
+  "publishedAt": "2026-11-06T05:40:00.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 77,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "6ce5bf85ecb5b3b2",
+  "status": "published"
+}

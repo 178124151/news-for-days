@@ -1,0 +1,77 @@
+---
+import Base from '../../layouts/Base.astro';
+import StoryCard from '../../components/StoryCard.astro';
+import StoryRow from '../../components/StoryRow.astro';
+import { CATEGORY_LABEL, type Article, type Category, type Digest } from '../../lib/schema.ts';
+import { CAT_STYLE } from '../../lib/ui.ts';
+import { articleMap, digests, formatDay, href } from '../../lib/content.ts';
+
+export function getStaticPaths() {
+  return digests().map((digest) => ({ params: { date: digest.date }, props: { digest } }));
+}
+
+interface Props {
+  digest: Digest;
+}
+const { digest } = Astro.props;
+const map = articleMap();
+const headlines = digest.headlineIds.map((id) => map.get(id)).filter((a): a is Article => Boolean(a));
+const sections = (Object.entries(digest.sections) as [Category, string[]][])
+  .map(([cat, ids]) => ({ cat, items: ids.map((id) => map.get(id)).filter((a): a is Article => Boolean(a)) }))
+  .filter((s) => s.items.length > 0);
+
+const count = headlines.length + sections.reduce((n, s) => n + s.items.length, 0);
+const index = digests().findIndex((d) => d.date === digest.date);
+const newer = index > 0 ? digests()[index - 1] : undefined;
+const older = index >= 0 ? digests()[index + 1] : undefined;
+---
+
+<Base title={`${formatDay(digest.date)} 日报`} description={`${formatDay(digest.date)} 的科技、金融、AI 每日精选，共 ${count} 条。`}>
+  <nav class="flex items-center gap-2 text-xs text-[var(--faint)]">
+    <a href={href('')} class="hover:text-[var(--ink)]">首页</a><span>/</span>
+    <a href={href('daily/')} class="hover:text-[var(--ink)]">日报存档</a>
+  </nav>
+
+  <section class="mt-4 border-b border-[var(--line)] pb-7">
+    <div class="eyebrow">DAILY DIGEST</div>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">{formatDay(digest.date)}</h1>
+    <p class="mt-3 text-sm text-[var(--muted)]">
+      {count} 条 · {digest.stats.sources} 个来源 · 抓取 {digest.stats.fetched} 条 · 降级 {digest.stats.aiFallbacks} 条
+    </p>
+  </section>
+
+  {
+    headlines.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-sm font-semibold tracking-wide">今日头条</h2>
+        <div class="mt-4 grid gap-4 sm:grid-cols-2">
+          {headlines.map((article) => <StoryCard article={article} />)}
+        </div>
+      </section>
+    )
+  }
+
+  {
+    sections.map(({ cat, items }) => {
+      const style = CAT_STYLE[cat];
+      return (
+        <section class="mt-10">
+          <div class="flex items-center gap-2 border-b border-[var(--line)] pb-2">
+            <span class:list={['h-2 w-2 rounded-full', style.dot]} />
+            <h2 class="text-sm font-semibold">{CATEGORY_LABEL[cat]}</h2>
+            <span class="text-[11px] text-[var(--faint)]">{items.length} 条</span>
+            <a href={href(`${cat}/`)} class="ml-auto text-[11px] text-[var(--muted)] hover:text-[var(--ink)]">分类页 →</a>
+          </div>
+          <div class="divide-y divide-[var(--line)]">
+            {items.map((a) => <StoryRow article={a} showSummary />)}
+          </div>
+        </section>
+      );
+    })
+  }
+
+  <nav class="mt-12 flex items-center justify-between border-t border-[var(--line)] pt-5 text-sm">
+    {newer ? <a href={href(`daily/${newer.date}/`)} class="text-[var(--accent)] hover:underline">← {formatDay(newer.date)}</a> : <span></span>}
+    {older ? <a href={href(`daily/${older.date}/`)} class="text-[var(--accent)] hover:underline">{formatDay(older.date)} →</a> : <span></span>}
+  </nav>
+</Base>

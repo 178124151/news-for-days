@@ -1,0 +1,37 @@
+{
+  "id": "625d8dd613a664d6",
+  "slug": "scientist-world-grow-a-research-world-for-ai-scientists",
+  "titleZh": "科学家世界：为人工智能科学家创造一个研究世界",
+  "titleOriginal": "Scientist World: Grow a Research World for AI-Scientists",
+  "summary": "人工智能科学家到来，但一个让他们成长的世界却没有到来。人类科学家理所当然地认为他们有$ - $个世纪的开放问题和共同的想法，在科学文献中等待。对于人工智能科学家来说，这个世界是可读的，但不是可运行的，因此我们为他们构建了科学家世界：每篇研究论文都变成了一个可执行的环境。",
+  "keyPoints": [
+    "我们的自主管线提取每篇论文的开放式研究问题，并将其提出的方法重现为基线",
+    "我们发布了前1,000个经过验证的环境。",
+    "以世界为评估对象，我们发现前沿的人工智能科学家已经可以"
+  ],
+  "category": "ai",
+  "tags": [
+    "Scientist World",
+    "Grow",
+    "研究",
+    "AI",
+    "行业动态"
+  ],
+  "entities": [
+    "Scientist World",
+    "Grow",
+    "Research World",
+    "AI Scientists"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.08478v1",
+  "publishedAt": "2026-11-05T18:58:17.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 47,
+  "readMinutes": 2,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "1bbae8889753352b",
+  "status": "published"
+}

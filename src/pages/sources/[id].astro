@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import StoryRow from '../../components/StoryRow.astro';
+import { CATEGORY_LABEL, type Category, type Source } from '../../lib/schema.ts';
+import { CAT_STYLE } from '../../lib/ui.ts';
+import { articles, href, latestHealth, sources } from '../../lib/content.ts';
+
+export function getStaticPaths() {
+  return sources().map((source) => ({ params: { id: source.id }, props: { source } }));
+}
+
+interface Props {
+  source: Source;
+}
+const { source } = Astro.props;
+const items = articles()
+  .filter((a) => a.sourceId === source.id)
+  .sort((a, b) => b.importance - a.importance);
+const health = latestHealth()?.sources.find((s) => s.id === source.id);
+const cat = source.category as Category;
+---
+
+<Base title={source.name} description={`${source.name} 的内容来源页：Signal Daily 收录的 ${items.length} 条资讯与采集状态。`}>
+  <nav class="flex items-center gap-2 text-xs text-[var(--faint)]">
+    <a href={href('')} class="hover:text-[var(--ink)]">首页</a><span>/</span>
+    <a href={href('sources/')} class="hover:text-[var(--ink)]">内容来源</a>
+  </nav>
+
+  <section class="mt-4 border-b border-[var(--line)] pb-7">
+    <div class="flex flex-wrap items-center gap-2">
+      <span class:list={['rounded-full border px-2 py-0.5 text-[11px] font-medium', CAT_STYLE[cat].chip]}>
+        {CATEGORY_LABEL[cat]}
+      </span>
+      <span class="chip">{source.type.toUpperCase()}</span>
+      <span class="chip">{source.lang === 'zh' ? '中文' : '英文'}</span>
+      <span class="chip">权威度 {source.weight.toFixed(2)}</span>
+    </div>
+    <h1 class="mt-3 text-3xl sm:text-4xl font-semibold tracking-tight">{source.name}</h1>
+    <p class="mt-3 text-sm text-[var(--muted)]">
+      已收录 {items.length} 条 · 最近采集 {health ? (health.ok ? `${health.count} 条` : '失败') : '未知'}
+      {health ? ` · ${health.ms}ms` : ''}
+    </p>
+    <a href={source.url} target="_blank" rel="noopener nofollow" class="mt-3 inline-block text-xs text-[var(--accent)] hover:underline">
+      原始订阅地址 ↗
+    </a>
+  </section>
+
+  <div class="mt-4 divide-y divide-[var(--line)]">
+    {items.map((a) => <StoryRow article={a} showSummary />)}
+  </div>
+  {items.length === 0 && <p class="mt-10 text-center text-sm text-[var(--faint)]">该来源暂无收录内容。</p>}
+</Base>

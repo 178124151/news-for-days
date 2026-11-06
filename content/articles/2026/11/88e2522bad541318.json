@@ -1,0 +1,39 @@
+{
+  "id": "88e2522bad541318",
+  "slug": "potential-sciences-an-ai-startup-building-large-scale-chemic",
+  "titleZh": "Potential Sciences，一家构建大规模化学数据集的AI初创公司",
+  "titleOriginal": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
+  "summary": "Joel Khalili / Wired：Potential Sciences，一家构建大规模化学数据集的AI初创公司，获得英国主权AI基金的支持，作为八位数融资的一部分——Potential Sciences是一家得到英国政府支持的初创公司，正赌在计算机生成的生化数据上训练AI模型……",
+  "keyPoints": [
+    "Potential Sciences，一家构建大规模化学数据集的AI初创公司",
+    "Joel Khalili / Wired：Potential Sciences…",
+    "详见原文"
+  ],
+  "category": "tech",
+  "tags": [
+    "Potential Sciences",
+    "AI",
+    "融资",
+    "科技",
+    "行业动态"
+  ],
+  "entities": [
+    "Potential Sciences",
+    "AI",
+    "UK",
+    "Sovereign AI Fund",
+    "Joel Khalili",
+    "Wired"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261106/p1#a261106p1",
+  "publishedAt": "2026-11-06T05:00:13.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 77,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "28483ccf87709b91",
+  "status": "published"
+}

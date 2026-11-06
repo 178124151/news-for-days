@@ -1,0 +1,31 @@
+{
+  "id": "67647799f09bc45d",
+  "slug": "1-5",
+  "titleZh": "沪深两市成交额突破1.5万亿元",
+  "titleOriginal": "沪深两市成交额突破1.5万亿元",
+  "summary": "36氪获悉，沪深两市成交额突破1.5万亿元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "36氪获悉，沪深两市成交额突破1.5万亿元。",
+    "沪深两市成交额突破1.5万亿元",
+    "详见原文"
+  ],
+  "category": "tech",
+  "tags": [
+    "科技",
+    "行业动态",
+    "每日速览",
+    "全球市场"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4057912345908356?f=rss",
+  "publishedAt": "2026-11-06T06:41:54.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 81,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "71bc00cba08e41f5",
+  "status": "published"
+}

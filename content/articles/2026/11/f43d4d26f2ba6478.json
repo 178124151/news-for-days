@@ -1,0 +1,36 @@
+{
+  "id": "f43d4d26f2ba6478",
+  "slug": "8-k-leaders-advantage-acquisition-corp-0002109823-filer",
+  "titleZh": "8-K - Leader's Advantage Acquisition Corp. (0002109823) (Filer)",
+  "titleOriginal": "8-K - Leader's Advantage Acquisition Corp. (0002109823) (Filer)",
+  "summary": "Filed: 2026-11-05 AccNo: 0001213900-26-116465 Size: 283 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+  "keyPoints": [
+    "Filed: 2026-11-05 AccNo: 0001213900-26-…",
+    "8-K - Leader's Advantage Acquisition Co…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Leader",
+    "Advantage Acquisition Corp",
+    "并购",
+    "政策",
+    "行业动态"
+  ],
+  "entities": [
+    "Leader",
+    "Advantage Acquisition Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2109823/000121390026116465/0001213900-26-116465-index.htm",
+  "publishedAt": "2026-11-05T22:30:07.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 56,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "1a8fffd8ff21b187",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "616c68177b707eae",
+  "slug": "australian-universities-are-creating-ai-native-graduates",
+  "titleZh": "澳大利亚大学正在培养AI本土毕业生",
+  "titleOriginal": "Australian universities are creating AI-native graduates",
+  "summary": "澳大利亚大学正在扩大对ChatGPT的访问，并将人工智能引入教学和学习，为学生做好准备，打造一支支持人工智能的劳动力队伍。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "澳大利亚大学正在培养AI本土毕业生",
+    "澳大利亚大学正在扩大对ChatGPT的访问，并将人工智能引入教学和学习",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Australian",
+    "AI",
+    "行业动态",
+    "每日速览",
+    "全球市场"
+  ],
+  "entities": [
+    "Australian",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "publishedAt": "2026-11-05T17:00:00.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 63,
+  "readMinutes": 1,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "6a86a59981865634",
+  "status": "published"
+}

@@ -1,0 +1,139 @@
+---
+import Base from '../layouts/Base.astro';
+import StoryCard from '../components/StoryCard.astro';
+import StoryRow from '../components/StoryRow.astro';
+import { CATEGORY_LABEL, type Article, type Category } from '../lib/schema.ts';
+import { CAT_STYLE } from '../lib/ui.ts';
+import {
+  articleMap,
+  articles,
+  categoryArticles,
+  formatDay,
+  href,
+  latestDigest,
+} from '../lib/content.ts';
+
+const digest = latestDigest();
+const map = articleMap();
+const all = articles();
+
+const date = digest?.date ?? '';
+const headlines = (digest?.headlineIds ?? []).map((id) => map.get(id)).filter((a): a is Article => Boolean(a));
+const sectionEntries = (Object.entries(digest?.sections ?? {}) as [Category, string[]][]).map(([cat, ids]) => ({
+  cat,
+  items: ids.map((id) => map.get(id)).filter((a): a is Article => Boolean(a)),
+}));
+
+const todaysCount = digest ? Object.values(digest.sections).flat().length + headlines.length : all.length;
+const stats = digest?.stats;
+
+const siteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Signal Daily',
+  alternateName: '信号日报',
+  url: new URL(Astro.url.pathname, Astro.site).toString(),
+  description: '科技、金融、AI 每日资讯精选',
+};
+---
+
+<Base title="Signal Daily · 信号日报" description="每天早上 5–10 分钟，读完科技、金融、AI 里真正值得知道的 20–30 件事。">
+  <script type="application/ld+json" set:html={JSON.stringify(siteJsonLd)} />
+
+  <section class="border-b border-[var(--line)] pb-8">
+    <div class="flex flex-wrap items-end justify-between gap-6">
+      <div>
+        <div class="eyebrow">每日精选 · 科技 / 金融 / AI</div>
+        <h1 class="mt-2 text-4xl sm:text-5xl font-semibold tracking-tight">今日信号</h1>
+        <p class="mt-3 text-sm text-[var(--muted)]">
+          {date ? formatDay(date) : '等待第一份日报'} · 共 <span class="font-medium text-[var(--ink)]">{todaysCount}</span> 条 · <span
+            class="font-medium text-[var(--ink)]">{stats?.sources ?? 0}</span
+          > 个来源
+        </p>
+      </div>
+      <div class="grid grid-cols-3 gap-6 text-right">
+        <div>
+          <div class="text-2xl font-semibold tabular-nums">{stats?.fetched ?? 0}</div>
+          <div class="mt-1 text-[11px] text-[var(--faint)]">抓取条目</div>
+        </div>
+        <div>
+          <div class="text-2xl font-semibold tabular-nums">{stats?.published ?? 0}</div>
+          <div class="mt-1 text-[11px] text-[var(--faint)]">发布条目</div>
+        </div>
+        <div>
+          <div class="text-2xl font-semibold tabular-nums">{stats?.aiFallbacks ?? 0}</div>
+          <div class="mt-1 text-[11px] text-[var(--faint)]">降级摘要</div>
+        </div>
+      </div>
+    </div>
+    <p class="mt-6 text-[13px] leading-relaxed text-[var(--faint)]">
+      自动聚合公开 RSS，去重聚类后由免费 AI / 机翻生成中文摘要。标题与摘要均由程序生成，可能存在错误，请以原文为准。
+    </p>
+  </section>
+
+  {
+    headlines.length > 0 && (
+      <section class="mt-10">
+        <div class="flex items-center justify-between">
+          <h2 class="text-sm font-semibold tracking-wide">今日头条</h2>
+          <span class="text-[11px] text-[var(--faint)]">{headlines.length} 条 · 跨领域最重要事件</span>
+        </div>
+        <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {headlines.map((article, i) => (
+            <div class:list={[i === 0 ? 'sm:col-span-2' : '']}>
+              <StoryCard article={article} feature={i === 0} />
+            </div>
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <section class="mt-12">
+    <div class="flex items-center justify-between">
+      <h2 class="text-sm font-semibold tracking-wide">分类速览</h2>
+      <a href={href('daily/')} class="text-xs text-[var(--muted)] hover:text-[var(--ink)]">查看日报存档 →</a>
+    </div>
+    <div class="mt-4 grid gap-4 sm:grid-cols-2">
+      {
+        sectionEntries.map(({ cat, items }) => {
+          const style = CAT_STYLE[cat];
+          const total = categoryArticles(cat).length;
+          return (
+            <div class="card p-5">
+              <div class="flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                  <span class:list={['h-2 w-2 rounded-full', style.dot]} />
+                  <h3 class="text-[15px] font-semibold">{CATEGORY_LABEL[cat]}</h3>
+                  <span class="text-[11px] text-[var(--faint)]">{total} 条</span>
+                </div>
+                <a href={href(`${cat}/`)} class="text-[11px] text-[var(--muted)] hover:text-[var(--ink)]">
+                  全部 →
+                </a>
+              </div>
+              <div class="mt-1 divide-y divide-[var(--line)]">
+                {items.slice(0, 4).map((article) => <StoryRow article={article} />)}
+                {items.length === 0 && <p class="py-4 text-[13px] text-[var(--faint)]">今日暂无该分类条目。</p>}
+              </div>
+            </div>
+          );
+        })
+      }
+    </div>
+  </section>
+
+  <section class="mt-12">
+    <div class="flex items-center justify-between">
+      <h2 class="text-sm font-semibold tracking-wide">全部条目</h2>
+      <span class="text-[11px] text-[var(--faint)]">按重要性排序</span>
+    </div>
+    <div class="mt-3 card px-5 divide-y divide-[var(--line)]">
+      {
+        [...all]
+          .sort((a, b) => b.importance - a.importance)
+          .map((article) => <StoryRow article={article} showSummary />)
+      }
+      {all.length === 0 && <p class="py-8 text-center text-sm text-[var(--faint)]">还没有内容，先运行 <code>npm run pipeline</code>。</p>}
+    </div>
+  </section>
+</Base>

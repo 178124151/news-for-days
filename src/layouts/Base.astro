@@ -1,0 +1,207 @@
+---
+import '../styles/global.css';
+import { BASE, href } from '../lib/content.ts';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description = '科技、金融、AI 每日资讯精选。每天早上 5–10 分钟，读完真正值得知道的 20–30 件事。',
+  image,
+  noindex = false,
+} = Astro.props;
+
+const fullTitle = title.includes('Signal Daily') ? title : `${title} · Signal Daily`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = image ?? new URL(href('og.svg'), Astro.site);
+const path = Astro.url.pathname;
+
+const nav = [
+  { label: '首页', target: '' },
+  { label: 'AI', target: 'ai/' },
+  { label: '科技', target: 'tech/' },
+  { label: '金融', target: 'finance/' },
+  { label: '政策', target: 'policy/' },
+  { label: '日报', target: 'daily/' },
+];
+const isActive = (target: string) =>
+  target === '' ? path === BASE : path.startsWith(href(target));
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href={href('favicon.svg')} type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="Signal Daily" href={href('rss.xml')} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Signal Daily" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0b0d10" media="(prefers-color-scheme: dark)" />
+    <script is:inline>
+      (function () {
+        try {
+          var saved = localStorage.getItem('sd-theme');
+          var dark = saved ? saved === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+          if (dark) document.documentElement.classList.add('dark');
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="min-h-dvh">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:bg-[var(--panel)] focus:px-3 focus:py-2 focus:rounded-lg focus:border focus:border-[var(--line)]"
+      >跳到内容</a
+    >
+    <header class="site-header sticky top-0 z-40">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <div class="flex h-16 items-center justify-between gap-4">
+          <a href={href('')} class="flex items-center gap-2.5 shrink-0" aria-label="Signal Daily 首页">
+            <span class="grid h-8 w-8 place-items-center rounded-lg bg-[var(--ink)] text-[var(--bg)] text-sm font-bold">S</span>
+            <span class="leading-tight">
+              <span class="block text-[15px] font-semibold tracking-tight">Signal Daily</span>
+              <span class="block text-[10px] tracking-[0.18em] uppercase text-[var(--faint)]">信号日报</span>
+            </span>
+          </a>
+
+          <nav class="hidden md:flex items-center gap-1 text-sm" aria-label="主导航">
+            {
+              nav.map((item) => (
+                <a
+                  href={href(item.target)}
+                  class:list={[
+                    'px-3 py-1.5 rounded-full transition-colors',
+                    isActive(item.target)
+                      ? 'bg-[var(--panel-soft)] text-[var(--ink)] font-medium'
+                      : 'text-[var(--muted)] hover:text-[var(--ink)] hover:bg-[var(--panel-soft)]',
+                  ]}
+                >
+                  {item.label}
+                </a>
+              ))
+            }
+          </nav>
+
+          <div class="flex items-center gap-1.5">
+            <a
+              href={href('search/')}
+              class="grid h-9 w-9 place-items-center rounded-full text-[var(--muted)] hover:text-[var(--ink)] hover:bg-[var(--panel-soft)]"
+              aria-label="搜索"
+            >
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.2-3.2"></path>
+              </svg>
+            </a>
+            <button
+              id="theme-toggle"
+              type="button"
+              class="theme-toggle grid h-9 w-9 place-items-center rounded-full text-[var(--muted)] hover:text-[var(--ink)] hover:bg-[var(--panel-soft)]"
+              aria-label="切换深浅色"
+            >
+              <svg class="hidden dark:block" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <circle cx="12" cy="12" r="4"></circle>
+                <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+              </svg>
+              <svg class="dark:hidden" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"></path>
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <nav class="md:hidden flex items-center gap-1 overflow-x-auto pb-2 -mx-1 px-1 text-sm" aria-label="移动端导航">
+          {
+            nav.map((item) => (
+              <a
+                href={href(item.target)}
+                class:list={[
+                  'px-2.5 py-1 rounded-full whitespace-nowrap transition-colors',
+                  isActive(item.target)
+                    ? 'bg-[var(--panel-soft)] text-[var(--ink)] font-medium'
+                    : 'text-[var(--muted)] hover:text-[var(--ink)]',
+                ]}
+              >
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="mx-auto max-w-6xl px-4 sm:px-6 py-8 sm:py-10">
+      <slot />
+    </main>
+
+    <footer class="mt-10 border-t border-[var(--line)]">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6 py-10 grid gap-8 sm:grid-cols-[1.4fr_1fr_1fr]">
+        <div>
+          <div class="flex items-center gap-2.5">
+            <span class="grid h-7 w-7 place-items-center rounded-md bg-[var(--ink)] text-[var(--bg)] text-xs font-bold">S</span>
+            <span class="text-sm font-semibold">Signal Daily</span>
+          </div>
+          <p class="mt-3 text-sm leading-relaxed text-[var(--muted)] max-w-sm">
+            个人使用的科技、金融、AI 每日资讯站。内容由公开 RSS 自动采集、去重、机翻/摘要后发布，无人工编辑。
+          </p>
+          <p class="mt-3 text-xs text-[var(--faint)]">© {new Date().getFullYear()} Signal Daily · 非商业个人项目</p>
+        </div>
+        <div class="text-sm">
+          <div class="eyebrow mb-3">浏览</div>
+          <ul class="space-y-2 text-[var(--muted)]">
+            <li><a class="hover:text-[var(--ink)]" href={href('daily/')}>日报存档</a></li>
+            <li><a class="hover:text-[var(--ink)]" href={href('sources/')}>内容来源</a></li>
+            <li><a class="hover:text-[var(--ink)]" href={href('search/')}>站内搜索</a></li>
+            <li><a class="hover:text-[var(--ink)]" href={href('rss.xml')}>RSS 订阅</a></li>
+          </ul>
+        </div>
+        <div class="text-sm">
+          <div class="eyebrow mb-3">合规</div>
+          <ul class="space-y-2 text-[var(--muted)]">
+            <li><a class="hover:text-[var(--ink)]" href={href('about/')}>关于本站</a></li>
+            <li><a class="hover:text-[var(--ink)]" href={href('disclaimer/')}>免责声明</a></li>
+            <li><a class="hover:text-[var(--ink)]" href={href('privacy/')}>隐私说明</a></li>
+            <li>
+              <a class="hover:text-[var(--ink)]" href="https://github.com/178124151/news-for-days/issues" target="_blank" rel="noopener"
+                >内容更正 / 下架</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-[var(--line)]">
+        <div class="mx-auto max-w-6xl px-4 sm:px-6 py-5 text-xs leading-relaxed text-[var(--faint)]">
+          本站仅提供标题、短摘要与原文链接，不转载全文、不镜像图片；所有内容版权归原作者与来源媒体所有。摘要由程序自动生成，可能存在错误，请以原文为准。
+        </div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        if (!btn) return;
+        btn.addEventListener('click', function () {
+          var dark = document.documentElement.classList.toggle('dark');
+          try {
+            localStorage.setItem('sd-theme', dark ? 'dark' : 'light');
+          } catch (e) {}
+        });
+      })();
+    </script>
+  </body>
+</html>

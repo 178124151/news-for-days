@@ -1,0 +1,27 @@
+---
+import type { Article } from '../lib/schema.ts';
+import { articleHref, formatDateTime } from '../lib/content.ts';
+import { CAT_STYLE } from '../lib/ui.ts';
+
+interface Props {
+  article: Article;
+  showSummary?: boolean;
+}
+const { article, showSummary = false } = Astro.props;
+const cat = CAT_STYLE[article.category];
+---
+
+<a href={articleHref(article)} class="group flex gap-3 py-3.5">
+  <span class:list={['mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full', cat.dot]} aria-hidden="true"></span>
+  <div class="min-w-0 flex-1">
+    <h4 class="text-[15px] font-medium leading-snug tracking-tight group-hover:text-[var(--accent)] transition-colors">
+      {article.titleZh}
+    </h4>
+    {showSummary && <p class="mt-1.5 text-[13px] leading-relaxed text-[var(--muted)] clamp-2">{article.summary}</p>}
+    <div class="mt-1.5 flex items-center gap-1.5 text-[11px] text-[var(--faint)]">
+      <span>{article.sourceName}</span>
+      <span class="dot"></span>
+      <span>{formatDateTime(article.publishedAt)}</span>
+    </div>
+  </div>
+</a>

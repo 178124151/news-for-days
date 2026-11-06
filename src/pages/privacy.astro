@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="隐私说明" description="Signal Daily 不收集个人信息，无账号、无评论、无 Cookie 追踪、不接入第三方分析。">
+  <article class="mx-auto max-w-3xl">
+    <div class="eyebrow">PRIVACY</div>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">隐私说明</h1>
+
+    <div class="mt-6 space-y-5 text-[15px] leading-8 prose-zh text-[var(--muted)]">
+      <p>本站是纯静态站点，<strong class="text-[var(--ink)]">没有账号系统、没有评论、没有 Cookie 追踪，也不接入任何第三方分析或广告脚本</strong>。</p>
+      <p>搜索功能由 Pagefind 在浏览器本地完成，搜索内容不会发送到服务器。</p>
+      <p>页面唯一写入本地存储的是深浅色主题偏好（localStorage 键名 <code>sd-theme</code>），不会上传。</p>
+      <p>站外链接（原文链接）会跳转到第三方网站，其隐私政策由对应网站负责。</p>
+      <p>托管平台 GitHub Pages 可能按平台策略记录访问日志，本站无法访问或控制这些日志。</p>
+    </div>
+  </article>
+</Base>

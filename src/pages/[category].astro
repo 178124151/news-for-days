@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import StoryCard from '../components/StoryCard.astro';
+import { CATEGORIES, CATEGORY_LABEL, type Category } from '../lib/schema.ts';
+import { CAT_STYLE } from '../lib/ui.ts';
+import { categoryArticles, formatDay, href, latestDigest, tagsOf } from '../lib/content.ts';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((category) => ({ params: { category } }));
+}
+
+const category = Astro.params.category as Category;
+const style = CAT_STYLE[category];
+const items = categoryArticles(category);
+const digest = latestDigest();
+const tags = tagsOf(items).slice(0, 12);
+
+const intro: Record<Category, string> = {
+  ai: '模型、论文、产品、算力与监管。追踪 OpenAI、Anthropic、Google DeepMind、Hugging Face 与国内 AI 公司的一手动态。',
+  tech: '大厂动态、创业融资、开源项目与硬件。覆盖 TechCrunch、The Verge、Ars Technica、Hacker News 与国内科技媒体。',
+  finance: '金融政策、融资并购、市场结构与金融科技。只做事实摘要，不提供行情与投资建议。',
+  policy: '中美欧监管、标准、出口管制与官方文件。来源以美联储、SEC 等官方发布为主。',
+};
+---
+
+<Base title={`${CATEGORY_LABEL[category]}资讯`} description={`${CATEGORY_LABEL[category]}分类的每日精选。${intro[category]}`}>
+  <section class="border-b border-[var(--line)] pb-7">
+    <div class="flex items-center gap-2">
+      <span class:list={['h-2.5 w-2.5 rounded-full', style.dot]} />
+      <span class="eyebrow">{CATEGORY_LABEL[category]} / SIGNAL</span>
+    </div>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">{CATEGORY_LABEL[category]}</h1>
+    <p class="mt-3 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">{intro[category]}</p>
+    <p class="mt-4 text-xs text-[var(--faint)]">
+      {digest ? formatDay(digest.date) : '最新'} · 共 {items.length} 条
+    </p>
+  </section>
+
+  {
+    tags.length > 0 && (
+      <div class="mt-6 flex flex-wrap gap-2">
+        {tags.map(({ tag, count }) => (
+          <a href={href(`tags/${encodeURIComponent(tag)}/`)} class="chip">
+            #{tag} <span class="text-[var(--faint)]">{count}</span>
+          </a>
+        ))}
+      </div>
+    )
+  }
+
+  <div class="mt-6 grid gap-4 sm:grid-cols-2">
+    {items.map((article) => <StoryCard article={article} />)}
+  </div>
+  {items.length === 0 && <p class="mt-10 text-center text-sm text-[var(--faint)]">该分类今日暂无条目。</p>}
+</Base>

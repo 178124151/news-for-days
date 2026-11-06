@@ -1,0 +1,36 @@
+{
+  "id": "c545377ef80e0fe8",
+  "slug": "xstack-a-benchmark-for-ml-repo-migration",
+  "titleZh": "XStack ： ML回购迁移的基准",
+  "titleOriginal": "XStack: A Benchmark for ML Repo Migration",
+  "summary": "机器学习代码应该在研究人员选择的地方运行，而不是在最初编写的地方运行。如今，机器学习代码主要存在于两个生态系统中： NVIDIA GPU上的PyTorch和Google TPU上的JAX。在它们之间迁移存储库意味着跨框架和硬件构建和测试。",
+  "keyPoints": [
+    "这种迁移是（ 1 ）一种实际需求，因为它为研究人员解锁了不同的硬件",
+    "我们引入了XStack",
+    "每个药剂都会收到一个PyTorch存储库和一台干净的TPU机器，并且必须"
+  ],
+  "category": "ai",
+  "tags": [
+    "XStack",
+    "A Benchmark",
+    "研究",
+    "AI",
+    "行业动态"
+  ],
+  "entities": [
+    "XStack",
+    "A Benchmark",
+    "ML Repo Migration"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.08472v1",
+  "publishedAt": "2026-11-05T18:55:54.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 47,
+  "readMinutes": 2,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "f7e6d8d9ad436cf2",
+  "status": "published"
+}

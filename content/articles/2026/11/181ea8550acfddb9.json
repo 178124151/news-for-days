@@ -1,0 +1,36 @@
+{
+  "id": "181ea8550acfddb9",
+  "slug": "t-mobile-owner-on-elon-musk-launching-a-wireless-carrier-wel",
+  "titleZh": "T-Mobile老板Elon Musk推出无线运营商： “欢迎来到派对”",
+  "titleOriginal": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+  "summary": "T-Mobile母公司负责人对SpaceX将Starlink Mobile打造成美国“主要”运营商的计划表示怀疑。在周四的财报电话会议上，德国电信首席执行官蒂姆·赫特格斯（ Tim Höttges ）表示，他对埃隆·马斯克（ Elon Musk ）拥有的公司“超级认真” ，但至少要花费2000亿美元才能实现：他（马斯克）现在已经购买了76兆赫的频谱。顺便说一句，我们有400个。",
+  "keyPoints": [
+    "所以，如果你现在说他可以前瞻性地购买频谱，那就算算吧。",
+    "这些是获得频谱位置所需的三位数十亿。",
+    "如果他有钱，那就去吧。"
+  ],
+  "category": "tech",
+  "tags": [
+    "T Mobile",
+    "Elon Musk",
+    "产品发布",
+    "科技",
+    "行业动态"
+  ],
+  "entities": [
+    "T Mobile",
+    "Elon Musk",
+    "Welcome"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+  "publishedAt": "2026-11-05T23:17:10.000Z",
+  "fetchedAt": "2026-11-06T07:58:21.736Z",
+  "importance": 76,
+  "readMinutes": 1,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "e89048eae67a9321",
+  "status": "published"
+}

@@ -1,0 +1,168 @@
+---
+import Base from '../../layouts/Base.astro';
+import StoryRow from '../../components/StoryRow.astro';
+import { CATEGORY_LABEL, type Article } from '../../lib/schema.ts';
+import { CAT_STYLE } from '../../lib/ui.ts';
+import {
+  articleHref,
+  articles,
+  categoryArticles,
+  formatDateTime,
+  href,
+  providerLabel,
+} from '../../lib/content.ts';
+
+export function getStaticPaths() {
+  return articles()
+    .filter((a) => a.status === 'published')
+    .map((article) => ({ params: { slug: article.slug }, props: { article } }));
+}
+
+interface Props {
+  article: Article;
+}
+const { article } = Astro.props;
+const style = CAT_STYLE[article.category];
+const covered = article.alsoCoveredBy ?? [];
+const related = categoryArticles(article.category)
+  .filter((a) => a.id !== article.id)
+  .slice(0, 3);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: article.titleZh,
+  alternateHeadline: article.titleOriginal,
+  description: article.summary,
+  datePublished: article.publishedAt,
+  dateModified: article.fetchedAt,
+  articleSection: CATEGORY_LABEL[article.category],
+  keywords: article.tags.join(','),
+  inLanguage: 'zh-CN',
+  isAccessibleForFree: true,
+  mainEntityOfPage: new URL(articleHref(article), Astro.site).toString(),
+  publisher: { '@type': 'Organization', name: 'Signal Daily' },
+  isBasedOn: article.sourceUrl,
+};
+
+const ogImage = new URL(href(`og/${article.slug}.svg`), Astro.site).toString();
+---
+
+<Base title={article.titleZh} description={article.summary.slice(0, 120)} image={ogImage}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <div class="mx-auto max-w-3xl">
+    <nav class="flex items-center gap-2 text-xs text-[var(--faint)]" aria-label="面包屑">
+      <a href={href('')} class="hover:text-[var(--ink)]">首页</a>
+      <span>/</span>
+      <a href={href(`${article.category}/`)} class="hover:text-[var(--ink)]">{CATEGORY_LABEL[article.category]}</a>
+    </nav>
+
+    <article class="mt-4" data-pagefind-body>
+      <div class="flex flex-wrap items-center gap-2">
+        <span class:list={['inline-flex items-center rounded-full border px-2 py-0.5 text-[11px] font-medium', style.chip]}>
+          {CATEGORY_LABEL[article.category]}
+        </span>
+        {covered.length > 0 && <span class="chip">另有 {covered.length} 家报道</span>}
+      </div>
+
+      <h1 class="mt-4 text-[28px] sm:text-[36px] font-semibold leading-[1.35] tracking-tight">
+        {article.titleZh}
+      </h1>
+
+      {
+        article.titleOriginal !== article.titleZh && (
+          <p class="mt-3 text-[13px] leading-relaxed text-[var(--faint)]" lang="en">
+            {article.titleOriginal}
+          </p>
+        )
+      }
+
+      <div class="mt-5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-[var(--faint)]">
+        <span class="font-medium text-[var(--muted)]">{article.sourceName}</span>
+        <span class="dot"></span>
+        <time datetime={article.publishedAt}>{formatDateTime(article.publishedAt)}</time>
+        <span class="dot"></span>
+        <span>{article.readMinutes} 分钟阅读</span>
+        <span class="dot"></span>
+        <span>{providerLabel(article)}</span>
+      </div>
+
+      <div class="mt-7 rounded-xl border border-[var(--line)] bg-[var(--panel-soft)] p-5 sm:p-6 border-l-2 border-l-[var(--accent)]">
+        <div class="eyebrow mb-2">摘要</div>
+        <p class="text-[16px] leading-8 prose-zh">{article.summary}</p>
+      </div>
+
+      <section class="mt-8">
+        <h2 class="text-sm font-semibold tracking-wide">三条要点</h2>
+        <ol class="mt-3 space-y-3">
+          {
+            article.keyPoints.map((point, i) => (
+              <li class="flex gap-3 text-[15px] leading-7">
+                <span class="mt-0.5 grid h-6 w-6 shrink-0 place-items-center rounded-md bg-[var(--panel-soft)] text-[11px] font-semibold tabular-nums text-[var(--muted)]">
+                  {String(i + 1).padStart(2, '0')}
+                </span>
+                <span>{point}</span>
+              </li>
+            ))
+          }
+        </ol>
+      </section>
+
+      <div class="mt-8 flex flex-wrap gap-2" data-pagefind-ignore>
+        {article.tags.map((tag) => <a href={href(`tags/${encodeURIComponent(tag)}/`)} class="chip">#{tag}</a>)}
+      </div>
+
+      {
+        covered.length > 0 && (
+          <section class="mt-8 rounded-xl border border-[var(--line)] p-5" data-pagefind-ignore>
+            <h2 class="text-sm font-semibold tracking-wide">同一事件的其他报道</h2>
+            <ul class="mt-3 space-y-2 text-sm">
+              {covered.map((c) => (
+                <li class="flex items-center justify-between gap-3">
+                  <span class="text-[var(--muted)]">{c.sourceName}</span>
+                  <a href={c.url} target="_blank" rel="noopener nofollow" class="text-[var(--accent)] hover:underline">
+                    查看原文 ↗
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      <div class="mt-8 flex flex-wrap items-center gap-3" data-pagefind-ignore>
+        <a
+          href={article.sourceUrl}
+          target="_blank"
+          rel="noopener nofollow"
+          class="inline-flex items-center gap-2 rounded-lg bg-[var(--ink)] px-4 py-2.5 text-sm font-medium text-[var(--bg)] hover:opacity-90"
+        >
+          阅读原文
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <path d="M7 17 17 7M9 7h8v8"></path>
+          </svg>
+        </a>
+        <span class="text-xs text-[var(--faint)]">全文版权归 {article.sourceName} 所有</span>
+      </div>
+
+      <p class="mt-8 border-t border-[var(--line)] pt-4 text-xs leading-relaxed text-[var(--faint)]">
+        本文标题与摘要由程序自动生成（{providerLabel(article)}），可能与原文存在偏差；内容仅供个人阅读参考，不构成投资建议。请以原文为准。
+      </p>
+    </article>
+
+    {
+      related.length > 0 && (
+        <section class="mt-10" data-pagefind-ignore>
+          <div class="flex items-center justify-between border-b border-[var(--line)] pb-2">
+            <h2 class="text-sm font-semibold tracking-wide">更多{CATEGORY_LABEL[article.category]}资讯</h2>
+            <a href={href(`${article.category}/`)} class="text-[11px] text-[var(--muted)] hover:text-[var(--ink)]">全部 →</a>
+          </div>
+          <div class="divide-y divide-[var(--line)]">
+            {related.map((a) => <StoryRow article={a} />)}
+          </div>
+        </section>
+      )
+    }
+  </div>
+</Base>

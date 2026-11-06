@@ -1,0 +1,59 @@
+---
+import Base from '../../layouts/Base.astro';
+import { CATEGORY_LABEL, type Category } from '../../lib/schema.ts';
+import { CAT_STYLE } from '../../lib/ui.ts';
+import { articles, href, latestHealth, sources } from '../../lib/content.ts';
+
+const all = articles();
+const sourceList = sources();
+const health = latestHealth();
+const healthById = new Map((health?.sources ?? []).map((s) => [s.id, s]));
+
+const rows = sourceList.map((s) => {
+  const items = all.filter((a) => a.sourceId === s.id);
+  const h = healthById.get(s.id);
+  return { ...s, count: items.length, ok: h?.ok, fetchedCount: h?.count, ms: h?.ms };
+});
+---
+
+<Base title="内容来源" description="Signal Daily 的公开内容来源清单：RSS/Atom 与官方 API，含最近一次采集状态。">
+  <section class="border-b border-[var(--line)] pb-7">
+    <div class="eyebrow">SOURCES</div>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">内容来源</h1>
+    <p class="mt-3 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
+      共 {sourceList.length} 个公开来源，以 RSS / Atom 为主、官方 API 为辅。每个来源独立抓取，单源失败不影响整体发布。
+    </p>
+    {health && <p class="mt-2 text-xs text-[var(--faint)]">最近一次采集：{health.date} · 成功 {health.sources.filter((s) => s.ok).length}/{health.sources.length} · 耗时 {Math.round(health.durationMs / 1000)}s</p>}
+  </section>
+
+  <div class="mt-6 card divide-y divide-[var(--line)]">
+    {
+      rows.map((s) => (
+        <a href={href(`sources/${s.id}/`)} class="flex items-center gap-4 px-5 py-4 hover:bg-[var(--panel-soft)] transition-colors">
+          <span class:list={['h-2 w-2 rounded-full shrink-0', s.ok === false ? 'bg-red-500' : s.ok ? 'bg-emerald-500' : 'bg-[var(--faint)]']} />
+          <div class="min-w-0 flex-1">
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="text-sm font-medium">{s.name}</span>
+              <span class:list={['rounded-full border px-2 py-0.5 text-[10px]', CAT_STYLE[s.category].chip]}>
+                {CATEGORY_LABEL[s.category]}
+              </span>
+              {!s.enabled && <span class="text-[10px] text-[var(--faint)]">已停用</span>}
+            </div>
+            <div class="mt-1 text-[11px] text-[var(--faint)]">
+              {s.type.toUpperCase()} · {s.lang === 'zh' ? '中文' : '英文'} · 权威度 {s.weight.toFixed(2)}
+              {s.ok === false ? ' · 最近采集失败' : s.fetchedCount !== undefined ? ` · 本次 ${s.fetchedCount} 条` : ''}
+            </div>
+          </div>
+          <div class="text-right shrink-0">
+            <div class="text-sm font-semibold tabular-nums">{s.count}</div>
+            <div class="text-[10px] text-[var(--faint)]">已收录</div>
+          </div>
+        </a>
+      ))
+    }
+  </div>
+
+  <p class="mt-5 text-xs leading-relaxed text-[var(--faint)]">
+    来源仅用于聚合标题与摘要，原文版权归各媒体所有。若来源方要求下架，请通过 <a class="text-[var(--accent)] hover:underline" href="https://github.com/178124151/news-for-days/issues">GitHub Issue</a> 联系。
+  </p>
+</Base>

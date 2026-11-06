@@ -1,0 +1,36 @@
+{
+  "id": "13e4c95dcbaa6d34",
+  "slug": "egyptian-and-nigerian-english-join-the-open-asr-leaderboard",
+  "titleZh": "埃及和尼日利亚英语加入Open ASR排行榜",
+  "titleOriginal": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "summary": "埃及和尼日利亚英语加入Open ASR排行榜。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "埃及和尼日利亚英语加入Open ASR排行榜",
+    "详见原文",
+    "埃及和尼日利亚英语加入Open ASR排行榜"
+  ],
+  "category": "ai",
+  "tags": [
+    "Egyptian",
+    "Nigerian English",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Egyptian",
+    "Nigerian English",
+    "Open ASR Leaderboard"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "publishedAt": "2026-11-06T00:00:00.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 55,
+  "readMinutes": 2,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "6cb7cd70feffd9c0",
+  "status": "published"
+}

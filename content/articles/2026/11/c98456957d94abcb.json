@@ -1,0 +1,38 @@
+{
+  "id": "c98456957d94abcb",
+  "slug": "in-preliminary-findings-the-eu-says-tiktok-breached-the-dsa-",
+  "titleZh": "初步调查显示，欧盟称TikTok违反DSA",
+  "titleOriginal": "In preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful \"rabbit holes\" (Alexander Martin/The Record)",
+  "summary": "Alexander Martin / The Record：在初步调查中，欧盟表示TikTok违反了DSA，未能防止其推荐算法将用户困在有害的“兔子洞”中——欧盟委员会周五指责TikTok未能阻止其推荐算法将用户拉入……",
+  "keyPoints": [
+    "初步调查显示，欧盟称TikTok违反DSA",
+    "Alexander Martin / The Record：在初步调查中",
+    "详见原文"
+  ],
+  "category": "tech",
+  "tags": [
+    "EU",
+    "TikTok",
+    "科技",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "EU",
+    "TikTok",
+    "DSA",
+    "Alexander Martin",
+    "The Record"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261106/p10#a261106p10",
+  "publishedAt": "2026-11-06T12:10:07.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 79,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "5469551e88676bcc",
+  "status": "published"
+}

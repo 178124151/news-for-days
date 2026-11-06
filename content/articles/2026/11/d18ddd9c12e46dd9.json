@@ -1,0 +1,39 @@
+{
+  "id": "d18ddd9c12e46dd9",
+  "slug": "dutch-idealist-bank-asn-blocks-non-google-android-including-",
+  "titleZh": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+  "titleOriginal": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+  "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 214 # Comments: 136",
+  "keyPoints": [
+    "Article URL: https://github.com/PrivSec…",
+    "id=50390124 Points: 214 # Comments: 136",
+    "Dutch 'idealist' bank ASN blocks non-Go…"
+  ],
+  "category": "tech",
+  "tags": [
+    "Google",
+    "Android",
+    "科技",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Google",
+    "Android",
+    "Dutch",
+    "ASN",
+    "Google Android",
+    "GrapheneOS"
+  ],
+  "sourceId": "hackernews",
+  "sourceName": "Hacker News",
+  "sourceUrl": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+  "publishedAt": "2026-11-06T09:27:12.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 74,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "4a874797b5eab65f",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3acc533097f49400",
+  "slug": "deepseek-10",
+  "titleZh": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+  "titleOriginal": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+  "summary": "Q3营收实现数倍增长。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Q3营收实现数倍增长",
+    "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "DeepSeek",
+    "芯片",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "DeepSeek"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508155.html",
+  "publishedAt": "2026-11-06T07:00:29.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 62,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "b1b09c4091eb0025",
+  "status": "published"
+}

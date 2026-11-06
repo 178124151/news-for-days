@@ -1,0 +1,35 @@
+{
+  "id": "70316a5e77db7603",
+  "slug": "2026-ai-ai",
+  "titleZh": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+  "titleOriginal": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+  "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "阿里巴巴",
+    "AI",
+    "产品发布",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "阿里巴巴",
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508165.html",
+  "publishedAt": "2026-11-06T09:19:00.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 76,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "0d0ecd8e371b0bf5",
+  "status": "published"
+}

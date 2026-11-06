@@ -1,0 +1,36 @@
+{
+  "id": "69100d8a4ecd5de3",
+  "slug": "goldman-x2019-s-new-gold-target-why-the-wall-street-bank-is-",
+  "titleZh": "高盛的新金价目标：为何华尔街银行认为现在是买入黄金的早期时机",
+  "titleOriginal": "Goldman&#x2019;s new gold target: Why the Wall Street bank is saying it&#x2019;s early to buy the yellow metal",
+  "summary": "该投资银行的策略师表示，预期变化归因于美联储的鹰派转变。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "高盛的新金价目标：为何华尔街银行认为现在是买入黄金的早期时机",
+    "该投资银行的策略师表示，预期变化归因于美联储的鹰派转变。",
+    "详见原文"
+  ],
+  "category": "finance",
+  "tags": [
+    "Meta",
+    "Goldman",
+    "金融",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Meta",
+    "Goldman",
+    "Wall Street"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T12:47:00.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 79,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "04a15a2e54aa0d5c",
+  "status": "published"
+}

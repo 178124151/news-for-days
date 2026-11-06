@@ -1,0 +1,35 @@
+{
+  "id": "718617961cab3abc",
+  "slug": "announcing-project-protostar-making-publicly-funded-science-",
+  "titleZh": "宣布ProtoStar项目：让公共资助的科学AI就绪",
+  "titleOriginal": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "summary": "宣布ProtoStar项目：让公共资助的科学AI就绪。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "宣布ProtoStar项目：让公共资助的科学AI就绪",
+    "详见原文",
+    "宣布ProtoStar项目：让公共资助的科学AI就绪"
+  ],
+  "category": "ai",
+  "tags": [
+    "Announcing Project ProtoStar",
+    "Making Publicly Funded",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Announcing Project ProtoStar",
+    "Making Publicly Funded"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/announcing-project-protostar",
+  "publishedAt": "2026-10-29T00:00:00.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 50,
+  "readMinutes": 2,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "537ad9ce4801c85e",
+  "status": "published"
+}

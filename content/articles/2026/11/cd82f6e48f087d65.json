@@ -1,0 +1,35 @@
+{
+  "id": "cd82f6e48f087d65",
+  "slug": "8-k-ppl-corp-0000922224-filer",
+  "titleZh": "8-K - PPL Corp (0000922224) (Filer)",
+  "titleOriginal": "8-K - PPL Corp (0000922224) (Filer)",
+  "summary": "Filed: 2026-11-06 AccNo: 0000922224-26-000050 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+  "keyPoints": [
+    "Filed: 2026-11-06 AccNo: 0000922224-26-…",
+    "8-K - PPL Corp (0000922224) (Filer)",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "PPL Corp",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "PPL Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000050/0000922224-26-000050-index.htm",
+  "publishedAt": "2026-11-06T12:51:16.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "63213c6567f475cc",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9807dcde2d88efe3",
+  "slug": "hoax-bomb-threats-repeatedly-disrupt-flights-across-europe-t",
+  "titleZh": "本周，恶作剧炸弹威胁一再扰乱欧洲各地的航班。以下是我们所知的信息",
+  "titleOriginal": "Hoax bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
+  "summary": "本周，数十架横跨欧洲的航班报告了炸弹威胁，扰乱了伦敦、都柏林和赫尔辛基的航空旅行。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "本周，恶作剧炸弹威胁一再扰乱欧洲各地的航班。以下是我们所知的信息",
+    "本周，数十架横跨欧洲的航班报告了炸弹威胁，扰乱了伦敦",
+    "详见原文"
+  ],
+  "category": "finance",
+  "tags": [
+    "Hoax",
+    "Europe",
+    "金融",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Hoax",
+    "Europe"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+  "publishedAt": "2026-11-06T12:54:13.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "1a15545523c090e9",
+  "status": "published"
+}

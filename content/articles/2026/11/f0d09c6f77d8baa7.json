@@ -1,0 +1,36 @@
+{
+  "id": "f0d09c6f77d8baa7",
+  "slug": "protesters-break-into-microsoft-data-center-site-in-amsterda",
+  "titleZh": "抗议者闯入阿姆斯特丹的微软数据中心",
+  "titleOriginal": "Protesters break into Microsoft data center site in Amsterdam",
+  "summary": "在抗议期间，行动组织Geef Tegengas的成员在起重机上放了一面横幅。|图片：今天早上， Getty Images抗议者闯入了阿姆斯特丹一个新的微软数据中心的建筑工地。Geef Tegengas集团的成员帮助组织了反对在阿姆斯特丹郊区建造三座85米数据中心塔楼的抗议活动。",
+  "keyPoints": [
+    "据路透社报道，约有100人进入施工现场",
+    "抗议者还在建筑工地上张贴了“微软推动种族灭绝”的横幅",
+    "“对阿姆斯特丹新数据中心的反对来自于"
+  ],
+  "category": "tech",
+  "tags": [
+    "Microsoft",
+    "Protesters",
+    "科技",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Microsoft",
+    "Protesters",
+    "Amsterdam"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+  "publishedAt": "2026-11-06T11:55:19.000Z",
+  "fetchedAt": "2026-11-06T12:57:59.411Z",
+  "importance": 71,
+  "readMinutes": 2,
+  "aiProvider": "translate",
+  "aiModel": "mymemory-free",
+  "contentHash": "f9635f366d92f72e",
+  "status": "published"
+}

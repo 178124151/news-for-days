@@ -1,0 +1,36 @@
+{
+  "id": "bdaf3de72b15f605",
+  "slug": "starlink-mobile-all-the-news-on-spacexs-major-mobile-carrier",
+  "titleZh": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+  "titleOriginal": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+  "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier.The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challen…",
+  "keyPoints": [
+    "SpaceX has declared that it’s going to …",
+    "The Elon Musk-owned company has already…",
+    "As part of its plans to rival AT&T, Ver…"
+  ],
+  "category": "tech",
+  "tags": [
+    "SpaceX",
+    "Starlink Mobile",
+    "科技",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "SpaceX",
+    "Starlink Mobile",
+    "All"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+  "publishedAt": "2026-11-06T22:45:43.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 69,
+  "readMinutes": 3,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "68267c0ce376eb82",
+  "status": "published"
+}

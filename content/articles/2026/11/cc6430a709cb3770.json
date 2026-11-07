@@ -1,0 +1,32 @@
+{
+  "id": "cc6430a709cb3770",
+  "slug": "heres-a-rapid-fire-update-on-all-31-of-our-stocks-including-",
+  "titleZh": "股票组合快速更新及买入推荐",
+  "titleOriginal": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
+  "summary": "CNBC投资俱乐部年会现场，截至周五收盘公布31只股票动态，其中两只被推荐为当前买入标的。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "公布31只股票最新动态",
+    "现场活动在纽约证券交易所举行",
+    "推荐两只股票作为买入标的"
+  ],
+  "category": "finance",
+  "tags": [
+    "股市",
+    "投资",
+    "股票推荐",
+    "市场动态",
+    "CNBC"
+  ],
+  "entities": [],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
+  "publishedAt": "2026-11-06T20:36:03.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d540706c1784c576",
+  "status": "published"
+}

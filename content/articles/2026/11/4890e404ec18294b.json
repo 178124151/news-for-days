@@ -1,0 +1,35 @@
+{
+  "id": "4890e404ec18294b",
+  "slug": "the-duo-apps-are-coming-says-apple",
+  "titleZh": "Apple 称 Duo 应用已达 10 万款",
+  "titleOriginal": "The Duo apps are coming, says Apple",
+  "summary": "Apple 表示 Duo 优化应用已达 10 万款，每日仍有数千款新应用接入。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Duo 优化应用达 10 万款",
+    "每日有数千款新应用接入",
+    "Apple 官方发布相关信息"
+  ],
+  "category": "tech",
+  "tags": [
+    "Apple",
+    "Duo",
+    "应用",
+    "优化",
+    "生态"
+  ],
+  "entities": [
+    "Apple",
+    "The Duo"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+  "publishedAt": "2026-11-06T21:38:05.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fcf9df27596a1e17",
+  "status": "published"
+}

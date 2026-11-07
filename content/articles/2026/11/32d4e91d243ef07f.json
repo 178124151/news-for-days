@@ -1,0 +1,37 @@
+{
+  "id": "32d4e91d243ef07f",
+  "slug": "dharma-field-extractor-any-document-in-structured-fields-in-",
+  "titleZh": "Dharma Field Extractor：文档输入JSON结构化字段输出",
+  "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "summary": "Hugging Face发布Dharma Field Extractor工具，能够将任意文档转换为结构化JSON字段，提升文档处理的自动化水平。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hugging Face发布Dharma Field Extractor工具",
+    "支持将任意文档转换为结构化JSON",
+    "提升文档处理和数据结构化效率"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "文档处理",
+    "JSON结构化",
+    "AI工具",
+    "Dharma"
+  ],
+  "entities": [
+    "Dharma Field Extractor",
+    "Any Document In",
+    "Structured Fields",
+    "JSON Out"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "publishedAt": "2026-11-04T17:50:10.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 62,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0d8799f0fc9d29f0",
+  "status": "published"
+}

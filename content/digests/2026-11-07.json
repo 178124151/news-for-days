@@ -1,50 +1,70 @@
 {
   "date": "2026-11-07",
   "headlineIds": [
-    "a1da6815103ac345",
     "9fe03d99795cd5e7",
-    "d9d8ed120c50cfe2",
+    "a1da6815103ac345",
+    "e40d1a928ab47860",
+    "fbaa86a829ad59fd",
     "25fa4dd18ec78a48",
-    "17666a9e1d0e4bb6",
-    "a363887f5f90b107"
+    "17666a9e1d0e4bb6"
   ],
   "sections": {
     "ai": [
+      "a363887f5f90b107",
       "5f721228af3682c2",
+      "f25b9201ad6bdcc6",
       "eb8ddc895f5e904b",
       "a0a44ed09dc9a108",
       "c65c7708e93995ca",
+      "485654c1f98a7cdc",
       "5a90caffb2c87d2e",
+      "32d4e91d243ef07f",
+      "5bdadf6562c0b3ee",
       "db9792e954d44701",
-      "5bdadf6562c0b3ee"
+      "13e4c95dcbaa6d34"
     ],
     "tech": [
+      "d9d8ed120c50cfe2",
       "0b33259ab4386660",
+      "348cd589f28fa379",
+      "fb7eff1cb3964b19",
       "0d30490bc18c261d",
+      "7ed25bd6c702d833",
       "29357168c0fcfd7b",
+      "768677e97770e2cd",
+      "b3c0b9504d68dfbf",
+      "bdaf3de72b15f605",
       "9b3fb8f0e90432f9",
-      "82927c96e591b76c",
-      "2af345503cb4dc3a"
+      "7bed7e3c0b8efc9d"
     ],
     "finance": [
       "4b0830715cb791bc",
+      "6e677dc224c6cc3c",
       "05195d7a464bbbfc",
       "7c077823685a5406",
       "823488f3188dada1",
+      "b53fff14296ef9ab",
       "cad0f7cc51404fde",
-      "b53fff14296ef9ab"
+      "c7783568a573014e",
+      "cc6430a709cb3770",
+      "545fe2936eac3dc7",
+      "06db1f53dba51b70",
+      "15fdccf29db8267b"
     ],
     "policy": [
+      "5db267f670c9c9e3",
+      "570956d9c10c9081",
+      "8270506a1c578627",
       "8fcc0421aa1717c1",
       "9f4b6921227bfaca",
-      "8270506a1c578627"
+      "989c34a34a388ac6"
     ]
   },
   "stats": {
     "fetched": 276,
-    "published": 28,
+    "published": 56,
     "sources": 20,
-    "aiFallbacks": 0,
-    "durationMs": 64399
+    "aiFallbacks": 4,
+    "durationMs": 49974
   }
 }

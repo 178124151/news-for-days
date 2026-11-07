@@ -1,0 +1,34 @@
+{
+  "id": "2d1d326185a62641",
+  "slug": "flipsnack-grows-product-signups-with-conversion-optimization",
+  "titleZh": "Flipsnack利用ChatGPT广告提升转化",
+  "titleOriginal": "Flipsnack grows product signups with conversion optimization",
+  "summary": "OpenAI News 报道，Flipsnack 以 ChatGPT 广告为核心，成功提升产品注册转化率并降低每签约成本。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "以 ChatGPT 广告为核心营销",
+    "成功提升产品注册转化率",
+    "有效降低每签约成本"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI广告",
+    "转化优化",
+    "成本降低",
+    "产品注册",
+    "ChatGPT"
+  ],
+  "entities": [
+    "Flipsnack"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/ads/customers/flipsnack",
+  "publishedAt": "2026-11-05T00:45:15.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 25,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "368d6197b343c2a1",
+  "status": "published"
+}

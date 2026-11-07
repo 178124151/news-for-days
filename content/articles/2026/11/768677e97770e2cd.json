@@ -1,0 +1,34 @@
+{
+  "id": "768677e97770e2cd",
+  "slug": "ai-768677",
+  "titleZh": "AI应用加速渗透内容产业",
+  "titleOriginal": "AI应用加速渗透，内容产业迎价值重估",
+  "summary": "AI应用端不断催化，内容产业商业化进程提速。短剧、游戏、出版等领域出现积极变化，AI技术加速渗透内容产业链。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI应用催化内容产业变化",
+    "短剧、游戏、出版等领域受影响",
+    "AI技术加速内容产业链渗透"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI",
+    "内容产业",
+    "商业化",
+    "多模态",
+    "视频生成"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4059017079296903?f=rss",
+  "publishedAt": "2026-11-07T01:51:27.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c8088ecbe84a23df",
+  "status": "published"
+}

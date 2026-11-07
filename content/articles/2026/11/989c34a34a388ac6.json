@@ -1,0 +1,35 @@
+{
+  "id": "989c34a34a388ac6",
+  "slug": "8-k-rallybio-corp-0001739410-filer",
+  "titleZh": "Rallybio Corp 8-K文件披露",
+  "titleOriginal": "8-K - Rallybio Corp (0001739410) (Filer)",
+  "summary": "Rallybio Corp于2026年11月6日提交8-K文件，项目涉及其他事件，文件规模138KB。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "2026年11月6日提交8-K文件",
+    "项目分类为其他事件",
+    "文件规模约138KB"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC filing",
+    "公司披露",
+    "Rallybio",
+    "文件披露",
+    "政策"
+  ],
+  "entities": [
+    "Rallybio Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1739410/000119312526452115/0001193125-26-452115-index.htm",
+  "publishedAt": "2026-11-06T22:26:49.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1e7cb0cea6d8fb70",
+  "status": "published"
+}

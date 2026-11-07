@@ -1,0 +1,36 @@
+{
+  "id": "348cd589f28fa379",
+  "slug": "china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang",
+  "titleZh": "中国招募AI高管间谍监控黄仁勋",
+  "titleOriginal": "China reportedly recruited AI exec to spy on Jensen Huang",
+  "summary": "据《纽约时报》报道，中国情报机构招募Megaspeed高管Alice Huang，目的是间谍活动监控Nvidia CEO黄仁勋。目的是获取关于美国AI芯片的信息，并可能影响公司将最先进的芯片提供给中国。Alice Huang与英伟达及芯片行业最高层高管有关系。",
+  "keyPoints": [
+    "中国情报机构招募间谍监控Nvidia首席执行官",
+    "目的是获取美国AI芯片信息并影响供给",
+    "涉及高管与芯片行业最高层的关系"
+  ],
+  "category": "tech",
+  "tags": [
+    "间谍活动",
+    "Nvidia",
+    "AI芯片",
+    "国家安全",
+    "情报机构"
+  ],
+  "entities": [
+    "China",
+    "AI",
+    "Jensen Huang"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+  "publishedAt": "2026-11-06T23:00:44.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "aa58ad38ca1e89d4",
+  "status": "published"
+}

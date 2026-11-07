@@ -1,0 +1,34 @@
+{
+  "id": "b3c0b9504d68dfbf",
+  "slug": "a-ai",
+  "titleZh": "外资投行积极看多A股市场 关注中国AI产业链",
+  "titleOriginal": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+  "summary": "高盛、摩根大通、瑞银等头部外资投行发布报告积极看多A股市场，理由是估值回调和政策支撑。高盛统计显示主要股票型ETF近三周资金净流入规模阶段新高。监管层宣布额外措施支持市场流动性、股票回购和ETF部署。长鑫科技提议将回购计划上限提至50亿元。",
+  "keyPoints": [
+    "外资投行多家看多A股市场",
+    "AI相关股票估值回调，风险回报比改善",
+    "监管层出台措施支持市场流动性和回购"
+  ],
+  "category": "tech",
+  "tags": [
+    "A股",
+    "外资投行",
+    "AI产业",
+    "ETF",
+    "政策支持"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4058938648073349?f=rss",
+  "publishedAt": "2026-11-07T01:45:42.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ad1a1ed690dd886a",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "570956d9c10c9081",
+  "slug": "8-k-mount-logan-capital-inc-0002051820-filer",
+  "titleZh": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
+  "titleOriginal": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
+  "summary": "Filed: 2026-11-06 AccNo: 0001628280-26-071793 Size: 202 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of…",
+  "keyPoints": [
+    "Filed: 2026-11-06 AccNo: 0001628280-26-…",
+    "8-K - Mount Logan Capital Inc. (0002051…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Mount Logan Capital",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Mount Logan Capital",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2051820/000162828026071793/0001628280-26-071793-index.htm",
+  "publishedAt": "2026-11-06T22:25:19.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 61,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "f006054f2020ef46",
+  "status": "published"
+}

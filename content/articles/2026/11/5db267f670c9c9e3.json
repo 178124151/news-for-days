@@ -1,0 +1,35 @@
+{
+  "id": "5db267f670c9c9e3",
+  "slug": "8-k-sidus-space-inc-0001879726-filer",
+  "titleZh": "8-K - Sidus Space Inc. (0001879726) (Filer)",
+  "titleOriginal": "8-K - Sidus Space Inc. (0001879726) (Filer)",
+  "summary": "Filed: 2026-11-06 AccNo: 0001493152-26-050537 Size: 236 KB Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review Item 9.01: Financia…",
+  "keyPoints": [
+    "Filed: 2026-11-06 AccNo: 0001493152-26-…",
+    "8-K - Sidus Space Inc. (0001879726) (Fi…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Sidus Space Inc",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Sidus Space Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1879726/000149315226050537/0001493152-26-050537-index.htm",
+  "publishedAt": "2026-11-06T22:25:29.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 61,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "b2636ab1647e1fa5",
+  "status": "published"
+}

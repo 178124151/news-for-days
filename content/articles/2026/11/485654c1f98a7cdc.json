@@ -1,0 +1,37 @@
+{
+  "id": "485654c1f98a7cdc",
+  "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl-485654",
+  "titleZh": "Gemini Omni 1.2 Flash：原生 15 秒视频生成和编辑",
+  "titleOriginal": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "summary": "Gemini Omni 1.2 Flash 提供原生 15 秒视频生成和编辑功能，画面一致性增强，价格较之前降低 30%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "原生 15 秒视频生成和编辑功能",
+    "画面一致性得到增强",
+    "价格较之前降低 30%"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini",
+    "视频生成",
+    "成本优化",
+    "15秒视频",
+    "AI模型"
+  ],
+  "entities": [
+    "Gemini",
+    "Gemini Omni",
+    "Flash",
+    "Fast"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "publishedAt": "2026-11-05T17:00:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f1c4bad44f6330ed",
+  "status": "published"
+}

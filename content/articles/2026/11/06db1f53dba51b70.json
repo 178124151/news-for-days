@@ -1,0 +1,37 @@
+{
+  "id": "06db1f53dba51b70",
+  "slug": "mississippi-senate-longshot-ty-pinkins-says-he-aimed-to-spoi",
+  "titleZh": "Mississippi州长选举民主党候选人竞选策略",
+  "titleOriginal": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+  "summary": "民主党参选人Pinkins称避免在密西西比重黑区域竞选，以免损害同党候选人Colom的胜选机会。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Pinkins避免竞选重黑区域",
+    "目的是帮助民主党候选人Colom",
+    "两人均为黑人候选人"
+  ],
+  "category": "finance",
+  "tags": [
+    "政治",
+    "选举",
+    "密西西比",
+    "民主党",
+    "种族因素"
+  ],
+  "entities": [
+    "Mississippi Senate",
+    "Longshot Ty Pinkins",
+    "Hyde Smith",
+    "Colom"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+  "publishedAt": "2026-11-06T19:44:33.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "38e05cc90b0615fe",
+  "status": "published"
+}

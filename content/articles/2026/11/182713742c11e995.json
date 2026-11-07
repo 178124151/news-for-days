@@ -1,0 +1,33 @@
+{
+  "id": "182713742c11e995",
+  "slug": "openai-bugging-suspect-alfozan-pleads-not-guilty",
+  "titleZh": "OpenAI嫌疑人Alfozan否认罪名",
+  "titleOriginal": "OpenAI bugging suspect Alfozan pleads not guilty",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "材料信息有限",
+    "OpenAI嫌疑人Alfozan否认罪名",
+    "详见原文"
+  ],
+  "category": "finance",
+  "tags": [
+    "OpenAI",
+    "安保事件",
+    "法律指控"
+  ],
+  "entities": [
+    "OpenAI",
+    "Alfozan"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+  "publishedAt": "2026-11-06T21:15:47.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "55fe971c8aa637b4",
+  "status": "published"
+}

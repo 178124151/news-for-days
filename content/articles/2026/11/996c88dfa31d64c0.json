@@ -1,0 +1,34 @@
+{
+  "id": "996c88dfa31d64c0",
+  "slug": "the-latest-ai-news-we-announced-in-october-2026",
+  "titleZh": "Google 10 月 2026 年发布的最新 AI 新闻",
+  "titleOriginal": "The latest AI news we announced in October 2026",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "材料信息有限",
+    "来源 Google AI Blog",
+    "时间范围为 2026 年 10 月"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI 更新",
+    "Google",
+    "2026 年 10 月",
+    "博客发布"
+  ],
+  "entities": [
+    "AI",
+    "October"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+  "publishedAt": "2026-11-02T17:45:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "983061a361d45f6c",
+  "status": "published"
+}

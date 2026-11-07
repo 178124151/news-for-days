@@ -1,0 +1,36 @@
+{
+  "id": "7bed7e3c0b8efc9d",
+  "slug": "google-has-acquired-crusoes-data-center-site-in-southeast-wy",
+  "titleZh": "Google 收购怀俄明州东南部数据中心",
+  "titleOriginal": "Google has acquired Crusoe's data center site in southeast Wyoming",
+  "summary": "Google 已收购 Crusoe 在怀俄明州东南部的数据中心地点，具体交易细节未公开。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google 收购 Crusoe 数据中心地点",
+    "位于怀俄明州东南部",
+    "交易细节暂未公开"
+  ],
+  "category": "tech",
+  "tags": [
+    "Google",
+    "数据中心",
+    "Crusoe",
+    "怀俄明",
+    "收购"
+  ],
+  "entities": [
+    "Google",
+    "Crusoe",
+    "Wyoming"
+  ],
+  "sourceId": "hackernews",
+  "sourceName": "Hacker News",
+  "sourceUrl": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+  "publishedAt": "2026-11-06T20:09:14.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e1388eb0e33dee66",
+  "status": "published"
+}

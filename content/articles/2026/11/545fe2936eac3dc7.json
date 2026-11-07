@@ -1,0 +1,35 @@
+{
+  "id": "545fe2936eac3dc7",
+  "slug": "cybertruck-x2019-s-run-comes-to-an-end-as-musk-kills-off-pri",
+  "titleZh": "Cybertruck产销终止",
+  "titleOriginal": "Cybertruck&#x2019;s run comes to an end as Musk kills off pricey pet project",
+  "summary": "MarketWatch 报道，由于高价格和部分召回问题，Cybertruck 未能吸引车市接受，马斯克终止该项目。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "高价格阻碍市场接受",
+    "部分车型存在召回问题",
+    "马斯克决定终止项目"
+  ],
+  "category": "finance",
+  "tags": [
+    "电动车",
+    "产品终止",
+    "市场表现",
+    "马斯克",
+    "召回"
+  ],
+  "entities": [
+    "Cybertruck",
+    "Musk"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T18:54:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "81736b7fb0f62fab",
+  "status": "published"
+}

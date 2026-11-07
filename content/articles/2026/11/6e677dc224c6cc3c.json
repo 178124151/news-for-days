@@ -1,0 +1,32 @@
+{
+  "id": "6e677dc224c6cc3c",
+  "slug": "a-disturbing-employment-trend-is-hiding-beneath-the-latest-s",
+  "titleZh": "美国失业工人平均失业超27周",
+  "titleOriginal": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+  "summary": "10月美国失业工人平均失业时长突破27周，为十年来最高水平，仅次于疫情期间。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "10月美国失业平均时长达27周",
+    "为十年来最高水平",
+    "仅次于疫情期间"
+  ],
+  "category": "finance",
+  "tags": [
+    "就业",
+    "失业",
+    "经济数据",
+    "劳动力市场",
+    "统计"
+  ],
+  "entities": [],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+  "publishedAt": "2026-11-06T20:11:17.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7e5992211ab6cc4c",
+  "status": "published"
+}

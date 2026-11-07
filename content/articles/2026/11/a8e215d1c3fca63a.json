@@ -1,0 +1,35 @@
+{
+  "id": "a8e215d1c3fca63a",
+  "slug": "franklin-templeton-uses-openai-to-support-investment-researc",
+  "titleZh": "富兰克林邓普顿部署 AI 辅助研究",
+  "titleOriginal": "Franklin Templeton uses OpenAI to support investment research",
+  "summary": "OpenAI News 报道，富兰克林邓普顿从股权研究起步，正在开发 AI 工作流，协助基金经理比对研究观点并审视投资风险。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "从股权研究起步部署 AI",
+    "协助基金经理比对研究观点",
+    "用于审视和分析投资风险"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI应用",
+    "投资研究",
+    "风险分析",
+    "基金经理",
+    "工作流优化"
+  ],
+  "entities": [
+    "OpenAI",
+    "Franklin Templeton"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/franklin-templeton",
+  "publishedAt": "2026-11-05T00:00:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "38d3de527fed3bd3",
+  "status": "published"
+}

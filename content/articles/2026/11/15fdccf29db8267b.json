@@ -1,0 +1,32 @@
+{
+  "id": "15fdccf29db8267b",
+  "slug": "my-adviser-recommended-an-annuity-is-it-the-right-move-in-th",
+  "titleZh": "年金在当前市场合适吗？",
+  "titleOriginal": "My adviser recommended an annuity. Is it the right move in this market environment?",
+  "summary": "MarketWatch 提出顾问推荐年金的问题，作者表示尚未承诺该策略，并寻求独立观点。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "顾问推荐年金策略",
+    "作者未做最终决定",
+    "寻求独立市场观点"
+  ],
+  "category": "finance",
+  "tags": [
+    "年金",
+    "投资顾问",
+    "市场分析",
+    "理财规划",
+    "风险评估"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T18:53:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4b512449cdeb38c5",
+  "status": "published"
+}

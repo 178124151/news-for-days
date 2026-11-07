@@ -1,0 +1,32 @@
+{
+  "id": "c7783568a573014e",
+  "slug": "c7783568a573014e",
+  "titleZh": "搞笑诺贝尔奖告诉我们：作弊经济学值得研究",
+  "titleOriginal": "搞笑诺贝尔奖告诉我们：作弊经济学值得研究",
+  "summary": "蒂姆·哈福德表示，搞笑诺贝尔奖可窥探当下经济学家最关心的问题，折射出作弊经济学的研究价值。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "搞笑诺贝尔奖折射经济学家关注点",
+    "作弊经济学值得深入研究",
+    "通过奖项洞察当下经济学热点"
+  ],
+  "category": "finance",
+  "tags": [
+    "经济学",
+    "搞笑诺贝尔奖",
+    "作弊经济学",
+    "科普",
+    "FT中文网"
+  ],
+  "entities": [],
+  "sourceId": "ftchinese",
+  "sourceName": "FT中文网",
+  "sourceUrl": "https://www.ftchinese.com/story/001111304",
+  "publishedAt": "2026-11-05T16:00:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b23eb541d3f16113",
+  "status": "published"
+}

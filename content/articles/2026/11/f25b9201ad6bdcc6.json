@@ -1,0 +1,38 @@
+{
+  "id": "f25b9201ad6bdcc6",
+  "slug": "new-nvidia-cosmos-3-open-models-for-interactive-world-simula",
+  "titleZh": "NVIDIA Cosmos 3 开放模型助交互式世界模拟",
+  "titleOriginal": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+  "summary": "NVIDIA发布Cosmos 3开放模型，旨在支持交互式世界模拟应用，标志着生成式AI在物理世界模拟领域的进展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "NVIDIA发布Cosmos 3开放模型",
+    "支持交互式世界模拟功能",
+    "推动生成式AI在物理模拟领域应用"
+  ],
+  "category": "ai",
+  "tags": [
+    "NVIDIA",
+    "生成式AI",
+    "世界模拟",
+    "开放模型",
+    "Cosmos"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "New NVIDIA Cosmos",
+    "Open Models",
+    "Interactive World Simulation"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "publishedAt": "2026-11-05T19:35:16.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 78,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fe3779b6520456fd",
+  "status": "published"
+}

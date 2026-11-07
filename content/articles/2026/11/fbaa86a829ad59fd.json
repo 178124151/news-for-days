@@ -1,0 +1,32 @@
+{
+  "id": "fbaa86a829ad59fd",
+  "slug": "a-thousand-fewer-paths-to-root",
+  "titleZh": "OpenAI 自动化管道发现并修复 948 个 Linux 内核权限提升漏洞",
+  "titleOriginal": "A thousand fewer paths to root",
+  "summary": "OpenAI 建立自动化管道，在 Linux 内核中发现、验证并生成了 948 个本地权限提升漏洞的补丁。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI 自动化管道发现 Linux 内核漏洞",
+    "成功生成 948 个权限提升漏洞补丁",
+    "涉及验证和生成完整的修复流程"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "Linux 内核",
+    "安全补丁",
+    "自动化",
+    "漏洞修复"
+  ],
+  "entities": [],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "publishedAt": "2026-11-04T08:00:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e450a3d79d3ed74c",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e40d1a928ab47860",
+  "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-",
+  "titleZh": "OpenAI 估值达 1.25 万亿美元",
+  "titleOriginal": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+  "summary": "OpenAI 在新一轮融资中估值达 1.25 万亿美元，募资 110 亿美元。此前估值曾分别为 8520 亿美元和 14000 亿美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI 估值达 1.25 万亿美元",
+    "募资 110 亿美元",
+    "估值经多轮融资递增"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "融资",
+    "估值",
+    "人工智能",
+    "投资"
+  ],
+  "entities": [
+    "OpenAI",
+    "Anthropic",
+    "IPO"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+  "publishedAt": "2026-11-06T23:46:18.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 95,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d6b2e382a0245a23",
+  "status": "published"
+}

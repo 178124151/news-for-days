@@ -1,0 +1,32 @@
+{
+  "id": "fb7eff1cb3964b19",
+  "slug": "fb7eff1cb3964b19",
+  "titleZh": "何立峰与美财长贝森特举行视频通话",
+  "titleOriginal": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+  "summary": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话，双方就中美经贸关系交换意见并同意稳定发展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "何立峰与美财长贝森特通话",
+    "就中美经贸问题交换意见",
+    "同意在元首引领下稳定关系"
+  ],
+  "category": "tech",
+  "tags": [
+    "何立峰",
+    "贝森特",
+    "中美经贸",
+    "视频通话",
+    "稳定发展"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4058960006894470?f=rss",
+  "publishedAt": "2026-11-07T02:00:24.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5de2912083aeb989",
+  "status": "published"
+}

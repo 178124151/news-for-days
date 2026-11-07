@@ -1,0 +1,32 @@
+{
+  "id": "7ed25bd6c702d833",
+  "slug": "7ed25bd6c702d833",
+  "titleZh": "税款滞纳金上不封顶或将成历史",
+  "titleOriginal": "税款滞纳金上不封顶或将成历史",
+  "summary": "十四届全国人大常委会第二十五次会议审议《中华人民共和国税收征收管理法（修订草案）》，草案新增‘税款滞纳金不得超出税款本数的二倍’表述，设定上限，或将结束‘上不封顶’局面。",
+  "keyPoints": [
+    "税收征管法草案新增税款滞纳金上限规定",
+    "滞纳金不得超出税款本数的二倍",
+    "或将结束‘上不封顶’的历史局面"
+  ],
+  "category": "tech",
+  "tags": [
+    "税收",
+    "法规修订",
+    "税务政策",
+    "滞纳金",
+    "全国人大"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4059041294259076?f=rss",
+  "publishedAt": "2026-11-07T01:50:19.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fe7f8fd5f06ab029",
+  "status": "published"
+}

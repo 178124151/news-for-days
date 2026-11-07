@@ -1,0 +1,36 @@
+{
+  "id": "13e4c95dcbaa6d34",
+  "slug": "egyptian-and-nigerian-english-join-the-open-asr-leaderboard",
+  "titleZh": "埃及尼日利亚英语加入 Open ASR Leaderboard",
+  "titleOriginal": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "summary": "埃及英语和尼日利亚英语加入 Open ASR Leaderboard。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "埃及英语加入 Open ASR Leaderboard",
+    "尼日利亚英语加入 Open ASR Leaderboard",
+    "语音识别评测基准扩展"
+  ],
+  "category": "ai",
+  "tags": [
+    "ASR",
+    "语音识别",
+    "埃及英语",
+    "尼日利亚英语",
+    "Hugging Face"
+  ],
+  "entities": [
+    "Egyptian",
+    "Nigerian English",
+    "Open ASR Leaderboard"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "publishedAt": "2026-11-06T00:00:00.000Z",
+  "fetchedAt": "2026-11-07T02:15:07.069Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6cb7cd70feffd9c0",
+  "status": "published"
+}

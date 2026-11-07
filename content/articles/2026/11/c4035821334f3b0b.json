@@ -1,0 +1,35 @@
+{
+  "id": "c4035821334f3b0b",
+  "slug": "apple-has-a-secret-list-of-banned-autocomplete-phrases-inclu",
+  "titleZh": "苹果有禁用的自动补全短语列表",
+  "titleOriginal": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+  "summary": "研究人员在 iOS 所有主要语言中发现超过 10 万个被屏蔽的自动补全短语，包括“独裁特朗普”和“新冠是谣言”。用户仍可逐字输入，但不会出现预测文本，且滑动输入时可能被自动更改。",
+  "keyPoints": [
+    "iOS 自动屏蔽超 10 万个词汇短语",
+    "包括政治和健康相关敏感词汇",
+    "滑动输入时可能自动更改词汇"
+  ],
+  "category": "tech",
+  "tags": [
+    "苹果",
+    "iOS",
+    "自动补全",
+    "内容审查",
+    "语言"
+  ],
+  "entities": [
+    "Apple",
+    "Trump"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+  "publishedAt": "2026-11-06T15:10:28.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c4b3a7455e5ab2aa",
+  "status": "published"
+}

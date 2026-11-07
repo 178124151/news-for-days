@@ -28,8 +28,11 @@ npm run preview    # 预览 dist，站点路径 /news-for-days/
 
 | Secret | 用途 |
 | --- | --- |
+| `NVIDIA_API_KEY` | NVIDIA NIM（主，`nemotron-3.5-lightning-30b-a3b`） |
 | `CF_ACCOUNT_ID` / `CF_API_TOKEN` | Cloudflare Workers AI |
 | `OPENROUTER_API_KEY` | OpenRouter |
+
+AI 加工按 `NVIDIA NIM → Cloudflare → OpenRouter → 免费机翻 → 抽取式` 顺序降级，任一环节可用即产出「AI 摘要」。
 
 ## 说明
 

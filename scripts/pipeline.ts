@@ -30,6 +30,7 @@ const CACHE = path.join(DATA, 'cache');
 const args = process.argv.slice(2);
 const dateArg = args.includes('--date') ? args[args.indexOf('--date') + 1] : undefined;
 const DATE = dateArg ?? new Date().toLocaleDateString('sv-SE');
+const localDay = (iso: string) => new Date(iso).toLocaleDateString('sv-SE');
 
 const TARGET: Record<Category, number> = { ai: 9, tech: 9, finance: 7, policy: 3 };
 const MAX_PER_SOURCE = 4;
@@ -276,7 +277,7 @@ async function main() {
 
   const all = [...existing, ...written];
   const today = all
-    .filter((a) => a.fetchedAt.startsWith(DATE))
+    .filter((a) => localDay(a.fetchedAt) === DATE)
     .sort((a, b) => b.importance - a.importance);
 
   // 头条：跨领域、importance ≥ 40、最多 6 条，同分类不超过 3 条

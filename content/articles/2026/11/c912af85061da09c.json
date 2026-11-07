@@ -1,0 +1,36 @@
+{
+  "id": "c912af85061da09c",
+  "slug": "8-k-federal-home-loan-bank-of-new-york-0001329842-filer",
+  "titleZh": "联邦住房贷款银行纽约分行 8-K 文件",
+  "titleOriginal": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+  "summary": "2026年11月6日提交8-K文件，涉及董事或高管离任、当选及补偿安排等事项，以及监管披露和财务报表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "2026年11月6日提交8-K文件",
+    "涉及董事或高管离任、当选及补偿安排",
+    "包含监管披露及财务报表信息"
+  ],
+  "category": "policy",
+  "tags": [
+    "8-K文件",
+    "监管披露",
+    "高管变动",
+    "财务报表",
+    "合规"
+  ],
+  "entities": [
+    "Federal Home Loan",
+    "New York",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009581/0001654954-26-009581-index.htm",
+  "publishedAt": "2026-11-06T14:29:46.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "794072f58dfd33e4",
+  "status": "published"
+}

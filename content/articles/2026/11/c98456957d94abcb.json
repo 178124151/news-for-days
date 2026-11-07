@@ -1,24 +1,25 @@
 {
   "id": "c98456957d94abcb",
-  "slug": "in-preliminary-findings-the-eu-says-tiktok-breached-the-dsa-",
-  "titleZh": "初步调查显示，欧盟称TikTok违反DSA",
-  "titleOriginal": "In preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful \"rabbit holes\" (Alexander Martin/The Record)",
-  "summary": "Alexander Martin / The Record：在初步调查中，欧盟表示TikTok违反了DSA，未能防止其推荐算法将用户困在有害的“兔子洞”中——欧盟委员会周五指责TikTok未能阻止其推荐算法将用户拉入……",
+  "slug": "preliminary-findings-the-eu-says-tiktok-violated-the-dsa-by-",
+  "titleZh": "欧委会指控 TikTok 未防止算法将用户引入有害内容 \"兔子洞\"",
+  "titleOriginal": "Preliminary findings: the EU says TikTok violated the DSA by not preventing its recommendation algorithm from trapping users in harmful content \"rabbit holes\" (Alexander Martin/The Record)",
+  "summary": "欧委会指控 TikTok 违反 DSA，未防止推荐算法将用户引入有害内容 \"兔子洞\"。欧盟正在对 TikTok 进行监管审查。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "初步调查显示，欧盟称TikTok违反DSA",
-    "Alexander Martin / The Record：在初步调查中",
-    "详见原文"
+    "欧委会指控 TikTok 违规",
+    "涉及推荐算法",
+    "违反 DSA 规定"
   ],
   "category": "tech",
   "tags": [
-    "EU",
     "TikTok",
-    "科技",
-    "行业动态",
-    "每日速览"
+    "DSA",
+    "欧盟",
+    "算法",
+    "监管"
   ],
   "entities": [
     "EU",
+    "Preliminary",
     "TikTok",
     "DSA",
     "Alexander Martin",
@@ -28,11 +29,11 @@
   "sourceName": "Techmeme",
   "sourceUrl": "https://www.techmeme.com/261106/p10#a261106p10",
   "publishedAt": "2026-11-06T12:10:07.000Z",
-  "fetchedAt": "2026-11-06T12:57:59.411Z",
-  "importance": 79,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 80,
   "readMinutes": 1,
-  "aiProvider": "pollinations",
-  "aiModel": "gpt-oss-20b（翻译）",
-  "contentHash": "5469551e88676bcc",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "caa0313b48d92657",
   "status": "published"
 }

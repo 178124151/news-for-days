@@ -43,7 +43,7 @@ export const ArticleSchema = z.object({
     .array(z.object({ sourceName: z.string(), url: z.string().url() }))
     .optional(),
   readMinutes: z.number().int().min(1),
-  aiProvider: z.enum(['cloudflare', 'openrouter', 'pollinations', 'translate', 'extractive']),
+  aiProvider: z.enum(['nvidia', 'cloudflare', 'openrouter', 'pollinations', 'translate', 'extractive']),
   aiModel: z.string().min(1),
   contentHash: z.string().min(8),
   status: z.enum(['published', 'hidden']),

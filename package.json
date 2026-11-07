@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "pipeline": "node scripts/pipeline.ts",
     "validate": "node scripts/validate.ts",
-    "test": "node scripts/test-dedupe.ts",
+    "test": "node scripts/test-dedupe.ts && node scripts/test-qa.ts",
     "build": "npm run validate && astro build && pagefind --site dist",
     "preview": "astro preview"
   },

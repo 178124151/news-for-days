@@ -1,0 +1,37 @@
+{
+  "id": "1fee11b27a5153f8",
+  "slug": "nvidia-amd-and-other-chip-stocks-rebound-is-the-x2018-violen",
+  "titleZh": "Nvidia、AMD芯片股反弹，AI暴跌结束？",
+  "titleOriginal": "Nvidia, AMD and other chip stocks rebound. Is the &#x2018;violent&#x2019; AI selloff over?",
+  "summary": "分析师警告前方仍有波动，但AI交易有两个新利好因素。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "芯片股出现反弹走势",
+    "分析师预警后市波动性",
+    "AI交易出现两正面因素"
+  ],
+  "category": "finance",
+  "tags": [
+    "芯片",
+    "AI",
+    "股票",
+    "反弹",
+    "波动"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "AMD",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T15:48:00.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9993e416a3bb9b1f",
+  "status": "published"
+}

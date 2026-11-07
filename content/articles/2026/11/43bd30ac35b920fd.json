@@ -1,0 +1,35 @@
+{
+  "id": "43bd30ac35b920fd",
+  "slug": "8-k-mexico-fund-inc-0000065433-filer",
+  "titleZh": "8-K - MEXICO FUND INC (0000065433) (Filer)",
+  "titleOriginal": "8-K - MEXICO FUND INC (0000065433) (Filer)",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "SEC EDGAR 8-K 文件",
+    "MEXICO FUND INC",
+    "Filed: 2026-11-06"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC",
+    "8-K",
+    "MEXICO FUND",
+    "财务披露",
+    "监管"
+  ],
+  "entities": [
+    "MEXICO FUND INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/65433/000165495426009589/0001654954-26-009589-index.htm",
+  "publishedAt": "2026-11-06T15:20:36.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7f3e33534bfa5caa",
+  "status": "published"
+}

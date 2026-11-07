@@ -1,21 +1,21 @@
 {
   "id": "bbd492caba72ca54",
   "slug": "cult-fit-builds-operational-muscle-with-codex",
-  "titleZh": "Cult.fit使用Codex打造手术肌肉",
+  "titleZh": "Cult.fit利用Codex构建运营肌肉",
   "titleOriginal": "Cult.fit builds operational muscle with Codex",
-  "summary": "Cult.fit正在使用Codex来帮助跨职能部门的团队构建工具、更快地移动并改变完成工作的方式。原文信息有限，建议阅读原文。",
+  "summary": "Cult.fit利用Codex帮助各职能团队搭建工具，加速工作进度。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "Cult.fit使用Codex打造手术肌肉",
-    "Cult.fit正在使用Codex来帮助跨职能部门的团队构建工具",
-    "详见原文"
+    "Cult.fit使用Codex",
+    "帮助各职能团队搭建工具",
+    "提升工作效率和变革"
   ],
   "category": "ai",
   "tags": [
-    "Cult",
     "Codex",
-    "AI",
-    "行业动态",
-    "每日速览"
+    "Cult.fit",
+    "运营工具",
+    "AI辅助",
+    "工作效率"
   ],
   "entities": [
     "Cult",
@@ -25,11 +25,11 @@
   "sourceName": "OpenAI News",
   "sourceUrl": "https://openai.com/index/cultfit-builds-with-codex",
   "publishedAt": "2026-11-05T20:00:00.000Z",
-  "fetchedAt": "2026-11-06T07:58:21.736Z",
-  "importance": 66,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 45,
   "readMinutes": 1,
-  "aiProvider": "translate",
-  "aiModel": "mymemory-free",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
   "contentHash": "c1d6da720bd75266",
   "status": "published"
 }

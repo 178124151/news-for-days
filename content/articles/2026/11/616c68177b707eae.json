@@ -1,21 +1,21 @@
 {
   "id": "616c68177b707eae",
   "slug": "australian-universities-are-creating-ai-native-graduates",
-  "titleZh": "澳大利亚大学正在培养AI本土毕业生",
+  "titleZh": "澳大利亚大学推行AI原生教育",
   "titleOriginal": "Australian universities are creating AI-native graduates",
-  "summary": "澳大利亚大学正在扩大对ChatGPT的访问，并将人工智能引入教学和学习，为学生做好准备，打造一支支持人工智能的劳动力队伍。原文信息有限，建议阅读原文。",
+  "summary": "澳大利亚大学扩大ChatGPT使用范围，将AI融入教学学习，以培养AI赋能人才。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "澳大利亚大学正在培养AI本土毕业生",
-    "澳大利亚大学正在扩大对ChatGPT的访问，并将人工智能引入教学和学习",
-    "详见原文"
+    "澳大利亚大学扩大ChatGPT使用范围",
+    "将AI融入教学学习",
+    "培养AI赋能人才"
   ],
   "category": "ai",
   "tags": [
-    "Australian",
-    "AI",
-    "行业动态",
-    "每日速览",
-    "全球市场"
+    "AI教育",
+    "ChatGPT",
+    "人才培养",
+    "澳大利亚",
+    "教学改革"
   ],
   "entities": [
     "Australian",
@@ -25,11 +25,11 @@
   "sourceName": "OpenAI News",
   "sourceUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
   "publishedAt": "2026-11-05T17:00:00.000Z",
-  "fetchedAt": "2026-11-06T07:58:21.736Z",
-  "importance": 63,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 70,
   "readMinutes": 1,
-  "aiProvider": "translate",
-  "aiModel": "mymemory-free",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
   "contentHash": "6a86a59981865634",
   "status": "published"
 }

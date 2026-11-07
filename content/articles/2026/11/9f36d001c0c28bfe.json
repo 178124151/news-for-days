@@ -1,21 +1,21 @@
 {
   "id": "9f36d001c0c28bfe",
   "slug": "montana-votes-to-ban-corporate-political-money-next-stop-pro",
-  "titleZh": "蒙大拿州投票禁止企业政治资金。下一站？可能是最高法院",
+  "titleZh": "蒙大州投票禁止企业政治资金",
   "titleOriginal": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
-  "summary": "蒙大拿州选民批准了一项新颖的策略，以限制企业政治支出，开启了一场可能会走向最高法院的宪法斗争。原文信息有限，建议阅读原文。",
+  "summary": "蒙大州选民通过一项新策略，限制企业政治支出，这可能引发宪法争议并上升至最高法院。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "蒙大拿州投票禁止企业政治资金。下一站？可能是最高法院",
-    "蒙大拿州选民批准了一项新颖的策略，以限制企业政治支出",
-    "详见原文"
+    "蒙大州限制企业政治支出",
+    "可能引发宪法法律冲突",
+    "有望上诉至最高法院审理"
   ],
   "category": "finance",
   "tags": [
-    "Montana",
-    "Next",
-    "监管",
-    "金融",
-    "行业动态"
+    "蒙大州",
+    "政治资金",
+    "企业政治",
+    "宪法",
+    "最高法院"
   ],
   "entities": [
     "Montana",
@@ -27,11 +27,11 @@
   "sourceName": "CNBC Markets",
   "sourceUrl": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
   "publishedAt": "2026-11-06T12:30:25.000Z",
-  "fetchedAt": "2026-11-06T12:57:59.411Z",
-  "importance": 82,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 60,
   "readMinutes": 1,
-  "aiProvider": "pollinations",
-  "aiModel": "gpt-oss-20b（翻译）",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
   "contentHash": "c13b79294a81fc39",
   "status": "published"
 }

@@ -1,0 +1,37 @@
+{
+  "id": "97dac9d9308d381a",
+  "slug": "ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears",
+  "titleZh": "Ramp 数据显示 AI 花费在临近 IPO 的 Anthropic 处出现放缓",
+  "titleOriginal": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "summary": "AI 使用量持续上升，但花费出现放缓。头部花费者进行价格削减和成本控制，可能挑战投资者对 AI 超高增长的假设。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI 花费放缓",
+    "Anthropic 临近 IPO",
+    "价格削减和成本控制"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI",
+    "Anthropic",
+    "Ramp",
+    "花费",
+    "IPO"
+  ],
+  "entities": [
+    "Anthropic",
+    "Ramp",
+    "AI",
+    "IPO"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+  "publishedAt": "2026-11-06T15:54:47.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "32584203e4aea228",
+  "status": "published"
+}

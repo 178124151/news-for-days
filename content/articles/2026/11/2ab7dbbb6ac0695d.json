@@ -1,0 +1,34 @@
+{
+  "id": "2ab7dbbb6ac0695d",
+  "slug": "99-4-ai",
+  "titleZh": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+  "titleOriginal": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+  "summary": "一举刷新AI安全世界杯CyberGym世界纪录。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "99.4%登顶全球第一",
+    "刷新AI安全世界杯世界纪录",
+    "师承世界冠军"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI安全",
+    "CyberGym",
+    "世界纪录",
+    "中国AI",
+    "冠军"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508107.html",
+  "publishedAt": "2026-11-06T05:01:47.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4434ee1713cc360c",
+  "status": "published"
+}

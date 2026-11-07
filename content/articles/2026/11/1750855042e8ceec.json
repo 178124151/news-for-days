@@ -1,0 +1,37 @@
+{
+  "id": "1750855042e8ceec",
+  "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl",
+  "titleZh": "Gemini Omni 1.2 Flash发布",
+  "titleOriginal": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "summary": "Gemini Omni 1.2 Flash模型发布，具备快速处理和长视频片段功能，成本效益提升。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "模型具备快速处理能力",
+    "支持更长视频片段",
+    "成本效益有所提升"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini",
+    "AI模型",
+    "视频处理",
+    "成本效益",
+    "技术发布"
+  ],
+  "entities": [
+    "Gemini",
+    "Gemini Omni",
+    "Flash",
+    "Fast"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+  "publishedAt": "2026-11-05T17:05:16.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6999996df3b40b9c",
+  "status": "published"
+}

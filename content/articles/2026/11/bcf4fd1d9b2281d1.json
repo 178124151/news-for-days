@@ -1,0 +1,36 @@
+{
+  "id": "bcf4fd1d9b2281d1",
+  "slug": "data-center-double-down-hassett-says-blue-wave-wont-stop-ai-",
+  "titleZh": "哈塞特称蓝浪不会阻碍AI建设",
+  "titleOriginal": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+  "summary": "CNBC报道，数据中心是特朗普总统推动在全球人工智能竞赛中获胜的关键部分，他计划继续推进尽管中期选举结果如何。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "数据中心是特朗普AI竞赛战略的关键",
+    "特朗普将继续推动AI建设",
+    "无论中期选举结果如何都将持续建设"
+  ],
+  "category": "finance",
+  "tags": [
+    "数据中心",
+    "人工智能",
+    "特朗普",
+    "蓝浪",
+    "科技政策"
+  ],
+  "entities": [
+    "Data",
+    "Hassett",
+    "AI"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+  "publishedAt": "2026-11-06T16:12:33.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d6b98f2bd3633847",
+  "status": "published"
+}

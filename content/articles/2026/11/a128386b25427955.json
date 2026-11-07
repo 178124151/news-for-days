@@ -1,0 +1,34 @@
+{
+  "id": "a128386b25427955",
+  "slug": "underdog-shows-off-a-32mb-speech-model-in-new-demo",
+  "titleZh": "Underdog 展示 32MB 语音模型新演示",
+  "titleOriginal": "Underdog shows off a 32MB speech model in new demo",
+  "summary": "尽管体积小，Underdog新模型仍能生成语音和音乐。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "模型体积小仅32MB",
+    "可同时生成语音和音乐",
+    "展示了小模型的高效性能"
+  ],
+  "category": "tech",
+  "tags": [
+    "Underdog",
+    "语音模型",
+    "音乐生成",
+    "AI技术",
+    "小模型"
+  ],
+  "entities": [
+    "Underdog"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "publishedAt": "2026-11-06T13:02:16.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7589b1fc14ac010d",
+  "status": "published"
+}

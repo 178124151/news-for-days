@@ -1,0 +1,36 @@
+{
+  "id": "8ecc4fb62e6eb293",
+  "slug": "rsi-agent-physical-ai-2026",
+  "titleZh": "2026奇点智能技术大会最新日程公布",
+  "titleOriginal": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+  "summary": "11月20-21日在北京万达文华酒店举行。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "2026奇点智能技术大会",
+    "日程已公布",
+    "将在北京万达文华酒店举行"
+  ],
+  "category": "ai",
+  "tags": [
+    "奇点",
+    "AI大会",
+    "Physical AI",
+    "系统栈",
+    "技术大会"
+  ],
+  "entities": [
+    "RSI",
+    "Agent",
+    "Physical AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508143.html",
+  "publishedAt": "2026-11-06T06:43:14.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cae35ab08f00250b",
+  "status": "published"
+}

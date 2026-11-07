@@ -120,7 +120,7 @@ export function formatDay(date: string): string {
 }
 
 export function providerLabel(a: Article): string {
-  if (a.aiProvider === 'cloudflare' || a.aiProvider === 'openrouter' || a.aiProvider === 'pollinations') {
+  if (a.aiProvider === 'nvidia' || a.aiProvider === 'cloudflare' || a.aiProvider === 'openrouter' || a.aiProvider === 'pollinations') {
     return 'AI 摘要 · 自动生成，可能有误';
   }
   if (a.aiProvider === 'translate') return '机翻摘要 · 自动生成，可能有误';

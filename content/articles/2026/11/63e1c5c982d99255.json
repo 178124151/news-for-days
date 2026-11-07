@@ -1,0 +1,36 @@
+{
+  "id": "63e1c5c982d99255",
+  "slug": "after-blocking-muse-amazon-now-lets-users-text-alexa-to-help",
+  "titleZh": "Amazon 现让用户通过短信让 Alexa 帮助购物",
+  "titleOriginal": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+  "summary": "Amazon 称该功能将在未来几周向数百万用户推出。用户可通过短信与 Alexa 交互以协助购物。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Amazon推出短信与 Alexa 交互功能",
+    "功能将在未来几周向数百万用户推出",
+    "用户可通过短信协助购物"
+  ],
+  "category": "tech",
+  "tags": [
+    "Amazon",
+    "Alexa",
+    "购物功能",
+    "用户体验",
+    "技术创新"
+  ],
+  "entities": [
+    "Amazon",
+    "Muse",
+    "Alexa"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+  "publishedAt": "2026-11-06T14:10:00.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9de1256a44bcf6c4",
+  "status": "published"
+}

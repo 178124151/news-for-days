@@ -3,30 +3,30 @@
   "slug": "4bcd569a7def3e30",
   "titleZh": "上交所对浙文影业下发监管工作函",
   "titleOriginal": "上交所对浙文影业下发监管工作函",
-  "summary": "36氪获悉，上交所发布关于浙文影业集团股份有限公司有关股价波动事项的监管工作函。浙文影业因股价波动事项被监管关注。监管工作函涉及对象为上市公司。原文信息有限，建议阅读原文。",
+  "summary": "上交所发布监管工作函，关注浙文影业股价波动事项。监管工作函涉及对象为上市公司。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "36氪获悉，上交所发布关于浙文影业集团股份有限公司有关股价波动事项的监管工作函。",
-    "浙文影业因股价波动事项被监管关注。",
-    "监管工作函涉及对象为上市公司。"
+    "上交所发布监管工作函",
+    "关注浙文影业股价波动",
+    "监管对象为上市公司"
   ],
   "category": "tech",
   "tags": [
+    "上交所",
+    "浙文影业",
     "监管",
-    "科技",
-    "行业动态",
-    "每日速览",
-    "全球市场"
+    "股价波动",
+    "证券"
   ],
   "entities": [],
   "sourceId": "36kr",
   "sourceName": "36氪",
   "sourceUrl": "https://36kr.com/newsflashes/4058181691708293?f=rss",
   "publishedAt": "2026-11-06T11:15:53.000Z",
-  "fetchedAt": "2026-11-06T12:57:59.411Z",
-  "importance": 80,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 65,
   "readMinutes": 1,
-  "aiProvider": "extractive",
-  "aiModel": "extractive-v1",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
   "contentHash": "12daf25c0d71c37d",
   "status": "published"
 }

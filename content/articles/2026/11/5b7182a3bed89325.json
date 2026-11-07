@@ -1,0 +1,34 @@
+{
+  "id": "5b7182a3bed89325",
+  "slug": "u-s-economy-added-165-000-jobs-in-october-way-more-than-expe",
+  "titleZh": "美国10月非农就业人数增加165,000个",
+  "titleOriginal": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+  "summary": "美国10月新增165,000个就业岗位，高于预期的59,000人。失业率降至4.1%，低于预期持平4.2%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "10月新增165,000个就业岗位",
+    "失业率降至4.1%",
+    "高于市场预期水平"
+  ],
+  "category": "finance",
+  "tags": [
+    "非农就业",
+    "失业率",
+    "经济数据",
+    "就业市场",
+    "月度数据"
+  ],
+  "entities": [
+    "October"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+  "publishedAt": "2026-11-06T16:06:59.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a3c2cd2d7a579f19",
+  "status": "published"
+}

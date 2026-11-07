@@ -1,0 +1,35 @@
+{
+  "id": "f30eabe3ae69a985",
+  "slug": "fox-completes-its-22b-acquisition-of-roku",
+  "titleZh": "Fox 完成对 Roku 的 220 亿美元收购",
+  "titleOriginal": "Fox completes its $22B acquisition of Roku",
+  "summary": "Fox 完成对流媒体巨头 Roku 的 220 亿美元收购。交易在 DOJ 监管调查后完成。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Fox 收购 Roku",
+    "交易金额 220 亿美元",
+    "完成于 DOJ 调查后"
+  ],
+  "category": "tech",
+  "tags": [
+    "Fox",
+    "Roku",
+    "收购",
+    "流媒体",
+    "科技"
+  ],
+  "entities": [
+    "Fox",
+    "Roku"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+  "publishedAt": "2026-11-06T16:05:36.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5f2dea64a5989fcb",
+  "status": "published"
+}

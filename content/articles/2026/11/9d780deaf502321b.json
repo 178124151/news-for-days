@@ -1,0 +1,34 @@
+{
+  "id": "9d780deaf502321b",
+  "slug": "ai-11",
+  "titleZh": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩",
+  "titleOriginal": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+  "summary": "挑战商业视频的高难度场景。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI短剧冲击双11业绩",
+    "挑战商业视频高难度场景",
+    "赛博修仙与家电营销结合"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI短剧",
+    "双11",
+    "商业视频",
+    "内容营销",
+    "AI内容"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508118.html",
+  "publishedAt": "2026-11-06T06:54:17.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ae815b70dbf75c59",
+  "status": "published"
+}

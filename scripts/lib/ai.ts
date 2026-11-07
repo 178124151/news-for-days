@@ -18,7 +18,7 @@ export interface EnrichInput {
   contentHash: string;
 }
 
-export type Provider = 'cloudflare' | 'openrouter' | 'pollinations' | 'translate' | 'extractive';
+export type Provider = 'nvidia' | 'cloudflare' | 'openrouter' | 'pollinations' | 'translate' | 'extractive';
 
 export interface EnrichResult {
   titleZh: string;
@@ -30,6 +30,7 @@ export interface EnrichResult {
   model: string;
 }
 
+const MODEL_NV = 'nvidia/nemotron-3.5-lightning-30b-a3b';
 const MODEL_CF = '@cf/qwen/qwen3-30b-a3b-fp8';
 const MODEL_OR = 'qwen/qwen3-30b-a3b:free';
 
@@ -122,12 +123,54 @@ function parseModelJson(text: string): ModelItem[] {
   const start = cleaned.indexOf('[');
   const end = cleaned.lastIndexOf(']');
   if (start < 0 || end <= start) return [];
+  const slice = cleaned.slice(start, end + 1);
   try {
-    const parsed = JSON.parse(cleaned.slice(start, end + 1));
+    const parsed = JSON.parse(slice);
     return Array.isArray(parsed) ? parsed : [];
   } catch {
-    return [];
+    // 模型偶尔在字符串里带裸换行或尾逗号，容错后再解析一次
+    try {
+      const parsed = JSON.parse(slice.replace(/[\n\r\t]+/g, ' ').replace(/,\s*([\]}])/g, '$1'));
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
   }
+}
+
+async function nvidiaBatch(batch: EnrichInput[]): Promise<Map<string, ModelItem>> {
+  const key = process.env.NVIDIA_API_KEY;
+  if (!key) return new Map();
+  const payload = batch.map((b, i) => ({
+    i,
+    title: b.title,
+    source: b.sourceName,
+    text: b.text.slice(0, 1500),
+    category: b.category,
+  }));
+  const res = await requestJson('https://integrate.api.nvidia.com/v1/chat/completions', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      model: MODEL_NV,
+      messages: [
+        { role: 'system', content: PROMPT },
+        { role: 'user', content: JSON.stringify(payload) },
+      ],
+      temperature: 0.2,
+      max_tokens: 4096,
+      stream: false,
+      chat_template_kwargs: { thinking: false },
+    }),
+    timeoutMs: 120000,
+  });
+  if (res.status >= 400) throw new Error(`nvidia ${res.status}`);
+  const data = JSON.parse(res.text) as any;
+  const content = data?.choices?.[0]?.message?.content ?? '';
+  const parsed = parseModelJson(String(content));
+  const map = new Map<string, ModelItem>();
+  for (const item of parsed) if (batch[item.i]) map.set(batch[item.i].url, item);
+  return map;
 }
 
 async function cloudflareBatch(batch: EnrichInput[]): Promise<Map<string, ModelItem>> {
@@ -344,7 +387,7 @@ function finalize(item: EnrichInput, raw: EnrichResult): EnrichResult {
   };
 }
 
-/** 按 Provider 链降级：Cloudflare → OpenRouter → 免费机翻 → 抽取式。 */
+/** 按 Provider 链降级：NVIDIA NIM → Cloudflare → OpenRouter → 免费机翻 → 抽取式。 */
 export async function enrichAll(
   items: EnrichInput[],
   opts: { cacheDir: string; log: (msg: string) => void },
@@ -360,7 +403,7 @@ export async function enrichAll(
   opts.log(`AI 缓存命中 ${results.size}/${items.length}`);
 
   const runBatchProvider = async (
-    name: string,
+    provider: Provider,
     fn: (batch: EnrichInput[]) => Promise<Map<string, ModelItem>>,
     model: string,
   ) => {
@@ -369,21 +412,34 @@ export async function enrichAll(
       const batch = queue.slice(i, i + 5);
       try {
         const map = await fn(batch);
+        // 模型偶尔整批返回非法 JSON，单个重试，避免 5 条一起降级
+        const missing = batch.filter((b) => !map.has(b.url));
+        if (missing.length) {
+          opts.log(`${provider} 批量缺 ${missing.length} 条，逐条重试`);
+          for (const item of missing) {
+            const one = await fn([item]);
+            const m = one.get(item.url);
+            if (m) map.set(item.url, m);
+          }
+        }
         for (const item of batch) {
           const m = map.get(item.url);
           if (!m) continue;
-          const result = finalize(item, fromModel(item, m, name === 'cloudflare' ? 'cloudflare' : 'openrouter', model));
+          const result = finalize(item, fromModel(item, m, provider, model));
           results.set(item.url, result);
           writeCache(opts.cacheDir, item.contentHash, result);
         }
       } catch (err) {
-        opts.log(`${name} 批量失败，切换到下一 Provider：${(err as Error).message}`);
+        opts.log(`${provider} 批量失败，切换到下一 Provider：${(err as Error).message}`);
         return;
       }
     }
   };
 
-  if (process.env.CF_ACCOUNT_ID && process.env.CF_API_TOKEN && pending.length) {
+  if (process.env.NVIDIA_API_KEY && pending.length) {
+    await runBatchProvider('nvidia', nvidiaBatch, MODEL_NV);
+  }
+  if (process.env.CF_ACCOUNT_ID && process.env.CF_API_TOKEN && pending.some((p) => !results.has(p.url))) {
     await runBatchProvider('cloudflare', cloudflareBatch, MODEL_CF);
   }
   if (process.env.OPENROUTER_API_KEY && pending.some((p) => !results.has(p.url))) {

@@ -1,0 +1,40 @@
+{
+  "id": "b4d2c2ec7d80564a",
+  "slug": "democrats-with-elizabeth-warren-a-top-contender-to-chair-sen",
+  "titleZh": "民主党或将加强对 Nvidia 的监管",
+  "titleOriginal": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)",
+  "summary": "民主党众议员，以伊丽莎白·沃伦为潜任银行委员会主席，计划加强对 Nvidia 的监管，重点关注芯片出口和循环融资等问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "民主党将加强对 Nvidia 监管",
+    "重点关注芯片出口与融资",
+    "新国会将要求 Nvidia 交答卷"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "民主党",
+    "芯片出口",
+    "监管",
+    "国会"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Democrats",
+    "Elizabeth Warren",
+    "Senate Banking",
+    "Maggie Eastland",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261106/p15#a261106p15",
+  "publishedAt": "2026-11-06T15:51:06.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4351bc3fca882e7d",
+  "status": "published"
+}

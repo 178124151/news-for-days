@@ -1,21 +1,21 @@
 {
   "id": "1be4fdd8e6ca80f0",
   "slug": "openai-to-acquire-pierre-computer-company-inc",
-  "titleZh": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "titleZh": "OpenAI收购Pierre Computer Company",
   "titleOriginal": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+  "summary": "OpenAI将收购Pierre Computer Company，扩展Codex代码构建、理解和审阅工具。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "OpenAI will acquire Pierre Computer Com…",
-    "OpenAI to acquire Pierre Computer Compa…",
-    "详见原文"
+    "OpenAI收购Pierre Computer Company",
+    "旨在扩展Codex代码工具功能",
+    "提升代码构建和审阅能力"
   ],
   "category": "ai",
   "tags": [
     "OpenAI",
-    "Pierre Computer Company",
-    "并购",
-    "AI",
-    "行业动态"
+    "收购",
+    "Codex",
+    "人工智能",
+    "编程工具"
   ],
   "entities": [
     "OpenAI",
@@ -26,11 +26,11 @@
   "sourceName": "OpenAI News",
   "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
   "publishedAt": "2026-11-04T14:30:00.000Z",
-  "fetchedAt": "2026-11-06T07:58:21.736Z",
-  "importance": 60,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 80,
   "readMinutes": 1,
-  "aiProvider": "extractive",
-  "aiModel": "extractive-v1",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
   "contentHash": "c0256aaecc338c39",
   "status": "published"
 }

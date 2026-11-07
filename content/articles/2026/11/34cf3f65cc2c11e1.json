@@ -1,0 +1,34 @@
+{
+  "id": "34cf3f65cc2c11e1",
+  "slug": "x2018-i-have-no-financial-safety-net-x2019-i-x2019-m-66-rely",
+  "titleZh": "‘我没有财务安全网’：66岁仅靠社保有500美元存款",
+  "titleOriginal": "&#x2018;I have no financial safety net&#x2019;: I&#x2019;m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+  "summary": "一位66岁读者表示，有时会想富人是否应该与像他这样的人置换。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "读者吐槽缺乏财务安全感",
+    "依赖社保且存款仅500美元",
+    "引发对财富差距的思考"
+  ],
+  "category": "finance",
+  "tags": [
+    "理财",
+    "退休",
+    "社保",
+    "储蓄",
+    "财务规划"
+  ],
+  "entities": [
+    "Social Security"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T15:30:00.000Z",
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "766828d7362a57a3",
+  "status": "published"
+}

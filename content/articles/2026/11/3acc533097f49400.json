@@ -1,21 +1,21 @@
 {
   "id": "3acc533097f49400",
   "slug": "deepseek-10",
-  "titleZh": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+  "titleZh": "DeepSeek带火稀疏计算，国产芯片公司加速突围",
   "titleOriginal": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
   "summary": "Q3营收实现数倍增长。原文信息有限，建议阅读原文。",
   "keyPoints": [
-    "Q3营收实现数倍增长",
-    "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-    "详见原文"
+    "DeepSeek带火稀疏计算",
+    "国产芯片公司加速突围",
+    "公司融资近10亿元"
   ],
   "category": "ai",
   "tags": [
     "DeepSeek",
-    "芯片",
-    "AI",
-    "行业动态",
-    "每日速览"
+    "稀疏计算",
+    "国产芯片",
+    "融资",
+    "AI芯片"
   ],
   "entities": [
     "DeepSeek"
@@ -24,11 +24,11 @@
   "sourceName": "量子位",
   "sourceUrl": "https://www.qbitai.com/2026/11/508155.html",
   "publishedAt": "2026-11-06T07:00:29.000Z",
-  "fetchedAt": "2026-11-06T12:57:59.411Z",
-  "importance": 62,
+  "fetchedAt": "2026-11-06T16:17:31.721Z",
+  "importance": 75,
   "readMinutes": 1,
-  "aiProvider": "extractive",
-  "aiModel": "extractive-v1",
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
   "contentHash": "b1b09c4091eb0025",
   "status": "published"
 }

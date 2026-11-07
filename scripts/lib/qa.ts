@@ -42,11 +42,18 @@ export function numbersIn(text: string): Set<string> {
   );
 }
 
+/** 单位换算（10M → 1000万）会改变数量级，但差值是 10 的整数次幂，不算数字不一致。 */
+function isUnitScale(a: number, b: number): boolean {
+  if (!a || !b) return false;
+  const exp = Math.log10(a > b ? a / b : b / a);
+  return Math.abs(exp - Math.round(exp)) < 1e-6;
+}
+
 export interface QaInput {
   titleZh: string;
   summary: string;
   keyPoints: string[];
-  provider: 'cloudflare' | 'openrouter' | 'pollinations' | 'translate' | 'extractive';
+  provider: 'nvidia' | 'cloudflare' | 'openrouter' | 'pollinations' | 'translate' | 'extractive';
   sourceText: string;
 }
 
@@ -75,14 +82,19 @@ export function qaCheck(input: QaInput): QaResult {
   if (!titleZh) issues.push('title-empty');
   if (keyPoints.length < 3) issues.push('keypoints-short');
 
-  if (input.provider !== 'extractive' && cjkRatio(summary) < 0.5) {
+  // 公司名/英文术语会拉低占比，阈值放宽到 0.4 仍能拦住整段英文摘要
+  if (input.provider !== 'extractive' && cjkRatio(summary) < 0.4) {
     issues.push('cjk-ratio');
   }
 
   // 数字一致性只用于生成式模型：机翻会做单位换算（57 billion → 570 亿）
-  if (input.provider === 'cloudflare' || input.provider === 'openrouter') {
+  if (input.provider === 'nvidia' || input.provider === 'cloudflare' || input.provider === 'openrouter') {
     const src = numbersIn(input.sourceText);
-    const missing = [...numbersIn(summary)].filter((n) => !src.has(n));
+    // 只比对 3 位以上数字：月份/日期/件数常由原文推导（November 18 → 11月18日）
+    const srcNums = [...src];
+    const missing = [...numbersIn(summary)].filter(
+      (n) => n.length >= 3 && !src.has(n) && !srcNums.some((s) => isUnitScale(Number(n), Number(s))),
+    );
     if (missing.length > 0) issues.push('number-mismatch');
   }
 

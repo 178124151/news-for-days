@@ -1,0 +1,34 @@
+{
+  "id": "17666a9e1d0e4bb6",
+  "slug": "data-centers-run-on-debt-that-was-a-problem-for-bonds-this-y",
+  "titleZh": "数据中心依赖债务，今年是债券难题",
+  "titleOriginal": "Data centers run on debt. That was a problem for bonds this year &#x2014; and it&#x2019;s only going to get worse.",
+  "summary": "数据中心运行依赖债务，今年债券市场面临压力，预计随着民主党控制国会，融资需求将更加恶化。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "数据中心依赖债务融资",
+    "今年债券市场表现失望",
+    "民主党执政将使融资环境恶化"
+  ],
+  "category": "finance",
+  "tags": [
+    "数据中心",
+    "债务",
+    "债券",
+    "AI",
+    "民主党"
+  ],
+  "entities": [
+    "Data"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T21:37:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c23d2825351b2b56",
+  "status": "published"
+}

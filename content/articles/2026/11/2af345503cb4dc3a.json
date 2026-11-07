@@ -1,0 +1,36 @@
+{
+  "id": "2af345503cb4dc3a",
+  "slug": "crusoe-sells-troubled-wyoming-data-center-project-to-google",
+  "titleZh": "Crusoe将有困难的怀俄明数据中心项目出售给Google",
+  "titleOriginal": "Crusoe sells troubled Wyoming data center project to Google",
+  "summary": "Crusoe出售位于怀俄明州的数据中心项目，交易凸显了建设大规模AI数据中心所面临的挑战。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Crusoe出售怀俄明州数据中心项目",
+    "交易凸显建设大规模AI数据中心的挑战",
+    "项目转让涉及AI基础设施发展难题"
+  ],
+  "category": "tech",
+  "tags": [
+    "Crusoe",
+    "数据中心",
+    "AI基础设施",
+    "怀俄明州",
+    "项目转让"
+  ],
+  "entities": [
+    "Google",
+    "Crusoe",
+    "Wyoming"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "publishedAt": "2026-11-07T01:40:28.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5b555a74d31ff30b",
+  "status": "published"
+}

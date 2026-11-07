@@ -1,0 +1,35 @@
+{
+  "id": "25fa4dd18ec78a48",
+  "slug": "setting-a-new-standard-for-responsible-ai-infrastructure",
+  "titleZh": "OpenAI发布国家社区紧凑与算力校园政策蓝皮书",
+  "titleOriginal": "Setting a new standard for responsible AI infrastructure",
+  "summary": "OpenAI介绍国家社区紧凑与算力校园政策蓝皮书，旨在保护本地资源、创造就业机会并指导责任AI基础设施发展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI发布政策蓝皮书",
+    "聚焦保护本地资源与创造就业",
+    "指导责任AI基础设施发展"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "AI政策",
+    "基础设施",
+    "社区发展",
+    "责任AI"
+  ],
+  "entities": [
+    "Setting",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "publishedAt": "2026-11-05T02:00:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 82,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9de982ca58baf121",
+  "status": "published"
+}

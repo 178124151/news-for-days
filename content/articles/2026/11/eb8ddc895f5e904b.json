@@ -1,0 +1,35 @@
+{
+  "id": "eb8ddc895f5e904b",
+  "slug": "x-startmeuphk-2026-ai",
+  "titleZh": "香港金融科技周 x StartmeupHK 2026主论坛：以金融AI及全球拓展开拓新机遇",
+  "titleOriginal": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+  "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届，以金融+、AI+及全球拓展为主题，开拓新机遇。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "香港金融科技周 x StartmeupHK 2026进入第11届",
+    "主题聚焦金融+、AI+及全球拓展",
+    "旨在开拓新机遇"
+  ],
+  "category": "ai",
+  "tags": [
+    "金融科技",
+    "AI",
+    "全球拓展",
+    "创新",
+    "香港"
+  ],
+  "entities": [
+    "StartmeupHK",
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/507988.html",
+  "publishedAt": "2026-11-06T03:36:34.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "166e20561667edc7",
+  "status": "published"
+}

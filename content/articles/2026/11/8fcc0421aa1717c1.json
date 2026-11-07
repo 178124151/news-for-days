@@ -1,0 +1,36 @@
+{
+  "id": "8fcc0421aa1717c1",
+  "slug": "8-k-pono-capital-four-inc-0002108164-filer",
+  "titleZh": "Pono Capital Four 8-K文件",
+  "titleOriginal": "8-K - Pono Capital Four, Inc. (0002108164) (Filer)",
+  "summary": "公司于2026年11月6日提交8-K文件，涉及重大协议及财务报表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "于2026年11月6日提交8-K文件",
+    "涉及重大协议及财务报表",
+    "符合SEC披露要求"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC文件",
+    "公司治理",
+    "财务披露",
+    "监管合规",
+    "8-K文件"
+  ],
+  "entities": [
+    "Pono Capital Four",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2108164/000149315226050548/0001493152-26-050548-index.htm",
+  "publishedAt": "2026-11-06T22:30:10.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "206b656aff6338dd",
+  "status": "published"
+}

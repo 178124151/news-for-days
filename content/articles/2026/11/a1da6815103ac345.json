@@ -1,0 +1,34 @@
+{
+  "id": "a1da6815103ac345",
+  "slug": "openai-110-1-25",
+  "titleZh": "OpenAI完成110亿美元新融资",
+  "titleOriginal": "OpenAI完成110亿美元新融资，估值1.25万亿美元，软银、红杉资本等参投",
+  "summary": "OpenAI完成约110亿美元新融资，本轮估值1.25万亿美元。软银、红杉资本等参投。融资分两部分完成，首笔已于周五划入账户，剩余部分预计数周内完成。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI完成110亿美元融资，估值达1.25万亿美元",
+    "软银、红杉资本等知名机构参投",
+    "融资分两部分完成，后续仍有增资计划"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "融资",
+    "人工智能",
+    "估值",
+    "风险投资"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4058926444729220?f=rss",
+  "publishedAt": "2026-11-07T00:15:17.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 95,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "712e2ab8e40b1dc9",
+  "status": "published"
+}

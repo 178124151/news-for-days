@@ -1,0 +1,36 @@
+{
+  "id": "9f4b6921227bfaca",
+  "slug": "8-k-ten-holdings-inc-0002030954-filer",
+  "titleZh": "TEN Holdings 8-K文件",
+  "titleOriginal": "8-K - TEN Holdings, Inc. (0002030954) (Filer)",
+  "summary": "公司于2026年11月6日提交8-K文件，披露业务运营及财务状况变动。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "于2026年11月6日提交8-K文件",
+    "披露业务运营及财务状况变动",
+    "符合SEC披露规定"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC文件",
+    "公司治理",
+    "财务披露",
+    "监管合规",
+    "8-K文件"
+  ],
+  "entities": [
+    "TEN Holdings",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/0001493152-26-050546-index.htm",
+  "publishedAt": "2026-11-06T22:29:47.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "181c872589053f32",
+  "status": "published"
+}

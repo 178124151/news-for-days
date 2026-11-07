@@ -1,0 +1,37 @@
+{
+  "id": "4b0830715cb791bc",
+  "slug": "openai-will-keep-investing-in-ai-data-centers-despite-electi",
+  "titleZh": "OpenAI将继续投资AI数据中心",
+  "titleOriginal": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+  "summary": "OpenAI首席财务官表示，公司将继续投资AI数据中心，尽管选举结果显示选民支持对数据中心开发实施限制。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI将继续投资AI数据中心",
+    "选举结果选民支持限制数据中心",
+    "CFO向CNBC透露相关计划"
+  ],
+  "category": "finance",
+  "tags": [
+    "OpenAI",
+    "AI",
+    "数据中心",
+    "投资",
+    "选举影响"
+  ],
+  "entities": [
+    "OpenAI",
+    "AI",
+    "CFO",
+    "CNBC"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+  "publishedAt": "2026-11-06T22:25:58.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b4278c2055936b0d",
+  "status": "published"
+}

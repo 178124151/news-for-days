@@ -1,0 +1,35 @@
+{
+  "id": "db9792e954d44701",
+  "slug": "merge-builds-product-and-business-tools-with-openai-technolo",
+  "titleZh": "Merge利用OpenAI技术构建产品与业务工具",
+  "titleOriginal": "Merge builds product and business tools with OpenAI technology",
+  "summary": "Merge利用GPT-6 Astra、ChatGPT和Codex等OpenAI技术，用于审查产品代码和市场营销支持。其团队也使用AI规划高管晚餐和准备销售更新。",
+  "keyPoints": [
+    "Merge整合GPT-6 Astra等OpenAI模型",
+    "应用场景包括代码审查与市场营销",
+    "团队内部使用AI辅助行政事务"
+  ],
+  "category": "ai",
+  "tags": [
+    "Merge",
+    "OpenAI",
+    "企业工具",
+    "代码审查",
+    "市场营销"
+  ],
+  "entities": [
+    "OpenAI",
+    "Merge"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/merge-builds-with-openai",
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d84eac623e46432f",
+  "status": "published"
+}

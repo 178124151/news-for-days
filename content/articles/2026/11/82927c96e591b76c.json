@@ -1,0 +1,32 @@
+{
+  "id": "82927c96e591b76c",
+  "slug": "you-know-the-launch-market-is-tough-when-satellite-companies",
+  "titleZh": "卫星公司面对发射市场困难",
+  "titleOriginal": "You know the launch market is tough when satellite companies start building rockets",
+  "summary": "AST SpaceMobile计划开发名为Blacklift的中型运载火箭，可将20吨有效载荷送入低地球轨道。公司计划于2028年下半年开始商业发射，以扩大可达轨道范围。",
+  "keyPoints": [
+    "AST SpaceMobile开发Blacklift运载火箭",
+    "有效载荷容量达20吨，可送入低地球轨道",
+    "计划2028年开始商业发射"
+  ],
+  "category": "tech",
+  "tags": [
+    "运载火箭",
+    "空间发射",
+    "AST SpaceMobile",
+    "低地球轨道",
+    "商业航天"
+  ],
+  "entities": [],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+  "publishedAt": "2026-11-06T18:20:47.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e5c4d26d450893e2",
+  "status": "published"
+}

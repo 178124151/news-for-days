@@ -1,0 +1,36 @@
+{
+  "id": "a0a44ed09dc9a108",
+  "slug": "partnering-with-hacktron-to-find-vulnerabilities-in-openais-",
+  "titleZh": "OpenAI与Hacktron合作寻找系统漏洞",
+  "titleOriginal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "summary": "OpenAI宣布与Hacktron合作，旨在查找系统漏洞、测试第三方服务连接并加强防御。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI与Hacktron合作查找漏洞",
+    "旨在测试第三方服务连接",
+    "加强系统防御措施"
+  ],
+  "category": "ai",
+  "tags": [
+    "人工智能",
+    "网络安全",
+    "OpenAI",
+    "漏洞测试",
+    "防御加固"
+  ],
+  "entities": [
+    "OpenAI",
+    "Partnering",
+    "Hacktron"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/partnering-with-hacktron",
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "084d432d01f9eb2b",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5bdadf6562c0b3ee",
+  "slug": "ai",
+  "titleZh": "AI短剧门槛降低！实测即梦短剧工作室：剧本分镜预演一条龙",
+  "titleOriginal": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+  "summary": "AI短剧门槛降低，实测即梦短剧工作室实现剧本分镜预演一条龙，伙伴计划长期护航。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI短剧门槛显著降低",
+    "即梦工作室实现剧本分镜预演全流程",
+    "伙伴计划提供长期护航支持"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI短剧",
+    "内容创作",
+    "即梦",
+    "工作室",
+    "伙伴计划"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/507972.html",
+  "publishedAt": "2026-11-06T03:20:05.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "68f085d398afbf70",
+  "status": "published"
+}

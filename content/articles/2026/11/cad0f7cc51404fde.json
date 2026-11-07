@@ -1,0 +1,35 @@
+{
+  "id": "cad0f7cc51404fde",
+  "slug": "elon-musk-opens-the-door-for-a-big-spacex-acquisition",
+  "titleZh": "马斯克打开SpaceX大规模收购空间",
+  "titleOriginal": "Elon Musk opens the door for a big SpaceX acquisition",
+  "summary": "SpaceX公司正寻求挑战电信巨头，马斯克表示可能进行大规模收购。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "SpaceX寻求挑战电信巨头",
+    "马斯克打开大规模收购空间",
+    "涉及火箭和卫星互联网业务"
+  ],
+  "category": "finance",
+  "tags": [
+    "SpaceX",
+    "收购",
+    "马斯克",
+    "电信",
+    "航天"
+  ],
+  "entities": [
+    "SpaceX",
+    "Elon Musk"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-06T21:45:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "25b9881410e50fe1",
+  "status": "published"
+}

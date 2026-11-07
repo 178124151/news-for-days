@@ -1,0 +1,35 @@
+{
+  "id": "0b33259ab4386660",
+  "slug": "does-meta-think-we-cant-read-meta-abandons-sketchy-commercia",
+  "titleZh": "Meta推翻有争议的商业条款更新",
+  "titleOriginal": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+  "summary": "Meta因公众及法律界强烈反对而无限期推迟更新商业条款，要求Meta Business账户允许在外部网站进行AI训练。公司称将继续与利益相关方沟通，现有条款暂时保持不变。法律专家警告称，该提案可能让Meta忽略robots.txt爬虫偏好，大规模抓取非Facebook内容以获取AI训练数据，可能规避版权授权费用。",
+  "keyPoints": [
+    "Meta因公众反对无限期推迟商业条款更新",
+    "法律专家警告该提案可能忽略robots.txt爬虫偏好",
+    "Meta可能通过该提案规避新闻出版商的版权授权费用"
+  ],
+  "category": "tech",
+  "tags": [
+    "Meta",
+    "AI训练",
+    "商业条款",
+    "法律争议",
+    "内容抓取"
+  ],
+  "entities": [
+    "Meta",
+    "Does Meta"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+  "publishedAt": "2026-11-06T17:43:02.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 85,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "72f27e0c15604c84",
+  "status": "published"
+}

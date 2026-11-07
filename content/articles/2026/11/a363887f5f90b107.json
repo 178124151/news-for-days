@@ -1,0 +1,35 @@
+{
+  "id": "a363887f5f90b107",
+  "slug": "hy4-agent",
+  "titleZh": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+  "titleOriginal": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+  "summary": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "腾讯 Hy4 调用激增十倍，进行扩容",
+    "Agent 能力开源模型排名第一",
+    "因调用激增进行基础设施扩容"
+  ],
+  "category": "ai",
+  "tags": [
+    "腾讯",
+    "Hy4",
+    "AI模型",
+    "开源",
+    "扩容"
+  ],
+  "entities": [
+    "Hy4",
+    "Agent"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/507967.html",
+  "publishedAt": "2026-11-06T02:00:11.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "96565e9712b2121d",
+  "status": "published"
+}

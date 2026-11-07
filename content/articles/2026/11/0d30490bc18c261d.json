@@ -1,0 +1,32 @@
+{
+  "id": "0d30490bc18c261d",
+  "slug": "0d30490bc18c261d",
+  "titleZh": "成都具身智能公司获千万级天使轮融资",
+  "titleOriginal": "成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发",
+  "summary": "成都具身大脑公司奇林波完成千万级人民币天使轮融资，投资方包括成都方寸引擎及天使投资人。公司聚焦具身智能核心软件，以机器人自主行动与多机协作为核心方向，将开源鸿蒙作为基座开发具身机器人。",
+  "keyPoints": [
+    "奇林波获千万级天使轮融资，聚焦具身智能核心软件",
+    "以开源鸿蒙为基座开发具身机器人，支持跨形态适配",
+    "具身机器人可搭载开源鸿蒙系统，面向教育科研及工业场景"
+  ],
+  "category": "tech",
+  "tags": [
+    "具身智能",
+    "开源鸿蒙",
+    "机器人",
+    "天使轮融资",
+    "国产软硬件"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4052696726328452?f=rss",
+  "publishedAt": "2026-11-07T01:30:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 75,
+  "readMinutes": 5,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b5143a2c237d0002",
+  "status": "published"
+}

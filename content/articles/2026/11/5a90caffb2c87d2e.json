@@ -1,0 +1,34 @@
+{
+  "id": "5a90caffb2c87d2e",
+  "slug": "toyblocks-a-controlled-world-for-robot-learning-and-evaluati",
+  "titleZh": "ToyBlocks：机器人学习与评估的受控世界",
+  "titleOriginal": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "summary": "Hugging Face发布ToyBlocks，旨在为机器人学习提供受控环境并进行评估。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hugging Face发布ToyBlocks平台",
+    "旨在为机器人学习提供受控环境",
+    "支持机器人学习与评估"
+  ],
+  "category": "ai",
+  "tags": [
+    "机器人",
+    "AI学习",
+    "评估",
+    "HuggingFace",
+    "开源"
+  ],
+  "entities": [
+    "ToyBlocks"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/toyblocks",
+  "publishedAt": "2026-11-06T14:00:48.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "34ffe80471df45a0",
+  "status": "published"
+}

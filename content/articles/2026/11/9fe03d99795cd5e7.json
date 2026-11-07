@@ -1,0 +1,36 @@
+{
+  "id": "9fe03d99795cd5e7",
+  "slug": "sources-openai-has-closed-on-new-funding-of-roughly-11b-at-a",
+  "titleZh": "OpenAI获闭门融资11亿美元，估值1.25万亿美元",
+  "titleOriginal": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
+  "summary": "据Bloomberg报道，OpenAI已闭门完成约11亿美元融资，公司估值达1.25万亿美元。这轮融资总规模可能增至20亿美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI完成约11亿美元融资",
+    "公司估值达1.25万亿美元",
+    "融资总规模可能增至20亿美元"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "融资",
+    "估值",
+    "AI公司",
+    "风险投资"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sources",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261106/p22#a261106p22",
+  "publishedAt": "2026-11-06T21:15:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 95,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a06794c41126a310",
+  "status": "published"
+}

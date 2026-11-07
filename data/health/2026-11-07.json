@@ -1,9 +1,9 @@
 {
   "date": "2026-11-07",
-  "startedAt": "2026-11-06T16:16:38.614Z",
-  "finishedAt": "2026-11-06T16:17:31.753Z",
-  "durationMs": 53139,
-  "fetched": 246,
+  "startedAt": "2026-11-07T01:56:52.593Z",
+  "finishedAt": "2026-11-07T01:57:56.994Z",
+  "durationMs": 64401,
+  "fetched": 276,
   "published": 28,
   "sources": [
     {
@@ -11,142 +11,140 @@
       "name": "TechCrunch",
       "ok": true,
       "count": 20,
-      "ms": 2078
+      "ms": 165
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "ok": true,
       "count": 10,
-      "ms": 875
+      "ms": 201
     },
     {
       "id": "arstechnica",
       "name": "Ars Technica",
       "ok": true,
       "count": 20,
-      "ms": 386
+      "ms": 269
     },
     {
       "id": "hackernews",
       "name": "Hacker News",
       "ok": true,
       "count": 20,
-      "ms": 2827
+      "ms": 3529
     },
     {
       "id": "mittr",
       "name": "MIT Technology Review",
       "ok": true,
       "count": 10,
-      "ms": 185
+      "ms": 282
     },
     {
       "id": "36kr",
       "name": "36氪",
       "ok": true,
       "count": 30,
-      "ms": 395
+      "ms": 1695
     },
     {
       "id": "infoq-cn",
       "name": "InfoQ 中文",
       "ok": true,
       "count": 0,
-      "ms": 309
+      "ms": 2103
     },
     {
       "id": "techmeme",
       "name": "Techmeme",
       "ok": true,
       "count": 15,
-      "ms": 1176
+      "ms": 428
     },
     {
       "id": "openai",
       "name": "OpenAI News",
       "ok": true,
-      "count": 34,
-      "ms": 5988
+      "count": 36,
+      "ms": 356
     },
     {
       "id": "google-ai",
       "name": "Google AI Blog",
       "ok": true,
       "count": 2,
-      "ms": 1093
+      "ms": 515
     },
     {
       "id": "deepmind",
       "name": "Google DeepMind",
       "ok": true,
-      "count": 4,
-      "ms": 1869
+      "count": 0,
+      "ms": 176
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
-      "ok": false,
-      "count": 0,
-      "ms": 43257,
-      "error": "connect ETIMEDOUT 67.15.100.252:443"
+      "ok": true,
+      "count": 12,
+      "ms": 217
     },
     {
       "id": "arxiv-ai",
       "name": "arXiv cs.AI",
       "ok": true,
       "count": 8,
-      "ms": 44287
+      "ms": 194
     },
     {
       "id": "jiqizhixin",
       "name": "机器之心",
       "ok": true,
       "count": 0,
-      "ms": 264
+      "ms": 1486
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 107
+      "ms": 1388
     },
     {
       "id": "cnbc",
       "name": "CNBC Markets",
       "ok": true,
       "count": 30,
-      "ms": 375
+      "ms": 177
     },
     {
       "id": "marketwatch",
       "name": "MarketWatch",
       "ok": true,
       "count": 10,
-      "ms": 752
+      "ms": 114
     },
     {
       "id": "ftchinese",
       "name": "FT中文网",
-      "ok": false,
-      "count": 0,
-      "ms": 43313,
-      "error": "connect ETIMEDOUT 199.59.149.203:443"
+      "ok": true,
+      "count": 20,
+      "ms": 680
     },
     {
       "id": "sec-edgar",
       "name": "SEC EDGAR 8-K",
       "ok": true,
       "count": 20,
-      "ms": 543
+      "ms": 384
     },
     {
       "id": "federalreserve",
       "name": "美联储",
       "ok": true,
       "count": 3,
-      "ms": 855
+      "ms": 125
     }
   ],
   "ai": {

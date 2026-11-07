@@ -1,0 +1,35 @@
+{
+  "id": "5f721228af3682c2",
+  "slug": "measuring-how-ai-agents-handle-everyday-wet-lab-science",
+  "titleZh": "OpenAI发布BioBasicsBench测试AI代理湿实验科学能力",
+  "titleOriginal": "Measuring how AI agents handle everyday wet-lab science",
+  "summary": "OpenAI推出BioBasicsBench，这是一个包含100个任务的基准测试，用于测量AI代理如何解释原始实验数据并处理日常湿实验科学。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI发布BioBasicsBench基准测试",
+    "包含100个任务测试AI代理能力",
+    "聚焦解释实验数据与湿实验科学"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "AI代理",
+    "生物实验",
+    "基准测试",
+    "科学数据"
+  ],
+  "entities": [
+    "Measuring",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "publishedAt": "2026-11-06T00:00:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3fe232c735215461",
+  "status": "published"
+}

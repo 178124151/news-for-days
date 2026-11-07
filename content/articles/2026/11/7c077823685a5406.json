@@ -1,0 +1,35 @@
+{
+  "id": "7c077823685a5406",
+  "slug": "sen-chris-murphy-released-from-hospital-after-stroke-will-mi",
+  "titleZh": "美国参议员克里斯蒂·墨菲中风出院",
+  "titleOriginal": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+  "summary": "美国民主党参议员克里斯蒂·墨菲因中风出院，将休假数周，届时将缺席投票。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美国民主党参议员墨菲因中风出院",
+    "将休假数周，缺席投票",
+    "曾被讨论为2028年白宫候选人"
+  ],
+  "category": "finance",
+  "tags": [
+    "政治",
+    "健康",
+    "参议员",
+    "2028选举",
+    "康复"
+  ],
+  "entities": [
+    "Sen",
+    "Chris Murphy"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+  "publishedAt": "2026-11-06T21:40:09.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f408c14afc290d78",
+  "status": "published"
+}

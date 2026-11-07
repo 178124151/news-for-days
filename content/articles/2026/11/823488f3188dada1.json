@@ -1,0 +1,35 @@
+{
+  "id": "823488f3188dada1",
+  "slug": "investors-brace-for-lower-anthropic-valuation-calling-1-5-tr",
+  "titleZh": "投资者预期Anthropic估值下调",
+  "titleOriginal": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+  "summary": "市场预期AI公司Anthropic估值可能低于1.5万亿美元，低于此前预期，因AI交易在华尔街受冷。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic估值或低于1.5万亿美元",
+    "低于此前预期",
+    "AI交易在华尔街受冷"
+  ],
+  "category": "finance",
+  "tags": [
+    "Anthropic",
+    "估值",
+    "AI",
+    "投资",
+    "华尔街"
+  ],
+  "entities": [
+    "Anthropic",
+    "Investors"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+  "publishedAt": "2026-11-06T21:07:07.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "acd634ba8cbca162",
+  "status": "published"
+}

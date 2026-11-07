@@ -1,0 +1,37 @@
+{
+  "id": "c65c7708e93995ca",
+  "slug": "a-closer-look-at-phonon-tts-launching-high-quality-on-device",
+  "titleZh": "Phonon TTS：登顶基准测试的高质量端侧语音技术",
+  "titleOriginal": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "summary": "Hugging Face介绍Phonon TTS，该技术能够在设备端实现高质量语音合成，并在基准测试中取得优异成绩。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Phonon TTS实现高质量语音合成",
+    "支持端侧部署",
+    "在基准测试中表现优异"
+  ],
+  "category": "ai",
+  "tags": [
+    "语音合成",
+    "端侧AI",
+    "HuggingFace",
+    "TTS技术",
+    "基准测试"
+  ],
+  "entities": [
+    "A Closer Look",
+    "Phonon TTS",
+    "Launching High Quality",
+    "Benchmarks"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/phonon-tts",
+  "publishedAt": "2026-11-05T00:00:00.000Z",
+  "fetchedAt": "2026-11-07T01:57:56.989Z",
+  "importance": 70,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "366f1ffecbf96be6",
+  "status": "published"
+}

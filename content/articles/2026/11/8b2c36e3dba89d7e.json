@@ -1,0 +1,35 @@
+{
+  "id": "8b2c36e3dba89d7e",
+  "slug": "github-openai-a",
+  "titleZh": "GitHub承受压力！OpenAI收购替代品，A社自研，马斯克介入",
+  "titleOriginal": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+  "summary": "AI编码速度加快，基础设施难以跟上，GitHub等平台面临挑战。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI编码速度超出基础设施承载",
+    "GitHub等平台面临压力",
+    "OpenAI及其他公司积极布局"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI编码",
+    "GitHub",
+    "基础设施",
+    "OpenAI",
+    "技术挑战"
+  ],
+  "entities": [
+    "OpenAI",
+    "GitHub"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508449.html",
+  "publishedAt": "2026-11-07T09:38:56.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "15e36405ecbef5b1",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ad233551b50eea5d",
+  "slug": "ad233551b50eea5d",
+  "titleZh": "睿岭智能连续完成两轮数千万元融资",
+  "titleOriginal": "“睿岭智能”连续完成两轮数千万元融资",
+  "summary": "全彩3D拼装DIY平台睿岭智能连续完成两轮数千万元融资，天使轮由元禾原点领投，天使+轮梅花创投领投。资金将用于首款产品量产、工艺迭代及内容生态建设。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "连续完成两轮数千万元融资",
+    "天使轮元禾原点领投，天使+轮梅花创投领投",
+    "聚焦首款产品量产和内容生态建设"
+  ],
+  "category": "tech",
+  "tags": [
+    "睿岭智能",
+    "融资",
+    "3D拼装",
+    "DIY",
+    "内容生态"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4061829266838657?f=rss",
+  "publishedAt": "2026-11-09T01:06:23.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "96ee2b9b415b71f0",
+  "status": "published"
+}

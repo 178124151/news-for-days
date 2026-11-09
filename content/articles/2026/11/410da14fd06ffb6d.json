@@ -1,0 +1,34 @@
+{
+  "id": "410da14fd06ffb6d",
+  "slug": "democrats-amp-up-trump-investigation-threats-blanche-counter",
+  "titleZh": "民主党加剧特朗普调查威胁",
+  "titleOriginal": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+  "summary": "民主党承诺调查特朗普白宫及与其合作的企业，布兰奇反驳可能调查议员。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "民主党承诺调查特朗普及关联企业",
+    "布兰奇反驳可能调查立法者",
+    "政治调查升级态势"
+  ],
+  "category": "finance",
+  "tags": [
+    "政治调查",
+    "特朗普",
+    "民主党"
+  ],
+  "entities": [
+    "Democrats",
+    "Trump",
+    "Blanche"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+  "publishedAt": "2026-11-08T18:57:56.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e8c570789d940196",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3ab32f15d89da28e",
+  "slug": "funeral-homes-are-finding-new-life-hosting-weddings-and-golf",
+  "titleZh": "殡葬业转型举办婚礼高尔夫",
+  "titleOriginal": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+  "summary": "传统殡葬业衰退下，殡葬业者开始举办婚礼和高尔夫赛事寻求新生。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "殡葬业转型举办婚礼",
+    "提供高尔夫赛事服务",
+    "应对传统业务衰退"
+  ],
+  "category": "finance",
+  "tags": [
+    "殡葬业",
+    "商业转型",
+    "婚礼服务"
+  ],
+  "entities": [
+    "Funeral"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-09T00:00:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "718f89e82b7163e0",
+  "status": "published"
+}

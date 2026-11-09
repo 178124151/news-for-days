@@ -1,0 +1,35 @@
+{
+  "id": "dc9bbddb9f39098e",
+  "slug": "trump-says-renewed-iran-strikes-highly-unlikely-if-talks-pro",
+  "titleZh": "特朗普称若谈判进展 Iran 重 strikes 高度 unlikely 但仍可能 strikes",
+  "titleOriginal": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+  "summary": "CNBC Markets 报道称，特朗普将避免重新对伊朗发动 strikes 与伊核计划谈判进展及霍尔木兹海峡进展挂钩，但仍保留 strikes 可能性。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "特朗普将 Iran strikes 与谈判进展挂钩",
+    "强调取决于伊核计划及霍尔木兹海峡情况",
+    "保留军事行动可能性"
+  ],
+  "category": "finance",
+  "tags": [
+    "特朗普",
+    "伊朗",
+    "地缘政治",
+    "核谈判",
+    "中东局势"
+  ],
+  "entities": [
+    "Trump",
+    "Iran"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+  "publishedAt": "2026-11-08T21:53:02.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1de24fcf43f0cf77",
+  "status": "published"
+}

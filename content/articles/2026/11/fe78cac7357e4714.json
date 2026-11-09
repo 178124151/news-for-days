@@ -1,0 +1,40 @@
+{
+  "id": "fe78cac7357e4714",
+  "slug": "how-sequoias-alfred-lin-and-pat-grady-erased-roelof-bothas-l",
+  "titleZh": "西科亚Alfred Lin 和 Pat Grady 如何抹去 Roelof Botha 的遗产",
+  "titleOriginal": "How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs (Financial Times)",
+  "summary": "Financial Times 报道称，西科亚合伙人 Alfred Lin 和 Pat Grady 已抹去 Roelof Botha 的遗产，将管理费用 halved 并解散其基金。消息称 Botha 在未经他人知情的情况下加入了 SpaceX 董事会。",
+  "keyPoints": [
+    "西科亚抹去 Botha 遗产，将管理费用减半并解散基金",
+    "Botha 或在未经同意的情况下加入 SpaceX 董事会",
+    "伦敦办公室关闭和永久资本基金为流程优化"
+  ],
+  "category": "tech",
+  "tags": [
+    "西科亚",
+    "风险投资",
+    "Botha",
+    "SpaceX",
+    "组织变动"
+  ],
+  "entities": [
+    "SpaceX",
+    "How Sequoia",
+    "Alfred Lin",
+    "Pat Grady",
+    "Roelof Botha",
+    "GPs",
+    "Financial Times"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261108/p18#a261108p18",
+  "publishedAt": "2026-11-09T01:05:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0a3d73f75491b588",
+  "status": "published"
+}

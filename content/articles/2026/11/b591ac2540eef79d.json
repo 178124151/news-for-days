@@ -1,0 +1,36 @@
+{
+  "id": "b591ac2540eef79d",
+  "slug": "8-k-knightscope-inc-0001600983-filer",
+  "titleZh": "8-K - Knightscope, Inc. (0001600983) (申…",
+  "titleOriginal": "8-K - Knightscope, Inc. (0001600983) (Filer)",
+  "summary": "已提交：2026-11-06 账号：0001104659-26-123963 大小：165 KB 项目 3.01：退市通知或未满足持续上市规则或标准；转移上市。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "8-K - Knightscope, Inc. (0001600983) (申…",
+    "已提交：2026-11-06 账号：0001104659-26-123963 …",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Knightscope",
+    "Inc",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Knightscope",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926123963/0001104659-26-123963-index.htm",
+  "publishedAt": "2026-11-06T22:25:15.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 35,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "2269300e1bbd8263",
+  "status": "published"
+}

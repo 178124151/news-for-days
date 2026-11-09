@@ -1,0 +1,32 @@
+{
+  "id": "d34c5dfa0ce60cbb",
+  "slug": "i-x2019-m-65-and-worth-more-than-5-6-million-can-i-afford-a-",
+  "titleZh": "65岁资产560万能否买20万房车",
+  "titleOriginal": "I&#x2019;m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+  "summary": "数学计算冷酷无情，但财务规划需具体分析个人情况。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "资产560万进行财务测算",
+    "考虑20万房车购买能力",
+    "财务决策需量力而行"
+  ],
+  "category": "finance",
+  "tags": [
+    "退休规划",
+    "资产配置",
+    "消费决策"
+  ],
+  "entities": [
+    "Can I"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-08T23:49:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "90d99b20968488d0",
+  "status": "published"
+}

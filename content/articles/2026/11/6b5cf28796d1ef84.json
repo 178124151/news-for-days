@@ -1,0 +1,33 @@
+{
+  "id": "6b5cf28796d1ef84",
+  "slug": "the-s-p-500-could-be-dangerously-exposed-to-ai-here-are-some",
+  "titleZh": "标普500或因AI暴露风险",
+  "titleOriginal": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+  "summary": "标普500指数并未如想象中那样分散化，存在AI相关风险暴露。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "标普500指数分散化程度低于预期",
+    "存在AI相关风险暴露",
+    "提供简单替代方案"
+  ],
+  "category": "finance",
+  "tags": [
+    "标普500",
+    "AI风险",
+    "投资替代"
+  ],
+  "entities": [
+    "The S",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-09T00:40:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "99dcc3afd5bdc504",
+  "status": "published"
+}

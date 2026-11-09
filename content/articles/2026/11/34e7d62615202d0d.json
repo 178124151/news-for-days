@@ -1,0 +1,35 @@
+{
+  "id": "34e7d62615202d0d",
+  "slug": "how-cisco-defends-at-machine-speed-with-openai",
+  "titleZh": "Cisco以机器速度防御",
+  "titleOriginal": "How Cisco defends at machine speed with OpenAI",
+  "summary": "Cisco将网络情报与OpenAI模型结合，加强企业安全防护，构建更具适应性的防御体系。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Cisco结合网络情报与OpenAI模型",
+    "加强企业安全防护能力",
+    "构建适应性防御体系"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "网络安全",
+    "Cisco",
+    "OpenAI",
+    "防御"
+  ],
+  "entities": [
+    "OpenAI",
+    "How Cisco"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/cisco-cyber",
+  "publishedAt": "2026-11-03T08:00:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f1cdf2188dc350d0",
+  "status": "published"
+}

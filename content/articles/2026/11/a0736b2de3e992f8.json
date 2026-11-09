@@ -1,0 +1,34 @@
+{
+  "id": "a0736b2de3e992f8",
+  "slug": "openai-110",
+  "titleZh": "OpenAI新融资110亿美元，落实不及原计划一半",
+  "titleOriginal": "OpenAI新融资到账110亿美元，不及原计划一半",
+  "summary": "OpenAI融资规模缩水，硅谷投资人保持谨慎态度。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI融资规模缩水",
+    "硅谷投资人保持谨慎",
+    "融资落实不及原计划一半"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "融资",
+    "硅谷",
+    "投资",
+    "资金"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508344.html",
+  "publishedAt": "2026-11-07T08:11:25.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "47da7e51f3732588",
+  "status": "published"
+}

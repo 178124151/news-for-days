@@ -1,0 +1,32 @@
+{
+  "id": "e59e59f84047bd1f",
+  "slug": "235-09",
+  "titleZh": "两市融资余额减少235.09亿元",
+  "titleOriginal": "两市融资余额减少235.09亿元",
+  "summary": "截至11月6日，上交所融资余额11688.37亿元，较前一日减少119.61亿元；深交所融资余额10786.31亿元，较前一日减少115.48亿元；两市合计22474.68亿元，较前一日减少235.09亿元。",
+  "keyPoints": [
+    "两市融资余额合计减少235.09亿元",
+    "上交所融资余额减少119.61亿元",
+    "深交所融资余额减少115.48亿元"
+  ],
+  "category": "tech",
+  "tags": [
+    "融资余额",
+    "两市",
+    "上交所",
+    "深交所",
+    "11月6日"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4061818510955392?f=rss",
+  "publishedAt": "2026-11-09T00:55:27.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1d35838644779c8a",
+  "status": "published"
+}

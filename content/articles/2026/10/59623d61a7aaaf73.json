@@ -1,0 +1,35 @@
+{
+  "id": "59623d61a7aaaf73",
+  "slug": "speeding-up-planning-decisions-with-ai",
+  "titleZh": "利用人工智能加速规划决策",
+  "titleOriginal": "Speeding up planning decisions with AI",
+  "summary": "谷歌 DeepMind 与英国政府合作，减少规划评估时间。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "利用人工智能加速规划决策",
+    "谷歌 DeepMind 与英国政府合作，减少规划评估时间",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Speeding",
+    "AI",
+    "行业动态",
+    "每日速览",
+    "全球市场"
+  ],
+  "entities": [
+    "Speeding",
+    "AI"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+  "publishedAt": "2026-10-30T14:18:30.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 43,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "19fc382dd116cc13",
+  "status": "published"
+}

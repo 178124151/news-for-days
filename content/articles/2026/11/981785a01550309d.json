@@ -1,0 +1,36 @@
+{
+  "id": "981785a01550309d",
+  "slug": "devrev-delivers-autonomous-self-service-with-gpt-6-1-sol",
+  "titleZh": "DevRev使用GPT-6.1 Sol实现自主自助",
+  "titleOriginal": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "summary": "DevRev利用GPT-6.1 Sol驱动Computer和Operator，在推理、速度和成本间取平衡，服务企业客户。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "DevRev使用GPT-6.1 Sol技术",
+    "驱动Computer和Operator两大功能",
+    "平衡推理能力、速度与成本"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "企业服务",
+    "GPT-6.1",
+    "自助",
+    "DevRev"
+  ],
+  "entities": [
+    "GPT",
+    "DevRev",
+    "Sol"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/devrev-enterprise-self-service",
+  "publishedAt": "2026-11-04T00:00:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cc2fa3b986ee59f1",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "23c4f130369cb972",
+  "slug": "agentic-cheminformatics-with-google-antigravity",
+  "titleZh": "Google Antigravity助力药物发现",
+  "titleOriginal": "Agentic cheminformatics with Google Antigravity",
+  "summary": "Google Antigravity和Cheminformatics Skills加速药物发现流程，协助搜索化合物并提议新型刚性宏环物质。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google Antigravity技术应用",
+    "加速药物发现工作流",
+    "协助搜索与提议新型化合物"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "药物发现",
+    "Google",
+    "Cheminformatics",
+    "化合物"
+  ],
+  "entities": [
+    "Google",
+    "Agentic",
+    "Google Antigravity"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+  "publishedAt": "2026-11-03T17:01:49.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f9c3dc3fe8fb1214",
+  "status": "published"
+}

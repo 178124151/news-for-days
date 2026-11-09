@@ -1,0 +1,40 @@
+{
+  "id": "4f65553ca3f29e36",
+  "slug": "federal-reserve-board-announces-termination-of-enforcement-a",
+  "titleZh": "Federal Reserve Board announces termination of enforcement action with Allegian…",
+  "titleOriginal": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+  "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+  "keyPoints": [
+    "Federal Reserve Board announces termina…",
+    "Federal Reserve Board announces termina…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "Allegiant United Holdings",
+    "LLC",
+    "Nano Financial Holdings",
+    "Inc",
+    "Nano Banc"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+  "publishedAt": "2026-11-05T16:00:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "44ffe83a6c1cad4b",
+  "status": "published"
+}

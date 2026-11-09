@@ -1,0 +1,35 @@
+{
+  "id": "16cde38940afa3c3",
+  "slug": "8-k-t3-defense-inc-0001787518-filer",
+  "titleZh": "8-K - T3 Defense Inc. (0001787518) (申报人)",
+  "titleOriginal": "8-K - T3 Defense Inc. (0001787518) (Filer)",
+  "summary": "已提交：2026-11-06 账号：0001185185-26-005246 大小：266 KB 项目 1.01：签订重大最终协议 项目 2.01：完成资产收购或处置 项目 3.02：未注册的股票证券销售 项目 9.01：财务报表和附件",
+  "keyPoints": [
+    "8-K - T3 Defense Inc. (0001787518) (申报人)",
+    "已提交：2026-11-06 账号：0001185185-26-005246 …",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "T3 Defense Inc",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "T3 Defense Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526005246/0001185185-26-005246-index.htm",
+  "publishedAt": "2026-11-06T22:25:17.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 35,
+  "readMinutes": 1,
+  "aiProvider": "pollinations",
+  "aiModel": "gpt-oss-20b（翻译）",
+  "contentHash": "7ca1be60696c6e0f",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "327eb1bc281e4d68",
+  "slug": "here-are-the-2-big-things-were-watching-in-the-stock-market-",
+  "titleZh": "CoreWeave盈利与通胀数据聚焦",
+  "titleOriginal": "Here are the 2 big things we're watching in the stock market in the week ahead",
+  "summary": "CoreWeave业绩报告及通胀数据将成为市场关注焦点。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CoreWeave业绩报告聚焦市场关注",
+    "通胀数据将影响市场走向",
+    "本周股市两大核心议题"
+  ],
+  "category": "finance",
+  "tags": [
+    "股市",
+    "CoreWeave",
+    "通胀",
+    "财报",
+    "经济数据"
+  ],
+  "entities": [],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+  "publishedAt": "2026-11-08T17:40:15.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "38e09133634c70d3",
+  "status": "published"
+}

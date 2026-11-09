@@ -1,0 +1,32 @@
+{
+  "id": "121d60c1ace4d669",
+  "slug": "121d60c1ace4d669",
+  "titleZh": "资本正在撤离“世界模型”",
+  "titleOriginal": "资本正在撤离“世界模型”",
+  "summary": "原文信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "标题涉及世界模型概念",
+    "资本动向相关",
+    "信息有限需谨慎解读"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "世界模型",
+    "资本",
+    "投资",
+    "动向"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508466.html",
+  "publishedAt": "2026-11-08T04:09:55.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c6bf8642260ba484",
+  "status": "published"
+}

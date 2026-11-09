@@ -1,0 +1,34 @@
+{
+  "id": "25493a43cba550c7",
+  "slug": "accelerating-engineering-for-the-physical-world",
+  "titleZh": "加速实体世界工程",
+  "titleOriginal": "Accelerating engineering for the physical world",
+  "summary": "ChatGPT和Codex等工具帮助工程师加速CAD、PCB设计、仿真及相关工作流，覆盖实体产业领域。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "ChatGPT和Codex辅助工程设计",
+    "加速CAD、PCB及仿真等流程",
+    "服务实体经济相关领域"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "工程设计",
+    "Codex",
+    "ChatGPT",
+    "物理世界"
+  ],
+  "entities": [
+    "Accelerating"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "publishedAt": "2026-11-03T12:00:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bbade9e42a2cac77",
+  "status": "published"
+}

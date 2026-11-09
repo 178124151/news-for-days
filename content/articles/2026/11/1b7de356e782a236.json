@@ -1,0 +1,32 @@
+{
+  "id": "1b7de356e782a236",
+  "slug": "this-retired-professor-has-reinvented-himself-x2014-as-a-tay",
+  "titleZh": "退休教授转型泰勒斯威フト学者",
+  "titleOriginal": "This retired professor has reinvented himself &#x2014; as a Taylor Swift scholar",
+  "summary": "退休教授经外甥说服开始分析泰勒斯威フト歌词，现已72岁成为成功播客主持。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "退休教授转型泰勒斯威フト研究",
+    "外甥鼓励开始歌词分析",
+    "现为72岁成功播客主持人"
+  ],
+  "category": "finance",
+  "tags": [
+    "退休生涯",
+    "流行文化研究",
+    "播客创作"
+  ],
+  "entities": [
+    "Taylor Swift"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-08T23:35:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f33b36cd5523b6ea",
+  "status": "published"
+}

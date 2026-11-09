@@ -1,0 +1,35 @@
+{
+  "id": "3afd05c814d3801a",
+  "slug": "epic-games-launcher-is-coming-to-steamos",
+  "titleZh": "Epic Games Launcher 登陆 SteamOS",
+  "titleOriginal": "Epic Games Launcher is coming to SteamOS",
+  "summary": "Epic Games 确认其 Launcher 将支持 SteamOS 及多个 Linux 发行版，包括 Fedora、Cachy 等。针对 AppImage 替换为 .deb 包的问题，官方表示计划支持尽可能多的发行版。",
+  "keyPoints": [
+    "Epic Games Launcher 确认支持 SteamOS 兼容性",
+    "官方计划支持包括 Fedora、Cachy 在内的多个 Linux 发行版",
+    "原 AppImage 将被 .deb 下载包替代"
+  ],
+  "category": "tech",
+  "tags": [
+    "Epic Games",
+    "SteamOS",
+    "Linux",
+    "游戏平台",
+    "软件更新"
+  ],
+  "entities": [
+    "Epic Games Launcher",
+    "SteamOS"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+  "publishedAt": "2026-11-08T20:52:05.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a50bd722e4e25c67",
+  "status": "published"
+}

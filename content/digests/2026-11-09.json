@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-09",
+  "headlineIds": [
+    "8795ad8ee93b7c94",
+    "71b7f10df4513aa0",
+    "e59e59f84047bd1f",
+    "410da14fd06ffb6d",
+    "6b5cf28796d1ef84",
+    "327eb1bc281e4d68"
+  ],
+  "sections": {
+    "ai": [
+      "981785a01550309d",
+      "a0736b2de3e992f8",
+      "25493a43cba550c7",
+      "8b2c36e3dba89d7e",
+      "34e7d62615202d0d",
+      "23c4f130369cb972",
+      "295354ff422b0d4d",
+      "59623d61a7aaaf73",
+      "121d60c1ace4d669"
+    ],
+    "tech": [
+      "5661dc783044a7f6",
+      "8a86cf9d70b8065c",
+      "d9e697322f5fe961",
+      "3afd05c814d3801a",
+      "ad233551b50eea5d",
+      "fe78cac7357e4714"
+    ],
+    "finance": [
+      "dc9bbddb9f39098e",
+      "3ab32f15d89da28e",
+      "d34c5dfa0ce60cbb",
+      "1b7de356e782a236"
+    ],
+    "policy": [
+      "4f65553ca3f29e36",
+      "16cde38940afa3c3",
+      "b591ac2540eef79d"
+    ]
+  },
+  "stats": {
+    "fetched": 264,
+    "published": 28,
+    "sources": 20,
+    "aiFallbacks": 2,
+    "durationMs": 105005
+  }
+}

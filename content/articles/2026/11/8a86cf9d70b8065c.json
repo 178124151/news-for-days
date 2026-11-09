@@ -1,0 +1,44 @@
+{
+  "id": "8a86cf9d70b8065c",
+  "slug": "nvidia-will-investigate-ceo-jensen-huangs-relationship-with-",
+  "titleZh": "Nvidia 将调查黄仁勋与可能的中间间谍关系",
+  "titleOriginal": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+  "summary": "TechCrunch 报道称，黄仁勋在内部备忘录中承认婚外情，公司将就其与可能的中国间谍的关系展开调查。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋承认婚外情引发公司调查",
+    "涉及与可能的中国间谍关系的调查",
+    "源于内部备忘录披露"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "黄仁勋",
+    "安全调查",
+    "公司治理",
+    "人事变动"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "CEO Jensen Huang",
+    "Chinese"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+  "publishedAt": "2026-11-08T21:00:11.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 75,
+  "clusterId": "c8a86cf9d70b8065c",
+  "alsoCoveredBy": [
+    {
+      "sourceName": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    }
+  ],
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3421ef36a4a26c81",
+  "status": "published"
+}

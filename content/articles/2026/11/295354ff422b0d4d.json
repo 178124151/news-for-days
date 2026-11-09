@@ -1,0 +1,34 @@
+{
+  "id": "295354ff422b0d4d",
+  "slug": "introducing-images-2-6",
+  "titleZh": "OpenAI发布Images 2.6",
+  "titleOriginal": "Introducing Images 2.6",
+  "summary": "Images 2.6推出更快的图像生成、GIF创作、更精准编辑及新API控制，覆盖ChatGPT、Codex及API。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI发布Images 2.6版本",
+    "图像生成和编辑功能增强",
+    "覆盖ChatGPT、Codex及API接口"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "图像生成",
+    "API",
+    "ChatGPT",
+    "Codex"
+  ],
+  "entities": [
+    "Introducing Images"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+  "publishedAt": "2026-11-04T00:00:00.000Z",
+  "fetchedAt": "2026-11-09T01:53:01.121Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cc54a7fdb835823f",
+  "status": "published"
+}

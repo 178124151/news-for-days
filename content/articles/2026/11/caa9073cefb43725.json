@@ -1,0 +1,36 @@
+{
+  "id": "caa9073cefb43725",
+  "slug": "chatgpt-enterprise-now-available-in-aws-marketplace",
+  "titleZh": "ChatGPT Enterprise上架AWS市场",
+  "titleOriginal": "ChatGPT Enterprise now available in AWS Marketplace",
+  "summary": "ChatGPT Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和结算关系简化采购流程。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "ChatGPT Enterprise现已上架AWS Marketplace",
+    "通过现有AWS采购关系简化采购流程",
+    "帮助组织简化企业级AI工具采购"
+  ],
+  "category": "ai",
+  "tags": [
+    "ChatGPT Enterprise",
+    "AWS Marketplace",
+    "企业AI",
+    "云服务",
+    "采购便利化"
+  ],
+  "entities": [
+    "ChatGPT",
+    "ChatGPT Enterprise",
+    "AWS Marketplace"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "publishedAt": "2026-11-09T19:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "73eee39418659071",
+  "status": "published"
+}

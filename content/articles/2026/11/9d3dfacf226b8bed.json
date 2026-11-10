@@ -1,0 +1,36 @@
+{
+  "id": "9d3dfacf226b8bed",
+  "slug": "8-k-upland-software-inc-0001505155-filer",
+  "titleZh": "Upland Software 11月9日提交8-K文件",
+  "titleOriginal": "8-K - Upland Software, Inc. (0001505155) (Filer)",
+  "summary": "Upland Software, Inc.于2026年11月9日提交8-K文件，项目包括1.01项重大协议的订立，7.01项监管FD披露，以及9.01项财务报表和展示。",
+  "keyPoints": [
+    "Upland Software提交8-K文件",
+    "包含1.01项重大协议订立",
+    "包含7.01项监管FD披露"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "8-K",
+    "Upland Software",
+    "重大协议",
+    "监管披露"
+  ],
+  "entities": [
+    "Upland Software",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000083/0001505155-26-000083-index.htm",
+  "publishedAt": "2026-11-09T22:29:44.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5bb3896caf5a4ee9",
+  "status": "published"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ac8f18750241a65f",
+  "slug": "nemotron-personas-finance-japan-a-synthetic-dataset-capturin",
+  "titleZh": "Nemotron-Personas-Finance-Japan: 合成数据集捕捉日本人口与金融背景",
+  "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "summary": "Hugging Face发布Nemotron-Personas-Finance-Japan数据集，旨在捕捉日本人口统计特征及金融语境。该数据集由NVIDIA的研究人员创建，包含合成的个人财务数据，用于训练金融语言模型。",
+  "keyPoints": [
+    "数据集由NVIDIA研究人员创建",
+    "旨在捕捉日本人口统计特征及金融语境",
+    "包含合成的个人财务数据用于训练金融语言模型"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "数据集",
+    "金融",
+    "日本",
+    "NVIDIA"
+  ],
+  "entities": [
+    "Nemotron Personas Finance",
+    "A Synthetic Dataset",
+    "Demographics",
+    "Financial Context"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "publishedAt": "2026-11-09T15:05:57.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 70,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f79ee03306bacebf",
+  "status": "published"
+}

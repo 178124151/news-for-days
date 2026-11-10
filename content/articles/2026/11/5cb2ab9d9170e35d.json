@@ -1,0 +1,35 @@
+{
+  "id": "5cb2ab9d9170e35d",
+  "slug": "2-0-agent-team-agent",
+  "titleZh": "千问办公 2.0 发布 首个支持多人 Agent 协作的 Team Agent",
+  "titleOriginal": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+  "summary": "11月9日，千问办公发布 2.0 版本，作为首个支持多人与 Agent 协作的 Team Agent 亮相。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "千问办公发布 2.0 版本",
+    "首个支持多人与 Agent 协作的 Team Agent",
+    "发布时间为 11 月 9 日"
+  ],
+  "category": "ai",
+  "tags": [
+    "千问办公",
+    "AI 助手",
+    "多Agent协作",
+    "Team Agent",
+    "国产AI"
+  ],
+  "entities": [
+    "Agent",
+    "Team Agent"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508694.html",
+  "publishedAt": "2026-11-09T08:34:03.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1b847e1563266760",
+  "status": "published"
+}

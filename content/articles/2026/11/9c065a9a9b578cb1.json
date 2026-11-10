@@ -1,0 +1,34 @@
+{
+  "id": "9c065a9a9b578cb1",
+  "slug": "rocket-lab-shares-dip-after-the-company-x2019-s-x2018-defini",
+  "titleZh": "Rocket Lab 股价下跌 财报超额亏损",
+  "titleOriginal": "Rocket Lab shares dip after the company&#x2019;s &#x2018;defining&#x2019; quarter misses the mark",
+  "summary": "火箭发射公司 Rocket Lab 发布财报，实际亏损幅度超出分析师预期，导致股价下跌。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Rocket Lab 财报实际亏损超预期",
+    "股价随财报发布而下跌",
+    "公司业绩未达到市场预期"
+  ],
+  "category": "finance",
+  "tags": [
+    "Rocket Lab",
+    "财报",
+    "股价",
+    "亏损",
+    "航天"
+  ],
+  "entities": [
+    "Rocket Lab"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-09T22:49:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7659fd1d4c953fac",
+  "status": "published"
+}

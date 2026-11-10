@@ -1,0 +1,35 @@
+{
+  "id": "be7be08101d4c007",
+  "slug": "8-k-solidion-technology-inc-0001881551-filer",
+  "titleZh": "Solidion Technology 11月9日提交8-K文件",
+  "titleOriginal": "8-K - Solidion Technology Inc. (0001881551) (Filer)",
+  "summary": "Solidion Technology Inc.于2026年11月9日提交8-K文件，项目包括2.02项结果运营和财务状况，以及9.01项财务报表和展示。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Solidion Technology提交8-K文件",
+    "包含2.02项结果运营和财务状况",
+    "包含9.01项财务报表和展示"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "8-K",
+    "Solidion Technology",
+    "财务报告",
+    "合规披露"
+  ],
+  "entities": [
+    "Solidion Technology Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026117631/0001213900-26-117631-index.htm",
+  "publishedAt": "2026-11-09T22:30:36.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b028cf8781a5ba7a",
+  "status": "published"
+}

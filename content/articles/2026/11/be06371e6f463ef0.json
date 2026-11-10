@@ -1,0 +1,32 @@
+{
+  "id": "be06371e6f463ef0",
+  "slug": "120",
+  "titleZh": "印尼拟发行不超过120亿元熊猫债",
+  "titleOriginal": "印尼拟发行不超过120亿元熊猫债，本币承压下加码人民币融资以分散风险",
+  "summary": "印尼政府年内再次发行主权熊猫债，规模上限120亿元人民币。债券设3年、5年、7年三期，簿记建档日定于本周三。募集资金将以人民币形式汇至发行人境外账户，用于一般性融资需求，发行人可按实际需求兑换印尼盾、美元、欧元、日元等币种。",
+  "keyPoints": [
+    "印尼政府年内再次发行主权熊猫债",
+    "债券规模上限120亿元人民币，设3年、5年、7年三期",
+    "募集资金将以人民币形式汇入发行人境外账户"
+  ],
+  "category": "tech",
+  "tags": [
+    "印尼主权债",
+    "人民币国际化",
+    "境外融资",
+    "债券发行",
+    "风险分散"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4063378137273224?f=rss",
+  "publishedAt": "2026-11-10T03:21:59.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "62e02b11c21b45d3",
+  "status": "published"
+}

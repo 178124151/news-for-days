@@ -1,0 +1,34 @@
+{
+  "id": "02e9abf47eaf3fa0",
+  "slug": "coderabbit-scales-agentic-software-development-and-ships-20x",
+  "titleZh": "CodeRabbit利用OpenAI模型提升软件开发效率",
+  "titleOriginal": "CodeRabbit scales agentic software development and ships 20x more",
+  "summary": "CodeRabbit使用OpenAI模型治理和信任AI生成的代码，并利用Codex将软件交付速度提升20倍，工程团队规模不变。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CodeRabbit使用OpenAI模型治理代码",
+    "利用Codex提升20倍交付速度",
+    "工程团队规模不变"
+  ],
+  "category": "ai",
+  "tags": [
+    "CodeRabbit",
+    "OpenAI",
+    "Codex",
+    "AI编程",
+    "效率提升"
+  ],
+  "entities": [
+    "CodeRabbit"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/coderabbit-codex-daybreak",
+  "publishedAt": "2026-11-09T08:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "16f429b57cef71b9",
+  "status": "published"
+}

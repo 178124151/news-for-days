@@ -1,0 +1,35 @@
+{
+  "id": "7b80f15dc955234d",
+  "slug": "here-x2019-s-how-bernie-sanders-wants-to-keep-social-securit",
+  "titleZh": "Sanders 提议消除社保税上限 让富人多交税",
+  "titleOriginal": "Here&#x2019;s how Bernie Sanders wants to keep Social Security solvent &#x2018;for generations&#x2019;",
+  "summary": "参议员 Sanders 提出方案通过消除社保税税able maximum 来维持社保基金 solvency，旨在让富裕群体缴纳更多税款。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Sanders 提议消除社保税税上限",
+    "旨在让富裕群体缴纳更多税款",
+    "目的是维持社保基金长期 solvency"
+  ],
+  "category": "finance",
+  "tags": [
+    "社保",
+    "税收",
+    " Sanders",
+    "财政",
+    "老龄化"
+  ],
+  "entities": [
+    "Bernie Sanders",
+    "Social Security"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-09T22:49:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f4acd8bfcd30e03f",
+  "status": "published"
+}

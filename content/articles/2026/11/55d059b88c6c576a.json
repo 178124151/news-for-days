@@ -1,0 +1,36 @@
+{
+  "id": "55d059b88c6c576a",
+  "slug": "your-experts-have-partners-theres-hope-for-keeping-them-toge",
+  "titleZh": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "summary": "Your Experts Have Partners.There's HOPE for Keeping Them Together。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Your Experts Have Partners.",
+    "There's HOPE for Keeping Them Together",
+    "Your Experts Have Partners. There's HOP…"
+  ],
+  "category": "ai",
+  "tags": [
+    "Your Experts Have",
+    "HOPE",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Your Experts Have",
+    "HOPE",
+    "Keeping Them Together"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "publishedAt": "2026-11-09T12:34:29.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 52,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "68e408028d1ffb76",
+  "status": "published"
+}

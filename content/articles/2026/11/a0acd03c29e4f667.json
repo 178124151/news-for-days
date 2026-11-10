@@ -1,0 +1,34 @@
+{
+  "id": "a0acd03c29e4f667",
+  "slug": "lingbot-touch",
+  "titleZh": "蚂蚁灵波发布LingBot-Touch触觉基础模型",
+  "titleOriginal": "蚂蚁灵波发布LingBot-Touch触觉基础模型",
+  "summary": "11月10日，蚂蚁灵波发布LingBot-Touch触觉基础模型。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用。目前，LingBot-Touch的技术报告、模型和代码已开源，开发者可在Hugging Face、GitHub和魔搭社区访问和下载。",
+  "keyPoints": [
+    "LingBot-Touch基于近5000小时真实触觉数据预训练",
+    "覆盖磁触觉、视触觉和压阻式三类主流传感原理",
+    "已开源技术报告、模型和代码，可在Hugging Face等平台下载"
+  ],
+  "category": "tech",
+  "tags": [
+    "蚂蚁灵波",
+    "触觉基础模型",
+    "LingBot-Touch",
+    "开源",
+    "机器人感知"
+  ],
+  "entities": [
+    "LingBot Touch"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4063366405936004?f=rss",
+  "publishedAt": "2026-11-10T03:10:03.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "07047c67d7faff9b",
+  "status": "published"
+}

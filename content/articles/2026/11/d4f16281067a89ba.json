@@ -1,0 +1,37 @@
+{
+  "id": "d4f16281067a89ba",
+  "slug": "the-short-seller-who-saw-signs-of-nvidia-x2019-s-china-scand",
+  "titleZh": "短卖者称 Nvidia 中国丑闻前见证 Megaspeed 非唯一帮手",
+  "titleOriginal": "The short seller who saw signs of Nvidia&#x2019;s China scandal months ago claims Megaspeed isn&#x2019;t the only company helping China access chips",
+  "summary": "Christian Lamarco 称 Culper Research 初步研究结果仍然自信，指 Nvidia 中国丑闻涉及 Megaspeed 等公司帮助中国获取芯片，但非唯一公司。",
+  "keyPoints": [
+    "Culper Research 创始人 Lamarco 维持对研究的信心",
+    "指 Nvidia 中国丑闻涉及 Megaspeed 帮助中国获取芯片",
+    "称 Megaspeed 并非唯一帮助中国获取芯片的公司"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "中国芯片",
+    "短卖",
+    "Culper Research",
+    "供应链"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "China",
+    "Megaspeed"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-10T00:48:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8c25ff3cb59bb7f2",
+  "status": "published"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "719be9ef6514ac3c",
+  "slug": "anthropic-launches-new-claude-fable-and-mythos-5-2-models",
+  "titleZh": "Anthropic发布Claude新模型",
+  "titleOriginal": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "summary": "Anthropic发布Claude Fable 5.2和Claude Mythos 5.2两款新模型，声称在编码、推理和视觉方面有改进，生成速度快于5.1版本。新模型可应对技术挑战，包括编程难题、理论物理问题及代理团队编排。",
+  "keyPoints": [
+    "发布Claude Fable 5.2和Mythos 5.2新模型",
+    "在编码、推理和视觉性能上有提升",
+    "可解决复杂技术问题并编排代理团队"
+  ],
+  "category": "tech",
+  "tags": [
+    "Anthropic",
+    "Claude模型",
+    "AI技术",
+    "大语言模型",
+    "技术创新"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "Claude Fable",
+    "Mythos"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+  "publishedAt": "2026-11-09T19:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "10cc0c84d2c3db09",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ba2e50ff998b1f54",
+  "slug": "uber-launches-parking-service-following-spothero-acquisition",
+  "titleZh": "Uber推出停车服务",
+  "titleOriginal": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+  "summary": "Uber推出Uber Parking服务，这是公司在核心叫车服务之外的最新产品。此前Uber已收购停车预订平台SpotHero。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Uber推出Uber Parking新服务",
+    "基于收购SpotHero后的产品延伸",
+    "旨在拓展核心业务之外的产品线"
+  ],
+  "category": "tech",
+  "tags": [
+    "Uber",
+    "出行服务",
+    "停车平台",
+    "产品延伸",
+    "科技服务"
+  ],
+  "entities": [
+    "Uber",
+    "SpotHero"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+  "publishedAt": "2026-11-09T17:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c2aab12e9bc6b10e",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "560a5a1345fa3220",
+  "slug": "softbank-group-shares-surge-13-as-asian-tech-stocks-track-wa",
+  "titleZh": "软银集团股价13%",
+  "titleOriginal": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+  "summary": "亚洲科技股跟随华尔街反弹，油价下跌提振情绪，半导体板块获盘中买盘带动。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "软银集团股价上涨13%",
+    "亚洲科技股跟随华尔街反弹",
+    "油价下跌提振市场情绪"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技股",
+    "软银",
+    "半导体",
+    "市场反弹",
+    "油价影响"
+  ],
+  "entities": [
+    "SoftBank Group",
+    "Asian",
+    "Wall Street"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+  "publishedAt": "2026-11-10T03:58:46.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "39a81212a7f78dc5",
+  "status": "published"
+}

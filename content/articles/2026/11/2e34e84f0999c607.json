@@ -1,0 +1,34 @@
+{
+  "id": "2e34e84f0999c607",
+  "slug": "kuken-industries-searches-70-years-of-drawings-in-minutes",
+  "titleZh": "Kuken Industries利用OpenAI搜索70年冷却塔图纸",
+  "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
+  "summary": "Kuken Industries使用OpenAI API搜索70年的冷却塔图纸，工程师查找维修图纸时间从近一小时缩短至4.5分钟。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Kuken Industries使用OpenAI API搜索图纸",
+    "搜索70年冷却塔图纸",
+    "查找维修图纸时间缩短至4.5分钟"
+  ],
+  "category": "ai",
+  "tags": [
+    "Kuken Industries",
+    "OpenAI API",
+    "工业搜索",
+    "图纸管理",
+    "效率提升"
+  ],
+  "entities": [
+    "Kuken Industries"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/kuken",
+  "publishedAt": "2026-11-09T08:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bd41b7ff28585268",
+  "status": "published"
+}

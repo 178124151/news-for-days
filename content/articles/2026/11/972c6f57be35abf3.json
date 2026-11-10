@@ -1,0 +1,37 @@
+{
+  "id": "972c6f57be35abf3",
+  "slug": "neohorse-1-5-flash-preview-agent-rsi",
+  "titleZh": "基元律动发布NeoHorse-1.5-Flash Preview",
+  "titleOriginal": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+  "summary": "11月5日，基元律动发布Agent原生模型NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "基元律动发布NeoHorse-1.5-Flash Preview",
+    "发布Agent原生模型",
+    "RSI进入第二轮迭代"
+  ],
+  "category": "ai",
+  "tags": [
+    "基元律动",
+    "NeoHorse",
+    "Agent模型",
+    "AI模型",
+    "迭代更新"
+  ],
+  "entities": [
+    "NeoHorse",
+    "Flash Preview",
+    "Agent",
+    "RSI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508603.html",
+  "publishedAt": "2026-11-09T05:09:23.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0eee37a2fb6db63e",
+  "status": "published"
+}

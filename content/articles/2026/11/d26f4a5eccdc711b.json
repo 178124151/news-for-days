@@ -1,0 +1,32 @@
+{
+  "id": "d26f4a5eccdc711b",
+  "slug": "d26f4a5eccdc711b",
+  "titleZh": "AI原生芯片设计公司“泛函数”完成近亿元天使轮融资",
+  "titleOriginal": "“泛函数”完成近亿元天使轮融资",
+  "summary": "AI原生芯片设计公司“泛函数”近日完成近亿元天使轮融资，由上海未来产业基金领投，上海信投、上海科创集团等多家机构联合投资。融资将用于AI原生芯片设计垂类模型训练、全流程工具链迭代、核心团队扩充以及客户联合交付与市场拓展。",
+  "keyPoints": [
+    "完成近亿元天使轮融资",
+    "由上海未来产业基金领投",
+    "聚焦AI原生芯片设计垂类模型与工具链"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI芯片",
+    "天使轮融资",
+    "上海产业基金",
+    "芯片设计",
+    "生成式AI"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4063391777739654?f=rss",
+  "publishedAt": "2026-11-10T03:53:42.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e35eed1f7f00a747",
+  "status": "published"
+}

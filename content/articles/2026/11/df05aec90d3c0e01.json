@@ -1,0 +1,39 @@
+{
+  "id": "df05aec90d3c0e01",
+  "slug": "federal-reserve-board-announces-approval-of-two-applications",
+  "titleZh": "Federal Reserve Board announces approval of two applications by Mutual Federal …",
+  "titleOriginal": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+  "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+  "keyPoints": [
+    "Federal Reserve Board announces approva…",
+    "Federal Reserve Board announces approva…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "Mutual Federal Bancorp",
+    "MHC",
+    "MFB Bancorp",
+    "Inc"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+  "publishedAt": "2026-11-09T21:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 77,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "e7f06c1c0bc8baf9",
+  "status": "published"
+}

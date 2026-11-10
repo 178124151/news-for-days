@@ -1,0 +1,35 @@
+{
+  "id": "806c65cad3cbdd98",
+  "slug": "childrens-place-files-for-bankruptcy-protection-seeks-buyer",
+  "titleZh": "儿童Place申请破产保护",
+  "titleOriginal": "Children’s Place files for bankruptcy protection, seeks buyer",
+  "summary": "The Children's Place申请第十一章破产保护，并计划于12月9日前接受潜在买家的出价。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "申请第十一章破产保护",
+    "寻求新所有者并设12月9日截止日期",
+    "儿童服装零售企业面临财务困难"
+  ],
+  "category": "finance",
+  "tags": [
+    "儿童Place",
+    "破产保护",
+    "零售业",
+    "财务重组",
+    "Chapter 11"
+  ],
+  "entities": [
+    "Children",
+    "Place"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+  "publishedAt": "2026-11-09T20:57:46.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "2d5e47d845e24902",
+  "status": "published"
+}

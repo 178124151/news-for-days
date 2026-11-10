@@ -1,0 +1,38 @@
+{
+  "id": "c25ddd38bac28aea",
+  "slug": "emails-anthropic-sent-bankers-a-copy-of-its-ipo-filing-showi",
+  "titleZh": "人工智能公司Anthropic递交IPO文件",
+  "titleOriginal": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
+  "summary": "据邮件显示，Anthropic曾向银行发送其IPO申报文件副本，计划募资约690亿美元，随后声明定价细节不准确。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic向银行展示IPO申报文件",
+    "计划募资约690亿美元",
+    "公司随后澄清定价信息有误"
+  ],
+  "category": "tech",
+  "tags": [
+    "人工智能",
+    "IPO",
+    "融资",
+    "Anthropic",
+    "银行"
+  ],
+  "entities": [
+    "Anthropic",
+    "Emails",
+    "IPO",
+    "Echo Wang",
+    "Reuters"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261109/p48#a261109p48",
+  "publishedAt": "2026-11-10T01:41:39.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1e0901fce4eb098f",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "952d2516af2e9054",
+  "slug": "control-room-a-central-system-to-track-and-stop-model-worklo",
+  "titleZh": "OpenAI 推出 Control Room 追踪与停止模型工作负载",
+  "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "summary": "OpenAI 发布 Control Room 系统，用于跟踪研究基础设施中的模型工作负载，并在出现安全或安全顾虑时快速停止。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI 发布 Control Room 系统",
+    "用于跟踪研究基础设施中的模型工作负载",
+    "可在安全或安全顾虑时快速停止工作负载"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "模型管理",
+    "安全",
+    "研究基础设施",
+    "工作负载"
+  ],
+  "entities": [
+    "Control Room"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/control-room",
+  "publishedAt": "2026-11-09T13:00:00.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "38e779094cf6c583",
+  "status": "published"
+}

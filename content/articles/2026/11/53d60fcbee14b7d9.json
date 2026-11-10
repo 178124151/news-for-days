@@ -1,0 +1,36 @@
+{
+  "id": "53d60fcbee14b7d9",
+  "slug": "lucid-misses-wall-streets-earnings-expectations-expands-loan",
+  "titleZh": "Lucid财务未达预期",
+  "titleOriginal": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+  "summary": "Lucid公布季度财报，未达华尔街预期。这是自CEO Silvio Napoli于6月接任并宣布重组计划后的首份财报。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Lucid财报未达预期",
+    "CEO Napoli于6月接任并宣布重组",
+    "公司从沙特基金扩大贷款"
+  ],
+  "category": "finance",
+  "tags": [
+    "Lucid",
+    "财报",
+    "电动车",
+    "重组",
+    "沙特"
+  ],
+  "entities": [
+    "Lucid",
+    "Wall Street",
+    "Saudi Arabia"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+  "publishedAt": "2026-11-09T23:05:53.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "563b3ec02aed11e8",
+  "status": "published"
+}

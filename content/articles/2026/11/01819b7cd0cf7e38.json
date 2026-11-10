@@ -1,0 +1,35 @@
+{
+  "id": "01819b7cd0cf7e38",
+  "slug": "elizabeth-warren-set-to-take-over-the-senate-banking-committ",
+  "titleZh": "伊丽莎白·沃伦接管参议院银行委员会",
+  "titleOriginal": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
+  "summary": "伊丽莎白·沃伦将接管参议院银行委员会，并在国会转向民主党控制后阐述了她的计划。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "接管参议院银行委员会",
+    "国会民主党控制后阐述议程",
+    "将掌握银行监管重要职位"
+  ],
+  "category": "finance",
+  "tags": [
+    "伊丽莎白·沃伦",
+    "参议院",
+    "银行委员会",
+    "金融监管",
+    "政治动态"
+  ],
+  "entities": [
+    "Elizabeth Warren",
+    "Senate"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+  "publishedAt": "2026-11-09T19:34:43.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e83bb9e54877d287",
+  "status": "published"
+}

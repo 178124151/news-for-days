@@ -1,0 +1,32 @@
+{
+  "id": "f235ad7f26f9bd1b",
+  "slug": "evtol-36",
+  "titleZh": "让eVTOL从产品成为商品，交易与运力服务商零界航空完成千万元天使轮融资",
+  "titleOriginal": "让eVTOL从产品成为商品，交易与运力服务商「零界航空」完成千万元天使轮融资｜36氪首发",
+  "summary": "安徽天泽零界航空有限公司完成千万元天使轮融资，由上海互翔投资管理有限公司投资。资金将用于验证基地建设、完善OC运行体系、拓展主机厂合作网络及建设数字化平台。eVTOL虽已具备型号审定能力，但缺乏商业闭环，零界航空聚焦交付后运营与资产流转，通过airOS和零界飞选平台提供选型、金融方案、运行体系及数据反馈服务。",
+  "keyPoints": [
+    "零界航空完成千万元天使轮融资，聚焦eVTOL交付后运营与资产流转。",
+    "通过airOS和零界飞选平台实现航空器运行标准化、可计价。",
+    "与主机厂及金融机构合作，破解eVTOL商业闭环难题。"
+  ],
+  "category": "tech",
+  "tags": [
+    "eVTOL",
+    "低空经济",
+    "融资租赁",
+    "运力服务",
+    "数字化平台"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4063336242549893?f=rss",
+  "publishedAt": "2026-11-10T02:40:42.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 75,
+  "readMinutes": 4,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6e37e53ad58d5f1c",
+  "status": "published"
+}

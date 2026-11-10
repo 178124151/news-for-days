@@ -1,0 +1,36 @@
+{
+  "id": "bd7c48a39f3d0eb1",
+  "slug": "california-voters-reject-proposition-40-which-would-have-imp",
+  "titleZh": "加州选民否决1亿美元以上净资产税案",
+  "titleOriginal": "California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care (Associated Press)",
+  "summary": "加州选民否决了一项提案，该提案将对净资产超过10亿美元的居民征收一次性5%税，主要用于资助医疗保健。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "加州否决首次对亿万富翁净资产征税的提案",
+    "该提案旨在主要资助医疗保健",
+    "经历了激烈的选票争夺后被否决"
+  ],
+  "category": "tech",
+  "tags": [
+    "加州",
+    "税收",
+    "医疗",
+    "亿万富翁",
+    "投票"
+  ],
+  "entities": [
+    "California",
+    "Proposition",
+    "Associated Press"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261109/p50#a261109p50",
+  "publishedAt": "2026-11-10T04:00:50.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9de49cd6ae118486",
+  "status": "published"
+}

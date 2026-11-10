@@ -1,0 +1,35 @@
+{
+  "id": "15be3cae26c2fff8",
+  "slug": "france-blames-iran-for-mass-hacks-targeting-freezers-in-groc",
+  "titleZh": "法国指责伊朗攻击冷柜",
+  "titleOriginal": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+  "summary": "法国外长指责伊朗发动至少两波网络攻击，针对法国及欧洲范围内的工业冷柜和冷冻库设施。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "法国指责伊朗进行网络攻击",
+    "目标为工业冷柜和冷冻库",
+    "影响范围覆盖法国及欧洲"
+  ],
+  "category": "tech",
+  "tags": [
+    "网络攻击",
+    "伊朗",
+    "冷柜",
+    "欧洲",
+    "安全"
+  ],
+  "entities": [
+    "France",
+    "Iran"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+  "publishedAt": "2026-11-09T19:19:24.000Z",
+  "fetchedAt": "2026-11-10T04:19:18.165Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6213870968fa92ba",
+  "status": "published"
+}

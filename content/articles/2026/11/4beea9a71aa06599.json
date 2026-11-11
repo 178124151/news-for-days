@@ -1,0 +1,36 @@
+{
+  "id": "4beea9a71aa06599",
+  "slug": "jim-cramer-says-anthropics-explosive-growth-could-justify-a-",
+  "titleZh": "Jim Cramer称Anthropic增长可能证明创纪录IPO",
+  "titleOriginal": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+  "summary": "CNBC主持人Jim Cramer表示，Anthropic的爆发式增长可能证明其IPO规模创纪录。他同时指出该交易的消息对科技和AI板块具有利好作用。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Jim Cramer认为Anthropic增长可支撑创纪录IPO规模",
+    "该交易消息被视为对科技和AI板块的利好",
+    "未提及具体IPO时间表或估值数据"
+  ],
+  "category": "finance",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "AI板块",
+    "市场观点",
+    "Jim Cramer"
+  ],
+  "entities": [
+    "Anthropic",
+    "Jim Cramer",
+    "IPO"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+  "publishedAt": "2026-11-10T23:46:35.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bc1ae93fca09f4f8",
+  "status": "published"
+}

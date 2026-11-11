@@ -1,0 +1,36 @@
+{
+  "id": "1b0c05cd97a311af",
+  "slug": "oura-to-acquire-ai-native-primary-care-startup-counsel-healt",
+  "titleZh": "Oura以6.25亿美元收购AI初创公司Counsel Health",
+  "titleOriginal": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+  "summary": "Oura计划以6.25亿美元收购AI原生初创公司Counsel Health，旨在拓展其业务范围。此前Oura曾推迟最多22亿美元的IPO，引用市场不确定性为由。",
+  "keyPoints": [
+    "Oura以6.25亿美元收购AI初创公司Counsel Health",
+    "此前Oura因IPO市场不确定性而推迟募资",
+    "旨在拓展Oura的业务版图"
+  ],
+  "category": "tech",
+  "tags": [
+    "医疗科技",
+    "AI收购",
+    "Oura",
+    "初创公司",
+    "数字健康"
+  ],
+  "entities": [
+    "Oura",
+    "AI",
+    "Counsel Health"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+  "publishedAt": "2026-11-10T19:23:34.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c06bc6029f7b872f",
+  "status": "published"
+}

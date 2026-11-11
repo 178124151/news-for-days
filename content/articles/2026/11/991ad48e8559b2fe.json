@@ -1,0 +1,35 @@
+{
+  "id": "991ad48e8559b2fe",
+  "slug": "introducing-businesses-in-chatgpt",
+  "titleZh": "ChatGPT新增企业管理功能",
+  "titleOriginal": "Introducing Businesses in ChatGPT",
+  "summary": "ChatGPT新增功能可帮助企业管理信息、获取展现洞察并将兴趣转化为行动。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "ChatGPT新增企业信息管理功能",
+    "可获取企业展现相关洞察",
+    "支持将用户兴趣转化为具体行动"
+  ],
+  "category": "ai",
+  "tags": [
+    "ChatGPT",
+    "企业管理",
+    "业务洞察",
+    "功能更新",
+    "AI工具"
+  ],
+  "entities": [
+    "ChatGPT",
+    "Introducing Businesses"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-businesses-chatgpt",
+  "publishedAt": "2026-11-10T10:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1a264f2b917822e0",
+  "status": "published"
+}

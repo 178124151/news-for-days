@@ -1,0 +1,35 @@
+{
+  "id": "fafff4292c09fd93",
+  "slug": "gemini-intelligence-new-features-on-more-devices",
+  "titleZh": "Gemini Intelligence：新功能，更多设备",
+  "titleOriginal": "Gemini Intelligence: New features, on more devices",
+  "summary": "Gemini Intelligence正向更多设备推出。跨这些设备的扩展功能帮助用户做更多事情。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Gemini Intelligence向更多设备推出",
+    "扩展了跨设备的能力",
+    "帮助用户完成更多任务"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini",
+    "AI功能",
+    "设备扩展",
+    "用户体验",
+    "能力提升"
+  ],
+  "entities": [
+    "Gemini",
+    "Gemini Intelligence"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "publishedAt": "2026-11-10T19:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "340fc086aa9e27f7",
+  "status": "published"
+}

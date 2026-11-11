@@ -1,0 +1,34 @@
+{
+  "id": "1377115779d0082c",
+  "slug": "coreweave-x2019-s-stock-pops-as-new-financing-playbook-eases",
+  "titleZh": "CoreWeave股价上涨，新融资方案缓解债务担忧",
+  "titleOriginal": "CoreWeave&#x2019;s stock pops as new financing playbook eases debt concerns",
+  "summary": "CoreWeave第三季度营收超预期，并计划进行90亿美元的预付款，这让投资者对其业务重新产生信心。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CoreWeave第三季度营收超预期",
+    "计划进行90亿美元预付款",
+    "缓解了债务担忧"
+  ],
+  "category": "finance",
+  "tags": [
+    "CoreWeave",
+    "股价",
+    "融资",
+    "营收",
+    "债务"
+  ],
+  "entities": [
+    "CoreWeave"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-11T01:12:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f7aaaea190e32095",
+  "status": "published"
+}

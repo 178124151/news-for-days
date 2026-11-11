@@ -1,0 +1,36 @@
+{
+  "id": "6545a602c50a8d32",
+  "slug": "one-reason-children-x2019-s-place-is-filing-for-bankruptcy-n",
+  "titleZh": "Children Place因儿童不足申请破产",
+  "titleOriginal": "One reason Children&#x2019;s Place is filing for bankruptcy? Not enough children.",
+  "summary": "该连锁店因出生率下降、谨慎的消费者、激烈竞争及8.81亿美元债务而面临破产。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "出生率下降导致客源减少",
+    "面临8.81亿美元债务压力",
+    "竞争激烈且消费者谨慎"
+  ],
+  "category": "finance",
+  "tags": [
+    "破产",
+    "零售",
+    "人口结构",
+    "债务",
+    "竞争"
+  ],
+  "entities": [
+    "One",
+    "Children",
+    "Place"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-11T01:54:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ce251826274907bb",
+  "status": "published"
+}

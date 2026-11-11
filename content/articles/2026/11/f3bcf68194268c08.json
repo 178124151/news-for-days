@@ -1,0 +1,35 @@
+{
+  "id": "f3bcf68194268c08",
+  "slug": "credit-card-debt-climbs-to-a-record-1-29-trillion-new-york-f",
+  "titleZh": "信用卡债务激增至1.29万亿美元",
+  "titleOriginal": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+  "summary": "纽约联储研究显示，高企物价压力下消费者转向信用卡维持生活开支，债务规模创历史新高。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "债务规模创历史新高",
+    "高物价压力驱动消费者使用信用卡",
+    "纽约联储研究数据"
+  ],
+  "category": "finance",
+  "tags": [
+    "信用卡",
+    "债务",
+    "经济数据",
+    "通胀",
+    "消费者"
+  ],
+  "entities": [
+    "Credit",
+    "New York Fed"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+  "publishedAt": "2026-11-10T18:08:40.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5ecebb2c69df252e",
+  "status": "published"
+}

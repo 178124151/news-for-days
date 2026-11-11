@@ -1,0 +1,32 @@
+{
+  "id": "6346412d186700c7",
+  "slug": "6346412d186700c7",
+  "titleZh": "超导量子计算整机突破近亿元融资",
+  "titleOriginal": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+  "summary": "量子位报道，超导量子计算从芯片到千比特整机仍面临硬挑战，近亿元融资近期落袋。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "超导量子计算整机仍面临技术挑战",
+    "近亿元融资近期完成",
+    "从芯片级别突破至千比特整机"
+  ],
+  "category": "ai",
+  "tags": [
+    "超导量子计算",
+    "融资",
+    "整机突破",
+    "千比特",
+    "硬科技"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509017.html",
+  "publishedAt": "2026-11-10T08:33:25.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ecec759c9be3f931",
+  "status": "published"
+}

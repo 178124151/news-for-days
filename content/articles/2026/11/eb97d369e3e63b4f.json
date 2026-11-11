@@ -1,0 +1,35 @@
+{
+  "id": "eb97d369e3e63b4f",
+  "slug": "proximal-ventures-raises-debut-fund-to-back-startups-bringin",
+  "titleZh": "Proximal Ventures成立AI药物基金",
+  "titleOriginal": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+  "summary": "前SignalFire投资人Sahir Raoof募集2750万美元新基金，专注于投资将AI技术应用于药物研发的初创企业。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "前SignalFire投资人募集2750万美元基金",
+    "聚焦AI在药物研发领域的应用",
+    "旨在支持相关初创企业发展"
+  ],
+  "category": "tech",
+  "tags": [
+    "Proximal Ventures",
+    "AI基金",
+    "药物研发",
+    "AI医疗",
+    "风险投资"
+  ],
+  "entities": [
+    "Proximal Ventures",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+  "publishedAt": "2026-11-10T20:47:05.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d8a39a2cb7412f46",
+  "status": "published"
+}

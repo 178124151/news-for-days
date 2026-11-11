@@ -1,0 +1,35 @@
+{
+  "id": "e192e4f92a704298",
+  "slug": "were-bringing-adobes-creative-and-productivity-tools-closer-",
+  "titleZh": "Google与Adobe整合创意生产力工具",
+  "titleOriginal": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "summary": "Google和Adobe宣布整合创意和生产力工具，用户可在Drive中编辑PDF并使用Adobe AI在Gemini中操作，具体新功能待进一步披露。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google与Adobe达成合作整合工具",
+    "用户可在Drive中编辑PDF文件",
+    "支持在Gemini中使用Adobe AI功能"
+  ],
+  "category": "ai",
+  "tags": [
+    "Google",
+    "Adobe",
+    "生产力工具",
+    "创意软件",
+    "Drive集成"
+  ],
+  "entities": [
+    "Google",
+    "Adobe"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "publishedAt": "2026-11-10T14:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0b73ed2eded8d892",
+  "status": "published"
+}

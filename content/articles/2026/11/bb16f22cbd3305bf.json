@@ -1,0 +1,34 @@
+{
+  "id": "bb16f22cbd3305bf",
+  "slug": "tensorworld",
+  "titleZh": "TensorWorld物原科技获亿元融资",
+  "titleOriginal": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+  "summary": "TensorWorld物原科技成立四个月获亿元美金融资，正致力于跑通‘物理真实’技术路线。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "TensorWorld物原科技成立四个月获亿元融资",
+    "公司正推进‘物理真实’技术路线",
+    "近期完成大额融资支持业务发展"
+  ],
+  "category": "ai",
+  "tags": [
+    "TensorWorld",
+    "物原科技",
+    "融资",
+    "AI硬件",
+    "物理真实"
+  ],
+  "entities": [
+    "TensorWorld"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/508991.html",
+  "publishedAt": "2026-11-10T07:50:26.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ebe248fe0fd7321a",
+  "status": "published"
+}

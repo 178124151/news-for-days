@@ -1,0 +1,32 @@
+{
+  "id": "4975418a7c4b8485",
+  "slug": "36",
+  "titleZh": "原基量子获亿元级融资布局中性原子量子计算",
+  "titleOriginal": "36氪首发丨交大团队获中网投与清华系资本领投亿元级融资，以“原子+光子芯片”切入量子计算",
+  "summary": "中性原子量子计算企业原基量子完成亿元级天使轮融资，由中网投和清华系资本领投。公司致力于通过中性原子和光子芯片实现量子计算的规模化、工程化与产业化，突破传统实验室装置扩展瓶颈。",
+  "keyPoints": [
+    "原基量子完成亿元级天使轮融资",
+    "聚焦中性原子和光子芯片量子计算",
+    "致力于突破规模化工程化瓶颈"
+  ],
+  "category": "tech",
+  "tags": [
+    "原基量子",
+    "中性原子",
+    "光子芯片",
+    "量子计算",
+    "融资"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4064699766068101?f=rss",
+  "publishedAt": "2026-11-11T02:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 85,
+  "readMinutes": 6,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1cfdec5973bb0c59",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "69d4d9d74efa0162",
+  "slug": "closing-the-ai-guidance-gap-in-education",
+  "titleZh": "OpenAI与ThinkYoung发布教育AI指导研究",
+  "titleOriginal": "Closing the AI guidance gap in education",
+  "summary": "OpenAI News发布新研究，涉及EMEA教育合作伙伴关系，重点支持教师、AI素养和独立学习。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI与ThinkYoung合作发布教育AI研究",
+    "重点支持教师AI素养发展",
+    "涉及EMEA地区教育合作伙伴关系"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI教育",
+    "OpenAI",
+    "ThinkYoung",
+    "教师培训",
+    "AI素养"
+  ],
+  "entities": [
+    "Closing",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "publishedAt": "2026-11-10T09:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1e5d7e3fbb821b02",
+  "status": "published"
+}

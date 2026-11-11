@@ -1,0 +1,36 @@
+{
+  "id": "c979be8e72cc92b8",
+  "slug": "google-cloud-launches-gemini-for-healthcare",
+  "titleZh": "Google Cloud发布Gemini for healthcare",
+  "titleOriginal": "Google Cloud launches Gemini for healthcare.",
+  "summary": "Google Cloud发布Gemini for healthcare，旨在统一临床数据并自动化工作流，以减少行政负担。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google Cloud发布Gemini for healthcare",
+    "统一临床数据并自动化工作流",
+    "旨在减少行政负担"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "医疗科技",
+    "Google Cloud",
+    "数据统一",
+    "工作流自动化"
+  ],
+  "entities": [
+    "Google",
+    "Gemini",
+    "Google Cloud"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "publishedAt": "2026-11-10T13:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "18613b1233d2c012",
+  "status": "published"
+}

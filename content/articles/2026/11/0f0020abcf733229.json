@@ -1,0 +1,35 @@
+{
+  "id": "0f0020abcf733229",
+  "slug": "helping-caregivers-use-ai-in-everyday-life",
+  "titleZh": "OpenAI学院为护理人员举办ChatGPT工作坊",
+  "titleOriginal": "Helping caregivers use AI in everyday life",
+  "summary": "OpenAI Academy将在五个美国城市举办免费的ChatGPT实操工作坊，帮助护理人员掌握日常生活的实用AI技能。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI Academy在五个美国城市开展护理人员AI培训",
+    "提供免费的ChatGPT实操工作坊",
+    "旨在帮助护理人员获取日常生活的实用AI技能"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "AI教育",
+    "护理人员",
+    "ChatGPT",
+    "美国"
+  ],
+  "entities": [
+    "Helping",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "publishedAt": "2026-11-10T12:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "90868d0507668448",
+  "status": "published"
+}

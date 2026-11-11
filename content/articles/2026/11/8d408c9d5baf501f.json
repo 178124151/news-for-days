@@ -1,0 +1,36 @@
+{
+  "id": "8d408c9d5baf501f",
+  "slug": "8-k-federal-home-loan-bank-of-new-york-0001329842-filer-8d408c",
+  "titleZh": "联邦家庭贷款银行纽约分公司8-K文件",
+  "titleOriginal": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+  "summary": "SEC EDGAR 8-K披露创建直接金融义务或离表账户安排相关事项，文件于2026年11月10日提交。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "披露直接金融义务事项",
+    "涉及离表账户安排",
+    "文件提交日期为2026-11-10"
+  ],
+  "category": "policy",
+  "tags": [
+    "监管披露",
+    "金融机构",
+    "8-K文件",
+    "合规",
+    "离表安排"
+  ],
+  "entities": [
+    "Federal Home Loan",
+    "New York",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009668/0001654954-26-009668-index.htm",
+  "publishedAt": "2026-11-10T22:26:29.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f0b7cb93d6babedb",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0048165643052bd3",
+  "slug": "should-a-widow-leave-her-late-partner-x2019-s-home-to-her-st",
+  "titleZh": "寡妇应将亡伴侣的房产留给继子吗",
+  "titleOriginal": "Should a widow leave her late partner&#x2019;s home to her stepkids &#x2014; or cut off contact with them?",
+  "summary": "市场观点认为，将房产留给继子比现在出售并分摊所得财产是一种不那么剧烈的步骤。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "建议将房产留给继子",
+    "相比出售分摊财产更不剧烈",
+    "涉及继子与寡妇的联系问题"
+  ],
+  "category": "finance",
+  "tags": [
+    "房产",
+    "继子",
+    "寡妇",
+    "财产分割",
+    "法律纠纷"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-11T00:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a69641b8ea2f3046",
+  "status": "published"
+}

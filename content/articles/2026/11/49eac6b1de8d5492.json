@@ -1,0 +1,35 @@
+{
+  "id": "49eac6b1de8d5492",
+  "slug": "amazons-ring-unveils-flying-drone-and-robot-to-patrol-homes-",
+  "titleZh": "Amazon Ring推出巡逻飞行器",
+  "titleOriginal": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+  "summary": "Amazon旗下Ring推出250美元飞行摄像机，可在室内室外巡逻并夜间捕捉可疑活动画面。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "推出250美元飞行摄像机",
+    "支持室内外巡逻功能",
+    "具备夜间拍摄能力"
+  ],
+  "category": "finance",
+  "tags": [
+    "智能家居",
+    "安防",
+    "无人机",
+    "Amazon",
+    "Ring"
+  ],
+  "entities": [
+    "Amazon",
+    "Ring"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+  "publishedAt": "2026-11-10T19:43:59.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8050a87bd748a96b",
+  "status": "published"
+}

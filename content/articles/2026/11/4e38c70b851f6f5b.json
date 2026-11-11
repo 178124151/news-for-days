@@ -1,0 +1,35 @@
+{
+  "id": "4e38c70b851f6f5b",
+  "slug": "hegseth-impeachment-effort-torpedoed-in-house",
+  "titleZh": "赫格塞思弹劾努力在众议院受阻",
+  "titleOriginal": "Hegseth impeachment effort torpedoed in House",
+  "summary": "共和党众议员托马斯·马斯基在蓝浪中期选举后几天发起赫格塞思弹劾斗争，他与唐纳德·特朗普总统有过节。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "托马斯·马斯基发起赫格塞思弹劾斗争",
+    "马斯基与特朗普总统有过节",
+    "发生在蓝浪中期选举后"
+  ],
+  "category": "finance",
+  "tags": [
+    "政治",
+    "众议院",
+    "弹劾",
+    "特朗普",
+    "马斯基"
+  ],
+  "entities": [
+    "Hegseth",
+    "House"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+  "publishedAt": "2026-11-10T23:46:41.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "58f11da1ebc6b6ad",
+  "status": "published"
+}

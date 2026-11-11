@@ -1,0 +1,32 @@
+{
+  "id": "5a44252c99a116fa",
+  "slug": "x-launches-its-own-clipping-feature-to-spur-influencer-engag",
+  "titleZh": "X推出自家剪辑功能助推博主互动",
+  "titleOriginal": "X launches its own clipping feature to spur influencer engagement",
+  "summary": "X平台推出剪辑功能，旨在通过切分长视频为短片提升博主互动。该功能支持将长视频转化为可分享短片，有潜力走红。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "X平台推出剪辑功能",
+    "支持将长视频切分为短片",
+    "旨在提升博主互动和病毒传播"
+  ],
+  "category": "tech",
+  "tags": [
+    "X平台",
+    "视频剪辑",
+    "博主互动",
+    "短视频",
+    "内容创作"
+  ],
+  "entities": [],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+  "publishedAt": "2026-11-11T01:02:13.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "33ef0e67afb18fca",
+  "status": "published"
+}

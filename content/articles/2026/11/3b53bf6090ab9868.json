@@ -1,0 +1,36 @@
+{
+  "id": "3b53bf6090ab9868",
+  "slug": "openai-acquires-odessia-travel-startup-created-by-sonder-fou",
+  "titleZh": "OpenAI收购旅行创业公司Odessia",
+  "titleOriginal": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+  "summary": "OpenAI收购了由Sonder创始人Francis Davidson创立的旅行初创公司Odessia。OpenAI尚未公布对该业务的具体规划，但 Davidson 是旅行行业知名人物。",
+  "keyPoints": [
+    "OpenAI收购旅行创业公司Odessia",
+    "创始人Francis Davidson为Sonder创始人",
+    "OpenAI暂未公布后续规划"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "收购",
+    "旅行科技",
+    "Sonder",
+    "Odessia"
+  ],
+  "entities": [
+    "OpenAI",
+    "Odessia",
+    "Sonder"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+  "publishedAt": "2026-11-10T21:08:52.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "186ecd0d8ddd596f",
+  "status": "published"
+}

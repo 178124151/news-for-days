@@ -1,0 +1,32 @@
+{
+  "id": "1352ad7f43e660a8",
+  "slug": "1352ad7f43e660a8",
+  "titleZh": "市场监管总局部署优化消费环境举措",
+  "titleOriginal": "市场监管总局部署多项举措，共建放心消费生态圈",
+  "summary": "市场监管总局召开平台企业放心消费承诺座谈会，部署多项举措共建放心消费生态圈。要求平台建立首问负责和先行赔付制度，提升AI客服水平并与人工客服衔接。明年将上线一键和解功能，目前已有放心消费平台上线，支持商家公示标识和消费者查询维权。",
+  "keyPoints": [
+    "要求平台企业建立首问负责和先行赔付制度",
+    "提升AI客服水平并做好与人工客服的衔接",
+    "明年将上线一键和解功能，构建共建生态圈"
+  ],
+  "category": "tech",
+  "tags": [
+    "消费者权益",
+    "平台监管",
+    "放心消费",
+    "AI客服",
+    "生态建设"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4064653680022659?f=rss",
+  "publishedAt": "2026-11-11T00:59:32.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b8460a32a9901a79",
+  "status": "published"
+}

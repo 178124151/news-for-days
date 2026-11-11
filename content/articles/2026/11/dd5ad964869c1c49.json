@@ -1,0 +1,32 @@
+{
+  "id": "dd5ad964869c1c49",
+  "slug": "b",
+  "titleZh": "国产半导体模块厂商利普思获亿元B轮融资",
+  "titleOriginal": "国产半导体模块厂商“利普思”获近亿元B轮融资",
+  "summary": "国产半导体模块厂商利普思近日获近亿元B轮融资，新投资方为上海新微资本。资金将用于加大AIDC相关产品研发和全球市场拓展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "利普思获近亿元B轮融资",
+    "新投资方为上海新微资本",
+    "资金用于AIDC产品研发和市场推广"
+  ],
+  "category": "tech",
+  "tags": [
+    "利普思",
+    "半导体模块",
+    "B轮融资",
+    "AIDC",
+    "上海新微资本"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4064705033474949?f=rss",
+  "publishedAt": "2026-11-11T01:51:46.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7b091ef0d681276b",
+  "status": "published"
+}

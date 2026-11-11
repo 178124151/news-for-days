@@ -1,0 +1,36 @@
+{
+  "id": "1ee1435e78d068a1",
+  "slug": "8-k-spero-therapeutics-inc-0001701108-filer",
+  "titleZh": "Spero Therapeutics 高管变动",
+  "titleOriginal": "8-K - Spero Therapeutics, Inc. (0001701108) (Filer)",
+  "summary": "Spero Therapeutics 于2026年11月10日提交8-K文件，涉及高管离任、新任命及补偿安排等事项。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Spero Therapeutics提交8-K文件报告高管变动",
+    "包含董事/高管离任与新任命信息",
+    "涉及具体的补偿安排安排"
+  ],
+  "category": "policy",
+  "tags": [
+    "Spero Therapeutics",
+    "8-K",
+    "高管变动",
+    "SEC",
+    "生物医药"
+  ],
+  "entities": [
+    "Spero Therapeutics",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1701108/000119312526455789/0001193125-26-455789-index.htm",
+  "publishedAt": "2026-11-10T22:30:46.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1d594bf7c0b52ff3",
+  "status": "published"
+}

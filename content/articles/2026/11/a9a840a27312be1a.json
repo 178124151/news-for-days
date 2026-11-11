@@ -1,0 +1,35 @@
+{
+  "id": "a9a840a27312be1a",
+  "slug": "8-k-aptera-motors-corp-0001786471-filer",
+  "titleZh": "Aptera Motors 8-K文件披露",
+  "titleOriginal": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+  "summary": "Aptera Motors Corp于2026年11月10日提交8-K文件，涉及重大协议、股权发行、投票事项及财务报表等内容。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Aptera Motors提交8-K文件披露多项事项",
+    "涉及重大协议、股权发行及投票事项",
+    "包含监管披露与财务报表信息"
+  ],
+  "category": "policy",
+  "tags": [
+    "Aptera Motors",
+    "8-K",
+    "重大协议",
+    "股权发行",
+    "监管披露"
+  ],
+  "entities": [
+    "Aptera Motors Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226051042/0001493152-26-051042-index.htm",
+  "publishedAt": "2026-11-10T22:30:39.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "93508e7301603823",
+  "status": "published"
+}

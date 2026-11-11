@@ -1,0 +1,35 @@
+{
+  "id": "65b96c238445cded",
+  "slug": "gilbert-tobin-rethinks-the-business-of-law-with-ai",
+  "titleZh": "Gilbert+Tobin重塑法律业务",
+  "titleOriginal": "Gilbert + Tobin rethinks the business of law with AI",
+  "summary": "OpenAI访谈其合伙人兼首席执行官Sam Nickless，探讨AI在法律业务中的应用与重塑。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "访谈AI在法律业务中的应用",
+    "重塑法律服务业务模式",
+    "涉及首席执行官Sam Nickless"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "法律",
+    "创新",
+    "业务转型"
+  ],
+  "entities": [
+    "Gilbert",
+    "Tobin",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "publishedAt": "2026-11-12T00:00:00.000Z",
+  "fetchedAt": "2026-11-11T02:08:23.387Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a8f8df7dce8a7038",
+  "status": "published"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5f457e0719749217",
+  "slug": "nvidia-is-reportedly-preparing-to-fire-jensen-huang",
+  "titleZh": "Nvidia reportedly preparing to fire Jensen Huang",
+  "titleOriginal": "Nvidia is reportedly preparing to fire Jensen Huang",
+  "summary": "The Verge报道，Nvidia董事会准备解除詹森黄职务，原因涉及涉外婚外情传闻。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "董事会准备解除黄职务",
+    "涉及婚外情传闻",
+    "二次涉及涉外情报人员"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "詹森黄",
+    "解雇",
+    "董事会",
+    "传闻"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Jensen Huang"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+  "publishedAt": "2026-11-11T22:44:36.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 85,
+  "clusterId": "c5f457e0719749217",
+  "alsoCoveredBy": [
+    {
+      "sourceName": "Hacker News",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    }
+  ],
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dba817312b6c1bbb",
+  "status": "published"
+}

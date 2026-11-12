@@ -1,0 +1,32 @@
+{
+  "id": "543fa80131e7cffd",
+  "slug": "1",
+  "titleZh": "沪深两市成交额突破1万亿元",
+  "titleOriginal": "沪深两市成交额突破1万亿元",
+  "summary": "沪深两市成交额突破1万亿元，较上一个交易日放量超2500亿元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "沪深两市成交额突破1万亿元",
+    "较上交易日放量超2500亿元",
+    "成交额创新高"
+  ],
+  "category": "tech",
+  "tags": [
+    "沪深两市",
+    "成交额",
+    "股市",
+    "资金面",
+    "市场活跃"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4066174736356485?f=rss",
+  "publishedAt": "2026-11-12T02:46:50.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7e6fbf0332ce8088",
+  "status": "published"
+}

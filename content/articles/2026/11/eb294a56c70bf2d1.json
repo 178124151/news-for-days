@@ -1,0 +1,43 @@
+{
+  "id": "eb294a56c70bf2d1",
+  "slug": "nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-je",
+  "titleZh": "Nvidia股价下跌",
+  "titleOriginal": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+  "summary": "据称Nvidia董事会准备解除创始人、任职33年的CEO詹森黄职务。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "董事会可能解除詹森黄职务",
+    "任职时间达33年",
+    "股价出现波动"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "詹森黄",
+    "CEO",
+    "董事会",
+    "股价"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "CEO Jensen Huang"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+  "publishedAt": "2026-11-11T23:28:45.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 90,
+  "clusterId": "ceb294a56c70bf2d1",
+  "alsoCoveredBy": [
+    {
+      "sourceName": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories"
+    }
+  ],
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b5b0be0cb84a2f72",
+  "status": "published"
+}

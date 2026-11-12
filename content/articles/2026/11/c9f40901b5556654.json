@@ -1,0 +1,36 @@
+{
+  "id": "c9f40901b5556654",
+  "slug": "8-k-sunrise-realty-trust-inc-0002012706-filer",
+  "titleZh": "8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",
+  "titleOriginal": "8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",
+  "summary": "Filed: 2026-11-10 AccNo: 0001628280-26-072851 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+  "keyPoints": [
+    "Filed: 2026-11-10 AccNo: 0001628280-26-…",
+    "8-K - Sunrise Realty Trust, Inc. (00020…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Sunrise Realty Trust",
+    "Inc",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Sunrise Realty Trust",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026072851/0001628280-26-072851-index.htm",
+  "publishedAt": "2026-11-10T22:30:03.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 36,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "a9ac007b935ce5f9",
+  "status": "published"
+}

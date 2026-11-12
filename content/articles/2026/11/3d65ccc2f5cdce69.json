@@ -1,0 +1,35 @@
+{
+  "id": "3d65ccc2f5cdce69",
+  "slug": "try-tabletop-customizable-collaborative-spaces-for-groups-to",
+  "titleZh": "Tabletop：可定制协作空间",
+  "titleOriginal": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "summary": "Google推出实验项目Tabletop，支持团队共建互动行程、投票和赛制。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google推出协作实验项目",
+    "支持互动行程、投票、赛制",
+    "面向团队使用"
+  ],
+  "category": "ai",
+  "tags": [
+    "Google Labs",
+    "协作工具",
+    "实验项目",
+    "团队协作",
+    "AI应用"
+  ],
+  "entities": [
+    "Try Tabletop",
+    "Customizable"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "publishedAt": "2026-11-11T16:00:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "660f93c667c2ad2a",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f3e56d3cdb055ab5",
+  "slug": "8-k-ashford-hospitality-trust-inc-0001232582-filer",
+  "titleZh": "8-K - ASHFORD HOSPITALITY TRUST INC (0001232582) (Filer)",
+  "titleOriginal": "8-K - ASHFORD HOSPITALITY TRUST INC (0001232582) (Filer)",
+  "summary": "Filed: 2026-11-10 AccNo: 0001232582-26-000214 Size: 2 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+  "keyPoints": [
+    "Filed: 2026-11-10 AccNo: 0001232582-26-…",
+    "8-K - ASHFORD HOSPITALITY TRUST INC (00…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "ASHFORD HOSPITALITY TRUST",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "ASHFORD HOSPITALITY TRUST",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1232582/000123258226000214/0001232582-26-000214-index.htm",
+  "publishedAt": "2026-11-10T22:28:33.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 36,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "df30cbc969d393ae",
+  "status": "published"
+}

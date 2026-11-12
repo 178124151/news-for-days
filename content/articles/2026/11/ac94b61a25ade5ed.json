@@ -1,0 +1,35 @@
+{
+  "id": "ac94b61a25ade5ed",
+  "slug": "chatgpt-plus-for-veterans-and-servicemembers",
+  "titleZh": "ChatGPT Plus免费年 for veterans",
+  "titleOriginal": "ChatGPT Plus for veterans and servicemembers",
+  "summary": "OpenAI向2万多名退伍军人及转服务成员提供免费ChatGPT Plus，用于职业转型准备。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI向退伍军人提供免费Plus",
+    "超2万名受益",
+    "用于职业转型"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "退伍军人",
+    "ChatGPT Plus",
+    "职业发展",
+    "公益"
+  ],
+  "entities": [
+    "ChatGPT",
+    "ChatGPT Plus"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
+  "publishedAt": "2026-11-11T08:00:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5300ef3d0103f668",
+  "status": "published"
+}

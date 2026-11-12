@@ -1,0 +1,36 @@
+{
+  "id": "1c7510e23f406068",
+  "slug": "11-ai-trae-ai-coding",
+  "titleZh": "双11直播间爆改AI秀场，罗永浩上手TRAE",
+  "titleOriginal": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+  "summary": "双11期间，罗永浩在直播间上手演示TRAE，展示AI Coding功能，引发关注。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "罗永浩在直播间上手演示TRAE",
+    "展示AI Coding相关功能",
+    "引发双11营销关注"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "直播带货",
+    "罗永浩",
+    "TRAE",
+    "编程"
+  ],
+  "entities": [
+    "AI",
+    "TRAE",
+    "AI Coding"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509146.html",
+  "publishedAt": "2026-11-11T06:41:26.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "03efe1949e109c16",
+  "status": "published"
+}

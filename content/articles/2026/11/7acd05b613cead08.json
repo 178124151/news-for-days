@@ -1,0 +1,37 @@
+{
+  "id": "7acd05b613cead08",
+  "slug": "cramers-stance-on-nvidias-stock-amid-reports-that-ceo-jensen",
+  "titleZh": "克雷默谈 Nvidia 股价 amid 传闻 CEO 可能被免职",
+  "titleOriginal": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+  "summary": "CNBC 主持人克雷默表示，他在得知 Nvidia 董事会可能解雇黄仁勋的消息后感到难过。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "克雷默对黄仁勋可能被免职表示遗憾",
+    "涉及 Nvidia 董事会内部动向",
+    "股市对管理层变动的反应"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "黄仁勋",
+    "股市",
+    "克雷머",
+    "治理变动"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Cramer",
+    "CEO Jensen Huang"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+  "publishedAt": "2026-11-12T01:14:21.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "16c3b6bca88b1e45",
+  "status": "published"
+}

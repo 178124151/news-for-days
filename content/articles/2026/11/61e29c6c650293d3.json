@@ -1,0 +1,32 @@
+{
+  "id": "61e29c6c650293d3",
+  "slug": "61e29c6c650293d3",
+  "titleZh": "百度推出大模型交易平台词元所",
+  "titleOriginal": "百度推出大模型交易平台词元所",
+  "summary": "百度推出大模型交易平台词元所，旨在汇聚优质模型和提供商，便于企业及个人购买使用可信模型Token。平台上线一个月内，入驻供应资源超100个，日均调用次数突破5000万，日均调用Token超7000亿。",
+  "keyPoints": [
+    "百度推出大模型交易平台词元所",
+    "平台上线一个月内入驻资源超100个",
+    "日均调用次数突破5000万"
+  ],
+  "category": "tech",
+  "tags": [
+    "百度",
+    "大模型",
+    "交易平台",
+    "AI",
+    "模型Token"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4066188005692289?f=rss",
+  "publishedAt": "2026-11-12T03:00:20.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "46a62fdd7d245a8e",
+  "status": "published"
+}

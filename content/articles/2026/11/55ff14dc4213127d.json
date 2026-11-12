@@ -1,0 +1,35 @@
+{
+  "id": "55ff14dc4213127d",
+  "slug": "jiostars-chief-architect-on-ai-discovery-at-500m-user-scale",
+  "titleZh": "JioStar首席架构师谈5亿用户规模AI探索",
+  "titleOriginal": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "summary": "JioStar首席架构师Vijay Seshadri分享了在5亿用户规模下AI的经验，涵盖评估、护栏以及将AI投入生产的实践。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Vijay Seshadri分享AI在5亿用户规模下的经验",
+    "涵盖评估、护栏等关键环节",
+    "重点讨论AI从实验走向生产的实践"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "大规模部署",
+    "工程实践",
+    "JioStar",
+    "技术分享"
+  ],
+  "entities": [
+    "JioStar",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/jiostar-vijay-seshadri",
+  "publishedAt": "2026-11-11T00:00:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9693cfa5fa341534",
+  "status": "published"
+}

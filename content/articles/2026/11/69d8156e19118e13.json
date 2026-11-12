@@ -1,0 +1,32 @@
+{
+  "id": "69d8156e19118e13",
+  "slug": "9",
+  "titleZh": "国内铁路首次，南溪河特大桥9号格构墩完工",
+  "titleOriginal": "国内铁路首次，南溪河特大桥9号格构墩顺利完工",
+  "summary": "云南文山至蒙自铁路南溪河特大桥9号格构墩顺利完工，为国内铁路工程首次应用格构墩结构。该桥全长789.71米，最大高差118米。采用钢管混凝土格构墩，较传统结构节约混凝土和钢材30%至50%，并提升抗震能力与地质适应性。",
+  "keyPoints": [
+    "国内铁路工程首次应用格构墩结构",
+    "钢管混凝土格构墩可节约混凝土和钢材30%-50%",
+    "提升抗震能力和地质适应性"
+  ],
+  "category": "tech",
+  "tags": [
+    "铁路工程",
+    "格构墩",
+    "钢管混凝土",
+    "技术突破",
+    "云南铁路"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4066192537277315?f=rss",
+  "publishedAt": "2026-11-12T03:13:49.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9a1f4e097e5c079e",
+  "status": "published"
+}

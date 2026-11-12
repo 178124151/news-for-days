@@ -1,0 +1,37 @@
+{
+  "id": "63229542a7eb79a5",
+  "slug": "nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-",
+  "titleZh": "纳指期货下跌 Nvidia盘后跌8%",
+  "titleOriginal": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+  "summary": "纳斯达克期货下跌，Nvidia盘后跌8%因传其董事会可能更换黄仁勋。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "纳指期货下跌",
+    "Nvidia盘后跌8%",
+    "传董事会可能更换CEO"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技股",
+    "期货",
+    "半导体",
+    "人事变动",
+    "市场波动"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Nasdaq",
+    "Huang"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-12T01:12:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4d8ba5fe4c7e5cc7",
+  "status": "published"
+}

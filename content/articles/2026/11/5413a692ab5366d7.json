@@ -1,0 +1,35 @@
+{
+  "id": "5413a692ab5366d7",
+  "slug": "coreweave-turns-to-customer-prepayments-shorter-contracts-to",
+  "titleZh": "CoreWeave转向客户预付和短期合同",
+  "titleOriginal": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+  "summary": "CoreWeave计划增加客户预付比例，借款针对特定合同，并探索短期交易以可能带来更高价格，以资助AI业务增长。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CoreWeave增加客户预付比例",
+    "借款针对特定合同，探索短期交易",
+    "以资助AI业务增长"
+  ],
+  "category": "tech",
+  "tags": [
+    "CoreWeave",
+    "AI",
+    "预付款",
+    "合同",
+    "资金策略"
+  ],
+  "entities": [
+    "CoreWeave",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+  "publishedAt": "2026-11-11T19:54:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0afe4edf3a67b7b3",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "31066d3dd3e77fd7",
+  "slug": "fable-5-2-jim-fan",
+  "titleZh": "英伟达机器人开源撞上Fable 5.2发布",
+  "titleOriginal": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+  "summary": "英伟达机器人开源项目与Fable 5.2版本发布同时进行，Jim Fan表示当前并非寒冬而是夏天。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "英伟达机器人开源项目与Fable 5.2发布同期进行",
+    "Jim Fan表示当前并非寒冬而是夏天",
+    "两大机器人项目同步发布引发关注"
+  ],
+  "category": "ai",
+  "tags": [
+    "英伟达",
+    "机器人",
+    "开源",
+    "Fable",
+    "AI夏季"
+  ],
+  "entities": [
+    "Fable",
+    "Jim Fan"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509032.html",
+  "publishedAt": "2026-11-10T10:35:38.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 75,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c894c79746599919",
+  "status": "published"
+}

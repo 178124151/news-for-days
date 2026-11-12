@@ -1,0 +1,35 @@
+{
+  "id": "c6ea8cbeac0aa703",
+  "slug": "cftc-investigates-if-kalshi-improperly-self-certified-event-",
+  "titleZh": "CFTC 调查 Kalshi 是否违规自行认证",
+  "titleOriginal": "CFTC investigates if Kalshi improperly self-certified event contracts",
+  "summary": "CFTC 正在调查 Kalshi 是否在自行认证事件合约时存在违规行为。此前 CFTC 曾命令其下架体育相关的‘提及市场’。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CFTC 调查 Kalshi 自行认证行为",
+    "涉及事件合约的合规性",
+    "此前曾因体育市场被要求下架"
+  ],
+  "category": "finance",
+  "tags": [
+    "CFTC",
+    "事件合约",
+    "监管调查",
+    "Kalshi",
+    "市场合规"
+  ],
+  "entities": [
+    "CFTC",
+    "Kalshi"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+  "publishedAt": "2026-11-12T02:43:09.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a5ceac3baad5a75e",
+  "status": "published"
+}

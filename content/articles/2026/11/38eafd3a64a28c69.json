@@ -1,0 +1,34 @@
+{
+  "id": "38eafd3a64a28c69",
+  "slug": "jetblue-unveils-new-first-class-seats-to-bring-back-profits",
+  "titleZh": "JetBlue展示新头等舱座位",
+  "titleOriginal": "JetBlue unveils new first-class seats to bring back profits",
+  "summary": "JetBlue向媒体展示了新的头等舱座位。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "JetBlue展示新头等舱座位",
+    "旨在恢复盈利",
+    "媒体实地探访"
+  ],
+  "category": "finance",
+  "tags": [
+    "JetBlue",
+    "头等舱",
+    "航空",
+    "财务",
+    "产品升级"
+  ],
+  "entities": [
+    "JetBlue"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+  "publishedAt": "2026-11-11T22:10:50.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "21d536deddf12965",
+  "status": "published"
+}

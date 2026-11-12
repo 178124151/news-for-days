@@ -1,0 +1,34 @@
+{
+  "id": "3d9660037aa42689",
+  "slug": "x2018-i-x2019-m-sick-of-flying-x2019-i-paid-for-priority-boa",
+  "titleZh": "‘我厌倦了飞行’：优先登机费被全",
+  "titleOriginal": "&#x2018;I&#x2019;m sick of flying&#x2019;: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+  "summary": "乘客投诉尽管支付了优先登机费，但头顶行李舱仍满，质疑是否被欺骗。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "乘客支付优先登机费却发现头顶舱位满",
+    "质疑航空公司优先登机服务的有效性",
+    "引发对服务承诺的不满"
+  ],
+  "category": "finance",
+  "tags": [
+    "航空",
+    "优先登机",
+    "消费投诉",
+    "服务质量",
+    "旅行"
+  ],
+  "entities": [
+    "Was I"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-12T02:45:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "79ce56baeaa60100",
+  "status": "published"
+}

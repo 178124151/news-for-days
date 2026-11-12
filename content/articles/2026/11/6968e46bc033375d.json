@@ -1,0 +1,32 @@
+{
+  "id": "6968e46bc033375d",
+  "slug": "30",
+  "titleZh": "新疆无人拖拉机深翻30厘米",
+  "titleOriginal": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+  "summary": "丘沃智能开物系统实现L4无人化作业规模交付，深翻深度达30厘米以上。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "L4无人化作业规模交付",
+    "深翻深度达30厘米以上",
+    "新疆大田作业"
+  ],
+  "category": "ai",
+  "tags": [
+    "无人拖拉机",
+    "L4自动驾驶",
+    "智能农机",
+    "新疆",
+    "丘沃智能"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509052.html",
+  "publishedAt": "2026-11-11T03:43:31.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "692aff12441e4271",
+  "status": "published"
+}

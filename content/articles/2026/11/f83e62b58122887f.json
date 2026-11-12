@@ -1,0 +1,36 @@
+{
+  "id": "f83e62b58122887f",
+  "slug": "8-k-star-equity-holdings-inc-0001210708-filer",
+  "titleZh": "Star Equity Holdings 8-K 文件",
+  "titleOriginal": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+  "summary": "Star Equity Holdings 提交8-K文件，涉及Item 1.01 重大协议项下的重大协议、Item 2.03 直接财务义务或资产负表外安排以及Item 9.01 财务报表和展览。",
+  "keyPoints": [
+    "提交时间为2026年11月10日",
+    "涉及重大协议相关事项",
+    "包含财务报表和展览信息"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "8-K 文件",
+    "Star Equity Holdings",
+    "重大协议",
+    "财务报表"
+  ],
+  "entities": [
+    "Star Equity Holdings",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000099/0001210708-26-000099-index.htm",
+  "publishedAt": "2026-11-10T22:30:09.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d181c5ed5f9f4a1b",
+  "status": "published"
+}

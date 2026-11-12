@@ -1,0 +1,35 @@
+{
+  "id": "9092d5eb66f29547",
+  "slug": "singapore-airlines-elevates-travel-work-with-openai-technolo",
+  "titleZh": "新加坡航空提升旅行与工作体验",
+  "titleOriginal": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "summary": "新加坡航空使用 OpenAI 模型和 API，增强客服、旅行发现和员工生产力，其 Kris 聊天机器人满意度。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "新加坡航空使用 OpenAI 模型和 API",
+    "增强客服、旅行发现和员工生产力",
+    "Kris 聊天机器人满意度"
+  ],
+  "category": "ai",
+  "tags": [
+    "新加坡航空",
+    "OpenAI",
+    "客服",
+    "旅行科技",
+    "员工生产力"
+  ],
+  "entities": [
+    "OpenAI",
+    "Singapore Airlines"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/singapore-airlines-travel-work",
+  "publishedAt": "2026-11-10T08:00:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "79e46757433b9405",
+  "status": "published"
+}

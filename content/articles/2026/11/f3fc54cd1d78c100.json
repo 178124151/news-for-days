@@ -1,0 +1,36 @@
+{
+  "id": "f3fc54cd1d78c100",
+  "slug": "work-at-the-frontier-ais-effect-on-freelance-work",
+  "titleZh": "OpenAI与Upwork研究：AI对自由职业工作影响",
+  "titleOriginal": "Work at the Frontier: AI’s effect on freelance work",
+  "summary": "OpenAI与Upwork研究显示，AI相关项目预算和工时增加，自由职业工作需求转变，技能组合出现新形态。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI相关项目预算和工时显著增加",
+    "自由职业工作需求出现转变",
+    "新的技能组合正在形成"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "自由职业",
+    "OpenUpwork研究",
+    "技能变动",
+    "项目预算"
+  ],
+  "entities": [
+    "Work",
+    "Frontier",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work",
+  "publishedAt": "2026-11-10T07:00:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4d1d456e730ba15e",
+  "status": "published"
+}

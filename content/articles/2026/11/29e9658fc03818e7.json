@@ -1,0 +1,34 @@
+{
+  "id": "29e9658fc03818e7",
+  "slug": "i-x2019-m-63-and-spending-95-000-on-a-roof-deck-for-my-500-0",
+  "titleZh": "63 岁花 9.5 万装屋顶花园",
+  "titleOriginal": "I&#x2019;m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+  "summary": "房主花费 9.5 万美元在 50 万美元的房屋上装修屋顶花园，称只有 15 年房贷是债务，资产净值 230 万美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "花费 9.5 万美元装修屋顶花园",
+    "房产总值 50 万美元，净资产 230 万美元",
+    "讨论中产阶级的消费与投资决策"
+  ],
+  "category": "finance",
+  "tags": [
+    "房产",
+    "装修",
+    "理财",
+    "中产阶级",
+    "资产配置"
+  ],
+  "entities": [
+    "Am I"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-12T02:31:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d194e63d2a227a6d",
+  "status": "published"
+}

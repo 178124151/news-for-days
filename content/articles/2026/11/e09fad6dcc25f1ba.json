@@ -1,0 +1,36 @@
+{
+  "id": "e09fad6dcc25f1ba",
+  "slug": "experience-the-art-and-legacy-of-dr-esther-mahlangu",
+  "titleZh": "Dr. Esther Mahlangu艺术档案",
+  "titleOriginal": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "summary": "Google Arts & Culture上线埃斯特·马尔古古艺术生平在线档案。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google Arts & Culture上线档案",
+    "展示艺术家生平与作品",
+    "在线艺术资源"
+  ],
+  "category": "ai",
+  "tags": [
+    "Google Arts",
+    "艺术档案",
+    "数字文化",
+    "埃斯特·马尔古古",
+    "艺术遗产"
+  ],
+  "entities": [
+    "Experience",
+    "Dr",
+    "Esther Mahlangu"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "publishedAt": "2026-11-11T09:00:00.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 20,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "25419bca0ba7ee63",
+  "status": "published"
+}

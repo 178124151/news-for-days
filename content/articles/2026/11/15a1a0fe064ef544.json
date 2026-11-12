@@ -1,0 +1,40 @@
+{
+  "id": "15a1a0fe064ef544",
+  "slug": "okx-and-ices-joint-venture-okxice-plans-to-launch-a-us-token",
+  "titleZh": "OKXICE计划11月23日上线美国代币化股票平台",
+  "titleOriginal": "OKX and ICE's joint venture OKXICE plans to launch a US tokenized stock venue on November 23 and list 70+ assets; 56 of the 62 companies it targeted objected (Scott Patterson/Bloomberg)",
+  "summary": "OKX和ICE的合资公司OKXICE计划于11月23日在美国上线代币化股票平台，并列出70多项资产。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "计划11月23日上线",
+    "列出70多项资产",
+    "56家公司反对"
+  ],
+  "category": "tech",
+  "tags": [
+    "OKX",
+    "ICE",
+    "代币化",
+    "股票",
+    "美国市场"
+  ],
+  "entities": [
+    "OKX",
+    "ICE",
+    "OKXICE",
+    "US",
+    "November",
+    "Scott Patterson",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261111/p42#a261111p42",
+  "publishedAt": "2026-11-11T21:00:13.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ea36b7fb02031367",
+  "status": "published"
+}

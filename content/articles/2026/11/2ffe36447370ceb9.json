@@ -1,0 +1,37 @@
+{
+  "id": "2ffe36447370ceb9",
+  "slug": "what-we-know-so-far-about-nvidia-partner-megaspeeds-asia-foo",
+  "titleZh": "美光亚洲业务受美调查",
+  "titleOriginal": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+  "summary": "美光被卷入美国调查，涉嫌向中国非法运输数十亿美元限制性 Nvidia 芯片。该公司高管被指与黄仁勋有染。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美国调查美光向中国运输限制性 Nvidia 芯片",
+    "涉及数十亿美元的出口管制违规",
+    "公司高管涉及个人丑闻"
+  ],
+  "category": "finance",
+  "tags": [
+    "半导体",
+    "出口管制",
+    "美国调查",
+    "Nvidia",
+    "中国"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Megaspeed",
+    "Asia"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+  "publishedAt": "2026-11-12T03:02:03.000Z",
+  "fetchedAt": "2026-11-12T03:17:58.936Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8f7563d318e5fbac",
+  "status": "published"
+}

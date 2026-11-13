@@ -1,0 +1,35 @@
+{
+  "id": "89dff585f06a6c35",
+  "slug": "minimax-sota-4k",
+  "titleZh": "多模态‘源神’！MiniMax开源SOTA生图模型",
+  "titleOriginal": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+  "summary": "MiniMax开源SOTA生图模型，原生4K支持，单张成本仅两毛钱。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "MiniMax开源SOTA生图模型",
+    "原生4K支持且单张成本仅两毛钱",
+    "多模态生成能力突出"
+  ],
+  "category": "ai",
+  "tags": [
+    "MiniMax",
+    "生成模型",
+    "开源SOTA",
+    "多模态",
+    "成本效益"
+  ],
+  "entities": [
+    "MiniMax",
+    "SOTA"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509440.html",
+  "publishedAt": "2026-11-12T11:36:20.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5452906d8386d80b",
+  "status": "published"
+}

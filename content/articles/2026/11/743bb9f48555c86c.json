@@ -1,0 +1,35 @@
+{
+  "id": "743bb9f48555c86c",
+  "slug": "softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natu",
+  "titleZh": "SoftBank因预订天然气轮机遭超30亿美元损失",
+  "titleOriginal": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+  "summary": "SoftBank因预订天然气轮机为AI数据中心供电，导致预估超30亿美元损失。此举可能对能源市场产生影响。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "SoftBank预订天然气轮机",
+    "预估损失超30亿美元",
+    "关联AI数据中心能源需求"
+  ],
+  "category": "tech",
+  "tags": [
+    "SoftBank",
+    "天然气",
+    "AI数据中心",
+    "能源市场",
+    "损失"
+  ],
+  "entities": [
+    "SoftBank",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+  "publishedAt": "2026-11-12T17:00:52.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c936d47f3c7dce46",
+  "status": "published"
+}

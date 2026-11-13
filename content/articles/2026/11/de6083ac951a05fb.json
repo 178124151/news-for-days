@@ -1,0 +1,35 @@
+{
+  "id": "de6083ac951a05fb",
+  "slug": "cerebras-surges-17-after-beating-on-quarterly-revenue-and-an",
+  "titleZh": "Cerebras 股价上涨 17%",
+  "titleOriginal": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+  "summary": "Cerebras 股价上涨 17%，因季度营收超预期并宣布与 Microsoft 达成交易。公司已与亚马逊、Oracle 等主要云服务商合作。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "季度营收超预期",
+    "宣布与 Microsoft 达成交易",
+    "已与亚马逊、Oracle 等云服务商合作"
+  ],
+  "category": "finance",
+  "tags": [
+    "Cerebras",
+    "财报",
+    "Microsoft",
+    "云计算",
+    "股价"
+  ],
+  "entities": [
+    "Microsoft",
+    "Cerebras"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+  "publishedAt": "2026-11-13T02:43:26.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7d18f384a9a17b39",
+  "status": "published"
+}

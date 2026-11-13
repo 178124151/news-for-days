@@ -1,0 +1,34 @@
+{
+  "id": "0df1874223cc60d6",
+  "slug": "36-ai4s",
+  "titleZh": "36氪首发：北航博士创青葵智造获亿元融资，造自驱动实验室",
+  "titleOriginal": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室",
+  "summary": "青葵智造获亿元 A 轮融资，聚焦 AI4S 领域。公司提供 AI 设计至自动化执行的干湿实验闭环方案，旨在解决 AI 科学研究中的执行鸿沟与数据鸿沟。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "北航博士创立青葵智造获亿元融资",
+    "聚焦 AI4S 物理 AI 领域",
+    "提供 AI 设计至自动化实验的闭环方案"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI4S",
+    "青葵智造",
+    "融资",
+    "自动化实验",
+    "科研技术"
+  ],
+  "entities": [
+    "AI4S"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4067548192576389?f=rss",
+  "publishedAt": "2026-11-13T02:04:43.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 80,
+  "readMinutes": 5,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "253e3ad5aba91c67",
+  "status": "published"
+}

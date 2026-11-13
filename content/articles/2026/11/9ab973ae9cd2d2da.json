@@ -1,0 +1,34 @@
+{
+  "id": "9ab973ae9cd2d2da",
+  "slug": "sigmastar-3",
+  "titleZh": "Sigmastar 据悉计划在香港上市，融资 3 亿美元",
+  "titleOriginal": "Sigmastar据悉计划在香港上市，融资3亿美元",
+  "summary": "中国芯片制造商 Sigmastar 计划在香港上市，募资 3 亿美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Sigmastar 计划港股上市",
+    "募资金额 3 亿美元",
+    "公司为中国芯片制造商"
+  ],
+  "category": "tech",
+  "tags": [
+    "Sigmastar",
+    "香港上市",
+    "融资",
+    "芯片制造",
+    "IPO"
+  ],
+  "entities": [
+    "Sigmastar"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4067561366262658?f=rss",
+  "publishedAt": "2026-11-13T02:17:23.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1f8d6a6461b9f4ae",
+  "status": "published"
+}

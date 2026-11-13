@@ -1,0 +1,35 @@
+{
+  "id": "b9840fd67063a36a",
+  "slug": "gondola-doubles-revenue-as-its-team-builds-more-with-codex",
+  "titleZh": "Gondola 倍增收入",
+  "titleOriginal": "Gondola doubles revenue as its team builds more with Codex",
+  "summary": "Gondola 倍增收入，团队利用 Codex 等工具提升生产力。其平台帮助创作者获得信息和机会，ChatGPT 简化日常工作。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "收入倍增",
+    "团队利用 Codex 提升产出",
+    "平台聚焦创作者变现与机会"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gondola",
+    "Codex",
+    "ChatGPT",
+    "创作者经济",
+    "生产力工具"
+  ],
+  "entities": [
+    "Gondola",
+    "Codex"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/gondola",
+  "publishedAt": "2026-11-12T12:00:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7d89ea27f999c844",
+  "status": "published"
+}

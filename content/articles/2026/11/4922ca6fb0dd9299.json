@@ -1,0 +1,35 @@
+{
+  "id": "4922ca6fb0dd9299",
+  "slug": "holiday-extras-is-rethinking-what-it-can-build-with-codex",
+  "titleZh": "Holiday Extras利用Codex重塑业务",
+  "titleOriginal": "Holiday Extras is rethinking what it can build with Codex",
+  "summary": "Holiday Extras利用Codex将客户专业知识转化为更好的应用，提高预订转化率并开拓增长新可能。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "利用Codex将客户专业知识转化为应用",
+    "提高预订转化率并开拓增长新可能",
+    "AI工具赋能业务转型"
+  ],
+  "category": "ai",
+  "tags": [
+    "Codex",
+    "AI赋能",
+    "预订转化",
+    "应用开发",
+    "业务增长"
+  ],
+  "entities": [
+    "Holiday Extras",
+    "Codex"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "publishedAt": "2026-11-12T09:30:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3ae3430158d29000",
+  "status": "published"
+}

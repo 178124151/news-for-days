@@ -1,0 +1,32 @@
+{
+  "id": "c13996083ecf82a3",
+  "slug": "the-worlds-super-rich-are-piling-into-alternative-investment",
+  "titleZh": "超高净值人群转向另类投资",
+  "titleOriginal": "The world's super-rich are piling into alternative investments. Here's why",
+  "summary": "根据 BNY 财富数据，另类投资现在占单一家族办公组合的 60%，首次超过传统资产。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "另类投资占比达 60%",
+    "首次超过传统资产",
+    "BNY 财富发布相关数据"
+  ],
+  "category": "finance",
+  "tags": [
+    "另类投资",
+    "家族办公",
+    "BNY 财富",
+    "资产配置",
+    "财富管理"
+  ],
+  "entities": [],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+  "publishedAt": "2026-11-13T02:25:02.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8116633bca240383",
+  "status": "published"
+}

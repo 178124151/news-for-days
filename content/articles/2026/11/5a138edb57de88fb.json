@@ -1,0 +1,36 @@
+{
+  "id": "5a138edb57de88fb",
+  "slug": "8-k-optimumbank-holdings-inc-0001288855-filer",
+  "titleZh": "OptimumBank Holdings提交8-K文件",
+  "titleOriginal": "8-K - OptimumBank Holdings, Inc. (0001288855) (Filer)",
+  "summary": "OptimumBank Holdings提交8-K文件，涉及非注册股权发售和财务报表展项。提交时间为2026年11月12日。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提交8-K文件",
+    "涉及非注册股权发售",
+    "提交时间2026年11月12日"
+  ],
+  "category": "policy",
+  "tags": [
+    "OptimumBank",
+    "8-K",
+    "SEC",
+    "股权发售",
+    "财务报表"
+  ],
+  "entities": [
+    "OptimumBank Holdings",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1288855/000149315226051481/0001493152-26-051481-index.htm",
+  "publishedAt": "2026-11-12T22:19:46.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a25e480ad48642a3",
+  "status": "published"
+}

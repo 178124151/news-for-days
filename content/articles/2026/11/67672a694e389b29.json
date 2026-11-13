@@ -1,0 +1,35 @@
+{
+  "id": "67672a694e389b29",
+  "slug": "how-amplitude-ships-product-improvements-in-1-2-days-with-op",
+  "titleZh": "Amplitude利用OpenAI模型实现产品快速迭代",
+  "titleOriginal": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "summary": "Amplitude基于OpenAI模型开发产品代理Wave，用于识别产品方向、辅助团队编码并测量影响。产品改进可在1-2天内发布。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Amplitude使用OpenAI模型",
+    "产品代理Wave辅助开发",
+    "产品改进1-2天内发布"
+  ],
+  "category": "ai",
+  "tags": [
+    "Amplitude",
+    "OpenAI",
+    "产品迭代",
+    "AI代理",
+    "软件开发"
+  ],
+  "entities": [
+    "OpenAI",
+    "How Amplitude"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/amplitude",
+  "publishedAt": "2026-11-12T20:00:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a7a20fdbcce504e3",
+  "status": "published"
+}

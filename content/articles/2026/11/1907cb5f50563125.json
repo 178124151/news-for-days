@@ -1,0 +1,32 @@
+{
+  "id": "1907cb5f50563125",
+  "slug": "32",
+  "titleZh": "新世界发展考虑供股融资至多32亿美元",
+  "titleOriginal": "新世界发展据悉考虑供股融资至多32亿美元",
+  "summary": "新世界发展据悉考虑供股融资至多32亿美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "新世界发展考虑供股融资",
+    "融资规模至多32亿美元",
+    "据悉为近期动态"
+  ],
+  "category": "tech",
+  "tags": [
+    "新世界发展",
+    "供股",
+    "融资",
+    "资本运作",
+    "财经"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4067533483037571?f=rss",
+  "publishedAt": "2026-11-13T01:49:01.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "096e318f9e62eb4e",
+  "status": "published"
+}

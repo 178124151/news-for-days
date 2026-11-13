@@ -1,0 +1,37 @@
+{
+  "id": "c42eee0dfe1c1d65",
+  "slug": "analysis-nvidias-leadership-crisis-tests-the-chipmakers-role",
+  "titleZh": "分析：Nvidia领导危机考验其‘AI中央银行’角色",
+  "titleOriginal": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+  "summary": "Nvidia的业务网络与其他公司的紧密联系，可能导致其引发广泛的经济和金融损害。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia领导危机突出",
+    "业务网络关联其他公司",
+    "可能引发经济金融风险"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "AI",
+    "半导体",
+    "领导危机",
+    "金融风险"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Analysis",
+    "AI"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+  "publishedAt": "2026-11-12T23:08:50.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "13fea21c24037332",
+  "status": "published"
+}

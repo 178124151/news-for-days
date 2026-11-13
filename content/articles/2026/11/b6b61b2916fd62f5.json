@@ -1,0 +1,38 @@
+{
+  "id": "b6b61b2916fd62f5",
+  "slug": "who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-",
+  "titleZh": "Nvidia 继任 CEO 谁来当",
+  "titleOriginal": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+  "summary": "市场传闻四位名字在 AI 圈流传，接任者需具备科技愿景与商业能力的平衡。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "board 正在寻找新 CEO",
+    "需平衡科技愿景与商业能力",
+    "AI 圈内多位专家发声"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "CEO 继任",
+    "AI 行业",
+    "市场传闻",
+    "治理结构"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Jensen Huang",
+    "Nvidia CEO",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-12T22:57:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "84f5cc470facff85",
+  "status": "published"
+}

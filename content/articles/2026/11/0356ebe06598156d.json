@@ -1,0 +1,39 @@
+{
+  "id": "0356ebe06598156d",
+  "slug": "nvidia-ex-prosecutor-joon-kim-and-wachtell-lipton-bring-big-",
+  "titleZh": "Nvidia聘请前检察官Kim和Wachtell Lipton应对调查",
+  "titleOriginal": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+  "summary": "Nvidia聘请Wachtell Lipton律所应对调查，此前该律所曾代表NBA调查洛杉矶快船队。前检察官Joon Kim加入该事务所。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia聘请Wachtell Lipton律所",
+    "前检察官Joon Kim加入调查团队",
+    "此前曾代表NBA调查快船队"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "法律顾问",
+    "Wachtell Lipton",
+    "合规调查",
+    "Joon Kim"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Ex",
+    "Joon Kim",
+    "Wachtell",
+    "Lipton"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+  "publishedAt": "2026-11-12T19:58:11.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c5f43438a61980cd",
+  "status": "published"
+}

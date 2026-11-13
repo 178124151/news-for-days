@@ -1,0 +1,35 @@
+{
+  "id": "5f2570e03bdd33e3",
+  "slug": "anthropic-ipo-6000",
+  "titleZh": "Anthropic 启动 IPO 路演 估值缩水 6000 亿美元",
+  "titleOriginal": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+  "summary": "Anthropic 启动 IPO 路演，市场普遍踩刹车，估值相较前期出现显著缩水。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic 启动 IPO 路演",
+    "市场普遍观望，踩刹车情绪明显",
+    "估值相较前期出现显著缩水"
+  ],
+  "category": "ai",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "估值缩水",
+    "AI 初创",
+    "市场情绪"
+  ],
+  "entities": [
+    "Anthropic",
+    "IPO"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509381.html",
+  "publishedAt": "2026-11-12T10:11:29.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8a9802d5bdeff129",
+  "status": "published"
+}

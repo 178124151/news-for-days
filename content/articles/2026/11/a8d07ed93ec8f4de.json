@@ -1,0 +1,37 @@
+{
+  "id": "a8d07ed93ec8f4de",
+  "slug": "federal-reserve-board-announces-pricing-effective-january-1-",
+  "titleZh": "美联储发布支付服务定价将于2027年1月1日起生效",
+  "titleOriginal": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+  "summary": "美联储董事会宣布，自2027年1月1日起对美联储银行向银行和信用社提供的支付服务进行定价，并对其支票服务进行调整以简化流程。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美联储发布支付服务定价方案",
+    "定价自2027年1月1日起生效",
+    "对支票服务进行调整和简化"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "支付服务",
+    "定价",
+    "银行业监管",
+    "2027"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "January",
+    "Federal Reserve Banks"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+  "publishedAt": "2026-11-12T18:30:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "becf79bfacdbe4ce",
+  "status": "published"
+}

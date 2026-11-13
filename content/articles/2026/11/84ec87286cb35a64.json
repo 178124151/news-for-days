@@ -1,0 +1,36 @@
+{
+  "id": "84ec87286cb35a64",
+  "slug": "llmon-an-llm-native-markup-language-now-in-granite-4-1-3b-an",
+  "titleZh": "LLMON：原生LLM标记语言",
+  "titleOriginal": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "summary": "LLMON标记语言现集成于Granite 4.1 3B和8B模型中。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "LLMON标记语言现集成于Granite模型",
+    "支持3B和8B两个版本",
+    "LLM原生标记语言"
+  ],
+  "category": "ai",
+  "tags": [
+    "LLMON",
+    "Granite",
+    "标记语言",
+    "模型升级",
+    "AI技术"
+  ],
+  "entities": [
+    "LLMON",
+    "An LLM Native",
+    "Granite"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "publishedAt": "2026-11-12T19:07:35.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 70,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "86cdea53f6e1049b",
+  "status": "published"
+}

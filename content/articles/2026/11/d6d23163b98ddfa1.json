@@ -1,0 +1,37 @@
+{
+  "id": "d6d23163b98ddfa1",
+  "slug": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen",
+  "titleZh": "Google Search 升级 Gemini 4 Hydrogen",
+  "titleOriginal": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "summary": "Google Search 全球引入 Gemini 4 Hydrogen，旨在提供更有帮助、更具视觉性和直观的响应结果。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "引入 Gemini 4 Hydrogen",
+    "全球范围内升级 Google Search",
+    "提升响应的有帮助性和视觉性"
+  ],
+  "category": "ai",
+  "tags": [
+    "Google Search",
+    "Gemini 4 Hydrogen",
+    "AI 搜索",
+    "全球升级",
+    "视觉体验"
+  ],
+  "entities": [
+    "Google",
+    "Gemini",
+    "Google Search",
+    "Hydrogen"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "publishedAt": "2026-11-12T18:00:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fef5bd38892b52d3",
+  "status": "published"
+}

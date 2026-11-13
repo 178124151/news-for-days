@@ -1,0 +1,38 @@
+{
+  "id": "cbdc8f6b1c4c9f01",
+  "slug": "democrats-launch-nvidia-investigation-write-scathing-letter-",
+  "titleZh": "民主党调查 Nvidia 中国业务与 Trump 交易",
+  "titleOriginal": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+  "summary": "美国民主党发起第二轮针对 Nvidia 中国销售及与 Trump 交易的调查，并写出严厉信件指责其‘计划’。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "民主党发起第二轮 Nvidia 调查",
+    "信件指责 Nvidia 存在‘计划'",
+    "聚焦 Nvidia 中国业务与 Trump 交易"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "美国政治",
+    "科技监管",
+    "中国业务",
+    "调查"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Democrats",
+    "Huang",
+    "Trump"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+  "publishedAt": "2026-11-12T22:42:51.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f29529e08aaadde9",
+  "status": "published"
+}

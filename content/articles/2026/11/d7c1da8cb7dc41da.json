@@ -1,0 +1,35 @@
+{
+  "id": "d7c1da8cb7dc41da",
+  "slug": "supporting-research-on-ai-and-childrens-safety",
+  "titleZh": "OpenAI 200万美元支持AI儿童安全研究",
+  "titleOriginal": "Supporting research on AI and children’s safety",
+  "summary": "OpenAI 承诺 200 万美元资助研究，旨在通过共享工具测量人工智能对青少年的风险与机遇。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI 承诺 200 万美元资助 AI 儿童安全研究",
+    "项目目标是开发共享工具测量青少年 AI 风险与机遇",
+    "研究旨在支持青少年安全使用人工智能"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI安全",
+    "儿童保护",
+    "OpenAI",
+    "研究资助",
+    "技术伦理"
+  ],
+  "entities": [
+    "Supporting",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/children-first-declaration",
+  "publishedAt": "2026-11-12T00:00:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "36acb9f02ca677f5",
+  "status": "published"
+}

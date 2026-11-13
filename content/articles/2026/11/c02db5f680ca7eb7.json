@@ -1,0 +1,34 @@
+{
+  "id": "c02db5f680ca7eb7",
+  "slug": "whoop-launched-a-social-network-where-every-user-has-a-verif",
+  "titleZh": "Whoop 发布社交网络，用户拥有‘验证心跳'",
+  "titleOriginal": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+  "summary": "Whoop 推出名为 Whoop Humans 的社交网络，用户可分享可穿戴设备数据。平台强调‘ entirely human ’特性，主打真实用户与 AI、机器人账号的区别。",
+  "keyPoints": [
+    "Whoop 推出社交网络 Whoop Humans",
+    "用户可分享可穿戴设备数据与动态",
+    "平台主打‘验证人类'身份特性"
+  ],
+  "category": "tech",
+  "tags": [
+    "Whoop",
+    "可穿戴设备",
+    "社交网络",
+    "健康数据",
+    "AI 对比"
+  ],
+  "entities": [
+    "Whoop"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+  "publishedAt": "2026-11-12T23:43:22.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "449b24c443b2cf7c",
+  "status": "published"
+}

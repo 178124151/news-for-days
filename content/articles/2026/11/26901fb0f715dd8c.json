@@ -1,0 +1,34 @@
+{
+  "id": "26901fb0f715dd8c",
+  "slug": "opening-trading-card-packs-has-become-a-2-billion-market",
+  "titleZh": "开牌盒已成20亿美元市场",
+  "titleOriginal": "Opening trading-card packs has become a $2 billion market",
+  "summary": "拆盒类APP改变购买售卖方式，分析师称其‘像老虎机的回报’存在风险。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "拆盒类APP改变购买售卖方式",
+    "分析师称其‘像老虎机的回报’存在风险",
+    "市场规模达20亿美元"
+  ],
+  "category": "finance",
+  "tags": [
+    "交易卡",
+    "APP市场",
+    "风险提示",
+    "消费趋势",
+    "分析报告"
+  ],
+  "entities": [
+    "Opening"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-12T22:38:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0f2410323b0bb334",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "49d6b067f7959a48",
+  "slug": "federal-reserve-board-issues-enforcement-action-with-former-",
+  "titleZh": "美联储对原United Community Bank员工采取执法行动",
+  "titleOriginal": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+  "summary": "美联储董事会对原United Community Bank员工发布执法行动。具体细节和性质依据材料所述。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美联储对前United Community Bank员工执法",
+    "具体执法细节待进一步信息",
+    "属于监管执法行动"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "执法行动",
+    "United Community Bank",
+    "监管合规"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "United Community Bank"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+  "publishedAt": "2026-11-12T16:00:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c408fadf575be3cc",
+  "status": "published"
+}

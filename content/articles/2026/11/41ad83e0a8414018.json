@@ -1,0 +1,34 @@
+{
+  "id": "41ad83e0a8414018",
+  "slug": "whoop-just-launched-a-social-network",
+  "titleZh": "Whoop推出社交网络分享健康数据",
+  "titleOriginal": "Whoop just launched a social network",
+  "summary": "Whoop推出社交网络，让会员分享睡眠、恢复及运动数据。CEO Will Ahmed暗示将进行后续收购。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Whoop推出社交网络",
+    "侧重健康数据分享",
+    "CEO暗示后续收购计划"
+  ],
+  "category": "tech",
+  "tags": [
+    "Whoop",
+    "社交网络",
+    "健康数据",
+    "睡眠",
+    "运动"
+  ],
+  "entities": [
+    "Whoop"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+  "publishedAt": "2026-11-12T16:00:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "63190f8dc370cc86",
+  "status": "published"
+}

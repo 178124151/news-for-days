@@ -1,0 +1,35 @@
+{
+  "id": "b3e48f46c12012f0",
+  "slug": "bond-yields-just-saw-their-biggest-surge-since-2022-as-expec",
+  "titleZh": "债券收益率自2022以来最大幅度飙升",
+  "titleOriginal": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+  "summary": "华盛顿联邦储备主席安静的沟通方式导致市场波动加剧，预期更多加息。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "债券收益率自2022以来最大幅度飙升",
+    "华盛顿联邦储备主席安静的沟通方式导致市场波动",
+    "预期更多加息"
+  ],
+  "category": "finance",
+  "tags": [
+    "债券市场",
+    "利率政策",
+    "市场波动",
+    "Fed预期",
+    "收益率"
+  ],
+  "entities": [
+    "Bond",
+    "Fed"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-12T22:16:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "98b1f4df57f03507",
+  "status": "published"
+}

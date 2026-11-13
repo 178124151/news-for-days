@@ -1,0 +1,35 @@
+{
+  "id": "d77c24751633c870",
+  "slug": "nectar-launches-an-ai-agent-to-automate-creator-discovery-an",
+  "titleZh": "Nectar推出AI代理自动化创作者发现与触达",
+  "titleOriginal": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+  "summary": "Nectar推出AI代理，自动化帮助品牌发现创作者、管理外联与合作伙伴关系，并追踪活动效果。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nectar推出AI代理",
+    "自动化创作者发现与触达",
+    "辅助品牌管理合作伙伴关系"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nectar",
+    "AI代理",
+    "创作者经济",
+    "品牌营销",
+    "自动化"
+  ],
+  "entities": [
+    "Nectar",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+  "publishedAt": "2026-11-12T19:11:00.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4d5ce931db3cb3ae",
+  "status": "published"
+}

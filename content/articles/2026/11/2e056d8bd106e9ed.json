@@ -1,0 +1,32 @@
+{
+  "id": "2e056d8bd106e9ed",
+  "slug": "a",
+  "titleZh": "青葵智造完成亿元 A 轮融资",
+  "titleOriginal": "“青葵智造”完成亿元A轮融资",
+  "summary": "青葵智造完成亿元 A 轮融资，参投方包括创东方投资、飞荣达股份及金辉大数据。资金将用于核心技术研发、行业拓展及云实验室建设。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "青葵智造完成亿元 A 轮融资",
+    "参投方包括创东方、飞荣达及金辉大数据",
+    "资金用于核心技术及云实验室建设"
+  ],
+  "category": "tech",
+  "tags": [
+    "青葵智造",
+    "融资",
+    "AI4S",
+    "云实验室",
+    "硬科技"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4067555949319041?f=rss",
+  "publishedAt": "2026-11-13T02:11:52.000Z",
+  "fetchedAt": "2026-11-13T02:51:09.696Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "98bd9b813a2fc365",
+  "status": "published"
+}

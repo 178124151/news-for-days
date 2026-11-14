@@ -1,0 +1,34 @@
+{
+  "id": "0a591d708be90382",
+  "slug": "faa-lifts-ground-stop-after-four-hours-but-flight-cancellati",
+  "titleZh": "FAA解除四小时地面停飞",
+  "titleOriginal": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+  "summary": "美国联邦航空管理局在周五下午发布全国性地面停飞指令，导致数千班航班受阻，但随后解除限制，航班取消将持续到周末。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "全国性地面停飞持续四小时",
+    "航班取消将延续至周末",
+    "运营恢复仍需时间"
+  ],
+  "category": "finance",
+  "tags": [
+    "航空",
+    "FAA",
+    "航班取消",
+    "运营中断",
+    "安全"
+  ],
+  "entities": [
+    "FAA"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+  "publishedAt": "2026-11-14T02:33:48.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b155c69647e87ab4",
+  "status": "published"
+}

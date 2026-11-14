@@ -1,0 +1,34 @@
+{
+  "id": "b935b56f0c6c2b6b",
+  "slug": "agencies-extend-comment-period-for-proposed-third-party-risk",
+  "titleZh": "监管机构延长第三方风险管理指导意见征求期",
+  "titleOriginal": "Agencies extend comment period for proposed third-party risk management guidance",
+  "summary": "监管机构延长了关于拟议第三方风险管理指导意见的征求意见期。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "延长征求意见期",
+    "涉及第三方风险管理",
+    "政策指导意见"
+  ],
+  "category": "policy",
+  "tags": [
+    "监管",
+    "风险管理",
+    "政策",
+    "第三方",
+    "征求意见"
+  ],
+  "entities": [
+    "Agencies"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+  "publishedAt": "2026-11-13T21:15:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ff77b92d62b2cb37",
+  "status": "published"
+}

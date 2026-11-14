@@ -1,0 +1,35 @@
+{
+  "id": "6841e619fcd7e8d9",
+  "slug": "llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecos",
+  "titleZh": "llama.cpp v1.0.0：本地AI生态的更强基石",
+  "titleOriginal": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "summary": "Hugging Face发布llama.cpp v1.0.0版本，旨在为本地AI生态提供更强的基石。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hugging Face发布llama.cpp v1.0.0",
+    "版本旨在加强本地AI生态",
+    "属于AI基础设施领域"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "llama.cpp",
+    "开源",
+    "本地部署",
+    "模型"
+  ],
+  "entities": [
+    "Llama",
+    "AI"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "publishedAt": "2026-11-13T14:05:22.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 45,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "075ca05fa35a66ae",
+  "status": "published"
+}

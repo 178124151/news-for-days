@@ -1,0 +1,32 @@
+{
+  "id": "43240a6ba30bea76",
+  "slug": "2026",
+  "titleZh": "2026年版国家基本医保药品目录即将发布",
+  "titleOriginal": "2026年版国家基本医保药品目录即将发布",
+  "summary": "国家医疗保障局将发布2026年版医保药品目录，这是其成立以来第九次调整目录。发布时间定于14日，涉及创新药和商业健康保险目录。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "2026年版医保目录发布在即",
+    "连续第九次进行药品目录调整",
+    "涵盖创新药和商业保险两大目录"
+  ],
+  "category": "tech",
+  "tags": [
+    "医保",
+    "药品目录",
+    "创新药",
+    "医疗政策",
+    "2026"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4068942867453061?f=rss",
+  "publishedAt": "2026-11-14T01:49:33.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a9892bf572b8f399",
+  "status": "published"
+}

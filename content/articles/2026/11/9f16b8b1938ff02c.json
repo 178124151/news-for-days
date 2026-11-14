@@ -1,0 +1,35 @@
+{
+  "id": "9f16b8b1938ff02c",
+  "slug": "x2018-the-thought-of-living-to-100-terrifies-me-x2019-is-soc",
+  "titleZh": "活到100岁的想法让我恐惧：社保是庞氏骗局吗",
+  "titleOriginal": "&#x2018;The thought of living to 100 terrifies me&#x2019;: Is Social Security a giant Ponzi scheme?",
+  "summary": "MarketWatch文章探讨社保面临‘人口运行’问题，质疑其可持续性。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "探讨社保长期可持续性",
+    "提及‘人口运行’挑战",
+    "质疑社保模式"
+  ],
+  "category": "finance",
+  "tags": [
+    "社保",
+    "金融",
+    "人口结构",
+    "经济模型",
+    "MarketWatch"
+  ],
+  "entities": [
+    "Is Social Security",
+    "Ponzi"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-13T23:12:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9a7a4e18aa62d65e",
+  "status": "published"
+}

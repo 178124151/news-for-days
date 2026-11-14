@@ -1,0 +1,34 @@
+{
+  "id": "1b95d3d772c741e3",
+  "slug": "starship-flight-15-powers-to-orbit-setting-up-a-possible-cat",
+  "titleZh": "Starship第十五次试飞成功入轨",
+  "titleOriginal": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+  "summary": "SpaceX在德克萨斯州发射场成功发射Starship第十五次试飞，火箭顺利进入低地球轨道。这是继之前任务后的第二次轨道飞行，展示了火箭系统的持续进展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "成功发射并进入轨道",
+    "第二次达成低轨飞行",
+    "测试计划持续推进"
+  ],
+  "category": "tech",
+  "tags": [
+    "Starship",
+    "SpaceX",
+    "火箭",
+    "试飞",
+    "航天"
+  ],
+  "entities": [
+    "Starship"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+  "publishedAt": "2026-11-14T00:49:13.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 90,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6f794433e26a9eea",
+  "status": "published"
+}

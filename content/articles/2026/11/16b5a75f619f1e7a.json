@@ -1,0 +1,32 @@
+{
+  "id": "16b5a75f619f1e7a",
+  "slug": "16b5a75f619f1e7a",
+  "titleZh": "美国FAA因通信问题发布地面停飞令",
+  "titleOriginal": "美国联邦航空管理局因通信问题发布地面停飞令",
+  "summary": "美国联邦航空管理局因空中交通管制频率问题发布地面停飞令，影响所有机场和航路交通管制中心。技术人员正在调查通信故障。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "FAA因通信故障发布停飞令",
+    "影响范围涵盖所有机场和航路",
+    "技术人员正在进行调查"
+  ],
+  "category": "tech",
+  "tags": [
+    "FAA",
+    "地面停飞",
+    "通信问题",
+    "航空管制",
+    "安全"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4068900848063369?f=rss",
+  "publishedAt": "2026-11-14T01:19:46.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "2adbc36ddf498db7",
+  "status": "published"
+}

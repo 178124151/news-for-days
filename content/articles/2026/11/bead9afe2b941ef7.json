@@ -1,0 +1,32 @@
+{
+  "id": "bead9afe2b941ef7",
+  "slug": "33-3",
+  "titleZh": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+  "titleOriginal": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+  "summary": "量子位报道，英伟达创始人黄仁勋辞职，标志着公司33年首次更换掌门，市值蒸发超3万亿。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋辞职离开英伟达",
+    "打破公司33年不换帅局面",
+    "公司市值出现大幅蒸发"
+  ],
+  "category": "ai",
+  "tags": [
+    "英伟达",
+    "黄仁勋",
+    "CEO更替",
+    "市值",
+    "科技行业"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509995.html",
+  "publishedAt": "2026-11-13T09:02:39.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "080158cbdf3022cb",
+  "status": "published"
+}

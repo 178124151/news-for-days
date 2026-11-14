@@ -1,0 +1,37 @@
+{
+  "id": "643b600f0e013f0c",
+  "slug": "openai-launches-chatgpt-wallet-allowing-its-dots-ai-agents-t",
+  "titleZh": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases…",
+  "titleOriginal": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+  "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
+  "keyPoints": [
+    "OpenAI's ChatGPT Wallet partners with A…",
+    "OpenAI launches ChatGPT Wallet, allowin…",
+    "详见原文"
+  ],
+  "category": "finance",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "产品发布",
+    "金融",
+    "行业动态"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT",
+    "ChatGPT Wallet",
+    "AI"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+  "publishedAt": "2026-11-13T18:56:26.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 74,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "e8ab190cb5a91bea",
+  "status": "published"
+}

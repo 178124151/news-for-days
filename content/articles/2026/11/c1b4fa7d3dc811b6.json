@@ -1,0 +1,36 @@
+{
+  "id": "c1b4fa7d3dc811b6",
+  "slug": "live-airband-on-all-frequencies-from-kors-victoria-ca-also-g",
+  "titleZh": "KORS 维多利亚地面停止",
+  "titleOriginal": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+  "summary": "维多利亚机场 KORS 所有频率均被地面停止。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "KORS 机场地面停止所有频率",
+    "涉及航空管制中断",
+    "具体原因待进一步信息"
+  ],
+  "category": "tech",
+  "tags": [
+    "航空",
+    "地面停止",
+    "维多利亚",
+    "管制"
+  ],
+  "entities": [
+    "Live",
+    "KORS",
+    "Victoria",
+    "CA"
+  ],
+  "sourceId": "hackernews",
+  "sourceName": "Hacker News",
+  "sourceUrl": "https://orcasairband.com/",
+  "publishedAt": "2026-11-13T22:04:24.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6ddfe57fcf8f50e2",
+  "status": "published"
+}

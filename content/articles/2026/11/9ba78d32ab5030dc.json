@@ -1,0 +1,35 @@
+{
+  "id": "9ba78d32ab5030dc",
+  "slug": "8-k-macrogenics-inc-0001125345-filer",
+  "titleZh": "宏基因斯 8-K 监管披露",
+  "titleOriginal": "8-K - MACROGENICS INC (0001125345) (Filer)",
+  "summary": "2026年11月13日，宏基因斯提交8-K文件，包含监管披露(Item 7.01)及财务报表(Item 9.01)。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提交时间为2026年11月13日",
+    "包含监管披露与财务报表两项内容",
+    "文件大小6 MB"
+  ],
+  "category": "policy",
+  "tags": [
+    "宏基因斯",
+    "SEC EDGAR",
+    "监管披露",
+    "财务报表",
+    "8-K文件"
+  ],
+  "entities": [
+    "MACROGENICS INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1125345/000112534526000077/0001125345-26-000077-index.htm",
+  "publishedAt": "2026-11-13T22:28:39.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "09d52e838e3b2b1c",
+  "status": "published"
+}

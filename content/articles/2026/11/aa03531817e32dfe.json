@@ -1,0 +1,36 @@
+{
+  "id": "aa03531817e32dfe",
+  "slug": "openjiuwen-rsi-agentos-agent",
+  "titleZh": "openJiuwen发布RSI原生AgentOS",
+  "titleOriginal": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+  "summary": "openJiuwen发布RSI原生AgentOS，允许用户通过指令让Agent自主开发功能，实现Agent功能的持续迭代与自由变身。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布RSI原生AgentOS",
+    "Agent可自主开发功能",
+    "支持持续迭代与自由变身"
+  ],
+  "category": "ai",
+  "tags": [
+    "openJiuwen",
+    "AgentOS",
+    "RSI",
+    "AI Agent",
+    "功能迭代"
+  ],
+  "entities": [
+    "RSI",
+    "AgentOS",
+    "Agent"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509653.html",
+  "publishedAt": "2026-11-13T06:54:44.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "508c0b523e956a11",
+  "status": "published"
+}

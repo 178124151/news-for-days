@@ -1,0 +1,35 @@
+{
+  "id": "4bfdbcd273505a3e",
+  "slug": "amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-pr",
+  "titleZh": "Amazon发布Colorsoft电子纸阅读器",
+  "titleOriginal": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+  "summary": "Amazon发布新款Kindle Colorsoft，较上一代更轻薄，具备边缘到边缘显示屏。若已拥有首代Colorsoft，升级理由有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "新机型轻薄且具边缘显示屏",
+    "首代用户升级理由不足",
+    "定位为高端产品"
+  ],
+  "category": "tech",
+  "tags": [
+    "电子书",
+    "Amazon",
+    "硬件发布",
+    "阅读器",
+    "显示技术"
+  ],
+  "entities": [
+    "Amazon",
+    "Kindle Colorsoft"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+  "publishedAt": "2026-11-13T23:00:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6333c1435144433d",
+  "status": "published"
+}

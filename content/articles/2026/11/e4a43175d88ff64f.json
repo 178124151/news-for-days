@@ -1,0 +1,36 @@
+{
+  "id": "e4a43175d88ff64f",
+  "slug": "8-k12b-versa-bancorp-0002100848-filer",
+  "titleZh": "Versa Bancorp 8-K 文件",
+  "titleOriginal": "8-K12B - Versa Bancorp (0002100848) (Filer)",
+  "summary": "SEC 8-K 文件显示 Versa Bancorp 在 2026-11-13 发生项目，包括入约材料契约、资产收购或处置、权益人权修正及管理层变动等。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Versa Bancorp 于 2026 年 11 月 13 日提交 8-K …",
+    "涉及材料契约及管理层变动等事项",
+    "包含资产收购或处置相关信息"
+  ],
+  "category": "policy",
+  "tags": [
+    "金融",
+    "SEC",
+    "8-K",
+    "Versa Bancorp",
+    "合规"
+  ],
+  "entities": [
+    "K12B",
+    "Versa Bancorp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2100848/000110465926127233/0001104659-26-127233-index.htm",
+  "publishedAt": "2026-11-13T22:17:53.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 45,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "49b945e6115b43e3",
+  "status": "published"
+}

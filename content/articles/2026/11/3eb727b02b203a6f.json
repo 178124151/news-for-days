@@ -1,0 +1,35 @@
+{
+  "id": "3eb727b02b203a6f",
+  "slug": "chicago-feds-goolsbee-says-central-bank-has-definitely-got-w",
+  "titleZh": "芝加哥联储Goolsbee谈通胀",
+  "titleOriginal": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+  "summary": "芝加哥联储主席Goolsbee表示，基于最新通胀数据，美联储可能需要采取行动，目前中央银行‘肯定有工作要做’。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "对最新通胀数据表示关切",
+    "暗示可能需要政策行动",
+    "承认当前任务繁重"
+  ],
+  "category": "finance",
+  "tags": [
+    "通胀",
+    "美联储",
+    "Goolsbee",
+    "货币政策",
+    "经济数据"
+  ],
+  "entities": [
+    "Chicago Fed",
+    "Goolsbee"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+  "publishedAt": "2026-11-13T14:22:07.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "73da63d3746a58d8",
+  "status": "published"
+}

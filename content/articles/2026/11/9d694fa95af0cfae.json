@@ -1,0 +1,36 @@
+{
+  "id": "9d694fa95af0cfae",
+  "slug": "jensen-huangs-departure-blasts-big-hole-in-ai-startup-fundin",
+  "titleZh": "黄仁勋离任冲击AI创业融资",
+  "titleOriginal": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "summary": "Nvidia在黄仁勋领导下向AI创业公司投入数十亿美元。离任后，创始人和风险投资人预计将面临更小额的投资和估值下调。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋离任后AI创业融资或受影响",
+    "创始人和VC预计投资额减少",
+    "估值可能出现下调"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI",
+    "创业融资",
+    "风险投资",
+    "Nvidia",
+    "黄仁勋"
+  ],
+  "entities": [
+    "Jensen Huang",
+    "AI",
+    "VCs"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "publishedAt": "2026-11-13T22:43:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "649212af52da2855",
+  "status": "published"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a5cbeaaf0b4df56f",
+  "slug": "export-banned-nvidia-chips-are-behind-chinas-most-powerful-a",
+  "titleZh": "出口禁令芯片助力中国AI模型",
+  "titleOriginal": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+  "summary": "新研究显示，中国最先进的AI模型训练使用了被禁的Nvidia芯片。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "中国AI模型使用禁令芯片训练",
+    "研究揭示先进芯片获取渠道",
+    "涉及出口管制与技术竞争"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "AI芯片",
+    "出口管制",
+    "中国AI",
+    "技术竞争"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Export",
+    "China",
+    "AI",
+    "Jensen"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "publishedAt": "2026-11-13T18:40:30.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ef33aa9856867fa3",
+  "status": "published"
+}

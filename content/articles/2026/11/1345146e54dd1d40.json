@@ -1,0 +1,32 @@
+{
+  "id": "1345146e54dd1d40",
+  "slug": "14-dividend-stocks-selected-for-long-term-growth",
+  "titleZh": "14股票选股长期增长",
+  "titleOriginal": "14 dividend stocks selected for long-term growth",
+  "summary": "Value87投资合伙人John Buckingham挑选14只股票，因其分红诱人且交易价格低于内在价值。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "John Buckingham选股14只股票",
+    "股票分红诱人",
+    "交易价格低于内在价值"
+  ],
+  "category": "finance",
+  "tags": [
+    "股票",
+    "分红",
+    "价值投资",
+    "长期增长",
+    "市场选股"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-14T01:58:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "2e728679b7facc89",
+  "status": "published"
+}

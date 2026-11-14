@@ -1,0 +1,35 @@
+{
+  "id": "7d4d71d056da0286",
+  "slug": "introducing-chatgpt-wallet",
+  "titleZh": "ChatGPT钱包介绍",
+  "titleOriginal": "Introducing ChatGPT Wallet",
+  "summary": "OpenAI推出ChatGPT Wallet，允许ChatGPT Work、Codex及dots代理在用户批准下完成购买，并使用现有卡片保护功能。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI推出ChatGPT Wallet",
+    "支持代理完成购买",
+    "使用现有卡片保护"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "钱包",
+    "ChatGPT",
+    "支付",
+    "代理"
+  ],
+  "entities": [
+    "ChatGPT",
+    "Introducing ChatGPT Wallet"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+  "publishedAt": "2026-11-13T15:00:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ea2227eee03360b8",
+  "status": "published"
+}

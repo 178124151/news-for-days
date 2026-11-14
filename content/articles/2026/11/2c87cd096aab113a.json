@@ -1,0 +1,35 @@
+{
+  "id": "2c87cd096aab113a",
+  "slug": "spacex-launches-starship-in-key-test-flight-of-massive-rocke",
+  "titleZh": "SpaceX发射星舰关键试飞",
+  "titleOriginal": "SpaceX launches Starship in key test flight of massive rocket",
+  "summary": "SpaceX在德克萨斯州发射星舰火箭，旨在首次尝试在发射场回收Super Heavy助推器和上级飞船。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "星舰首次尝试全流程回收",
+    "目标捕获Super Heavy助推器和上级飞船",
+    "发射地点位于德克萨斯州Starbase"
+  ],
+  "category": "finance",
+  "tags": [
+    "SpaceX",
+    "星舰",
+    "火箭测试",
+    "航天技术",
+    "回收"
+  ],
+  "entities": [
+    "SpaceX",
+    "Starship"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+  "publishedAt": "2026-11-14T01:18:51.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9048a159730ea14b",
+  "status": "published"
+}

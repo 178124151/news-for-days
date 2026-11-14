@@ -1,0 +1,35 @@
+{
+  "id": "96c7f67bef86f831",
+  "slug": "xybench-helping-with-the-problem-behind-the-question",
+  "titleZh": "XYBench: 帮助解决问题背后的问题",
+  "titleOriginal": "XYBench: Helping with the problem behind the question",
+  "summary": "Hugging Face发布名为XYBench的工具，旨在帮助解决问题背后的问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hugging Face发布新工具XYBench",
+    "目的是帮助解决问题背后的问题",
+    "属于ai类别"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "Hugging Face",
+    "工具",
+    "评估",
+    "基准"
+  ],
+  "entities": [
+    "XYBench",
+    "Helping"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/xybench",
+  "publishedAt": "2026-11-13T17:02:35.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 30,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "31ea53a4492af85f",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "aa1a9e954af6d959",
+  "slug": "aa1a9e954af6d959",
+  "titleZh": "比亚迪国际化高端化路径",
+  "titleOriginal": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+  "summary": "比亚迪通过发布极速新纪录和鼎曜全球产品，将规模优势转化为技术与品牌价值，推进国际化与高端化进程。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "比亚迪发布极速新纪录",
+    "发布鼎曜全球产品",
+    "规模优势转化为技术品牌价值"
+  ],
+  "category": "ai",
+  "tags": [
+    "比亚迪",
+    "国际化",
+    "高端化",
+    "技术价值",
+    "品牌建设"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/509716.html",
+  "publishedAt": "2026-11-13T07:12:42.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0774cee2fba1f007",
+  "status": "published"
+}

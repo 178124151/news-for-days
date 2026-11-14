@@ -1,0 +1,37 @@
+{
+  "id": "cdc8eef67bc55a0d",
+  "slug": "build-a-robot-pick-and-place-simulation-with-simready-assets",
+  "titleZh": "Build a Robot Pick-and-Place Simulation",
+  "titleOriginal": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "summary": "Hugging Face提供指南，利用SimReady资产构建机器人Pick-and-Place仿真环境，助力机器人运动规划与抓取任务仿真。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "利用SimReady资产构建仿真环境",
+    "助力机器人Pick-and-Place任务",
+    "支持运动规划与抓取仿真"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "SimReady",
+    "机器人仿真",
+    "Pick-and-Place",
+    "运动规划"
+  ],
+  "entities": [
+    "Build",
+    "Robot Pick",
+    "Place Simulation",
+    "SimReady Assets"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "publishedAt": "2026-11-13T18:00:39.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 50,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c8295b24f9beee98",
+  "status": "published"
+}

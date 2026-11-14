@@ -1,0 +1,35 @@
+{
+  "id": "a99dfdd20d85acbb",
+  "slug": "shield-helps-technicians-hand-off-legacy-portal-work-with-op",
+  "titleZh": "Shield助手帮助技术人员交接遗留门户工作",
+  "titleOriginal": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "summary": "Shield利用OpenAI技术协助IT技术人员从遗留门户交接工作。其Forge代理可导航系统，让技术人员专注于需要判断的问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Shield利用OpenAI技术",
+    "协助技术人员交接遗留门户工作",
+    "Forge代理可导航系统以分流常规任务"
+  ],
+  "category": "ai",
+  "tags": [
+    "Shield",
+    "OpenAI",
+    "IT技术",
+    "遗留系统",
+    "工作交接"
+  ],
+  "entities": [
+    "OpenAI",
+    "Shield"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/shield",
+  "publishedAt": "2026-11-13T08:00:00.000Z",
+  "fetchedAt": "2026-11-14T02:38:19.801Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "97121f04eb51ff86",
+  "status": "published"
+}

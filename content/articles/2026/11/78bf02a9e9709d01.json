@@ -1,0 +1,34 @@
+{
+  "id": "78bf02a9e9709d01",
+  "slug": "berkshire-breaks-out-to-record-high-with-fourth-quarter-rall",
+  "titleZh": "伯克希尔哈撒韦股价创历史新高",
+  "titleOriginal": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+  "summary": "伯克希尔哈撒韦股价结束强势周，连续四个交易日收盘创出历史新高，涨幅达19%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "股价连续四日收盘创历史新高",
+    "涨幅达19%，创历史新高",
+    "红盘行情持续"
+  ],
+  "category": "finance",
+  "tags": [
+    "伯克希尔哈撒韦",
+    "股价",
+    "创新高",
+    "投资",
+    "财报"
+  ],
+  "entities": [
+    "Berkshire"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+  "publishedAt": "2026-11-14T14:02:39.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "994ea5be819f2573",
+  "status": "published"
+}

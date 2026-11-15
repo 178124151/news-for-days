@@ -1,0 +1,37 @@
+{
+  "id": "e5a1f72b7dabec50",
+  "slug": "trump-media-faces-a-nov-30-deadline-to-repay-up-to-1b-in-con",
+  "titleZh": "Trump Media需在11月30日前偿还最高10亿美元可转换债券",
+  "titleOriginal": "Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a \"bitcoin treasury,\" as its shares are down 60+% this year (Financial Times)",
+  "summary": "Financial Times报道，Trump Media需在11月30日前偿还最高10亿美元可转换债券，该债券去年5月发行以资助\"比特币库房\"。股价今年下跌60%以上，加密货币价格下跌可能迫使其变卖资产或承担新债。",
+  "keyPoints": [
+    "需在11月30日前偿还最高10亿美元可转换债券",
+    "债券发行目的为资助比特币库房",
+    "股价今年下跌60%以上面临资金压力"
+  ],
+  "category": "tech",
+  "tags": [
+    "特朗普媒体",
+    "可转换债券",
+    "比特币",
+    "财务压力",
+    "股价下跌"
+  ],
+  "entities": [
+    "Trump Media",
+    "Nov",
+    "May",
+    "Financial Times"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261114/p13#a261114p13",
+  "publishedAt": "2026-11-14T16:35:01.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d9c314d526e4f430",
+  "status": "published"
+}

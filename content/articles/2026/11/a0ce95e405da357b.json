@@ -1,0 +1,35 @@
+{
+  "id": "a0ce95e405da357b",
+  "slug": "spacex-catches-upper-stage-of-starship-rocket-in-historic-fi",
+  "titleZh": "SpaceX星舰试飞15次首次尝试捕获火箭上级",
+  "titleOriginal": "SpaceX catches upper stage of Starship rocket in historic first",
+  "summary": "SpaceX进行星舰试飞15次任务，首次尝试捕获火箭上级，这是公司历史上的首次。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "星舰试飞15次实现上级捕获首次成功",
+    "标志着火箭可重复使用技术进步",
+    "Elon Musk公司推进火星殖民计划"
+  ],
+  "category": "finance",
+  "tags": [
+    "SpaceX",
+    "星舰",
+    "火箭回收",
+    "可重复使用",
+    "航天技术"
+  ],
+  "entities": [
+    "SpaceX",
+    "Starship"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+  "publishedAt": "2026-11-14T23:10:14.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8df70968d5b3fc4b",
+  "status": "published"
+}

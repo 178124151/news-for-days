@@ -1,0 +1,34 @@
+{
+  "id": "b9c15c2f0d31d3c1",
+  "slug": "ai-b9c15c",
+  "titleZh": "黄仁勋离开后 AI行业会否付出代价",
+  "titleOriginal": "黄仁勋离开后 AI行业会否付出代价？",
+  "summary": "英伟达CEO已将这家芯片巨头打造成AI行业“最后的资金支持者”，他辞职可能使目前将整个AI生态系统捆绑在一起的金融依赖网络难以为继。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "英伟达CEO将芯片巨头打造成AI行业资金支持者",
+    "辞职可能导致AI生态系统金融依赖网络难以为继",
+    "AI行业可能面临结构性挑战"
+  ],
+  "category": "finance",
+  "tags": [
+    "英伟达",
+    "AI行业",
+    "CEO辞职",
+    "金融依赖",
+    "生态系统"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "ftchinese",
+  "sourceName": "FT中文网",
+  "sourceUrl": "https://www.ftchinese.com/story/001111355",
+  "publishedAt": "2026-11-12T16:00:00.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b9d7e89143ca3ec9",
+  "status": "published"
+}

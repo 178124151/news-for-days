@@ -1,0 +1,35 @@
+{
+  "id": "b04a7134519ec765",
+  "slug": "retirees-should-be-big-beneficiaries-of-the-midterms-x2018-d",
+  "titleZh": "民主党将掌握所有关键法槌",
+  "titleOriginal": "Retirees should be big beneficiaries of the midterms: &#x2018;Democrats will hold every gavel that matters for aging and public policy&#x2019;",
+  "summary": "材料提及民主党将掌握关键法槌，涉及Social Security、Medicare和长期护理等议题，但未详细说明具体政策变动或影响幅度。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "民主党将掌握关键法槌",
+    "涉及Social Security、Medicare等议题",
+    "涉及长期护理政策"
+  ],
+  "category": "finance",
+  "tags": [
+    "政治",
+    "老年政策",
+    "医疗政策",
+    "国会",
+    "社会保障"
+  ],
+  "entities": [
+    "Retirees",
+    "Democrats"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-14T17:50:00.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8fb1d408596f4b25",
+  "status": "published"
+}

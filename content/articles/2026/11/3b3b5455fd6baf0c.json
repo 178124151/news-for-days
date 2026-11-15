@@ -1,0 +1,32 @@
+{
+  "id": "3b3b5455fd6baf0c",
+  "slug": "5",
+  "titleZh": "量子位：史上最严湿实验预测基准发布",
+  "titleOriginal": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+  "summary": "斯坦福、哈佛、康奈尔等十余家顶尖团队联合发布湿实验预测基准，旨在评估AI推理与算力效率。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "顶尖团队联合发布湿实验基准",
+    "评估AI推理与算力效率",
+    "基准测试旨在拉满推理性能"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI基准测试",
+    "湿实验",
+    "算力效率",
+    "顶尖团队",
+    "推理性能"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510232.html",
+  "publishedAt": "2026-11-14T09:58:22.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f6f13b43aadfbc41",
+  "status": "published"
+}

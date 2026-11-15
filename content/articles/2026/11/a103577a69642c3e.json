@@ -1,0 +1,32 @@
+{
+  "id": "a103577a69642c3e",
+  "slug": "2-0",
+  "titleZh": "英伟达员工集体请愿让老黄回家",
+  "titleOriginal": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+  "summary": "员工就马斯克等人签名的请愿作出回应，材料未说明请愿具体要求或英伟达官方态度，仅记录员工集体行动一事。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "员工集体请愿",
+    "涉及马斯克等人签名",
+    "材料未说明具体要求"
+  ],
+  "category": "ai",
+  "tags": [
+    "英伟达",
+    "员工",
+    "马斯克",
+    "AI产业",
+    "内部动态"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510297.html",
+  "publishedAt": "2026-11-14T10:08:08.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "61bdca04383c5f63",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "61f808cbee2f4dc1",
+  "slug": "spacex",
+  "titleZh": "SpaceX首次实现“筷子夹飞船”",
+  "titleOriginal": "SpaceX首次实现“筷子夹飞船”",
+  "summary": "SpaceX星舰第十五次试飞的上面级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被发射塔“筷子”机械臂捕获。这是SpaceX首次成功捕获从地球轨道返回的星舰上面级飞船，为实现星舰完全、快速重复使用迈出关键一步。",
+  "keyPoints": [
+    "星舰第十五次试飞返回得克萨斯州星港",
+    "成功被发射塔“筷子”机械臂捕获",
+    "为实现星舰完全、快速重复使用迈出关键一步"
+  ],
+  "category": "tech",
+  "tags": [
+    "SpaceX",
+    "星舰",
+    "可重复使用火箭",
+    "试飞",
+    "技术突破"
+  ],
+  "entities": [
+    "SpaceX"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4070331143214215?f=rss",
+  "publishedAt": "2026-11-15T01:30:39.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 95,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a0ae3290612a8856",
+  "status": "published"
+}

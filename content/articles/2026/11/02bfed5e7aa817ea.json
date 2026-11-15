@@ -1,0 +1,36 @@
+{
+  "id": "02bfed5e7aa817ea",
+  "slug": "gemini-decisions-api-fast-calibrated-multimodal-decisions",
+  "titleZh": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "titleOriginal": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+  "keyPoints": [
+    "Meet the Gemini Decisions API, powered …",
+    "Gemini Decisions API: Fast, calibrated …",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini",
+    "Gemini Decisions API",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Gemini",
+    "Gemini Decisions API",
+    "Fast"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "publishedAt": "2026-11-11T18:00:00.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 43,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "e352d56b86148fdd",
+  "status": "published"
+}

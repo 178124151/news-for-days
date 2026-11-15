@@ -1,0 +1,35 @@
+{
+  "id": "0ef9567cb6f02442",
+  "slug": "cop31-epd",
+  "titleZh": "小米亮相COP31获国内车企首个整车+材料EPD双认证",
+  "titleOriginal": "小米亮相COP31，斩获国内车企首个整车+材料EPD双认证",
+  "summary": "在COP31大会上，小米SU7整车及泰坦合金2.0材料获国际EPD双认证，为国内车企首次。泰坦合金2.0实现100%再生铝量产，铝材碳排放降至传统原铝1/14，单车减碳约800kg。",
+  "keyPoints": [
+    "小米SU7整车及泰坦合金2.0获国际EPD双认证",
+    "泰坦合金2.0实现100%再生铝量产",
+    "单车减碳约800kg，铝材碳排放降至传统原铝1/14"
+  ],
+  "category": "tech",
+  "tags": [
+    "小米",
+    "新能源车",
+    "碳中和",
+    "材料创新",
+    "国际认证"
+  ],
+  "entities": [
+    "COP31",
+    "EPD"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4070350990251140?f=rss",
+  "publishedAt": "2026-11-15T01:41:59.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b880c4d5f801d705",
+  "status": "published"
+}

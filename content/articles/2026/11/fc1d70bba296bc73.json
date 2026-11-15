@@ -1,0 +1,37 @@
+{
+  "id": "fc1d70bba296bc73",
+  "slug": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-t",
+  "titleZh": "马斯克等科技高管签署请愿书要求Nvidia重新聘用黄仁勋",
+  "titleOriginal": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+  "summary": "截至周六下午，该请愿书已吸引超过115,000个签名。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "请愿书吸引超过115,000个签名",
+    "呼吁Nvidia重新聘用黄仁勋",
+    "包括马斯克在内的科技高管支持"
+  ],
+  "category": "tech",
+  "tags": [
+    "马斯克",
+    "Nvidia",
+    "黄仁勋",
+    "请愿书",
+    "科技社区"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Elon Musk",
+    "Jensen Huang"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+  "publishedAt": "2026-11-14T21:41:22.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "abbcfb12bd21c3aa",
+  "status": "published"
+}

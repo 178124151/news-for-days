@@ -1,0 +1,35 @@
+{
+  "id": "8497ca9e9c463358",
+  "slug": "tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-re",
+  "titleZh": "Tesla开启Cybercab预订，月费299美元",
+  "titleOriginal": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+  "summary": "Tesla开启Cybercab个人用途预订，设有地理限制并收取299美元月费。即使马斯克也承认月费\"太高\"。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Tesla开启Cybercab预订，设有地理限制",
+    "月费299美元，马斯克承认月费太高",
+    "面向个人用户开放服务"
+  ],
+  "category": "tech",
+  "tags": [
+    "特斯拉",
+    "Cybercab",
+    "月费",
+    "自动驾驶",
+    "新服务"
+  ],
+  "entities": [
+    "Tesla",
+    "Cybercab"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+  "publishedAt": "2026-11-14T20:04:44.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "68685abe82195373",
+  "status": "published"
+}

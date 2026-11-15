@@ -1,0 +1,35 @@
+{
+  "id": "37e4452e64c861cf",
+  "slug": "cogent-and-openai-build-cyber-defense-factories-for-enterpri",
+  "titleZh": "Cogent与OpenAI构建企业网络防御",
+  "titleOriginal": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "summary": "Cogent结合OpenAI模型帮助企业自动化修复漏洞，材料未说明部署规模、效果数据或具体漏洞类型。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Cogent结合OpenAI模型",
+    "帮助企业自动化修复漏洞",
+    "材料未说明部署规模"
+  ],
+  "category": "ai",
+  "tags": [
+    "Cogent",
+    "OpenAI",
+    "网络安全",
+    "企业",
+    "AI模型"
+  ],
+  "entities": [
+    "OpenAI",
+    "Cogent"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/cogent-security",
+  "publishedAt": "2026-11-10T00:00:00.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3a05503f21f9d5bb",
+  "status": "published"
+}

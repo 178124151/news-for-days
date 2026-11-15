@@ -1,0 +1,37 @@
+{
+  "id": "6f5692b70d7aa76e",
+  "slug": "nationwide-ground-stop-followed-contractor-upgrade-to-l3harr",
+  "titleZh": "DOT长官杜菲称FAA因升级L3Harris通信系统实施临时停飞",
+  "titleOriginal": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+  "summary": "美国运输部长杜菲表示，FAA临时停飞是针对更新由L3Harris Technologies管理的旧式通信系统。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "FAA临时停飞由运输部长杜菲宣布",
+    "升级L3Harris管理的通信系统",
+    "旨在提升航空安全通信能力"
+  ],
+  "category": "finance",
+  "tags": [
+    "航空安全",
+    "L3Harris",
+    "通信系统",
+    "FAA",
+    "运输部"
+  ],
+  "entities": [
+    "Nationwide",
+    "L3Harris",
+    "DOT",
+    "Duffy"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+  "publishedAt": "2026-11-14T23:21:21.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "949a3c26484800ef",
+  "status": "published"
+}

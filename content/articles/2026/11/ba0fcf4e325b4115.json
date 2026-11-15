@@ -1,0 +1,36 @@
+{
+  "id": "ba0fcf4e325b4115",
+  "slug": "alphagenome-2-deciphering-how-cells-read-dna-to-better-under",
+  "titleZh": "AlphaGenome 2：解码细胞如何阅读DNA以更好地理解疾病",
+  "titleOriginal": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "summary": "Google DeepMind发布AlphaGenome 2，该工具预测DNA序列及其变异如何影响特定人类细胞类型和疾病。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AlphaGenome 2预测DNA序列变异影响",
+    "聚焦特定人类细胞类型和疾病",
+    "由Google DeepMind开发"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "DeepMind",
+    "基因组学",
+    "疾病研究",
+    "DNA"
+  ],
+  "entities": [
+    "AlphaGenome",
+    "Deciphering",
+    "DNA"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "publishedAt": "2026-11-11T15:00:15.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "24b90e0f32604363",
+  "status": "published"
+}

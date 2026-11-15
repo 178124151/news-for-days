@@ -1,0 +1,35 @@
+{
+  "id": "167c81c5d6fc7db5",
+  "slug": "where-was-nvidias-security-team",
+  "titleZh": "Nvidia安全主管悄然离职",
+  "titleOriginal": "Where was Nvidia’s security team?",
+  "summary": "Nvidia安全主管在8月份悄然离职。随着CEO黄仁勋因与公司高管的关系问题（包括涉嫌向中国公司输送芯片）而辞职，前情报官员表示，这是日常对话中常见的泄密类型，大多数企业安全团队缺乏应对能力。",
+  "keyPoints": [
+    "Nvidia安全主管在8月份离职",
+    "CEO黄仁勋因关系问题辞职",
+    "前情报官员称企业安全团队难以应对日常泄密"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "安全主管",
+    "CEO辞职",
+    "芯片出口管制",
+    "公司治理"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "publishedAt": "2026-11-15T00:08:07.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a3d882820211c220",
+  "status": "published"
+}

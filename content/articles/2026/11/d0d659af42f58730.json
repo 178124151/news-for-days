@@ -1,0 +1,35 @@
+{
+  "id": "d0d659af42f58730",
+  "slug": "federal-reserve-announces-revised-tentative-schedule-of-fede",
+  "titleZh": "联邦储备委员会宣布2027年联邦公开市场委员会会议修订后的 tentative 时间表",
+  "titleOriginal": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+  "summary": "美联储发布2027年联邦公开市场委员会会议的修讟 tentative 时间表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "联邦储备委员会发布2027年FOMC会议时间表",
+    "时间表为修讟 tentative 版本",
+    "属于政策层面安排"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "FOMC",
+    "2027",
+    "政策",
+    "会议时间表"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Open Market"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+  "publishedAt": "2026-11-12T17:45:00.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 90,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7f422f7006ec27b7",
+  "status": "published"
+}

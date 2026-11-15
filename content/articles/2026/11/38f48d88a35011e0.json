@@ -1,0 +1,34 @@
+{
+  "id": "38f48d88a35011e0",
+  "slug": "180-million-van-gogh-tests-the-art-market-and-collector-conf",
+  "titleZh": "1.8亿美元梵高作品考验艺术市场与收藏家信心",
+  "titleOriginal": "$180 million Van Gogh tests the art market and collector confidence",
+  "summary": "纽约下周艺术拍卖总额可能突破20亿美元，百年难得一见的大师作品集首次亮相市场。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "梵高作品拍卖测试市场信心",
+    "纽约拍卖总额或超20亿美元",
+    "大师作品集首次集中亮相"
+  ],
+  "category": "finance",
+  "tags": [
+    "梵高",
+    "艺术拍卖",
+    "市场信心",
+    "收藏家",
+    "纽约"
+  ],
+  "entities": [
+    "Van Gogh"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+  "publishedAt": "2026-11-14T22:34:07.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3568192d58ce88d0",
+  "status": "published"
+}

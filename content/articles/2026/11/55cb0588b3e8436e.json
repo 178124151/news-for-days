@@ -1,0 +1,35 @@
+{
+  "id": "55cb0588b3e8436e",
+  "slug": "gemini-4-carbon-is-now-available",
+  "titleZh": "Gemini 4 Carbon is now available",
+  "titleOriginal": "Gemini 4 Carbon is now available",
+  "summary": "Gemini 4 Carbon is now available。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Gemini 4 Carbon is now available",
+    "Gemini 4 Carbon is now available",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini",
+    "Carbon",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Gemini",
+    "Carbon"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+  "publishedAt": "2026-11-10T16:03:47.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 43,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "b7fb734fc02afb1b",
+  "status": "published"
+}

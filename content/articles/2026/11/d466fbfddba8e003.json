@@ -1,0 +1,35 @@
+{
+  "id": "d466fbfddba8e003",
+  "slug": "spacex-successfully-catches-starship-rocket-in-huge-mileston",
+  "titleZh": "SpaceX成功捕获星舰火箭，航天业里程碑式突破",
+  "titleOriginal": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+  "summary": "SpaceX成功捕获星舰火箭，这是历史首次，使公司更接近火箭‘快速可重用’的目标。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "成功捕获星舰火箭上级",
+    "推进火箭快速可重用目标",
+    "标志航天技术重大突破"
+  ],
+  "category": "finance",
+  "tags": [
+    "SpaceX",
+    "星舰",
+    "火箭回收",
+    "可重复使用",
+    "航天突破"
+  ],
+  "entities": [
+    "SpaceX",
+    "Starship"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-15T00:33:00.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 88,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "84a7f7f5569ca71a",
+  "status": "published"
+}

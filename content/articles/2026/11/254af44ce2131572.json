@@ -1,0 +1,36 @@
+{
+  "id": "254af44ce2131572",
+  "slug": "8-k-tempest-therapeutics-inc-0001544227-filer",
+  "titleZh": "8-K - Tempest Therapeutics",
+  "titleOriginal": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "材料信息有限",
+    "8-K - Tempest Therapeutics",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "8-K",
+    "Tempest Therapeutics",
+    "财务报告",
+    "运营结果"
+  ],
+  "entities": [
+    "Tempest Therapeutics",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/0001213900-26-119916-index.htm",
+  "publishedAt": "2026-11-13T22:27:38.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 10,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3fb5e2af2fd5695f",
+  "status": "published"
+}

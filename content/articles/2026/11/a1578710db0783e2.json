@@ -1,0 +1,32 @@
+{
+  "id": "a1578710db0783e2",
+  "slug": "31-2",
+  "titleZh": "程序员沉迷折纸飞机",
+  "titleOriginal": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+  "summary": "程序员集体折纸飞机，最长滞空31.2秒，材料以轻松语气描述童年回忆，未涉及技术深度或产业关联。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "程序员集体折纸",
+    "最长滞空31.2秒",
+    "寓意童年回忆"
+  ],
+  "category": "ai",
+  "tags": [
+    "程序员",
+    "折纸飞机",
+    "娱乐",
+    "社交",
+    "AI文化"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510150.html",
+  "publishedAt": "2026-11-14T09:48:34.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 20,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b523c5c7ca02cf0c",
+  "status": "published"
+}

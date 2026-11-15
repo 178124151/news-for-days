@@ -1,0 +1,35 @@
+{
+  "id": "77dd8cb90d44dd9e",
+  "slug": "with-starship-catch-spacex-still-shows-it-can-dazzle-the-wor",
+  "titleZh": "有了星舰捕获，SpaceX仍能惊艳世界",
+  "titleOriginal": "With Starship catch, SpaceX still shows it can dazzle the world",
+  "summary": "得克萨斯州STARBASE，黑色银色的飞船从天而降，从云层出现的最后时刻才显现。火箭在飞行大部分时间保持水平，直到最后时刻有三台Raptor火箭发动机点火，它平滑地转入垂直姿态。缓慢、温柔、艰难地，星舰上面级接近等待塔台的两只机械臂。火箭两侧各突出约一英尺的两个小凸起，是火箭对机械臂的唯一抓取点。出现的短短一分钟内，星舰上面级被发射塔抓获，稳如泰山。",
+  "keyPoints": [
+    "星舰上面级被发射塔“筷子”机械臂捕获",
+    "飞行过程中火箭转为垂直姿态后才被捕获",
+    "SpaceX迈出开发大型快速可重复使用火箭的关键步骤"
+  ],
+  "category": "tech",
+  "tags": [
+    "SpaceX",
+    "星舰",
+    "可重复使用火箭",
+    "试飞",
+    "技术突破"
+  ],
+  "entities": [
+    "SpaceX",
+    "With Starship"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+  "publishedAt": "2026-11-15T00:40:59.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 92,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "97fa563ccdfa4a8b",
+  "status": "published"
+}

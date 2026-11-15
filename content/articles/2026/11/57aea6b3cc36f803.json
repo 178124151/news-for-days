@@ -1,0 +1,37 @@
+{
+  "id": "57aea6b3cc36f803",
+  "slug": "jensen-huangs-resignation-is-a-setback-for-us-open-models-as",
+  "titleZh": "黄仁勋辞职对美国开源模型是挫折",
+  "titleOriginal": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
+  "summary": "Nathan Lambert / Interconnects AI表示，黄仁勋的辞职是美国开源模型的挫折，因为他的资助给了开源开发者时间站稳脚跟，资金很可能随之枯竭。",
+  "keyPoints": [
+    "黄仁勋辞职是美国开源模型的挫折",
+    "他的资助帮助开源开发者站稳脚跟",
+    "资金很可能随之枯竭"
+  ],
+  "category": "tech",
+  "tags": [
+    "黄仁勋",
+    "开源模型",
+    "AI资金",
+    "Interconnects AI",
+    "技术生态"
+  ],
+  "entities": [
+    "Jensen Huang",
+    "US",
+    "Nathan Lambert",
+    "Interconnects AI"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261114/p15#a261114p15",
+  "publishedAt": "2026-11-14T18:05:02.000Z",
+  "fetchedAt": "2026-11-15T02:04:26.941Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cd85b1a5cc3926fd",
+  "status": "published"
+}

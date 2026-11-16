@@ -1,0 +1,34 @@
+{
+  "id": "6028a0192cc82e5b",
+  "slug": "japans-economy-unexpectedly-contracts-in-third-quarter-as-el",
+  "titleZh": "日本第三季度经济意外收缩",
+  "titleOriginal": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+  "summary": "家庭能源补贴于9月过期，暴露伊朗战争带来的高能价冲击下的经济脆弱性。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "第三季度经济收缩",
+    "能源补贴过期暴露脆弱性",
+    "伊朗战争推高能源价格"
+  ],
+  "category": "finance",
+  "tags": [
+    "日本经济",
+    "能源成本",
+    "第三季度",
+    "伊朗战争",
+    "经济收缩"
+  ],
+  "entities": [
+    "Japan"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+  "publishedAt": "2026-11-16T01:02:48.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "01d89f6c64748f0c",
+  "status": "published"
+}

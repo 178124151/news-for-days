@@ -1,0 +1,35 @@
+{
+  "id": "d64708a516cd796f",
+  "slug": "8-k-bcp-investment-corp-0001372807-filer",
+  "titleZh": "BCP Investment Corp 8-K 文件",
+  "titleOriginal": "8-K - BCP Investment Corp (0001372807) (Filer)",
+  "summary": "BCP Investment Corp 于2026年11月13日提交8-K文件，涉及业务运营和财务状况结果及财务报表展示。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "BCP Investment Corp 提交8-K文件",
+    "涉及业务运营和财务状况结果",
+    "包含财务报表展示"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "业务运营",
+    "财务状况",
+    "财务报表",
+    "2026年"
+  ],
+  "entities": [
+    "BCP Investment Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526461047/0001193125-26-461047-index.htm",
+  "publishedAt": "2026-11-13T22:26:31.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fd06c8d4b58f1526",
+  "status": "published"
+}

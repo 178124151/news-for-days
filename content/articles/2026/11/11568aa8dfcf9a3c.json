@@ -1,0 +1,35 @@
+{
+  "id": "11568aa8dfcf9a3c",
+  "slug": "token-pooling-aware-training-for-multi-vector-embedding-mode",
+  "titleZh": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "titleOriginal": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "summary": "Hugging Face发布论文，介绍用于多向量嵌入模型的Token Pooling感知训练方法。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提出Token Pooling感知训练方法",
+    "针对多向量嵌入模型优化",
+    "由Hugging Face研究人员完成"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI模型",
+    "训练方法",
+    "嵌入模型",
+    "Hugging Face",
+    "多向量"
+  ],
+  "entities": [
+    "Token Pooling Aware",
+    "Multi Vector Embedding"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/token-pooling",
+  "publishedAt": "2026-11-11T00:00:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e3650a6f7cea2931",
+  "status": "published"
+}

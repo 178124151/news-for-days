@@ -1,0 +1,36 @@
+{
+  "id": "573bd3aa3ccbb1ae",
+  "slug": "8-k-mistras-group-inc-0001436126-filer",
+  "titleZh": "Mistras Group 8-K 文件",
+  "titleOriginal": "8-K - Mistras Group, Inc. (0001436126) (Filer)",
+  "summary": "Mistras Group, Inc. 于2026年11月13日提交8-K文件，涉及其他事件披露。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Mistras Group 提交8-K文件",
+    "涉及其他事件披露",
+    "于2026年11月13日提交"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "其他事件",
+    "2026年",
+    "公司披露",
+    "文件提交"
+  ],
+  "entities": [
+    "Mistras Group",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126043833/0001140361-26-043833-index.htm",
+  "publishedAt": "2026-11-13T22:25:40.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6562033a920b45b6",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "24cbece72f55c409",
+  "slug": "is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-indust",
+  "titleZh": "讨论Nvidia在AI产业中的地位",
+  "titleOriginal": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "summary": "原文信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "文章讨论Nvidia在AI产业中的核心地位",
+    "Jensen Huang的影响备受关注",
+    "材料内容简短，缺乏详细分析"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "AI产业",
+    "Jensen Huang",
+    "市场格局",
+    "技术格局"
+  ],
+  "entities": [
+    "Jensen Huang",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "publishedAt": "2026-11-15T21:56:35.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4f59e70c3db1a9c3",
+  "status": "published"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "cb93d68b445c05b0",
+  "slug": "pay-for-hugging-face-hub-with-your-google-cloud-account",
+  "titleZh": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "titleOriginal": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "summary": "Hugging Face宣布支持通过Google Cloud账户付费使用Hub服务。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "支持Google Cloud账户付费",
+    "Hugging Face Hub付费功能",
+    "云账户整合支付"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "Google Cloud",
+    "付费服务",
+    "Hub功能",
+    "账户整合"
+  ],
+  "entities": [
+    "Google",
+    "Hugging Face",
+    "Pay",
+    "Hugging Face Hub",
+    "Google Cloud Account"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "publishedAt": "2026-11-10T00:00:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 50,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c066ad91e9e323ba",
+  "status": "published"
+}

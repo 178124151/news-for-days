@@ -1,0 +1,34 @@
+{
+  "id": "2e8f421d2ee2a3df",
+  "slug": "a-step-toward-defining-the-standard-model-on-a-lattice",
+  "titleZh": "迈向在网格上定义标准模型",
+  "titleOriginal": "A step toward defining the Standard Model on a lattice",
+  "summary": "探讨标准模型的非微扰网格定义，以及GPT-6 Astra如何助其转化为详细证明。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "标准模型网格定义研究",
+    "GPT-6 Astra辅助证明",
+    "非微扰理论探索"
+  ],
+  "category": "ai",
+  "tags": [
+    "标准模型",
+    "GPT-6",
+    "网格",
+    "物理研究",
+    "AI辅助"
+  ],
+  "entities": [
+    "Standard Model"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/step-toward-defining-the-standard-model",
+  "publishedAt": "2026-11-15T22:00:01.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fd91bd65ae4286b6",
+  "status": "published"
+}

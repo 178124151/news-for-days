@@ -1,0 +1,36 @@
+{
+  "id": "988bffc372c5bf28",
+  "slug": "nvidia-is-gearing-up-for-one-of-wall-street-x2019-s-most-ant",
+  "titleZh": "Nvidia即将召开备受关注的财报电话会",
+  "titleOriginal": "Nvidia is gearing up for one of Wall Street&#x2019;s most anticipated earnings calls in years",
+  "summary": "Jensen Huang突然离任，使得周二的财报电话会被视为公司历史上最重要的一次。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋突然离任",
+    "财报电话会被视为公司历史最重要",
+    "Wall Street高度期待"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "财报",
+    "黄仁勋",
+    "Wall Street",
+    "科技"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Wall Street"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-15T21:32:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 95,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b15915b2d0c810c9",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19ed241f550ad099",
+  "slug": "a-19ed24",
+  "titleZh": "中际旭创盘中创年内新低",
+  "titleOriginal": "A股中际旭创盘中创年内新低",
+  "summary": "36氪获悉，A股中际旭创盘中创年内新低，现跌超8%；港股中际旭创跌5.78%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "中际旭创股价创年内新低",
+    "A股跌超8%，港股跌5.78%",
+    "盘中出现显著下跌"
+  ],
+  "category": "tech",
+  "tags": [
+    "中际旭创",
+    "A股",
+    "港股",
+    "股价下跌",
+    "年内新低"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4071802637423744?f=rss",
+  "publishedAt": "2026-11-16T02:11:50.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d13593385640adb1",
+  "status": "published"
+}

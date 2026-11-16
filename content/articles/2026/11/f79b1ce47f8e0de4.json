@@ -1,0 +1,34 @@
+{
+  "id": "f79b1ce47f8e0de4",
+  "slug": "we-slept-here-flight-delays-linger-but-schedule-is-back-on-t",
+  "titleZh": "航班延误虽有但周一时刻已恢复",
+  "titleOriginal": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+  "summary": "联邦航空管理局全国暂停起降超过四小时后，航班时刻周一恢复正常，滞留情况持续。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "航班时刻周一恢复",
+    "FAA暂停起降四小时后延误",
+    "滞留情况持续两日"
+  ],
+  "category": "finance",
+  "tags": [
+    "航班延误",
+    "联邦航空管理局",
+    "时刻恢复",
+    "周一",
+    "航班滞留"
+  ],
+  "entities": [
+    "Flight"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+  "publishedAt": "2026-11-15T22:33:26.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "19ce38f7bf3dce7b",
+  "status": "published"
+}

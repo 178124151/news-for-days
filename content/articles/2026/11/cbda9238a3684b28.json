@@ -1,0 +1,35 @@
+{
+  "id": "cbda9238a3684b28",
+  "slug": "the-definitive-fine-tuning-guide-for-3d-generation-models",
+  "titleZh": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "titleOriginal": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "The Definitive Fine-Tuning Guide for 3D…",
+    "The Definitive Fine-Tuning Guide for 3D…",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "The Definitive Fine",
+    "Generation Models",
+    "模型",
+    "AI",
+    "行业动态"
+  ],
+  "entities": [
+    "The Definitive Fine",
+    "Generation Models"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/3d-lora-finetuning",
+  "publishedAt": "2026-11-12T00:00:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 38,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "62aaa1a54cd11d6a",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9c532cde83c44d52",
+  "slug": "budget-airlines-are-going-upscale-with-first-class-seats-and",
+  "titleZh": "预算航空公司转向高端服务",
+  "titleOriginal": "Budget airlines are going upscale with first-class seats and faster wifi",
+  "summary": "Frontier和JetBlue等预算航空公司推出头等舱和更快的WiFi，试图吸引豪华旅客，引来Wall Street关注。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "推出头等舱和更快WiFi",
+    "试图吸引豪华旅客",
+    "Wall Street买入"
+  ],
+  "category": "finance",
+  "tags": [
+    "预算航空",
+    "头等舱",
+    "JetBlue",
+    "Frontier",
+    "旅游"
+  ],
+  "entities": [
+    "Budget"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-15T21:31:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3168d1cbe3aff17e",
+  "status": "published"
+}

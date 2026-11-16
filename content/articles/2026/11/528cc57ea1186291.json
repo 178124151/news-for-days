@@ -1,0 +1,36 @@
+{
+  "id": "528cc57ea1186291",
+  "slug": "8-k-caretrust-reit-inc-0001590717-filer",
+  "titleZh": "CareTrust REIT 8-K 文件",
+  "titleOriginal": "8-K - CareTrust REIT, Inc. (0001590717) (Filer)",
+  "summary": "CareTrust REIT, Inc. 于2026年11月13日提交8-K文件，涉及重大协议生效、其他事件及财务报表展示。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CareTrust REIT 提交8-K文件",
+    "涉及重大协议生效",
+    "包含财务报表展示"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC EDGAR",
+    "重大协议",
+    "财务报表",
+    "2026年",
+    "公司披露"
+  ],
+  "entities": [
+    "CareTrust REIT",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1590717/000114036126043831/0001140361-26-043831-index.htm",
+  "publishedAt": "2026-11-13T22:25:32.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "86cdcbd1560234af",
+  "status": "published"
+}

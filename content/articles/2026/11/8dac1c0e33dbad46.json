@@ -1,0 +1,35 @@
+{
+  "id": "8dac1c0e33dbad46",
+  "slug": "vulcan-rocket-fails-during-launch-dealing-major-blow-to-spac",
+  "titleZh": "Vulcan火箭发射失败，重击SpaceX竞争者",
+  "titleOriginal": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+  "summary": "United Launch Alliance的Vulcan火箭及40颗Amazon卫星于发射后不久坠落，这是该火箭首次重大失败，将影响美国太空工业及国防任务。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Vulcan火箭首次重大失败",
+    "40颗Amazon卫星随火箭坠落",
+    "将影响国防及商业卫星任务"
+  ],
+  "category": "tech",
+  "tags": [
+    "Vulcan",
+    "SpaceX",
+    "发射失败",
+    "Amazon",
+    "太空工业"
+  ],
+  "entities": [
+    "SpaceX",
+    "Vulcan"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+  "publishedAt": "2026-11-15T23:11:54.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 85,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "41d11067661c87cc",
+  "status": "published"
+}

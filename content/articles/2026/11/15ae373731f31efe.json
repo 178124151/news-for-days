@@ -1,0 +1,35 @@
+{
+  "id": "15ae373731f31efe",
+  "slug": "apples-new-study-looks-to-improve-the-effectiveness-of-ai-he",
+  "titleZh": "Apple发布AI健康工具使用研究",
+  "titleOriginal": "Apple’s new study looks to improve the effectiveness of AI health tools",
+  "summary": "Apple与OpenEvidence合作开展Apple Health AI Usage Study，通过iOS app让用户提问并评估医疗AI回复的准确性、详细程度和相关性，旨在改善AI健康工具效果。",
+  "keyPoints": [
+    "Apple与OpenEvidence合作开展AI健康研究",
+    "通过iOS app收集用户对医疗AI回复的评估",
+    "旨在提升AI健康工具的效果与可信度"
+  ],
+  "category": "tech",
+  "tags": [
+    "Apple",
+    "AI健康",
+    "医疗AI",
+    "OpenEvidence",
+    "用户研究"
+  ],
+  "entities": [
+    "Apple",
+    "AI"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+  "publishedAt": "2026-11-16T01:26:56.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c339b9ea182c92ff",
+  "status": "published"
+}

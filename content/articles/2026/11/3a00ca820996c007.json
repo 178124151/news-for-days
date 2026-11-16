@@ -1,0 +1,35 @@
+{
+  "id": "3a00ca820996c007",
+  "slug": "vulcan-rocket-fails-during-return-to-flight-launch-40-amazon",
+  "titleZh": "Vulcan火箭返程失败，40颗Amazon卫星丢失",
+  "titleOriginal": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+  "summary": "Vulcan火箭在返程发射失败，导致40颗Amazon卫星损失，具体事故详情见Space.com及Hacker News讨论。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Vulcan火箭返程发射失败",
+    "40颗Amazon卫星随其一同损失",
+    "事故引起航天界关注"
+  ],
+  "category": "tech",
+  "tags": [
+    "Vulcan火箭",
+    "Amazon卫星",
+    "发射失败",
+    "航天事故",
+    "返回失败"
+  ],
+  "entities": [
+    "Amazon",
+    "Vulcan"
+  ],
+  "sourceId": "hackernews",
+  "sourceName": "Hacker News",
+  "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+  "publishedAt": "2026-11-15T20:37:28.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "51796837ac70297f",
+  "status": "published"
+}

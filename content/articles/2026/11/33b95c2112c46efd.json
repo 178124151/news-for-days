@@ -1,0 +1,32 @@
+{
+  "id": "33b95c2112c46efd",
+  "slug": "our-new-blog-for-science",
+  "titleZh": "OpenAI新博客分享科研AI应用",
+  "titleOriginal": "Our new blog for science",
+  "summary": "OpenAI新博客发布科研领域AI最新发现、实用方法及研究员第一手账，旨在推动科学发现。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI发布新科学博客",
+    "分享AI在科研中的发现与方法",
+    "包含研究员使用AI的实录"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "AI博客",
+    "科研",
+    "科学发现",
+    "技术分享"
+  ],
+  "entities": [],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/our-new-blog-for-science",
+  "publishedAt": "2026-11-15T22:00:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dea9483ef7f5ac4b",
+  "status": "published"
+}

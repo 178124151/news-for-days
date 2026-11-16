@@ -1,0 +1,37 @@
+{
+  "id": "7eb78b065c73eb3c",
+  "slug": "tech-worlds-calls-for-jensen-huang-to-return-to-nvidia-are-g",
+  "titleZh": "业界呼吁黄仁勋回归Nvidia",
+  "titleOriginal": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+  "summary": "科技高管和主要股东支持潜在回归，在黄仁勋辞职后呼吁其重返Nvidia CEO职位。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋回归呼声增长",
+    "科技高管和股东支持回归",
+    "紧随其辞职后的潜在回归"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "黄仁勋",
+    "CEO回归",
+    "科技高管",
+    "股东"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Tech",
+    "Jensen Huang"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+  "publishedAt": "2026-11-16T01:54:56.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6eb7942d077dbabb",
+  "status": "published"
+}

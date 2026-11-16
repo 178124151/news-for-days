@@ -1,0 +1,35 @@
+{
+  "id": "c4751f38fca860ad",
+  "slug": "deepseek-api",
+  "titleZh": "突发！DeepSeek开放全家桶API",
+  "titleOriginal": "突发！DeepSeek开放全家桶API",
+  "summary": "量子位报道，DeepSeek官方App功能可自由组合调用，全家桶API开放。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "DeepSeek全家桶API开放",
+    "官方App功能可组合调用",
+    "突发开放 announcements"
+  ],
+  "category": "ai",
+  "tags": [
+    "DeepSeek",
+    "API开放",
+    "全家桶",
+    "官方App",
+    "功能组合"
+  ],
+  "entities": [
+    "DeepSeek",
+    "API"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510003.html",
+  "publishedAt": "2026-11-14T02:39:56.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3a22a3c53638257a",
+  "status": "published"
+}

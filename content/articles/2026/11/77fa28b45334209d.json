@@ -1,0 +1,32 @@
+{
+  "id": "77fa28b45334209d",
+  "slug": "77fa28b45334209d",
+  "titleZh": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+  "titleOriginal": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+  "summary": "量子位报道，中专生创作的作品获欧美明星好莱坞制片人集体点赞，播放量超3000万。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "中专生创作获明星点赞",
+    "作品播放量超3000万",
+    "欧美好莱坞集体认可"
+  ],
+  "category": "ai",
+  "tags": [
+    "创作者",
+    "影视作品",
+    "明星点赞",
+    "播放量",
+    "中专生"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510013.html",
+  "publishedAt": "2026-11-14T02:59:35.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d4af7ee116c39983",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19b4fcb1faac9c9b",
+  "slug": "botpsy-on-device-personal-assistant-with-a-sub-billion-param",
+  "titleZh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Langu…",
+  "titleOriginal": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "keyPoints": [
+    "BotPsy: On-Device Personal Assistant wi…",
+    "BotPsy: On-Device Personal Assistant wi…",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "BotPsy",
+    "On Device Personal",
+    "模型",
+    "AI",
+    "行业动态"
+  ],
+  "entities": [
+    "BotPsy",
+    "On Device Personal",
+    "Sub Billion Parameter"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/qvac/botpsy",
+  "publishedAt": "2026-11-11T05:01:16.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 38,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "866515eef4590944",
+  "status": "published"
+}

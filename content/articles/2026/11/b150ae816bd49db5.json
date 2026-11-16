@@ -1,0 +1,35 @@
+{
+  "id": "b150ae816bd49db5",
+  "slug": "chinas-slowdown-deepens-in-october-as-industrial-output-reta",
+  "titleZh": "中国10月工业产出、零售投资低于预期",
+  "titleOriginal": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "summary": "投资疲软加深，零售销售持续落后工业产出，房地产市场下行第五年侵蚀家庭财富。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "工业产出、零售销售低于预期",
+    "投资疲软持续，房地产拖累",
+    "第五年房地产下行影响家庭财富"
+  ],
+  "category": "finance",
+  "tags": [
+    "工业产出",
+    "零售销售",
+    "投资",
+    "房地产",
+    "经济下行"
+  ],
+  "entities": [
+    "China",
+    "October"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "publishedAt": "2026-11-16T02:14:03.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a7b5cb42048445a7",
+  "status": "published"
+}

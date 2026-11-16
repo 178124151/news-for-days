@@ -1,0 +1,35 @@
+{
+  "id": "87b76e5b13944ae0",
+  "slug": "apple-launches-new-app-to-study-how-people-use-ai-for-health",
+  "titleZh": "Apple发布新应用研究人员AI健康使用",
+  "titleOriginal": "Apple launches new app to study how people use AI for health",
+  "summary": "Apple推出新应用，旨在通过研究了解人们如何使用AI进行健康相关活动。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Apple推出新应用",
+    "研究人员AI健康使用",
+    "了解用户行为"
+  ],
+  "category": "tech",
+  "tags": [
+    "Apple",
+    "AI",
+    "健康",
+    "应用",
+    "研究"
+  ],
+  "entities": [
+    "Apple",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+  "publishedAt": "2026-11-16T01:30:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1361fc5285afe2b5",
+  "status": "published"
+}

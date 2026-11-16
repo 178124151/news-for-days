@@ -1,0 +1,36 @@
+{
+  "id": "61200927e23c6bf1",
+  "slug": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-e",
+  "titleZh": "Bharat Semi获2400万美元种子轮融资",
+  "titleOriginal": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "summary": "印度芯片初创公司Bharat Semi获2400万美元种子轮融资，瞄准全球AI传感器市场，并已获General Atomics等公司设计胜利。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Bharat Semi获2400万美元种子轮融资",
+    "瞄准全球AI传感器市场",
+    "已获包括General Atomics在内的设计胜利"
+  ],
+  "category": "tech",
+  "tags": [
+    "Bharat Semi",
+    "AI传感器",
+    "种子轮融资",
+    "芯片初创",
+    "设计胜利"
+  ],
+  "entities": [
+    "Indian",
+    "Bharat Semi",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "publishedAt": "2026-11-15T23:30:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5d9bfd0ea026fabb",
+  "status": "published"
+}

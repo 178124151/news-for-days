@@ -1,0 +1,32 @@
+{
+  "id": "4315b9a403f4db36",
+  "slug": "4315b9a403f4db36",
+  "titleZh": "极地涡旋提前崩溃令人担忧寒冬",
+  "titleOriginal": "极地涡旋提前崩溃令人担忧寒冬",
+  "summary": "通常困住北极冷空气的极地涡旋出现有记录以来最早的冬季崩溃，科学家担心欧洲、北美和北亚出现极度寒冷干燥的天气，但目前影响尚不明确。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "极地涡旋提前崩溃",
+    "科学家担忧极度寒冷干燥天气",
+    "影响目前尚不明确"
+  ],
+  "category": "finance",
+  "tags": [
+    "极地涡旋",
+    "寒冬",
+    "气候",
+    "欧洲",
+    "北美"
+  ],
+  "entities": [],
+  "sourceId": "ftchinese",
+  "sourceName": "FT中文网",
+  "sourceUrl": "https://www.ftchinese.com/story/001111375",
+  "publishedAt": "2026-11-15T16:00:00.000Z",
+  "fetchedAt": "2026-11-16T02:21:16.740Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ca3cf4dee90cb1b2",
+  "status": "published"
+}

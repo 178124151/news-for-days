@@ -1,0 +1,36 @@
+{
+  "id": "ea5fbed5f50eecc7",
+  "slug": "stanley-druckenmiller-dumped-these-chip-stocks-while-buying-",
+  "titleZh": "Druckenmiller减持芯片股买入SpaceX和Palantir",
+  "titleOriginal": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+  "summary": "MarketWatch报道称，Druckenmiller家族办公室在第三季度抛售了AMD和Sandisk股份，同时买入了SpaceX和Palantir。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "抛售AMD和Sandisk芯片股份",
+    "买入SpaceX和Palantir股份",
+    "家族办公室在第三季度进行调仓"
+  ],
+  "category": "finance",
+  "tags": [
+    "Druckenmiller",
+    "芯片股",
+    "SpaceX",
+    "Palantir",
+    "投资调仓"
+  ],
+  "entities": [
+    "SpaceX",
+    "Stanley Druckenmiller",
+    "Palantir"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-16T23:28:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5e02d59f298fe616",
+  "status": "published"
+}

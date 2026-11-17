@@ -1,0 +1,35 @@
+{
+  "id": "37ebc6fde6024f11",
+  "slug": "8-k-flyte-aviation-inc-0001716621-filer",
+  "titleZh": "Flyte Aviation 8-K文件",
+  "titleOriginal": "8-K - Flyte Aviation, Inc. (0001716621) (Filer)",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "材料信息有限",
+    "Flyte Aviation 8-K文件",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "政策",
+    "SEC",
+    "8-K",
+    "财务"
+  ],
+  "entities": [
+    "Flyte Aviation",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926037257/0001437749-26-037257-index.htm",
+  "publishedAt": "2026-11-16T22:29:48.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 10,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1c87f346f07d2201",
+  "status": "published"
+}

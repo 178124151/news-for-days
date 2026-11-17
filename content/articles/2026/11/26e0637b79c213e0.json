@@ -1,0 +1,35 @@
+{
+  "id": "26e0637b79c213e0",
+  "slug": "qwen4",
+  "titleZh": "阿里发布Qwen4 智能体及编程能力进阶",
+  "titleOriginal": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+  "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，智能体及编程能力进阶，迈向真实全场景。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "阿里发布全新一代基座大模型Qwen4-Max",
+    "智能体及编程能力实现进阶",
+    "迈向真实全场景应用"
+  ],
+  "category": "ai",
+  "tags": [
+    "阿里巴巴",
+    "大模型",
+    "Qwen4",
+    "智能体",
+    "编程"
+  ],
+  "entities": [
+    "Qwen",
+    "Qwen4"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510486.html",
+  "publishedAt": "2026-11-16T07:51:57.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7a9f48de07276b5d",
+  "status": "published"
+}

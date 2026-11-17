@@ -1,0 +1,35 @@
+{
+  "id": "3e873950db7dc453",
+  "slug": "third-u-s-carrier-arrives-stoking-concerns-about-renewed-con",
+  "titleZh": "第三艘美国航母抵达波斯湾，伊朗威胁升级",
+  "titleOriginal": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+  "summary": "伊朗对美国加大威胁，第三艘美国航母抵达波斯湾，引发军事紧张担忧。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "第三艘美国航母抵达波斯湾",
+    "伊朗威胁升级引发紧张",
+    "担忧军事冲突可能续"
+  ],
+  "category": "finance",
+  "tags": [
+    "军事",
+    "伊朗",
+    "航母",
+    "波斯湾",
+    "地缘政治"
+  ],
+  "entities": [
+    "Third U",
+    "Iran"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "publishedAt": "2026-11-17T04:34:24.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9e410a48630618a4",
+  "status": "published"
+}

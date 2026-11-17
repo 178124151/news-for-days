@@ -1,0 +1,32 @@
+{
+  "id": "5f4920f36ea96dc2",
+  "slug": "5f4920f36ea96dc2",
+  "titleZh": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+  "titleOriginal": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+  "summary": "睿尔曼智能郑随兵表示，具身智能的真正价值是把人的经验、技能复刻出来。机器人落地的三大标准是质量、经济性和稳定性。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "具身智能价值在于复刻人类经验与技能",
+    "机器人落地三大标准为质量、经济性、稳定性",
+    "郑随兵就机器人落地标准发表观点"
+  ],
+  "category": "ai",
+  "tags": [
+    "睿尔曼智能",
+    "郑随兵",
+    "具身智能",
+    "机器人落地",
+    "质量经济性"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510542.html",
+  "publishedAt": "2026-11-16T10:57:31.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ce2ef17c648a8526",
+  "status": "published"
+}

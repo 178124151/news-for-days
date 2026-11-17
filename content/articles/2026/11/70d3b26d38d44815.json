@@ -1,0 +1,40 @@
+{
+  "id": "70d3b26d38d44815",
+  "slug": "filing-leopold-aschenbrenners-hedge-fund-situational-awarene",
+  "titleZh": "Filing: Leopold Aschenbrenner的对冲基金重新加仓AI股票",
+  "titleOriginal": "Filing: Leopold Aschenbrenner's hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)",
+  "summary": "Leopold Aschenbrenner的AI主题对冲基金Situational Awareness在Q3末重新加仓AI股票，但此后所有持仓均已下跌。该基金曾在七月近乎崩盘，后重新加仓后出现回撤。",
+  "keyPoints": [
+    "对冲基金Situational Awareness在Q3末重新加仓AI股票",
+    "加仓后股票均已下跌，曾在七月近乎崩盘",
+    "基金管理人Leopold Aschenbrenner曾因业绩波动备受关注"
+  ],
+  "category": "tech",
+  "tags": [
+    "对冲基金",
+    "AI股票",
+    "加仓",
+    "市场波动",
+    "风险"
+  ],
+  "entities": [
+    "Filing",
+    "Leopold Aschenbrenner",
+    "Situational Awareness",
+    "AI",
+    "Q3",
+    "Sean Conlon",
+    "CNBC"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261116/p51#a261116p51",
+  "publishedAt": "2026-11-17T03:35:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d48122ed077f5f09",
+  "status": "published"
+}

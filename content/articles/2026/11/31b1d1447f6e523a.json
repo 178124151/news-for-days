@@ -1,0 +1,35 @@
+{
+  "id": "31b1d1447f6e523a",
+  "slug": "cmo-ai",
+  "titleZh": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产",
+  "titleOriginal": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发",
+  "summary": "AI Memory智能硬件公司穗升科技完成数千万元Pre-A轮融资，由NexTide Capital、阿尔法公社投资。创始人王时远为前安克全球CMO。首款硬件Gem已开启量产，同步登陆美国亚马逊与品牌官网，10月进入日本市场，硬件销量及软件订阅收入均实现增长。产品结合自研长记忆引擎，提供能理解用户前情的Personal Agent。",
+  "keyPoints": [
+    "穗升科技完成Pre-A轮融资，产品Gem已量产并出海",
+    "创始人王时远为前安克全球CMO，团队具备丰富经验",
+    "硬件结合长记忆引擎，实现跨时序上下文理解"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI硬件",
+    "可穿戴",
+    "Pre-A轮",
+    "量产",
+    "出海"
+  ],
+  "entities": [
+    "CMO",
+    "AI"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4072342767047814?f=rss",
+  "publishedAt": "2026-11-17T03:00:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 60,
+  "readMinutes": 7,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "64033e3c1aa2ac40",
+  "status": "published"
+}

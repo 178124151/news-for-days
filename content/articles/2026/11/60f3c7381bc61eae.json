@@ -1,0 +1,36 @@
+{
+  "id": "60f3c7381bc61eae",
+  "slug": "the-kings-trust-and-openai-launch-1m-partnership",
+  "titleZh": "OpenAI与王室信托基金合作100万英镑",
+  "titleOriginal": "The King’s Trust and OpenAI launch £1m partnership",
+  "summary": "OpenAI与The King’s Trust合作，设立100万英镑基金，帮助英国最多25000名青年建立实用AI技能以求职。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI与王室信托基金合作",
+    "设立100万英镑基金支持青年",
+    "目标帮助25000名青年建立AI技能"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "王室信托",
+    "AI技能",
+    "青年就业",
+    "合作伙伴"
+  ],
+  "entities": [
+    "OpenAI",
+    "The King",
+    "Trust"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/the-kings-trust-and-openai",
+  "publishedAt": "2026-11-16T00:00:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ff8eaefaeea97249",
+  "status": "published"
+}

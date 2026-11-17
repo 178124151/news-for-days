@@ -1,0 +1,36 @@
+{
+  "id": "d91fd06de7b8771e",
+  "slug": "science-at-the-frontier-how-scientists-use-chatgpt",
+  "titleZh": "科学家如何使用ChatGPT进行科研",
+  "titleOriginal": "Science at the Frontier: How scientists use ChatGPT",
+  "summary": "OpenAI News报道称，超1800名科学家使用ChatGPT进行科研，文中涉及日常工作流、生产力报告及对科研发现的期待。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "超1800名科学家使用ChatGPT进行科研",
+    "报道日常工作流和生产力情况",
+    "涉及科研发现的期待与应用"
+  ],
+  "category": "ai",
+  "tags": [
+    "ChatGPT",
+    "科研应用",
+    "科学家",
+    "生产力",
+    "AI工具"
+  ],
+  "entities": [
+    "ChatGPT",
+    "Science",
+    "Frontier"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/science-at-the-frontier",
+  "publishedAt": "2026-11-16T12:00:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d1bef4d27414da63",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5c9e6b860fb37dc0",
+  "slug": "8-k-a-hf-sinclair-corp-0001915657-filer",
+  "titleZh": "HF Sinclair Corp 8-K/A文件",
+  "titleOriginal": "8-K/A - HF Sinclair Corp (0001915657) (Filer)",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "材料信息有限",
+    "HF Sinclair Corp 8-K/A文件",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "政策",
+    "SEC",
+    "8-K",
+    "财务"
+  ],
+  "entities": [
+    "HF Sinclair Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026074280/0001628280-26-074280-index.htm",
+  "publishedAt": "2026-11-16T22:23:32.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 10,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ccea3c1f5fbc72a2",
+  "status": "published"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "f72f08a04f5e6295",
+  "slug": "sources-kalshi-bought-fb-securities-a-small-new-york-based-b",
+  "titleZh": "Kalshi 购买纽约经纪商计划推出股票交易",
+  "titleOriginal": "Sources: Kalshi bought FB Securities, a small New York-based broker, in July and plans to launch equity trading within the next two months (Vicky Ge Huang/Wall Street Journal)",
+  "summary": "Kalshi 购买了位于纽约的小型经纪商 FB Securities，计划在两个月内推出股票交易业务。该平台正面临美国州政府的法律诉讼，但希望扩展到其他资产类别。",
+  "keyPoints": [
+    "Kalshi 购买 FB Securities 经纪商",
+    "计划在两个月内推出股票交易",
+    "平台正面临法律诉讼但希望扩张"
+  ],
+  "category": "tech",
+  "tags": [
+    "Kalshi",
+    "FB Securities",
+    "股票交易",
+    "经纪商",
+    "法律诉讼"
+  ],
+  "entities": [
+    "Sources",
+    "Kalshi",
+    "FB Securities",
+    "New York",
+    "July",
+    "Vicky Ge Huang",
+    "Wall Street Journal"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261116/p47#a261116p47",
+  "publishedAt": "2026-11-17T00:05:01.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f6fffa45d7a409a0",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5970106b844b078a",
+  "slug": "berkshire-hathaway-raised-its-stake-in-delta-in-the-third-qu",
+  "titleZh": "伯克希尔哈撒韦增持Delta股份并削减银行持仓",
+  "titleOriginal": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+  "summary": "伯克希尔哈撒韦在第三季度增持多只股票，同时削减了包括银行在内的若干持仓。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "伯克希尔哈撒韦第三季度增持多只股票",
+    "削减了包括银行在内的若干持仓",
+    "调整了投资组合结构"
+  ],
+  "category": "finance",
+  "tags": [
+    "伯克希尔哈撒韦",
+    "Delta股份",
+    "银行持仓",
+    "投资组合",
+    "第三季度"
+  ],
+  "entities": [
+    "Berkshire Hathaway",
+    "Delta"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+  "publishedAt": "2026-11-16T23:01:19.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6b4cff9af3ba415e",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bec94047e859cdf9",
+  "slug": "8-k-envela-corp-0000701719-filer",
+  "titleZh": "Envela Corp 8-K文件",
+  "titleOriginal": "8-K - Envela Corp (0000701719) (Filer)",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "材料信息有限",
+    "Envela Corp 8-K文件",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "政策",
+    "SEC",
+    "8-K",
+    "财务"
+  ],
+  "entities": [
+    "Envela Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/701719/000110465926128592/0001104659-26-128592-index.htm",
+  "publishedAt": "2026-11-16T22:31:11.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 10,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "daa31390cb422acb",
+  "status": "published"
+}

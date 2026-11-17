@@ -1,0 +1,34 @@
+{
+  "id": "0612ce5deee1a01b",
+  "slug": "jpmorgan-chase-says-temporary-software-bug-is-affecting-cons",
+  "titleZh": "JPMorgan Chase 临时软件故障影响消费银行",
+  "titleOriginal": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+  "summary": "JPMorgan Chase 因临时软件故障影响消费银行业务。该公司表示未发现坏人介入，亦未发现故障影响多家银行。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "JPMorgan Chase 临时软件故障影响消费银行",
+    "未发现坏人介入或多行受影响",
+    "公司正处理相关问题"
+  ],
+  "category": "finance",
+  "tags": [
+    "JPMorgan Chase",
+    "软件故障",
+    "消费银行",
+    "系统问题",
+    "运营"
+  ],
+  "entities": [
+    "JPMorgan Chase"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+  "publishedAt": "2026-11-16T22:14:47.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a98431585d92b3bf",
+  "status": "published"
+}

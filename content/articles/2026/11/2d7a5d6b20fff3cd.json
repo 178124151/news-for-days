@@ -1,0 +1,35 @@
+{
+  "id": "2d7a5d6b20fff3cd",
+  "slug": "broadening-access-to-ai-for-scientists",
+  "titleZh": "OpenAI扩大学者免费ChatGPT计划",
+  "titleOriginal": "Broadening access to AI for scientists",
+  "summary": "OpenAI将ChatGPT for Academic Researchers项目扩展至全球20万名研究人员，提供免费前沿模型访问权限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "扩展至全球20万研究人员",
+    "提供免费前沿模型访问",
+    "旨在拓宽AI获取渠道"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "学术研究",
+    "AI普及",
+    "免费访问"
+  ],
+  "entities": [
+    "Broadening",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "publishedAt": "2026-11-16T17:00:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6e58172b9c2c30c4",
+  "status": "published"
+}

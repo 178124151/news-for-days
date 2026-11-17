@@ -1,0 +1,35 @@
+{
+  "id": "888d5362561d6d5d",
+  "slug": "supreme-court-keeps-injunction-against-dei-grant-defunding-i",
+  "titleZh": "最高法院维持冻结DEI资助令",
+  "titleOriginal": "Supreme Court keeps injunction against DEI grant defunding in place",
+  "summary": "最高法院宣布不审理下级法院关于冻结DEI资助的决定，该决定阻止政府取消数名研究人员的资助。下级法院裁定政府行为违宪，可能产生广泛影响。涉及的七名研究人员位于加利福尼亚，资助原因为违反特朗普行政命令中的DEI规定。",
+  "keyPoints": [
+    "最高法院维持冻结DEI资助的下级法院决定",
+    "涉及七名加利福尼亚研究人员的资助被终止",
+    "下级法院裁定政府行为违宪，可能产生广泛影响"
+  ],
+  "category": "tech",
+  "tags": [
+    "最高法院",
+    "DEI",
+    "资助",
+    "法律",
+    "大学"
+  ],
+  "entities": [
+    "Supreme Court",
+    "DEI"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+  "publishedAt": "2026-11-16T19:54:21.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 55,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "72be3ee5abdf869a",
+  "status": "published"
+}

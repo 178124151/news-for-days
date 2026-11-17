@@ -1,0 +1,39 @@
+{
+  "id": "9d134268868d50e7",
+  "slug": "bank-of-america-chase-wells-fargo-and-other-us-bank-customer",
+  "titleZh": "美银、 Chase、花旗等美国银行客户报在线服务故障",
+  "titleOriginal": "Bank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays (Associated Press)",
+  "summary": "多家美国大型银行客户反映在线服务出现问题，Chase归因技术故障而非网络安全问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "多家银行在线服务出现故障",
+    "Chase称系技术非网络安全问题",
+    "客户报告访问账户困难"
+  ],
+  "category": "tech",
+  "tags": [
+    "银行服务",
+    "技术故障",
+    "Chase",
+    "客户体验",
+    "运营"
+  ],
+  "entities": [
+    "Bank",
+    "America",
+    "Chase",
+    "Wells Fargo",
+    "US",
+    "Associated Press"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261116/p42#a261116p42",
+  "publishedAt": "2026-11-16T20:20:02.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "af94f1b0fd4aeb58",
+  "status": "published"
+}

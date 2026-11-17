@@ -1,0 +1,32 @@
+{
+  "id": "e2e0661f7ee39f1f",
+  "slug": "e2e0661f7ee39f1f",
+  "titleZh": "深圳前海合作区进出口首次突破万亿大关",
+  "titleOriginal": "深圳前海合作区进出口首次突破万亿大关",
+  "summary": "深圳前海合作区进出口额从2021年的3780.5亿元增至2025年的7574.3亿元。今年前10个月进出口1.07万亿元，首次站上万亿元台阶，同比增长超七成。集成电路、电脑及零部件等高价值产品是外贸增长核心支撑，制造业企业覆盖国民经济31个大类中的28类。",
+  "keyPoints": [
+    "前海合作区进出口额突破万亿元，同比增长超七成",
+    "集成电路、电脑零部件等高价值产品是外贸增长支撑",
+    "制造业企业覆盖国民经济31个大类中的28类"
+  ],
+  "category": "tech",
+  "tags": [
+    "前海",
+    "进出口",
+    "外贸",
+    "制造业",
+    "集成电路"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4073274209981319?f=rss",
+  "publishedAt": "2026-11-17T03:50:31.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9efc180fad4b5c05",
+  "status": "published"
+}

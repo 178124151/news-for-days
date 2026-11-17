@@ -1,0 +1,35 @@
+{
+  "id": "fe023ceca2fe56df",
+  "slug": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about",
+  "titleZh": "网络安全AI初创公司Corma三个月估值突破10亿美元",
+  "titleOriginal": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "summary": "Corma完成3个月内1亿美元Series A融资，估值达10亿美元，NEA领投。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Corma融资估值突破10亿美元",
+    "仅用3个月完成Series A融资",
+    "NEAs领投显示市场热度"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI网络安全",
+    "Corma",
+    "融资",
+    "估值",
+    "NEA"
+  ],
+  "entities": [
+    "Cybersecurity AI",
+    "Corma"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "publishedAt": "2026-11-16T23:32:32.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f495e338422837cf",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c189de8bd0739763",
+  "slug": "serena-williams-winds-down-her-vc-firm-launches-new-fund-see",
+  "titleZh": "塞雷娜·威廉姆斯 winding down VC 公司 发布新基金 募资2亿美元",
+  "titleOriginal": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+  "summary": "塞雷娜·威廉姆斯和 longtime 业务伙伴贝丝·费雷拉宣布推出早期阶段投资机构 Starfire Ventures。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "塞雷娜·威廉姆斯 winding down VC 公司",
+    "发布新基金 Starfire Ventures",
+    "计划募资2亿美元"
+  ],
+  "category": "tech",
+  "tags": [
+    "塞雷娜·威廉姆斯",
+    "Starfire Ventures",
+    "风险投资",
+    "新基金",
+    "募资"
+  ],
+  "entities": [
+    "Serena Williams",
+    "VC"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+  "publishedAt": "2026-11-16T16:06:30.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b8fcc5e855eeeb1a",
+  "status": "published"
+}

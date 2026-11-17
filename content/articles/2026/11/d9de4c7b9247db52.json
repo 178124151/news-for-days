@@ -1,0 +1,35 @@
+{
+  "id": "d9de4c7b9247db52",
+  "slug": "m8-38-l3",
+  "titleZh": "余承东发布新款问界M8：38万元起售",
+  "titleOriginal": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+  "summary": "余承东发布新款问界M8，起售价38万元，全系预埋L3架构。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "问界M8起售价38万元",
+    "全系预埋L3自动驾驶架构",
+    "余承东重新明确分工"
+  ],
+  "category": "ai",
+  "tags": [
+    "问界",
+    "M8",
+    "L3架构",
+    "新车发布",
+    "余承东"
+  ],
+  "entities": [
+    "M8",
+    "L3"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510436.html",
+  "publishedAt": "2026-11-16T07:26:33.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "87a9f35e5252b07c",
+  "status": "published"
+}

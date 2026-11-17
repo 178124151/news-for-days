@@ -1,0 +1,34 @@
+{
+  "id": "f493ea4183e7901a",
+  "slug": "united-airlines-resolves-system-outage-that-delayed-flights-",
+  "titleZh": "United Airlines系统故障延误航班",
+  "titleOriginal": "United Airlines resolves system outage that delayed flights Monday",
+  "summary": "United Airlines系统故障导致周一航班延误，此前FAA全国性地面停飞也曾扰乱空中交通。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "United Airlines系统故障延误航班",
+    "紧随FAA全国地面停飞之后",
+    "系统故障影响航班运行"
+  ],
+  "category": "finance",
+  "tags": [
+    "United Airlines",
+    "系统故障",
+    "航班延误",
+    "FAA",
+    "航空运输"
+  ],
+  "entities": [
+    "United Airlines"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-16T23:42:00.000Z",
+  "fetchedAt": "2026-11-17T04:43:26.520Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7cc15d0beba7d5f3",
+  "status": "published"
+}

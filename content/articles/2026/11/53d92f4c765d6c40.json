@@ -1,0 +1,36 @@
+{
+  "id": "53d92f4c765d6c40",
+  "slug": "gpt-6-2-astra-sol-3d",
+  "titleZh": "GPT-6.2 Astra和Sol王炸双发 3D又危了",
+  "titleOriginal": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+  "summary": "Sol 逼近旗舰性能，GPT-6.2 与 Astra 双双发布。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "GPT-6.2 与 Astra 双发布",
+    "Sol 性能逼近旗舰",
+    "3D 领域竞争加剧"
+  ],
+  "category": "ai",
+  "tags": [
+    "GPT-6.2",
+    "Astra",
+    "Sol",
+    "AI模型",
+    "3D"
+  ],
+  "entities": [
+    "GPT",
+    "Astra",
+    "Sol"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510707.html",
+  "publishedAt": "2026-11-18T00:49:14.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "64bb8fecf8931e00",
+  "status": "published"
+}

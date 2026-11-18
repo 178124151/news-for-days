@@ -1,0 +1,35 @@
+{
+  "id": "390d7d477c0ac72e",
+  "slug": "8-k-antares-private-credit-fund-0001976336-filer",
+  "titleZh": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
+  "titleOriginal": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
+  "summary": "Filed: 2026-11-17 AccNo: 0001104659-26-129163 Size: 487 KB Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security …",
+  "keyPoints": [
+    "Filed: 2026-11-17 AccNo: 0001104659-26-…",
+    "8-K - Antares Private Credit Fund (0001…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Antares Private Credit",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Antares Private Credit",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1976336/000110465926129163/0001104659-26-129163-index.htm",
+  "publishedAt": "2026-11-17T22:25:25.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 72,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "a79a0810d9f4f7e7",
+  "status": "published"
+}

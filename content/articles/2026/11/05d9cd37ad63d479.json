@@ -1,0 +1,36 @@
+{
+  "id": "05d9cd37ad63d479",
+  "slug": "coreweave-x2019-s-stock-pops-x2014-even-as-nvidia-talks-up-a",
+  "titleZh": "CoreWeave股价上涨 Nvidia 谈融资纪律",
+  "titleOriginal": "CoreWeave&#x2019;s stock pops &#x2014; even as Nvidia talks up a &#x2018;disciplined&#x2019; approach to financing",
+  "summary": "Nvidia 临时CEO Colette Kress 表示 neoclouds 日益重要，但将严检帮助融资的客户。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Kress 强调 neoclouds 重要性",
+    "Nvidia 将审视帮助融资的客户",
+    "股价上涨但融资态度谨慎"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "融资",
+    "neoclouds",
+    "股价",
+    "财报"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "CoreWeave"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-18T01:59:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "38323fc82e74c3ab",
+  "status": "published"
+}

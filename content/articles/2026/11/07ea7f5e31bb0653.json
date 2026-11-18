@@ -1,0 +1,32 @@
+{
+  "id": "07ea7f5e31bb0653",
+  "slug": "amd",
+  "titleZh": "李飞飞加入 AMD",
+  "titleOriginal": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+  "summary": "并购完成，李飞飞正式率队加入 AMD，耗资 82 亿美元，交割仅用 46 天。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "并购完成",
+    "李飞飞加入 AMD",
+    "交割仅用 46 天"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "并购",
+    "人才引进"
+  ],
+  "entities": [
+    "AMD"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510695.html",
+  "publishedAt": "2026-11-17T14:15:20.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b2713c7171cc7f40",
+  "status": "published"
+}

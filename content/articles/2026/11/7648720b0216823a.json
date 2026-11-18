@@ -1,0 +1,37 @@
+{
+  "id": "7648720b0216823a",
+  "slug": "nvidia-is-abandoning-china-after-jensen-huangs-ouster",
+  "titleZh": "Nvidia 停止向中国销售芯片",
+  "titleOriginal": "Nvidia is abandoning China after Jensen Huang’s ouster",
+  "summary": "Nvidia 临时 CEO 表示公司已不再向中国销售芯片。文章询问该决定将给公司带来多大成本影响。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia 临时 CEO 确认停止向中国销售芯片",
+    "文章分析该决定的潜在成本影响",
+    "涉及 Nvidia 中国业务的政策或市场变化"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "芯片出口",
+    "中国市场",
+    "临时 CEO",
+    "科技政策"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "China",
+    "Jensen Huang"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+  "publishedAt": "2026-11-17T23:37:48.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3f28910cacbedeef",
+  "status": "published"
+}

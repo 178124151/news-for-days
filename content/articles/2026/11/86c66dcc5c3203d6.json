@@ -1,0 +1,33 @@
+{
+  "id": "86c66dcc5c3203d6",
+  "slug": "8-k-gridai-technologies-corp-0001604191-filer",
+  "titleZh": "GridAI Technologies 8-K 文件",
+  "titleOriginal": "8-K - GridAI Technologies Corp. (0001604191) (Filer)",
+  "summary": "公司于 2026-11-17 提交 8-K，涉及重大协议、资产收购、非注册股权发行、高管变动、章程修订及财务报表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提交 8-K 文件",
+    "涉及多项重大事项",
+    "包括高管变动与财务报表"
+  ],
+  "category": "policy",
+  "tags": [
+    "政策",
+    "SEC",
+    "公司公告"
+  ],
+  "entities": [
+    "GridAI Technologies Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604191/000110465926129167/0001104659-26-129167-index.htm",
+  "publishedAt": "2026-11-17T22:29:47.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4fc301e754b241c7",
+  "status": "published"
+}

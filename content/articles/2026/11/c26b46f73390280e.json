@@ -1,0 +1,34 @@
+{
+  "id": "c26b46f73390280e",
+  "slug": "chase-home-lending-ceo-says-he-plans-to-go-on-offense-agains",
+  "titleZh": "Chase住贷CEO计划对非银行贷款机构'进攻'",
+  "titleOriginal": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+  "summary": "Sean Grzebin作为美国最大的银行抵押贷款机构负责人，计划扩大招聘并增加市场份额以对抗非银行竞争对手。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "计划扩大招聘人员",
+    "意图增加市场份额",
+    "针对非银行贷款机构展开竞争"
+  ],
+  "category": "finance",
+  "tags": [
+    "抵押贷款",
+    "市场份额",
+    "竞争",
+    "银行业",
+    "招聘"
+  ],
+  "entities": [
+    "Chase Home Lending"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
+  "publishedAt": "2026-11-17T18:06:18.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "47e56cbce815fc61",
+  "status": "published"
+}

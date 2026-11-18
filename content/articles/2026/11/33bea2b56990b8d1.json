@@ -1,0 +1,34 @@
+{
+  "id": "33bea2b56990b8d1",
+  "slug": "medicare-part-b-premiums-rise-due-higher-healthcare-spending",
+  "titleZh": "Medicare Part B 费用上调至每月209.40美元",
+  "titleOriginal": "Medicare Part B premiums rise due higher healthcare spending",
+  "summary": "Medicare Part B 费用因医疗支出上升调整，每月增加6.50美元至209.40美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Part B 费用上调6.50美元",
+    "调整至每月209.40美元",
+    "基于医疗支出上升"
+  ],
+  "category": "finance",
+  "tags": [
+    "Medicare",
+    "医疗费用",
+    "Part B",
+    "医疗支出",
+    "费用调整"
+  ],
+  "entities": [
+    "Medicare Part B"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-18T01:45:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f2f8912eaab43402",
+  "status": "published"
+}

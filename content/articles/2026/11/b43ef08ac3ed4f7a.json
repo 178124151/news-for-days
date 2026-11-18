@@ -1,0 +1,35 @@
+{
+  "id": "b43ef08ac3ed4f7a",
+  "slug": "astra-for-law-leads-in-legal-intelligence",
+  "titleZh": "Astra for Law leads in legal intelligence",
+  "titleOriginal": "Astra for Law leads in legal intelligence",
+  "summary": "Astra for Law在涵盖24个法律领域的评估中排名第一。每位ChatGPT Enterprise客户均可申请访问。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Astra for Law在法律智能评估中排名第一",
+    "覆盖24个法律领域",
+    "ChatGPT Enterprise客户可申请访问"
+  ],
+  "category": "ai",
+  "tags": [
+    "Astra for Law",
+    "法律智能",
+    "法律领域",
+    "ChatGPT Enterprise",
+    "排名"
+  ],
+  "entities": [
+    "Astra",
+    "Law"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/astra-law-6-2",
+  "publishedAt": "2026-11-17T00:00:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4fd7c575eaabb07f",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0e7f690aa4ff229b",
+  "slug": "strengthening-nato-and-allied-cyber-defenses-with-ai",
+  "titleZh": "Strengthening NATO and allied cyber defenses with AI",
+  "titleOriginal": "Strengthening NATO and allied cyber defenses with AI",
+  "summary": "OpenAI与NATO及盟友网络安全机构合作，帮助可信防御者寻找漏洞、测试修复并保护关键系统。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI与NATO合作加强网络防御",
+    "帮助防御者寻找漏洞并测试修复",
+    "保护关键系统安全"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "网络安全",
+    "NATO",
+    "AI防御",
+    "关键基础设施"
+  ],
+  "entities": [
+    "Strengthening NATO",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "publishedAt": "2026-11-17T00:00:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dc8dfc0196640045",
+  "status": "published"
+}

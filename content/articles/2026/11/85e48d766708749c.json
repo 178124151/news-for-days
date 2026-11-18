@@ -1,0 +1,35 @@
+{
+  "id": "85e48d766708749c",
+  "slug": "ai-robofinals-rl-envs",
+  "titleZh": "光轮智能推出RoboFinals RL Envs",
+  "titleOriginal": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+  "summary": "光轮智能推出RoboFinals RL Envs，旨在作为物理AI强化学习的仿真环境。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "光轮智能推出RoboFinals RL Envs",
+    "作为物理AI强化学习仿真环境",
+    "旨在提升物理AI训练能力"
+  ],
+  "category": "ai",
+  "tags": [
+    "物理AI",
+    "强化学习",
+    "仿真环境",
+    "光轮智能",
+    "机器人"
+  ],
+  "entities": [
+    "AI",
+    "RoboFinals RL Envs"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
+  "publishedAt": "2026-11-17T02:03:22.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 70,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a5708212ac92ad74",
+  "status": "published"
+}

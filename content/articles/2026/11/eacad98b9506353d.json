@@ -1,0 +1,37 @@
+{
+  "id": "eacad98b9506353d",
+  "slug": "chinas-xi-calls-for-removing-trade-and-investment-barriers-a",
+  "titleZh": "习近平呼吁降低贸易投资壁垒",
+  "titleOriginal": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+  "summary": "习近平在深圳APEC峰会开幕式上呼吁降低贸易和投资壁垒，承诺扩大对中国市场和制造业的准入。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "在APEC峰会呼吁降低壁垒",
+    "承诺扩大市场准入",
+    "涉及贸易和投资政策"
+  ],
+  "category": "finance",
+  "tags": [
+    "贸易壁垒",
+    "投资",
+    "APEC",
+    "中国市场",
+    "政策呼吁"
+  ],
+  "entities": [
+    "China",
+    "Xi",
+    "Trump",
+    "Putin"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+  "publishedAt": "2026-11-18T03:30:51.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a5e50a98edb0933a",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2977446003b03435",
+  "slug": "2977446003b03435",
+  "titleZh": "耀速科技完成数千万元战略融资",
+  "titleOriginal": "“耀速科技”完成新一轮数千万元战略融资",
+  "summary": "36氪获悉，近日，‘耀速科技’（Xellar）宣布完成新一轮数千万元战略融资，获得上海国投先导和石药国方基金等支持。本轮融资将重点用于 3D Bio Intelligence 平台建设，深化器官芯片、AI 与自动化实验技术融合，加速人源化生物数据积累和 AI 模型能力建设。",
+  "keyPoints": [
+    "耀速科技完成数千万元战略融资",
+    "融资将用于 3D Bio Intelligence 平台建设",
+    "聚焦器官芯片、AI 与自动化技术融合"
+  ],
+  "category": "tech",
+  "tags": [
+    "耀速科技",
+    "战略融资",
+    "3D 生物智能",
+    "器官芯片",
+    "AI 模型"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4074671426442376?f=rss",
+  "publishedAt": "2026-11-18T02:50:07.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e4eb50b93a852fe6",
+  "status": "published"
+}

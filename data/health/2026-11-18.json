@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-18",
+  "startedAt": "2026-11-18T03:47:45.066Z",
+  "finishedAt": "2026-11-18T03:48:07.579Z",
+  "durationMs": 22513,
+  "fetched": 286,
+  "published": 28,
+  "sources": [
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "ok": true,
+      "count": 20,
+      "ms": 117
+    },
+    {
+      "id": "theverge",
+      "name": "The Verge",
+      "ok": true,
+      "count": 10,
+      "ms": 82
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "ok": true,
+      "count": 20,
+      "ms": 150
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "ok": true,
+      "count": 20,
+      "ms": 243
+    },
+    {
+      "id": "mittr",
+      "name": "MIT Technology Review",
+      "ok": true,
+      "count": 10,
+      "ms": 159
+    },
+    {
+      "id": "36kr",
+      "name": "36氪",
+      "ok": true,
+      "count": 30,
+      "ms": 1969
+    },
+    {
+      "id": "infoq-cn",
+      "name": "InfoQ 中文",
+      "ok": false,
+      "count": 0,
+      "ms": 1605,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "techmeme",
+      "name": "Techmeme",
+      "ok": true,
+      "count": 15,
+      "ms": 703
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI News",
+      "ok": true,
+      "count": 38,
+      "ms": 425
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI Blog",
+      "ok": true,
+      "count": 9,
+      "ms": 687
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "ok": false,
+      "count": 0,
+      "ms": 478,
+      "error": "readTagExp returned undefined at position 17244. Context: \"`��o&$l�*�P�\u0018\u0015B�\u0010̙����]OG?:\u0012��\fL��N\u0006ODG^��K�]h\by'><͓ۍ�8.�ۄ2��"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "ok": true,
+      "count": 11,
+      "ms": 143
+    },
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv cs.AI",
+      "ok": true,
+      "count": 8,
+      "ms": 122
+    },
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "ok": true,
+      "count": 0,
+      "ms": 1393
+    },
+    {
+      "id": "qbitai",
+      "name": "量子位",
+      "ok": true,
+      "count": 10,
+      "ms": 1362
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC Markets",
+      "ok": true,
+      "count": 30,
+      "ms": 502
+    },
+    {
+      "id": "marketwatch",
+      "name": "MarketWatch",
+      "ok": true,
+      "count": 10,
+      "ms": 424
+    },
+    {
+      "id": "ftchinese",
+      "name": "FT中文网",
+      "ok": true,
+      "count": 20,
+      "ms": 765
+    },
+    {
+      "id": "sec-edgar",
+      "name": "SEC EDGAR 8-K",
+      "ok": true,
+      "count": 20,
+      "ms": 434
+    },
+    {
+      "id": "federalreserve",
+      "name": "美联储",
+      "ok": true,
+      "count": 5,
+      "ms": 47
+    }
+  ],
+  "ai": {
+    "nvidia": 27,
+    "extractive": 1
+  }
+}

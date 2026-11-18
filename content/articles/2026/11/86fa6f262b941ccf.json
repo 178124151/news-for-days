@@ -1,0 +1,34 @@
+{
+  "id": "86fa6f262b941ccf",
+  "slug": "8-k-inhibrx-biosciences-inc-0002007919-filer",
+  "titleZh": "Inhibrx Biosciences 8-K 文件",
+  "titleOriginal": "8-K - Inhibrx Biosciences, Inc. (0002007919) (Filer)",
+  "summary": "公司于 2026-11-17 提交 8-K，包含其他事项及财务报表和展品。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提交 8-K 文件",
+    "包含其他事项",
+    "披露财务报表"
+  ],
+  "category": "policy",
+  "tags": [
+    "政策",
+    "SEC",
+    "生物科技"
+  ],
+  "entities": [
+    "Inhibrx Biosciences",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000063/0002007919-26-000063-index.htm",
+  "publishedAt": "2026-11-17T22:29:41.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ff75e4ca6c5f68d1",
+  "status": "published"
+}

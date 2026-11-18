@@ -1,0 +1,32 @@
+{
+  "id": "886a385b7f0996a2",
+  "slug": "886a385b7f0996a2",
+  "titleZh": "黄仁勋不再沉默：我愿重掌英伟达 董事会：不考虑",
+  "titleOriginal": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+  "summary": "英伟达发布老黄离职后首份财报，董事会明确表示不考虑其回任。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋表达重掌英伟达意愿",
+    "董事会不考虑其回任",
+    "发布离职后首份财报"
+  ],
+  "category": "ai",
+  "tags": [
+    "黄仁勋",
+    "英伟达",
+    "财报",
+    "董事会",
+    "回任"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510726.html",
+  "publishedAt": "2026-11-18T01:03:42.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "16de85aa1219bb47",
+  "status": "published"
+}

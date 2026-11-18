@@ -1,0 +1,34 @@
+{
+  "id": "3047d7657748ea76",
+  "slug": "introducing-chatgpt-for-sales",
+  "titleZh": "ChatGPT 推出销售插件",
+  "titleOriginal": "Introducing ChatGPT for Sales",
+  "summary": "OpenAI 推出 Sales 插件及 30 多款新增/扩展合作伙伴插件，助力研究客户、准备演示、更新 CRM 并推进交易。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "推出 Sales 插件",
+    "提供 30 多款新合作伙伴插件",
+    "功能涵盖客户研究到交易推进"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "OpenAI",
+    "销售工具"
+  ],
+  "entities": [
+    "ChatGPT",
+    "Introducing ChatGPT",
+    "Sales"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "publishedAt": "2026-11-17T08:00:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "883f75f3de9b180a",
+  "status": "published"
+}

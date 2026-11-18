@@ -1,0 +1,34 @@
+{
+  "id": "72133d0ee224e27c",
+  "slug": "tech-outages-disrupting-everything-from-air-travel-to-bankin",
+  "titleZh": "连日科技中断引发公众对基础设施的不信任",
+  "titleOriginal": "Tech outages disrupting everything from air travel to banking transactions over the past week have fueled public distrust and paranoia about tech infrastructure (Bloomberg)",
+  "summary": "过去一周的科技中断事件影响从航班到银行交易，引发了公众对科技基础设施的不信任和猜疑。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "连日科技中断影响航班和银行业务",
+    "引发公众对科技基础设施的担忧",
+    "事件涉及美国航空与银行系统"
+  ],
+  "category": "tech",
+  "tags": [
+    "科技中断",
+    "基础设施",
+    "公众信任",
+    "系统故障"
+  ],
+  "entities": [
+    "Tech",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261117/p65#a261117p65",
+  "publishedAt": "2026-11-18T00:55:03.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "077c2c0da2d12bd2",
+  "status": "published"
+}

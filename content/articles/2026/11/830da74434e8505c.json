@@ -1,0 +1,33 @@
+{
+  "id": "830da74434e8505c",
+  "slug": "put-gemini-to-work-for-you",
+  "titleZh": "Gemini 现已免费在六国使用",
+  "titleOriginal": "Put Gemini to work for you",
+  "summary": "Gemini 任务现免费，新功能在美国上线，并加深 Google Workspace 集成。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Gemini 任务功能免费开放",
+    "新功能在美国地区上线",
+    "Google Workspace 集成深化"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "Google",
+    "产品更新"
+  ],
+  "entities": [
+    "Gemini",
+    "Put Gemini"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "publishedAt": "2026-11-17T17:00:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1ec94c5259d690bd",
+  "status": "published"
+}

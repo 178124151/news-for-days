@@ -1,0 +1,36 @@
+{
+  "id": "b720926960fefdbf",
+  "slug": "after-two-months-of-testimony-the-us-criminal-trial-against-",
+  "titleZh": "华人刑审案将进入陪审团 deliberations",
+  "titleOriginal": "After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday (Karen Freifeld/Reuters)",
+  "summary": "美国对华为提起的刑事审判，涉及银行欺诈和盗取商业机密，已进入陪审团审议阶段。此前两个月已完成庭审证据陈述。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "华为刑事审判进入陪审团 deliberations",
+    "案件涉及银行欺诈和商业机密盗窃指控",
+    "辩护方曾指控检方施加\"罪恶色彩\""
+  ],
+  "category": "tech",
+  "tags": [
+    "华为",
+    "刑事审判",
+    "贸易秘密",
+    "美国法律"
+  ],
+  "entities": [
+    "US",
+    "Huawei",
+    "Karen Freifeld",
+    "Reuters"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261117/p68#a261117p68",
+  "publishedAt": "2026-11-18T02:45:01.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e8cbe52a543bcaf3",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6c4c89f6286160f0",
+  "slug": "nvidia-x2019-s-stock-rises-as-blowout-numbers-help-ease-ceo-",
+  "titleZh": "Nvidia股价上涨 财报吹风 easing CEO过渡恐惧",
+  "titleOriginal": "Nvidia&#x2019;s stock rises as blowout numbers help ease CEO transition fears",
+  "summary": "Nvidia 财报显示营收增长和1300亿美元季度预测，芯片需求依然高企。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "财报显示营收增长",
+    "季度预测1300亿美元",
+    "芯片需求保持高位"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "财报",
+    "营收",
+    "芯片需求",
+    "股价"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "CEO"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-18T01:28:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b5b3570e937769dc",
+  "status": "published"
+}

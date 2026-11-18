@@ -1,0 +1,35 @@
+{
+  "id": "adf8698240994545",
+  "slug": "widespread-outages-hit-banks-air-travel-the-nsa-and-apple-di",
+  "titleZh": "广泛中断暴露互联科技风险",
+  "titleOriginal": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+  "summary": "主要中断事件暴露了AI时代互联科技的风险。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "广泛科技中断暴露互联风险",
+    "事件影响银行、航班、NSA及Apple",
+    "折射AI时代技术相互依存的脆弱性"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技中断",
+    "AI风险",
+    "系统互联",
+    "银行与航班"
+  ],
+  "entities": [
+    "Apple",
+    "Widespread",
+    "NSA"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+  "publishedAt": "2026-11-17T22:03:57.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f754f86bcd01e89a",
+  "status": "published"
+}

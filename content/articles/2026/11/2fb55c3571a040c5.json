@@ -1,0 +1,34 @@
+{
+  "id": "2fb55c3571a040c5",
+  "slug": "model-ml-raises-250m-to-automate-investment-banking-grunt-wo",
+  "titleZh": "Model ML 筹集 2.5 亿美元自动化投资银行基础工作",
+  "titleOriginal": "Model ML raises $250M to automate investment banking grunt work",
+  "summary": "TechCrunch 报道，该初创公司称其代理人能理解银行家和顾问正在从事交易的全上下文，并在新发展影响其分析时自动更新财务模型和演示文稿。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Model ML 代理人理解交易全上下文",
+    "可自动更新财务模型和演示文稿",
+    "旨在自动化投资银行基础工作"
+  ],
+  "category": "tech",
+  "tags": [
+    "Model ML",
+    "投资银行",
+    "自动化",
+    "财务模型",
+    "TechCrunch"
+  ],
+  "entities": [
+    "Model ML"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+  "publishedAt": "2026-11-17T19:32:11.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f9138c55827b9b5c",
+  "status": "published"
+}

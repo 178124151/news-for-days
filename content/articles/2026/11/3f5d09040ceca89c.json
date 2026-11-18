@@ -1,0 +1,35 @@
+{
+  "id": "3f5d09040ceca89c",
+  "slug": "ai-5000-pre-a",
+  "titleZh": "柏川数据完成 5000万元 Pre-A 轮融资",
+  "titleOriginal": "物理AI数据基座服务商“柏川数据”完成5000元 Pre-A轮融资",
+  "summary": "36氪获悉，物理 AI 数据基座服务商‘柏川数据’（ByteTree）完成 5000万元 Pre-A 轮融资，投资方包括元禾厚望、毅峰资本及星海图等。资金将用于物理 AI 数据管线建设、具身智能算法研发、高质量数据集构建及特殊场景机器人研发。",
+  "keyPoints": [
+    "柏川数据完成 5000万元 Pre-A 轮融资",
+    "聚焦物理 AI 数据基座和具身智能",
+    "投资方包括元禾厚望、毅峰资本等"
+  ],
+  "category": "tech",
+  "tags": [
+    "柏川数据",
+    "物理 AI",
+    "Pre-A 轮",
+    "具身智能",
+    "数据基座"
+  ],
+  "entities": [
+    "AI",
+    "Pre A"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4074640638628998?f=rss",
+  "publishedAt": "2026-11-18T02:18:48.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "2579c0f4ffab8215",
+  "status": "published"
+}

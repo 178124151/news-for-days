@@ -1,0 +1,37 @@
+{
+  "id": "8f6af8c44a4a1bfb",
+  "slug": "introducing-gpt-6-2-astra-and-sol",
+  "titleZh": "OpenAI介绍GPT-6.2 Astra和Sol",
+  "titleOriginal": "Introducing GPT-6.2 Astra and Sol",
+  "summary": "OpenAI发布GPT-6.2 Astra和Sol，在专业输出、编程、电脑使用及效率方面有所提升，且成本更低，适用于ChatGPT Work、Codex及API。",
+  "keyPoints": [
+    "在专业输出和编程方面提升",
+    "成本更低且效率提升",
+    "覆盖ChatGPT Work、Codex及API"
+  ],
+  "category": "ai",
+  "tags": [
+    "GPT-6.2",
+    "AI模型",
+    "编程",
+    "成本降低",
+    "效率提升"
+  ],
+  "entities": [
+    "GPT",
+    "Introducing GPT",
+    "Astra",
+    "Sol"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "publishedAt": "2026-11-17T17:45:00.000Z",
+  "fetchedAt": "2026-11-18T03:48:07.575Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d01e56dfa4e62cb1",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "3ff77c2a41346945",
+  "slug": "minutes-of-the-federal-open-market-committee-october-27-28-2",
+  "titleZh": "联邦公开市场委员会 2026 年 10 月 27-28 日会议纪要",
+  "titleOriginal": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "summary": "发布了 2026 年 10 月 27-28 日联邦公开市场委员会会议纪要。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "2026年10月联邦公开市场委员会会议纪要发布",
+    "涉及货币政策与经济展望相关内容",
+    "具体政策细节待解读分析"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "政策",
+    "金融",
+    "经济",
+    "会议纪要"
+  ],
+  "entities": [
+    "Minutes",
+    "Federal Open Market",
+    "October"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+  "publishedAt": "2026-11-18T19:00:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "eff9aa29e02edadb",
+  "status": "published"
+}

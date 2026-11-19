@@ -1,0 +1,35 @@
+{
+  "id": "55443fdbf2907473",
+  "slug": "palo-alto-networks-to-acquire-applied-compute-for-4-5b",
+  "titleZh": "Palo Alto Networks 以 4.5 亿美元收购 Applied Compute",
+  "titleOriginal": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+  "summary": "Palo Alto Networks 宣布以 4.5 亿美元收购 Applied Compute，旨在将安全开发与计算能力相结合。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "以 4.5 亿美元收购 Applied Compute",
+    "旨在整合安全开发与计算能力",
+    "交易金额为 4.5 亿美元"
+  ],
+  "category": "tech",
+  "tags": [
+    "Palo Alto Networks",
+    "收购",
+    "Applied Compute",
+    "网络安全",
+    "并购"
+  ],
+  "entities": [
+    "Palo Alto Networks",
+    "Acquire Applied Compute"
+  ],
+  "sourceId": "hackernews",
+  "sourceName": "Hacker News",
+  "sourceUrl": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+  "publishedAt": "2026-11-18T23:49:13.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fc32e101f573d542",
+  "status": "published"
+}

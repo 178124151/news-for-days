@@ -1,0 +1,35 @@
+{
+  "id": "55fa77899e514f62",
+  "slug": "musk-says-jensen-huang-is-irreplaceable-regrets-midterm-spen",
+  "titleZh": "马斯克称黄仁勋不可替代并遗憾中期支出",
+  "titleOriginal": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+  "summary": "马斯克在Dealbook峰会上谈及黄仁勋、美国中期选举支出以及SpaceX与Tesla的重叠问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "马斯克称黄仁勋不可替代",
+    "马斯克对中期选举支出表示遗憾",
+    "讨论了SpaceX与Tesla的业务重叠"
+  ],
+  "category": "finance",
+  "tags": [
+    "马斯克",
+    "黄仁勋",
+    "Dealbook峰会",
+    "政治支出",
+    "科技行业"
+  ],
+  "entities": [
+    "Musk",
+    "Jensen Huang"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+  "publishedAt": "2026-11-19T02:49:35.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c5b6390cb69269c4",
+  "status": "published"
+}

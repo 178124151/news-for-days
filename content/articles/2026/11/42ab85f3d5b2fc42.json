@@ -1,0 +1,35 @@
+{
+  "id": "42ab85f3d5b2fc42",
+  "slug": "more-banks-say-customers-using-ai-agents-are-on-their-own-ev",
+  "titleZh": "多家银行称 AI 代理用户自行承担风险",
+  "titleOriginal": "More banks say customers using AI agents are on their own — even if they get hacked",
+  "summary": "Citi 作为最新主要金融机构，暂停个人理财 AI 代理服务。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Citi 暂停个人理财 AI 代理服务",
+    "客户使用 AI 代理自行承担风险",
+    "即使用户被黑客攻击也无法获得赔偿"
+  ],
+  "category": "tech",
+  "tags": [
+    "银行",
+    "AI 代理",
+    "网络安全",
+    "个人理财",
+    "Citi"
+  ],
+  "entities": [
+    "More",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+  "publishedAt": "2026-11-18T17:32:10.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0977a9de674846b6",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e55c8f2df06c07ff",
+  "slug": "why-your-fine-tuning-job-takes-longer-than-the-flops-say",
+  "titleZh": "为什么你的微调任务比 FLOPs 说的要慢",
+  "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
+  "summary": "Hugging Face 探讨导致微调任务实际耗时超出 FLOPs 预估的原因。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "分析微调任务耗时原因",
+    "实际耗时超出 FLOPs 预估",
+    "探讨训练效率问题"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "模型微调",
+    "训练效率",
+    "FLOPs",
+    "性能分析"
+  ],
+  "entities": [
+    "FLOPs"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "publishedAt": "2026-11-18T18:53:43.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "2f1c92a29740cb1f",
+  "status": "published"
+}

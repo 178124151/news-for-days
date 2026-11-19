@@ -1,0 +1,36 @@
+{
+  "id": "0191a8cf5007a7e3",
+  "slug": "the-gemini-app-is-now-available-on-lower-memory-android-devi",
+  "titleZh": "Gemini 现已支持低内存 Android 设备",
+  "titleOriginal": "The Gemini app is now available on lower-memory Android devices.",
+  "summary": "Google Gemini 应用现支持低内存 Android 设备，用户可在手机上访问 Gemini Live 和自定义图像创建功能。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Gemini 应用现支持低内存 Android 设备",
+    "用户可访问 Gemini Live 功能",
+    "支持自定义图像创建"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI应用",
+    "Android",
+    "Google",
+    "移动端",
+    "Gemini"
+  ],
+  "entities": [
+    "Android",
+    "Gemini",
+    "The Gemini"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "publishedAt": "2026-11-18T17:00:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "deedca82d4f9c1a3",
+  "status": "published"
+}

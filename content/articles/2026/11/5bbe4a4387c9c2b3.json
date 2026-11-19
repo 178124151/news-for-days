@@ -1,0 +1,36 @@
+{
+  "id": "5bbe4a4387c9c2b3",
+  "slug": "anthropic-ipo-raises-over-81-billion-in-largest-offering-on-",
+  "titleZh": "Anthropic IPO募资81亿美元，创下记录超越SpaceX",
+  "titleOriginal": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+  "summary": "Anthropic股票将于周四在纳斯达克交易，代号ANT。该公司IPO募资81亿美元，成为有史以来最大规模offering，超越SpaceX。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic IPO募资81亿美元",
+    "成为有史以来最大规模offering",
+    "股票将在纳斯达克交易"
+  ],
+  "category": "finance",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "纳斯达克",
+    "融资",
+    "科技股"
+  ],
+  "entities": [
+    "Anthropic",
+    "SpaceX",
+    "Anthropic IPO"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+  "publishedAt": "2026-11-19T01:13:20.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b3183342a93f425e",
+  "status": "published"
+}

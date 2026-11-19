@@ -1,0 +1,35 @@
+{
+  "id": "67952d9a918d2536",
+  "slug": "inside-the-codex-sandbox",
+  "titleZh": "Inside the Codex sandbox",
+  "titleOriginal": "Inside the Codex sandbox",
+  "summary": "查看 Codex 如何在 macOS、Linux 和 Windows 上执行命令，同时受到您控制的文件系统和网络限制。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Codex 可在 macOS、Linux 和 Windows 上执行命令",
+    "受用户控制的文件系统和网络限制约束",
+    "展示了开发环境的安全沙箱功能"
+  ],
+  "category": "ai",
+  "tags": [
+    "Codex",
+    "开发工具",
+    "编程",
+    "安全沙箱",
+    "多平台"
+  ],
+  "entities": [
+    "Inside",
+    "Codex"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "734529115bbfc7a8",
+  "status": "published"
+}

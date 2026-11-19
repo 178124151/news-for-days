@@ -1,0 +1,36 @@
+{
+  "id": "2c2a81a367af3c0b",
+  "slug": "jensen-huang-has-agreed-to-appear-before-senate-banking-comm",
+  "titleZh": "黄仁勋将出席参议院银行委员会",
+  "titleOriginal": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+  "summary": "参议院银行委员会主席斯科特表示，黄仁勋已同意出席该委员会听证会，此前已宣布将出席众议院相关小组。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁募同意出席参议院银行委员会",
+    "此前已宣布出席众议院小组听证",
+    "参议院银行委员会主席斯科特透露相关信息"
+  ],
+  "category": "finance",
+  "tags": [
+    "黄仁勋",
+    "参议院",
+    "银行委员会",
+    "政治",
+    "财经"
+  ],
+  "entities": [
+    "Jensen Huang",
+    "Senate",
+    "Chairman Scott"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+  "publishedAt": "2026-11-18T17:50:37.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7f6c30fb111d01ce",
+  "status": "published"
+}

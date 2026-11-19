@@ -1,0 +1,35 @@
+{
+  "id": "8a20f263b724fa8c",
+  "slug": "palo-alto-networks-x2019-stock-gets-a-fresh-ai-fueled-boost-",
+  "titleZh": "Palo Alto Networks 股价获 AI 驱动业绩提振",
+  "titleOriginal": "Palo Alto Networks&#x2019; stock gets a fresh AI-fueled boost from earnings",
+  "summary": "公司因当前威胁环境及前景需求上调业绩预期。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "基于业绩预期上调提振股价",
+    "受 AI 相关需求驱动",
+    "面对当前威胁环境调整策略"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技",
+    "网络安全",
+    "业绩",
+    "AI",
+    "股市"
+  ],
+  "entities": [
+    "Palo Alto Networks",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-19T01:02:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "62950adfb2a5e0b8",
+  "status": "published"
+}

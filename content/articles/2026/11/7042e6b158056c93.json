@@ -1,0 +1,35 @@
+{
+  "id": "7042e6b158056c93",
+  "slug": "amd-genesis-a-230",
+  "titleZh": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+  "titleOriginal": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+  "summary": "具身全栈玩家 Genesis 完成 A 轮融资，估值超 230 亿元，英伟达和 AMD 等公司首次联手押注。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Genesis 完成 A 轮融资，估值超 230 亿元",
+    "英伟达和 AMD 等公司首次联手投资",
+    "具身全栈玩家在融资中受关注"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI融资",
+    "Genesis",
+    "英伟达",
+    "AMD",
+    "具身智能"
+  ],
+  "entities": [
+    "AMD",
+    "Genesis"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/510821.html",
+  "publishedAt": "2026-11-18T04:28:57.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5b686dbfadebd5d3",
+  "status": "published"
+}

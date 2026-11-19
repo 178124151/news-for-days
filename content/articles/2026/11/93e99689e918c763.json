@@ -1,0 +1,34 @@
+{
+  "id": "93e99689e918c763",
+  "slug": "2-ai-36",
+  "titleZh": "镁伽科技完成近2亿美元融资，建设AI原生科学发现平台",
+  "titleOriginal": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+  "summary": "镁伽科技完成近2亿美元融资，阿曼投资局等参投。公司聚焦AI for Science，建设镁伽鲲鹏实验室作为AI原生科学发现与验证平台，实现从实验设计到数据生产的闭环，已服务超500家客户。",
+  "keyPoints": [
+    "完成近2亿美元融资",
+    "建设镁伽鲲鹏实验室作为AI原生平台",
+    "服务超500家客户覆盖药企及科研机构"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI for Science",
+    "融资",
+    "镁伽鲲鹏实验室",
+    "科学智能",
+    "工业智能"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4075322592187524?f=rss",
+  "publishedAt": "2026-11-19T00:30:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 92,
+  "readMinutes": 3,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c7796aecb87c0d2c",
+  "status": "published"
+}

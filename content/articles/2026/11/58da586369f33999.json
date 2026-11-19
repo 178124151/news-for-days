@@ -1,0 +1,34 @@
+{
+  "id": "58da586369f33999",
+  "slug": "research-acceleration-the-jagged-frontier",
+  "titleZh": "OpenAI 研究加速：AI 研究的锯齿状前沿",
+  "titleOriginal": "Research acceleration: The jagged frontier",
+  "summary": "OpenAI 测量 AI 代码代理如何加速 AI 研究，其性能尚不均匀，这也暗示了关于递归自我改进的信号。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI 代理加速 AI 研究",
+    "性能表现不均匀",
+    "涉及递归自我改进信号"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "AI研究",
+    "代理",
+    "性能",
+    "递归改进"
+  ],
+  "entities": [
+    "Research"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "df9fec6273c68c7c",
+  "status": "published"
+}

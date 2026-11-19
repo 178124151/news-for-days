@@ -1,0 +1,36 @@
+{
+  "id": "278cdf6eddb32478",
+  "slug": "parasite-backer-and-other-south-korean-media-gaming-and-trav",
+  "titleZh": "韩媒游戏旅游股因中国交易协议上涨",
+  "titleOriginal": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+  "summary": "韩媒、游戏及旅游股因中国贸易协议希望获得更大准入而上涨。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "韩媒游戏旅游股因中国交易协议上涨",
+    "基于更大中国市场准入的预期",
+    "股价受中国相关利好消息提振"
+  ],
+  "category": "finance",
+  "tags": [
+    "韩国股市",
+    "中国贸易",
+    "游戏板块",
+    "旅游板块",
+    "资产价格"
+  ],
+  "entities": [
+    "Parasite",
+    "South Korean",
+    "China"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+  "publishedAt": "2026-11-19T03:43:38.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "39970e78c338d684",
+  "status": "published"
+}

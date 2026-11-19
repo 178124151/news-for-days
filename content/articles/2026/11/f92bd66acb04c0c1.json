@@ -1,0 +1,35 @@
+{
+  "id": "f92bd66acb04c0c1",
+  "slug": "8-k-ares-core-infrastructure-fund-0002031750-filer",
+  "titleZh": "Ares核心基础设施基金提交材料",
+  "titleOriginal": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
+  "summary": "Ares Core Infrastructure Fund于2026年11月18日提交8-K文件，涉及非注册股权发行和其他事项。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Ares Core Infrastructure Fund提交8-K文件",
+    "涉及非注册股权发行事项",
+    "提交时间为2026年11月18日"
+  ],
+  "category": "policy",
+  "tags": [
+    "Ares基金",
+    "8-K文件",
+    "股权发行",
+    "投资",
+    "政策"
+  ],
+  "entities": [
+    "Ares Core Infrastructure",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2031750/000162828026074862/0001628280-26-074862-index.htm",
+  "publishedAt": "2026-11-18T22:00:16.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c93e4fc51cf29387",
+  "status": "published"
+}

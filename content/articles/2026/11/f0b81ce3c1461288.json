@@ -1,0 +1,37 @@
+{
+  "id": "f0b81ce3c1461288",
+  "slug": "daisyrose-27b-pushing-the-frontier-of-post-training-efficien",
+  "titleZh": "DaisyRose-27B 推动后训练效率前沿",
+  "titleOriginal": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "summary": "Hugging Face 发布 DaisyRose-27B 模型，专注于推动后训练效率的前沿研究。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布 DaisyRose-27B 模型",
+    "聚焦后训练效率",
+    "推动模型效率前沿"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "模型效率",
+    "后训练",
+    "开源",
+    "DaisyRose"
+  ],
+  "entities": [
+    "DaisyRose",
+    "Pushing",
+    "Frontier",
+    "Post Training Efficiency"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "publishedAt": "2026-11-18T19:54:56.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a079078506f8ab8f",
+  "status": "published"
+}

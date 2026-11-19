@@ -1,0 +1,37 @@
+{
+  "id": "ea56bcdb9b4e328e",
+  "slug": "trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his",
+  "titleZh": "Trump废除FDA提名，参议院砍掉NSF提名投票",
+  "titleOriginal": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+  "summary": "短时间内两名特朗普提名官员遭遇挫折：FDA提名人Heidi Overton被白 house 突然撤回，NSF提名投票被参议院砍掉。Overton在疫苗、堕胎等问题上的立场引发两党批评，确认听证会中多次回避直接回答。",
+  "keyPoints": [
+    "FDA提名人Overton被撤回",
+    "NSF提名投票被参议院砍掉",
+    "Overton立场引发两党争议"
+  ],
+  "category": "tech",
+  "tags": [
+    "特朗普提名",
+    "FDA",
+    "NSF",
+    "参议院投票",
+    "政策争议"
+  ],
+  "entities": [
+    "Trump",
+    "FDA",
+    "Senate",
+    "NSF"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+  "publishedAt": "2026-11-18T22:08:57.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 72,
+  "readMinutes": 3,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3f3db3535c2a6ebc",
+  "status": "published"
+}

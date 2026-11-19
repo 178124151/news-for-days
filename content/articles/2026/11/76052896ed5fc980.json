@@ -1,0 +1,35 @@
+{
+  "id": "76052896ed5fc980",
+  "slug": "microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employ",
+  "titleZh": "纳德拉要求 60 名员工自愿离职",
+  "titleOriginal": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+  "summary": "微软 CEO 纳德拉解释要求 60,000 名员工自愿离职的原因，核心原因是 AI，但并非预期中的大规模裁员方式。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "要求 60,000 名员工自愿离职",
+    "核心原因与 AI 相关",
+    "非传统大规模裁员方式"
+  ],
+  "category": "tech",
+  "tags": [
+    "微软",
+    "CEO",
+    "员工离职",
+    "AI",
+    "组织调整"
+  ],
+  "entities": [
+    "Microsoft",
+    "Microsoft CEO Satya"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+  "publishedAt": "2026-11-19T00:42:56.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "32d71375df8c3b8a",
+  "status": "published"
+}

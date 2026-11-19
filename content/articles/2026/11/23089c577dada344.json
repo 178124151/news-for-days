@@ -1,0 +1,32 @@
+{
+  "id": "23089c577dada344",
+  "slug": "what-the-x2018-death-cross-x2019-in-small-cap-stocks-means-f",
+  "titleZh": "小盘股死亡十字形态对整体市场的影响",
+  "titleOriginal": "What the &#x2018;death cross&#x2019; in small-cap stocks means for the rest of the market",
+  "summary": "负面图形确认小盘股（Russell 2000）走弱及整体市场宽度不足。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "确认小盘股Russell 2000走弱趋势",
+    "反映整体市场宽度存在问题",
+    "技术形态提示市场面临压力"
+  ],
+  "category": "finance",
+  "tags": [
+    "股市",
+    "技术分析",
+    "小盘股",
+    "市场走势",
+    "风险"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-18T23:12:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9d737fb7539d9bf0",
+  "status": "published"
+}

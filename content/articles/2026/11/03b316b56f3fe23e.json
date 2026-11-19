@@ -1,0 +1,35 @@
+{
+  "id": "03b316b56f3fe23e",
+  "slug": "8-k-bcb-bancorp-inc-0001228454-filer",
+  "titleZh": "BCB银行公司提交事项投票材料",
+  "titleOriginal": "8-K - BCB BANCORP INC (0001228454) (Filer)",
+  "summary": "BCB BANCORP INC于2026年11月18日提交8-K文件，项目涉及向证券持有人提交事项投票。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "BCB BANCORP INC提交8-K文件",
+    "项目涉及证券持有人投票事项",
+    "提交时间为2026年11月18日"
+  ],
+  "category": "policy",
+  "tags": [
+    "BCB银行",
+    "8-K文件",
+    "证券投票",
+    "合规",
+    "政策"
+  ],
+  "entities": [
+    "BCB BANCORP INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1228454/000119312526467293/0001193125-26-467293-index.htm",
+  "publishedAt": "2026-11-18T22:26:52.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b4715d9b0203e1cf",
+  "status": "published"
+}

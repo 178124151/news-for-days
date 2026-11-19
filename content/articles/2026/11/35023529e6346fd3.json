@@ -1,0 +1,34 @@
+{
+  "id": "35023529e6346fd3",
+  "slug": "how-copper-x2019-s-plunge-could-hurt-the-ai-buildout",
+  "titleZh": "铜价暴跌可能阻碍 AI 基础设施建设",
+  "titleOriginal": "How copper&#x2019;s plunge could hurt the AI buildout",
+  "summary": "全球可能缺乏足够铜矿满足 AI 发展多年需求。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "铜资源可能无法满足 AI 基础设施需求",
+    "全球铜矿开采面临瓶颈限制",
+    "AI 产业链供应链安全性受关注"
+  ],
+  "category": "finance",
+  "tags": [
+    "铜",
+    "AI",
+    "基础设施",
+    "供应链",
+    "资源"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-18T23:02:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "28d0fbffa91a07e7",
+  "status": "published"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "33b6e88e1be4d5eb",
+  "slug": "the-homeland-security-task-force-launches-the-threat-disrupt",
+  "titleZh": "国土安全部任务力发起打击加密诈骗中心",
+  "titleOriginal": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs' AI platform via a ~$95M no-bid deal (Bloomberg)",
+  "summary": "美国国土安全部任务力成立威胁破坏中心，利用 TRM Labs AI 平台通过约 9500 万美元无竞标合同打击加密诈骗和网络犯罪。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "成立威胁破坏中心对抗加密诈骗",
+    "使用 TRM Labs AI 平台进行监控",
+    "涉及约 9500 万美元无竞标合同"
+  ],
+  "category": "tech",
+  "tags": [
+    "国土安全部",
+    "加密诈骗",
+    "TRM Labs",
+    "网络安全",
+    "AI 平台"
+  ],
+  "entities": [
+    "The Homeland Security",
+    "Threat Disruption Center",
+    "TRM Labs",
+    "AI",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261118/p48#a261118p48",
+  "publishedAt": "2026-11-18T23:55:01.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "63c85b1598b00507",
+  "status": "published"
+}

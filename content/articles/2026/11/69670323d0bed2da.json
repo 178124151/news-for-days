@@ -1,0 +1,42 @@
+{
+  "id": "69670323d0bed2da",
+  "slug": "infiforce-pre-b",
+  "titleZh": "原力无限INFIFORCE完成数千万元Pre-B轮融资",
+  "titleOriginal": "“原力无限INFIFORCE”完成数千万元Pre-B轮融资",
+  "summary": "具身大脑企业原力无限INFIFORCE完成数千万元Pre-B轮融资，杭州资本投资。资金将投向具身大脑AtomBrain技术研发，持续深耕真实落地场景，推进产品工程化与规模化产业化。",
+  "keyPoints": [
+    "原力无限INFIFORCE完成Pre-B轮融资",
+    "杭州资本投资",
+    "资金投向具身大脑AtomBrain技术研发"
+  ],
+  "category": "tech",
+  "tags": [
+    "具身智能",
+    "融资",
+    "AI芯片",
+    "杭州资本",
+    "技术研发"
+  ],
+  "entities": [
+    "INFIFORCE",
+    "Pre B"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4076104296420484?f=rss",
+  "publishedAt": "2026-11-19T03:24:34.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 65,
+  "clusterId": "c69670323d0bed2da",
+  "alsoCoveredBy": [
+    {
+      "sourceName": "36氪",
+      "url": "https://36kr.com/newsflashes/4076053842154371?f=rss"
+    }
+  ],
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7e4822791fc32892",
+  "status": "published"
+}

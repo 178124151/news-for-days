@@ -1,0 +1,38 @@
+{
+  "id": "df36ef792dda4513",
+  "slug": "sources-leopold-aschenbrenner-discussed-situational-awarenes",
+  "titleZh": "莱奥波德·阿斯彭布伦纳讨论 \"情境意识 2.0\"",
+  "titleOriginal": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)",
+  "summary": "金融时报报道，AI 交易员莱奥波德·阿斯彭布伦纳讨论重启 \"情境意识 2.0\" 项目，计划使用杠杆和外部资本，此前该基金因 wipeout 已被 Citadel 救助。",
+  "keyPoints": [
+    "讨论重启情境意识 2.0 项目",
+    "计划使用杠杆和外部资本",
+    "前次基金 wipeout 已被 Citadel 救助"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI 交易",
+    "情境意识",
+    "杠杆",
+    "Citadel",
+    "融资"
+  ],
+  "entities": [
+    "Sources",
+    "Leopold Aschenbrenner",
+    "Situational Awareness",
+    "Citadel",
+    "Financial Times"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261118/p46#a261118p46",
+  "publishedAt": "2026-11-18T22:50:00.000Z",
+  "fetchedAt": "2026-11-19T03:47:12.312Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "643ea9a464a9c21b",
+  "status": "published"
+}

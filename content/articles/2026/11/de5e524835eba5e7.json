@@ -1,0 +1,36 @@
+{
+  "id": "de5e524835eba5e7",
+  "slug": "arm-cortex-m42-100e-aiot-ai",
+  "titleZh": "安谋科技解析Cortex-M42并发布星辰100e AIoT原型平台",
+  "titleOriginal": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+  "summary": "安谋科技在11月18日举行Cortex-M CPU新品说明会，发布星辰100e AIoT原型平台，助力打造AI性能更强的嵌入式设计。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "安谋科技发布Cortex-M42新处理器核心",
+    "发布星辰100e AIoT原型平台",
+    "目标是提升嵌入式设计的AI性能表现"
+  ],
+  "category": "ai",
+  "tags": [
+    "安谋科技",
+    "Cortex-M42",
+    "AIoT",
+    "嵌入式",
+    "芯片平台"
+  ],
+  "entities": [
+    "Arm Cortex M42",
+    "AIoT",
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511079.html",
+  "publishedAt": "2026-11-19T04:02:39.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3921a90f26dbc883",
+  "status": "published"
+}

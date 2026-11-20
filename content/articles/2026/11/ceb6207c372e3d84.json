@@ -1,0 +1,32 @@
+{
+  "id": "ceb6207c372e3d84",
+  "slug": "36-ceb620",
+  "titleZh": "中科院博士打造二维半导体全流程产线，完成数千万天使轮融资",
+  "titleOriginal": "36氪首发丨中科院博士做二维半导体制造全流程产线设备，完成数千万天使轮融资",
+  "summary": "基元科技完成数千万元天使轮融资，由朝晖芯华基金领投。公司覆盖二维半导体‘生长—转移—检测’全流程产线设备，研发全球首台二维半导体晶圆转移产线装备，并布局AI for Science智能体平台。",
+  "keyPoints": [
+    "完成数千万天使轮融资",
+    "研发全球首台二维半导体晶圆转移产线",
+    "布局AI for Science智能体平台"
+  ],
+  "category": "tech",
+  "tags": [
+    "二维半导体",
+    "芯片制造",
+    "融资",
+    "科技",
+    "设备"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4077431786968198?f=rss",
+  "publishedAt": "2026-11-20T01:39:38.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 85,
+  "readMinutes": 4,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "665de6e15045f4b8",
+  "status": "published"
+}

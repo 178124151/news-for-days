@@ -1,0 +1,37 @@
+{
+  "id": "94d704abfdece619",
+  "slug": "8-k-home-federal-bancorp-inc-of-louisiana-0001500375-filer",
+  "titleZh": "8-K - Home Federal Bancorp",
+  "titleOriginal": "8-K - Home Federal Bancorp, Inc. of Louisiana (0001500375) (Filer)",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "信息有限",
+    "SEC 8-K 文件披露",
+    "涉及高管变动及财务报表"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC",
+    "8-K",
+    "银行",
+    "高管变动",
+    "财务报表"
+  ],
+  "entities": [
+    "Home Federal Bancorp",
+    "Inc",
+    "Louisiana",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1500375/000092708926000195/0000927089-26-000195-index.htm",
+  "publishedAt": "2026-11-19T22:14:13.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bfb1f94d9398bce3",
+  "status": "published"
+}

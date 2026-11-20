@@ -1,0 +1,35 @@
+{
+  "id": "43d45c3fc3764cf2",
+  "slug": "elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dea",
+  "titleZh": "马斯克称 SpaceX 有消除手机死区计划",
+  "titleOriginal": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+  "summary": "SpaceX CEO Elon Musk 表示，公司已完成微型屋顶基站的设计，该基站可为移动电话提供更好覆盖并消除信号盲区。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "已完成微型屋顶基站设计",
+    "旨在改善移动电话覆盖",
+    "有望消除信号盲区"
+  ],
+  "category": "tech",
+  "tags": [
+    "SpaceX",
+    "通信技术",
+    "5G",
+    "马斯克",
+    "覆盖提升"
+  ],
+  "entities": [
+    "SpaceX",
+    "Elon Musk"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+  "publishedAt": "2026-11-19T23:37:56.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4a824a66da3e9fe9",
+  "status": "published"
+}

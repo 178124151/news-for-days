@@ -1,0 +1,36 @@
+{
+  "id": "504e8e8bc2d9932f",
+  "slug": "after-anthropic-x2019-s-x2018-bittersweet-x2019-ipo-here-x20",
+  "titleZh": "Anthropic IPO 后的未来展望",
+  "titleOriginal": "After Anthropic&#x2019;s &#x2018;bittersweet&#x2019; IPO, here&#x2019;s what lies ahead",
+  "summary": "零售投资者涌入，但 Anthropic 迄今未能为科技板块提供广泛提振。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "零售投资者积极参与",
+    "未能提振整体科技板块",
+    "IPO后表现受关注"
+  ],
+  "category": "finance",
+  "tags": [
+    "Anthropic",
+    "零售投资者",
+    "科技板块",
+    "IPO表现",
+    "市场影响"
+  ],
+  "entities": [
+    "Anthropic",
+    "After Anthropic",
+    "IPO"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-19T23:56:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c58783f86144386c",
+  "status": "published"
+}

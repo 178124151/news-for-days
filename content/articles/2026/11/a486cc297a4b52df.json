@@ -1,0 +1,32 @@
+{
+  "id": "a486cc297a4b52df",
+  "slug": "2026-a486cc",
+  "titleZh": "五部门发布2026版海洋产业投融资指导目录",
+  "titleOriginal": "五部门印发2026版海洋产业投融资《指导目录》",
+  "summary": "自然资源部等五部门联合发布《海洋产业投融资指导目录（2026版）》，共设11大类42小类185条，精准引导社会资本赋能海洋产业升级，助力海洋经济高质量发展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "设11大类42小类185条",
+    "精准引导社会资本赋能海洋产业",
+    "助力海洋经济高质量发展"
+  ],
+  "category": "tech",
+  "tags": [
+    "海洋产业",
+    "投融资",
+    "政策",
+    "科技",
+    "经济"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4077494676870274?f=rss",
+  "publishedAt": "2026-11-20T02:42:04.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a0d1109756741b49",
+  "status": "published"
+}

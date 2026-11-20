@@ -1,0 +1,35 @@
+{
+  "id": "ad84405834598899",
+  "slug": "anthropics-7-founders-cashed-out-nearly-2b-in-record-breakin",
+  "titleZh": "Anthropic七位创始人IPO套现近20亿美元",
+  "titleOriginal": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "summary": "Anthropic在83美元每股的上调发行价下，七位创始人每人获2.8亿美元，公司募资近1050亿美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "七位创始人每人获2.8亿美元",
+    "公司IPO发行价上调至83美元",
+    "公司募资近1050亿美元"
+  ],
+  "category": "tech",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "AI",
+    "融资",
+    "科技"
+  ],
+  "entities": [
+    "Anthropic",
+    "IPO"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "publishedAt": "2026-11-20T00:43:50.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 95,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d616b0601349c602",
+  "status": "published"
+}

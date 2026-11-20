@@ -1,0 +1,36 @@
+{
+  "id": "dbe111187a465a8a",
+  "slug": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+  "titleZh": "Apple可能正开发可运行Mac的自家AI代理",
+  "titleOriginal": "Apple may be developing its own AI agent that runs your Mac",
+  "summary": "苹果公司似乎正在开发可与Meta Muse、Instinct、Claude和OpenAI Dots竞争的AI代理，旨在运行在Mac平台上。该项目属于公司内部AI工具的延伸，旨在增强本地AI功能。",
+  "keyPoints": [
+    "Apple正开发可运行Mac的AI代理",
+    "旨在竞争Meta Muse、Claude等主流AI工具",
+    "项目旨在增强Mac本地AI功能"
+  ],
+  "category": "tech",
+  "tags": [
+    "Apple",
+    "AI代理",
+    "Mac",
+    "生成式AI",
+    "内部开发"
+  ],
+  "entities": [
+    "Apple",
+    "AI",
+    "Mac"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "publishedAt": "2026-11-20T00:56:01.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "83b77a014cad1194",
+  "status": "published"
+}

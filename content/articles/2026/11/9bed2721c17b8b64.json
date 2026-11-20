@@ -1,0 +1,36 @@
+{
+  "id": "9bed2721c17b8b64",
+  "slug": "senate-passes-baaja-permitting-reform-bill-backed-by-ai-ener",
+  "titleZh": "参议院通过获 AI 能源部门支持的 BAAJA 许可改革法案",
+  "titleOriginal": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+  "summary": "参议院通过许可改革法案是其成为法律的关键步骤，但仍需众议院通过，随后提交特朗普总统签署。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "参议院已通过该法案",
+    "需众议院再通过才能生效",
+    "涉及 AI 和能源行业利益"
+  ],
+  "category": "finance",
+  "tags": [
+    "政策",
+    "许可改革",
+    "AI",
+    "能源",
+    "立法进程"
+  ],
+  "entities": [
+    "Senate",
+    "BAAJA",
+    "AI"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+  "publishedAt": "2026-11-20T03:30:45.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "75ac59a2a2bd9a8b",
+  "status": "published"
+}

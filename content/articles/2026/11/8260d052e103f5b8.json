@@ -1,0 +1,35 @@
+{
+  "id": "8260d052e103f5b8",
+  "slug": "anthropic-ipo-exactly-what-the-markets-need-but-analysts-war",
+  "titleZh": "Anthropic IPO 被视为市场所需",
+  "titleOriginal": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+  "summary": "Anthropic IPO 被分析师称为市场所需，但分析师警告其股票将在未来几周出现波动。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic IPO 被视为市场所需",
+    "分析师预测股票将出现波动",
+    "市场对新股发行持关注"
+  ],
+  "category": "finance",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "股市",
+    "科技股",
+    "分析师观点"
+  ],
+  "entities": [
+    "Anthropic",
+    "Anthropic IPO"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+  "publishedAt": "2026-11-20T03:38:07.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a7ebb11b6ad206e5",
+  "status": "published"
+}

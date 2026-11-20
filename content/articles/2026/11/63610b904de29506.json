@@ -1,0 +1,35 @@
+{
+  "id": "63610b904de29506",
+  "slug": "walter-isaacson-on-curiosity-and-creativity-in-the-ai-age",
+  "titleZh": "Walter Isaacson谈AI时代的好奇心与创造力",
+  "titleOriginal": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "summary": "Walter Isaacson加入Google讨论历史上最伟大的创新者如何启发人工智能时代的创造力和人类判断。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Isaacson加入Google讨论AI时代创新主题",
+    "探讨历史创新者对现代创造力的启发",
+    "重点分析人工智能时代的人类判断角色"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "创新",
+    "Walter Isaacson",
+    "创造力",
+    "人工智能"
+  ],
+  "entities": [
+    "Walter Isaacson",
+    "AI"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "publishedAt": "2026-11-19T17:00:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a3cf4dbc1ba6c96f",
+  "status": "published"
+}

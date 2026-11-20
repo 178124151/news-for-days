@@ -1,0 +1,35 @@
+{
+  "id": "ef14d9e2f6aed2de",
+  "slug": "intuit-x2019-s-downbeat-outlook-deepens-wall-street-x2019-s-",
+  "titleZh": "Intuit低迷展望加剧华尔街对软件公司的担忧",
+  "titleOriginal": "Intuit&#x2019;s downbeat outlook deepens Wall Street&#x2019;s anxiety about software companies",
+  "summary": "Intuit作为税务软件提供商，给投资者提供了新的理由担忧传统软件公司前景。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Intuit展望低迷引发市场对传统软件公司的担忧",
+    "税务软件业务受关注作为软件行业风向标",
+    "市场对遗留软件公司前景普遍产生疑虑"
+  ],
+  "category": "finance",
+  "tags": [
+    "Intuit",
+    "软件行业",
+    "财报展望",
+    "市场情绪",
+    "科技股"
+  ],
+  "entities": [
+    "Intuit",
+    "Wall Street"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-19T22:53:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d4d3126ae981f259",
+  "status": "published"
+}

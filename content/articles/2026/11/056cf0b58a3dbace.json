@@ -1,0 +1,36 @@
+{
+  "id": "056cf0b58a3dbace",
+  "slug": "introducing-tool-retrieval-in-the-gemini-api",
+  "titleZh": "Gemini API 新增工具检索功能",
+  "titleOriginal": "Introducing Tool Retrieval in the Gemini API",
+  "summary": "Gemini API 现支持工具检索，代理可访问数百种工具，且使用更少的 token，当前处于预览阶段。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "支持工具检索功能",
+    "代理可访问数百种工具",
+    "token 使用更高效"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini API",
+    "工具检索",
+    "代理",
+    "预览版",
+    "AI开发"
+  ],
+  "entities": [
+    "Gemini",
+    "Introducing Tool Retrieval",
+    "Gemini API"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ee7680925db177ee",
+  "status": "published"
+}

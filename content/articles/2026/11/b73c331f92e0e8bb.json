@@ -1,0 +1,35 @@
+{
+  "id": "b73c331f92e0e8bb",
+  "slug": "amid-recent-banking-outages-should-you-start-carrying-cash-a",
+  "titleZh": "银行系统频繁故障提醒：是否该重新携带现金？",
+  "titleOriginal": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
+  "summary": "近期银行系统频繁出现故障，顶级财务顾问建议民众至少应实现资金多元化。虽然不必完全依赖现金，但建议关注资金安全多元化安排，避免单一金融系统风险。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "近期银行系统频繁出现故障",
+    "顶级财务顾问建议资金多元化",
+    "不必完全依赖现金但应关注风险分散"
+  ],
+  "category": "finance",
+  "tags": [
+    "银行系统",
+    "现金管理",
+    "金融风险",
+    "资产配置",
+    "顾问建议"
+  ],
+  "entities": [
+    "Amid",
+    "Top"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+  "publishedAt": "2026-11-19T19:06:56.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f4d7153dedc03cee",
+  "status": "published"
+}

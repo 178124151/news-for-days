@@ -1,0 +1,36 @@
+{
+  "id": "f88414c8cfe7b454",
+  "slug": "google-will-launch-android-app-verification-requirement-glob",
+  "titleZh": "Google将在2027年1月全球要求Android应用验证",
+  "titleOriginal": "Google will launch Android app verification requirement globally in January 2027",
+  "summary": "Google去年宣布Android开发者验证功能，尽管开发者和用户有众多反对意见，公司仍在推进。今年秋季在部分国家开始阻止未注册应用安装，系统将于明年1月全球展开。需提供政府身份证件并支付25美元费用，旨在提升安全性防止恶意软件和诈骗应用。此前已在印尼、新加坡、泰国等国试点，现准备全球扩展。",
+  "keyPoints": [
+    "Google将在2027年1月全球推行应用开发者验证",
+    "需提供政府身份证件并支付25美元费用",
+    "旨在防止恶意软件和诈骗应用分发"
+  ],
+  "category": "tech",
+  "tags": [
+    "Android",
+    "应用安全",
+    "开发者验证",
+    "Google Play",
+    "全球扩展"
+  ],
+  "entities": [
+    "Google",
+    "Android",
+    "January"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+  "publishedAt": "2026-11-19T18:00:33.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 75,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "88ba0c014b77d567",
+  "status": "published"
+}

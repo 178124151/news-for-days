@@ -1,0 +1,34 @@
+{
+  "id": "633a67e2de20159c",
+  "slug": "anthropic-rival-says-companies-can-mostly-skip-the-pricey-mo",
+  "titleZh": "Anthropic竞争者主张开源模型降低成本",
+  "titleOriginal": "Anthropic rival says companies can (mostly) skip the pricey models",
+  "summary": "Fireworks AI 联合创始人在 Anthropic 上市当天，主张开源模型作为更经济的替代方案，并就可能导致客户信任受损的安全事件进行了回应。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "开源模型被视为昂贵闭源模型的替代方案",
+    "公司需应对影响客户信任的安全事件",
+    "讨论发生在 Anthropic 上市的当天"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI",
+    "开源",
+    "成本",
+    "安全",
+    "市场竞争"
+  ],
+  "entities": [
+    "Anthropic"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+  "publishedAt": "2026-11-20T00:26:03.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5b84f2e08a229910",
+  "status": "published"
+}

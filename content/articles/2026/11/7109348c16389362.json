@@ -1,0 +1,37 @@
+{
+  "id": "7109348c16389362",
+  "slug": "softbank-plunges-over-16-as-ai-sell-off-hits-asian-tech-stoc",
+  "titleZh": "软银因AI抛售跌超16%",
+  "titleOriginal": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+  "summary": "软银股价下跌超过16%，跟随人工智能抛售影响，亚洲科技股受到打击，此前纳斯达克综合指数因Anthropic上市跌幅超过2%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "软银股价跌幅超过16%",
+    "受AI抛售影响，亚洲科技股下跌",
+    "受Anthropic上市影响，纳斯达克下跌"
+  ],
+  "category": "finance",
+  "tags": [
+    "软银",
+    "AI",
+    "股市",
+    "科技",
+    "投资"
+  ],
+  "entities": [
+    "Anthropic",
+    "SoftBank",
+    "AI",
+    "Asian"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+  "publishedAt": "2026-11-20T03:30:34.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a594dac39688c522",
+  "status": "published"
+}

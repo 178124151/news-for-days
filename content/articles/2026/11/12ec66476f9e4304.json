@@ -1,0 +1,36 @@
+{
+  "id": "12ec66476f9e4304",
+  "slug": "federal-reserve-board-issues-enforcement-action-with-former--12ec66",
+  "titleZh": "联邦储备局对原First Security Bancorp员工实施执法行动",
+  "titleOriginal": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+  "summary": "联邦储备局对原First Security Bancorp员工实施执法行动。材料未提供具体执法细节和处理结果。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "联邦储备局对前First Security Bancorp员工实施执法",
+    "材料未披露具体执法细节",
+    "执法行动结果尚不明确"
+  ],
+  "category": "policy",
+  "tags": [
+    "联邦储备局",
+    "First Security Bancorp",
+    "执法行动",
+    "金融监管",
+    "合规"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Reserve Board",
+    "First Security Bancorp"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+  "publishedAt": "2026-11-19T16:00:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "721c35359fbf9ed0",
+  "status": "published"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8268d5c023356cbc",
+  "slug": "sources-nvidia-is-in-advanced-talks-to-acquire-diffusion-llm",
+  "titleZh": "Nvidia正进行高级谈判收购AI开发商Inception",
+  "titleOriginal": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation (The Information)",
+  "summary": "据媒体报道，Nvidia正在就收购AI初创公司Inception进行高级谈判，交易金额超过5亿美元外加业绩对赌。Inception是一家两年旧的初创公司，专注于旨在实现更快性能的扩散式LLM技术。谈判始于黄仁勋辞职前，但目前交易细节尚未确定。",
+  "keyPoints": [
+    "Nvidia拟以5亿美元以上收购AI初创公司Inception",
+    "Inception专注于扩散式LLM技术",
+    "谈判时间点紧随黄仁勋辞职之前"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "AI收购",
+    "扩散模型",
+    "Inception",
+    "融资并购"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Sources",
+    "LLM",
+    "Inception",
+    "Jensen Huang",
+    "The Information"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261119/p54#a261119p54",
+  "publishedAt": "2026-11-19T23:00:01.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "34f4b8539c453598",
+  "status": "published"
+}

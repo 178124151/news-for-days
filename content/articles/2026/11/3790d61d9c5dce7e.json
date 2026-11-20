@@ -1,0 +1,34 @@
+{
+  "id": "3790d61d9c5dce7e",
+  "slug": "cloudrobo",
+  "titleZh": "具身机器人进入真机时代",
+  "titleOriginal": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+  "summary": "华为云CloudRobo开始组队发力，卡片可轮流服务多家公司，一次适配让更多团队受益，无需家家从头购买算力，也避免工程上的重复踩坑。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "华为云CloudRobo组队发力",
+    "算力可共享，无需家家购买",
+    "适配一次受益多家团队"
+  ],
+  "category": "ai",
+  "tags": [
+    "华为云",
+    "具身机器人",
+    "算力共享",
+    "团队协作",
+    "AI硬件"
+  ],
+  "entities": [
+    "CloudRobo"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511426.html",
+  "publishedAt": "2026-11-20T01:07:38.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "65cf4fa436c8f0c8",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bcaf3594b9fec03c",
+  "slug": "manus-oppo-2027",
+  "titleZh": "极客公园创新大会 2027 嘉宾阵容更新",
+  "titleOriginal": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+  "summary": "量子位报道极客公园创新大会 2027 更新嘉宾阵容，包括影视飓风、Manus、影石、OPPO 等，主题为「Revaluation 价值，另有答案」。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "极客公园创新大会 2027 更新嘉宾阵容",
+    "包括影视飓风、Manus、影石、OPPO 等",
+    "主题定为「Revaluation 价值，另有答案」"
+  ],
+  "category": "ai",
+  "tags": [
+    "极客公园",
+    "创新大会",
+    "行业峰会",
+    "科技嘉宾",
+    "大会更新"
+  ],
+  "entities": [
+    "Manus",
+    "OPPO"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511258.html",
+  "publishedAt": "2026-11-19T08:43:10.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "979afe9ae00751d2",
+  "status": "published"
+}

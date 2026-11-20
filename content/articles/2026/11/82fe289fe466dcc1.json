@@ -1,0 +1,35 @@
+{
+  "id": "82fe289fe466dcc1",
+  "slug": "explore-the-codex-security-plugin",
+  "titleZh": "OpenAI 展示 Codex 安全插件演示",
+  "titleOriginal": "Explore the Codex Security Plugin",
+  "summary": "OpenAI 发布演示视频，展示 Codex 安全插件的使用流程，从入门到查看录制结果展示的完整过程。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI 展示 Codex 安全插件演示",
+    "展示从入门到查看结果的完整流程",
+    "演示录制结果的展示方式"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "安全插件",
+    "工作流演示",
+    "技术展示"
+  ],
+  "entities": [
+    "Explore",
+    "Codex Security Plugin"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "publishedAt": "2026-11-19T00:00:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f886ba46a0f77f31",
+  "status": "published"
+}

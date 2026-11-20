@@ -1,0 +1,34 @@
+{
+  "id": "17b7a2b39f098895",
+  "slug": "see-pr-scans-in-action",
+  "titleZh": "OpenAI 展示 PR 扫描功能演示",
+  "titleOriginal": "See PR scans in action",
+  "summary": "OpenAI 发布演示视频，展示 PR 扫描功能在拉取请求工作流中的使用方式，演示了呈现扫描结果的过程。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI 展示 PR 扫描功能演示",
+    "展示在拉取请求工作流中的使用方式",
+    "演示呈现扫描结果的过程"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "AI工具",
+    "代码审查",
+    "工作流演示",
+    "技术展示"
+  ],
+  "entities": [
+    "See PR"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/learn/pr-scans-demo",
+  "publishedAt": "2026-11-19T00:00:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "42adb45dfae5b98a",
+  "status": "published"
+}

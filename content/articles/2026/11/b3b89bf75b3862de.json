@@ -1,0 +1,35 @@
+{
+  "id": "b3b89bf75b3862de",
+  "slug": "amazon-fights-the-delivery-protection-act-with-homepage-bann",
+  "titleZh": "Amazon首页弹窗抵抗纽约配送保护法",
+  "titleOriginal": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+  "summary": "Amazon在首页和APP弹窗警告用户，纽约市议会可能每单增加最高5美元费用，试图阻止该法案通过。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Amazon在首页和APP弹窗警告用户",
+    "纽约市议会可能每单增加最高5美元费用",
+    "试图阻止配送保护法案通过"
+  ],
+  "category": "tech",
+  "tags": [
+    "Amazon",
+    "纽约",
+    "法律",
+    "电商",
+    "消费者"
+  ],
+  "entities": [
+    "Amazon",
+    "Delivery Protection Act"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+  "publishedAt": "2026-11-19T22:16:37.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "566cef6fa5e5f998",
+  "status": "published"
+}

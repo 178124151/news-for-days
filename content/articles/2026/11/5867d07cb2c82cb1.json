@@ -1,0 +1,32 @@
+{
+  "id": "5867d07cb2c82cb1",
+  "slug": "these-were-the-only-stocks-that-rose-amid-the-stock-market-x",
+  "titleZh": "股市暴跌唯独网络安全股上涨",
+  "titleOriginal": "These were the only stocks that rose amid the stock market&#x2019;s wipeout Thursday",
+  "summary": "周四标普500所有11个板块下跌，其中10个下跌超过1%，但网络安全股逆势上涨。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "标普500全线下跌",
+    "10个板块跌幅超过1%",
+    "网络安全股逆势上涨"
+  ],
+  "category": "finance",
+  "tags": [
+    "标普500",
+    "网络安全",
+    "股市波动",
+    "板块表现",
+    "逆势上涨"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-19T23:11:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b6df0f1aef202fb7",
+  "status": "published"
+}

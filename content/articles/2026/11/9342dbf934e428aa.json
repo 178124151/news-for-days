@@ -1,0 +1,37 @@
+{
+  "id": "9342dbf934e428aa",
+  "slug": "how-openais-performance-factory-keeps-chatgpt-fast",
+  "titleZh": "OpenAI性能工厂保持ChatGPT速度",
+  "titleOriginal": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "summary": "OpenAI介绍了由Codex驱动的工作流系统，通过查找和修复性能问题来帮助保持ChatGPT的快速响应。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI建立性能工厂优化ChatGPT运行效率",
+    "利用Codex技术自动查找和修复性能瓶颈",
+    "旨在保持ChatGPT等服务的快速响应能力"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "性能优化",
+    "Codex",
+    "系统架构"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT",
+    "How OpenAI",
+    "Performance Factory"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "publishedAt": "2026-11-19T08:00:00.000Z",
+  "fetchedAt": "2026-11-20T03:41:38.221Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "542ca7f7e250328f",
+  "status": "published"
+}

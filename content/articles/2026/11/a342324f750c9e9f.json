@@ -1,0 +1,35 @@
+{
+  "id": "a342324f750c9e9f",
+  "slug": "federal-reserve-board-releases-results-from-survey-of-senior",
+  "titleZh": "美联储发布银行高管存款管理策略调查结果",
+  "titleOriginal": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+  "summary": "美联储发布了针对银行高管关于管理存款余额策略和做法的调查结果。调查涵盖银行在存款管理方面的策略和做法。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美联储发布银行高管调查结果",
+    "调查聚焦存款管理策略与做法",
+    "涉及银行准备金管理实务"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "银行",
+    "货币政策",
+    "调查",
+    "存款管理"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "Federal Reserve Board"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+  "publishedAt": "2026-11-20T15:00:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "26301965ac30ad9c",
+  "status": "published"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "7a73d5387ba730d4",
+  "slug": "sources-masayoshi-son-recently-explored-a-possible-1t-buyout",
+  "titleZh": "软银孙正义曾探索1万亿美元收购SK海力士",
+  "titleOriginal": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
+  "summary": "The Information 报道，软银首席执行官孙正义近期接洽华尔街机构，商议融资推进一笔规模达1万亿美元的收购，目标是存储芯片巨头SK Hynix。软Bank随后表示，该交易不再处于积极考虑之中。该交易若推进将是软银作为OpenAI投资方的最大布局，切入高战略价值的存储芯片市场，但软银资产负债表已承压，且无迹象表明华尔街机构愿意为其提供融资。",
+  "keyPoints": [
+    "孙正义曾接洽华尔街机构商议1万亿美元收购SK Hynix",
+    "软Bank表示交易不再处于积极考虑之中",
+    "交易将是软银作为OpenAI投资方的最大布局"
+  ],
+  "category": "tech",
+  "tags": [
+    "软银",
+    "SK Hynix",
+    "并购",
+    "存储芯片",
+    "融资"
+  ],
+  "entities": [
+    "Sources",
+    "Masayoshi Son",
+    "SK Hynix",
+    "SoftBank",
+    "The Information"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261120/p45#a261120p45",
+  "publishedAt": "2026-11-21T02:45:01.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 82,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3b1cea08bf6623bb",
+  "status": "published"
+}

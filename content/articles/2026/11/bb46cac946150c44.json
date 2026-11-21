@@ -1,0 +1,34 @@
+{
+  "id": "bb46cac946150c44",
+  "slug": "sota",
+  "titleZh": "国产算力训练具身世界模型双榜SOTA",
+  "titleOriginal": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+  "summary": "国产算力的成熟，将具身竞争维度从芯片性能扩展到训练效率、数据规模、部署成本和场景落地速度的多维对抗。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "国产算力成熟推动具身世界模型双榜SOTA",
+    "具身竞争维度从芯片性能扩展至多维战场",
+    "涉及训练效率、数据规模、部署成本和场景落地"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "国产算力",
+    "具身世界模型",
+    "华为云",
+    "SOTA"
+  ],
+  "entities": [
+    "SOTA"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511610.html",
+  "publishedAt": "2026-11-20T08:04:58.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b4ebf725679cf189",
+  "status": "published"
+}

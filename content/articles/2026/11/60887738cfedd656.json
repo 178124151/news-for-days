@@ -1,0 +1,32 @@
+{
+  "id": "60887738cfedd656",
+  "slug": "70",
+  "titleZh": "港股年内发生超70起要约收购",
+  "titleOriginal": "港股年内发生超70起要约收购， 数量已超过去年全年",
+  "summary": "Wind数据显示，年内港股市场累计发生74起要约收购，数量已超过去年全年。要约收购类型丰富，涵盖主动被动、全面部分要约，产业资本和财务投资人持续进场。低估值、上市平台价值及产业整合需求是热潮成因，有助于优化资源配置与产业结构调整。",
+  "keyPoints": [
+    "年内港股要约收购74起，超过去年全年总数",
+    "产业资本和财务投资人持续布局资本市场",
+    "低估值和产业整合需求是热潮主要驱动力"
+  ],
+  "category": "tech",
+  "tags": [
+    "港股",
+    "要约收购",
+    "并购",
+    "资本运作",
+    "产业整合"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4078911164617856?f=rss",
+  "publishedAt": "2026-11-21T02:43:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8a8ba40ff842ecaf",
+  "status": "published"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e682b4b780361396",
+  "slug": "trump-says-he-discussed-jensen-huang-with-xi-bessent-tells-c",
+  "titleZh": "特朗普称与习近平讨论黄仁勋 贝森特称Nvidia芯片出口政策未变",
+  "titleOriginal": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+  "summary": "特朗普表示与中国国家主席习近平讨论了黄仁勋话题。贝森特告诉CNBC，他在中国任内的谈话中未提及被解雇的Nvidia CEO。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "特朗普确认与习近平讨论黄仁勋",
+    "贝森特称Nvidia芯片出口政策无变",
+    "涉及中美科技人物与政策对话"
+  ],
+  "category": "finance",
+  "tags": [
+    "特朗普",
+    "习近平",
+    "黄仁勋",
+    "Nvidia",
+    "芯片出口"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Trump",
+    "Jensen Huang",
+    "Xi",
+    "Bessent",
+    "CNBC Nvidia"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+  "publishedAt": "2026-11-20T22:08:41.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5dee855823e164e0",
+  "status": "published"
+}

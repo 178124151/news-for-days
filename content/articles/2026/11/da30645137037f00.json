@@ -1,0 +1,35 @@
+{
+  "id": "da30645137037f00",
+  "slug": "get-started-with-daybreak-blue",
+  "titleZh": "了解Daybreak Blue入门指南",
+  "titleOriginal": "Get started with Daybreak Blue",
+  "summary": "发布Daybreak Blue的入门体验演示，重点介绍设置流程和如何开始使用。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布Daybreak Blue的入门体验演示",
+    "重点介绍设置流程",
+    "说明如何开始使用该产品"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "Daybreak Blue",
+    "产品介绍",
+    "入门指南",
+    "设置体验"
+  ],
+  "entities": [
+    "Get",
+    "Daybreak Blue"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "publishedAt": "2026-11-19T00:00:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4168f7c1b787ccaf",
+  "status": "published"
+}

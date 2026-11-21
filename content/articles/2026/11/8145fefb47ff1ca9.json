@@ -1,0 +1,36 @@
+{
+  "id": "8145fefb47ff1ca9",
+  "slug": "hebbia-sees-improvements-in-financial-research-with-gpt-6-as",
+  "titleZh": "Hebbia测试GPT-6Astra提升财研表现",
+  "titleOriginal": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "summary": "Hebbia测试GPT-6 Astra用于财经研究。其预发布评估显示在源覆盖、引文相关性和展示质量方面均有提升。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hebbia测试GPT-6 Astra用于财经研究",
+    "预发布评估显示源覆盖有提升",
+    "引文相关性和展示质量均有改善"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "金融科技",
+    "GPT-6",
+    "Hebbia",
+    "财经研究"
+  ],
+  "entities": [
+    "GPT",
+    "Hebbia",
+    "Astra"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9c8be1c8def5fc75",
+  "status": "published"
+}

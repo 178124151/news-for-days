@@ -1,0 +1,38 @@
+{
+  "id": "460c008c18aaa66c",
+  "slug": "sources-crowdstrike-is-in-talks-to-acquire-zscaler-which-wou",
+  "titleZh": "CrowdStrike考虑收购Zscaler，合并后市值约265亿美元",
+  "titleOriginal": "Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours (Bloomberg)",
+  "summary": "据Bloomberg报道，CrowdStrike正在谈判收购Zscaler。若交易完成，将创建一家合并市值约265亿美元的网络安全公司。Zscaler股价盘后上涨超过15%。",
+  "keyPoints": [
+    "CrowdStrike谈判收购Zscaler",
+    "合并后市值约265亿美元",
+    "Zscaler股价盘后大幅上涨"
+  ],
+  "category": "tech",
+  "tags": [
+    "CrowdStrike",
+    "Zscaler",
+    "收购",
+    "网络安全",
+    "并购"
+  ],
+  "entities": [
+    "Sources",
+    "CrowdStrike",
+    "Zscaler",
+    "ZS",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261120/p34#a261120p34",
+  "publishedAt": "2026-11-20T21:20:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d039a32ab3556b6c",
+  "status": "published"
+}

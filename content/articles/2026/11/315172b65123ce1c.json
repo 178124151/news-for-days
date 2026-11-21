@@ -1,0 +1,35 @@
+{
+  "id": "315172b65123ce1c",
+  "slug": "agnes-agent-14-1-27",
+  "titleZh": "双系统决策+双层自进化 Agnes效率提速14倍",
+  "titleOriginal": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+  "summary": "Agnes Harness已开源，采用双系统决策和双层自进化机制，Agent效率最高提速14倍，成本骤降至1/27。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Agnes Harness已开源",
+    "双系统决策+双层自进化机制",
+    "Agent效率提速14倍，成本降至1/27"
+  ],
+  "category": "ai",
+  "tags": [
+    "Agnes",
+    "Agent",
+    "开源",
+    "效率",
+    "成本"
+  ],
+  "entities": [
+    "Agnes",
+    "Agent"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511582.html",
+  "publishedAt": "2026-11-20T05:24:11.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "51c551b75f274c0c",
+  "status": "published"
+}

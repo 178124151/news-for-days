@@ -1,0 +1,34 @@
+{
+  "id": "701a571706ec6c00",
+  "slug": "introducing-harness-adapters-adapt-your-favorite-model-to-yo",
+  "titleZh": "推出harness适配器提升模型性能",
+  "titleOriginal": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "summary": "Hugging Face介绍harness适配器，旨在适配用户喜爱的模型以提升性能和降低成本。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "介绍harness适配器",
+    "支持适配喜爱模型",
+    "目标提升性能并降低成本"
+  ],
+  "category": "ai",
+  "tags": [
+    "harness",
+    "适配器",
+    "模型优化",
+    "性能",
+    "成本"
+  ],
+  "entities": [
+    "Introducing"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 55,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6252a8dfbd3be009",
+  "status": "published"
+}

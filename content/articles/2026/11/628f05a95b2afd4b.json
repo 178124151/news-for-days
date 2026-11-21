@@ -1,0 +1,35 @@
+{
+  "id": "628f05a95b2afd4b",
+  "slug": "federal-reserve-announces-college-fed-challenge-winners",
+  "titleZh": "美联储公布College Fed Challenge获奖名单",
+  "titleOriginal": "Federal Reserve announces College Fed Challenge winners",
+  "summary": "美联储宣布College Fed Challenge比赛的获奖名单。比赛属于美联储旗下政策类活动。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美联储公布College Fed Challenge获奖名单",
+    "比赛属于美联储政策类活动",
+    "涉及大学生金融竞赛"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "College Fed Challenge",
+    "比赛",
+    "学生",
+    "金融教育"
+  ],
+  "entities": [
+    "Federal Reserve",
+    "College Fed Challenge"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+  "publishedAt": "2026-11-20T21:15:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bf5dbe1d42ff0ea8",
+  "status": "published"
+}

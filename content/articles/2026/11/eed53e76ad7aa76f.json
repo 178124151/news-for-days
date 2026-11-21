@@ -1,0 +1,35 @@
+{
+  "id": "eed53e76ad7aa76f",
+  "slug": "dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-si",
+  "titleZh": "道指标普500进入修正区间纳斯达克连跌一周",
+  "titleOriginal": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+  "summary": "本周标普500所有11个板块均下跌超过1%，这是自2025年4月以来首次出现这种情况。纳斯达克指数连续一周出现下跌，跌幅为2020年以来最严重。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "标普500所有板块本周均下跌超1%",
+    "纳斯达克指数连跌一周，跌幅为2020年以来最严重",
+    "市场进入修正区间，全面下跌格局形成"
+  ],
+  "category": "finance",
+  "tags": [
+    "股市",
+    "修正",
+    "纳斯达克",
+    "标普500",
+    "板块下跌"
+  ],
+  "entities": [
+    "Dow",
+    "Nasdaq"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-20T22:46:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b34a96b795159124",
+  "status": "published"
+}

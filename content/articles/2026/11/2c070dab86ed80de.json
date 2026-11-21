@@ -1,0 +1,35 @@
+{
+  "id": "2c070dab86ed80de",
+  "slug": "tech-outages-are-rattling-americans-so-much-that-they-x2019-",
+  "titleZh": "科技故障致美国人囤积现金和物资",
+  "titleOriginal": "Tech outages are rattling Americans so much that they&#x2019;re stockpiling cash and supplies",
+  "summary": "由于世界领导人缺乏明确表态，部分美国民众开始囤积现金和物资以作准备。材料仅提及准备行为的缘由。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "科技故障引发民众囤积行为",
+    "因领导人表态不清而备物资",
+    "反映对不确定性的应对"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技故障",
+    "囤积",
+    "民众心理",
+    "不确定性",
+    "准备"
+  ],
+  "entities": [
+    "Tech",
+    "Americans"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-21T03:20:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f89cd193f140ec67",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "77e93d67f7817cf5",
+  "slug": "jensen-huang-to-testify-publicly-before-senate-banking-panel",
+  "titleZh": "黄仁勋将公开作证接受参议院银行委员会询问",
+  "titleOriginal": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+  "summary": "前Nvidia CEO黄仁勋将公开作证，面对参议院银行委员会的询问。此前他因涉嫌与中国间谍有关联而在国会引发批评。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋将公开作证接受参议院银行委员会询问",
+    "涉及 suspected Chinese spy 相关争议",
+    "国会监督对科技高管的关注"
+  ],
+  "category": "finance",
+  "tags": [
+    "黄仁勋",
+    "Nvidia",
+    "参议院",
+    "中国间谍",
+    "监管"
+  ],
+  "entities": [
+    "Jensen Huang",
+    "Senate",
+    "Chairman Scott"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+  "publishedAt": "2026-11-20T19:42:53.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4e35998bc027b316",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "32ba775cde9b9e04",
+  "slug": "oracle-says-it-has-secured-funding-for-its-infrastructure-co",
+  "titleZh": "Oracle称已为OpenAI基础设施合同获取资金",
+  "titleOriginal": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+  "summary": "Oracle宣布已为与OpenAI的基础设施合同获取必要资金，并表示进一步与供应商的私下讨论仅为额外选项。公司称在本月完成最终融资后，成为本融资周期中首家全额资金的超大规模云服务商。Oracle Investor Day此前列出的融资方案（含供应商融资）已全部落实。",
+  "keyPoints": [
+    "Oracle完成OpenAI合同所需融资",
+    "成为本轮融资中首家全额资金的超大规模云服务商",
+    "进一步供应商讨论被视为额外选项"
+  ],
+  "category": "tech",
+  "tags": [
+    "Oracle",
+    "OpenAI",
+    "基础设施",
+    "融资",
+    "云服务"
+  ],
+  "entities": [
+    "OpenAI",
+    "Oracle"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261120/p43#a261120p43",
+  "publishedAt": "2026-11-21T00:25:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "579f9f977a15bbfb",
+  "status": "published"
+}

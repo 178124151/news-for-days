@@ -1,0 +1,34 @@
+{
+  "id": "c1a2af93db54bfcf",
+  "slug": "can-ai-help-scientists-identify-promising-drug-candidates",
+  "titleZh": "AI能否帮助科学家识别有前景药物候选物",
+  "titleOriginal": "Can AI help scientists identify promising drug candidates?",
+  "summary": "MedChemBench评估AI模型对分子结构的解释能力、从实验证据推理以及在早期药物发现中选择化合物的表现。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "MedChemBench评估AI模型对分子结构的解释能力",
+    "评估AI从实验证据推理的能力",
+    "评估AI在早期药物发现中选择化合物的表现"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "药物发现",
+    "MedChemBench",
+    "分子结构",
+    "早期研发"
+  ],
+  "entities": [
+    "Can AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-medchembench",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7cb45cca8abf013c",
+  "status": "published"
+}

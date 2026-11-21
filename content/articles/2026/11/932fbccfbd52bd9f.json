@@ -1,0 +1,32 @@
+{
+  "id": "932fbccfbd52bd9f",
+  "slug": "2026-932fbc",
+  "titleZh": "2026探索大会在京举行 虚实交融共探智能时代",
+  "titleOriginal": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+  "summary": "11月19日，由微博与新浪新闻联合主办的新浪新闻2026探索大会在北京举办，探讨虚实交融下的智能时代共生新图景。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "新浪新闻2026探索大会在北京举行",
+    "主题为虚实交融共探智能时代共生新图景",
+    "由微博与新浪新闻联合主办"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "2026探索大会",
+    "虚实交融",
+    "智能时代",
+    "北京活动"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511603.html",
+  "publishedAt": "2026-11-20T06:16:06.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9c8511b0fd3860c8",
+  "status": "published"
+}

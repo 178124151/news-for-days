@@ -1,0 +1,36 @@
+{
+  "id": "9976959f6cac5904",
+  "slug": "8-k-mobix-labs-inc-0001855467-filer",
+  "titleZh": "MOBIX LABS INC提交8-K文件",
+  "titleOriginal": "8-K - MOBIX LABS, INC (0001855467) (Filer)",
+  "summary": "MOBIX LABS, INC提交8-K文件，涉及持有人权利重大修订、章程或 bylaws 修订以及财年变更等项目。文件详细列出了项目3.03、5.03和9.01的具体内容。",
+  "keyPoints": [
+    "提交8-K文件报告重大修订事项",
+    "涉及持有人权利和章程修订",
+    "包含财年变更等具体项目"
+  ],
+  "category": "policy",
+  "tags": [
+    "8-K文件",
+    "公司治理",
+    "章程修订",
+    "持有人权利",
+    "财年变更"
+  ],
+  "entities": [
+    "MOBIX LABS",
+    "INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226053579/0001493152-26-053579-index.htm",
+  "publishedAt": "2026-11-20T22:30:44.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "46e7f9ce28fff39a",
+  "status": "published"
+}

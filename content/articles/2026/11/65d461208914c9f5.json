@@ -1,0 +1,35 @@
+{
+  "id": "65d461208914c9f5",
+  "slug": "nvidia-stock-plunges-14-wraps-up-longest-weekly-losing-strea",
+  "titleZh": "Nvidia股价暴跌14% 创2008年以来最长周跌",
+  "titleOriginal": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+  "summary": "Nvidia股价下跌14%，结束了自2008年金融危机以来最长的周跌 streak。曾是世界最值公司，现排名第四。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia股价跌14% 创近16年周跌新低",
+    "曾位列全球最值公司 现排名第四",
+    "跌幅创2008金融危机以来最长跌幅"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "股价",
+    "科技股",
+    "市值",
+    "跌势"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+  "publishedAt": "2026-11-20T22:59:33.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "54de290f0709f4be",
+  "status": "published"
+}

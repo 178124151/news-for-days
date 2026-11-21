@@ -1,0 +1,40 @@
+{
+  "id": "9d23c5e0b8609e22",
+  "slug": "sources-wonder-is-exploring-a-sale-of-grubhub-which-it-bough",
+  "titleZh": "Wonder探售Grubhub，曾2024年以6.5亿美元收购",
+  "titleOriginal": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)",
+  "summary": "据《华尔街日报》报道，Wonder正在探售Grubhub。该公司于2024年以6.5亿美元收购Grubhub后，现有银行家已接触沃尔玛、塔吉特、Kroger等零售商进行潜在收购洽谈。",
+  "keyPoints": [
+    "Wonder探售Grubhub，曾2024年以6.5亿美元收购",
+    "银行家接触沃尔玛、塔吉特、Kroger等零售商",
+    "潜在收购正在进行中"
+  ],
+  "category": "tech",
+  "tags": [
+    "Wonder",
+    "Grubhub",
+    "出售",
+    "零售商",
+    "并购"
+  ],
+  "entities": [
+    "Sources",
+    "Wonder",
+    "Grubhub",
+    "Walmart",
+    "Target",
+    "Kroger",
+    "Wall Street Journal"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261120/p41#a261120p41",
+  "publishedAt": "2026-11-20T23:20:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "22acef19ba672b53",
+  "status": "published"
+}

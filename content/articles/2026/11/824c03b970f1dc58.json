@@ -1,0 +1,38 @@
+{
+  "id": "824c03b970f1dc58",
+  "slug": "welcome-inkling-2-mini-cutting-edge-performance-for-your-loc",
+  "titleZh": "Inkling 2 Mini切边性能亮相",
+  "titleOriginal": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "summary": "Hugging Face发布Inkling 2 Mini，宣称在本地设置中提供前沿性能。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hugging Face发布Inkling 2 Mini",
+    "主打本地设置性能",
+    "宣称具前沿性能水平"
+  ],
+  "category": "ai",
+  "tags": [
+    "Inkling",
+    "Hugging Face",
+    "本地部署",
+    "性能",
+    "模型"
+  ],
+  "entities": [
+    "Welcome Inkling",
+    "Mini",
+    "Cutting",
+    "Performance",
+    "Local Setup"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/inkling2mini",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f0c7e370ddc4711d",
+  "status": "published"
+}

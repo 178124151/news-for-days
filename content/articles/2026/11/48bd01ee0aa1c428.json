@@ -1,0 +1,35 @@
+{
+  "id": "48bd01ee0aa1c428",
+  "slug": "zscaler-stock-jumps-18-on-report-that-crowdstrike-in-talks-t",
+  "titleZh": "Zscaler股价因CrowdStrike收购传闻上涨18%",
+  "titleOriginal": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+  "summary": "据报导，网络安全公司CrowdStrike正与安全供应商Zscaler进行收购谈判。网络安全公司近期在AI时代积极寻求并购机会。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CrowdStrike正在与Zscaler进行收购谈判",
+    "Zscaler股价因传闻上涨18%",
+    "网络安全公司在AI时代积极进行并购活动"
+  ],
+  "category": "finance",
+  "tags": [
+    "并购",
+    "网络安全",
+    "AI",
+    "股价",
+    "CrowdStrike"
+  ],
+  "entities": [
+    "Zscaler",
+    "CrowdStrike"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+  "publishedAt": "2026-11-20T21:35:24.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ad0e49cef83fa16a",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "66eae4612900f2e7",
+  "slug": "meta-reconsiders-2030-net-zero-goal-amid-record-emissions-fr",
+  "titleZh": "Meta因AI数据中心排放重新审视2030年净零目标",
+  "titleOriginal": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "summary": "Meta高管在最新可持续发展报告中表示，公司正重新评估2030年实现净零排放的目标。报告称，AI基础设施需求增长速度超出预期是导致排放记录增长的主要原因。公司将重新审视时间表、进度里程碑，以符合当前运营现实，同时保持透明度。",
+  "keyPoints": [
+    "Meta重新评估2030年净零排放目标",
+    "AI基础设施需求增长超出预期导致排放激增",
+    "公司将调整时间表和里程碑以符合运营现实"
+  ],
+  "category": "tech",
+  "tags": [
+    "Meta",
+    "净零",
+    "AI数据中心",
+    "可持续发展",
+    "排放"
+  ],
+  "entities": [
+    "Meta",
+    "AI"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "publishedAt": "2026-11-20T21:47:10.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c151b97c88aba03e",
+  "status": "published"
+}

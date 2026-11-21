@@ -1,0 +1,35 @@
+{
+  "id": "893f897b7109ae12",
+  "slug": "chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-t",
+  "titleZh": "芯片股周市值蒸发2.3万亿美元恐慌AI交易",
+  "titleOriginal": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+  "summary": "主要半导体指数本周表现创25年来最差。AI相关交易出现恐慌性抛售，导致芯片股市值短期内大幅蒸发。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "半导体指数本周跌幅创25年新低",
+    "AI交易出现恐慌性抛售",
+    "芯片股市值短期内蒸发2.3万亿美元"
+  ],
+  "category": "finance",
+  "tags": [
+    "芯片",
+    "AI",
+    "恐慌抛售",
+    "半导体",
+    "市值蒸发"
+  ],
+  "entities": [
+    "Chip",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-20T22:44:00.000Z",
+  "fetchedAt": "2026-11-21T03:24:15.754Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0b14b64db4104a6a",
+  "status": "published"
+}

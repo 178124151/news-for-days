@@ -1,0 +1,36 @@
+{
+  "id": "11490f68eafaf03c",
+  "slug": "8-k-pioneer-power-solutions-inc-0001449792-filer",
+  "titleZh": "8-K - PIONEER POWER SOLUTIONS, INC. (0001449792) (Filer)",
+  "titleOriginal": "8-K - PIONEER POWER SOLUTIONS, INC. (0001449792) (Filer)",
+  "summary": "Filed: 2026-11-20 AccNo: 0001493152-26-053559 Size: 221 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of…",
+  "keyPoints": [
+    "Filed: 2026-11-20 AccNo: 0001493152-26-…",
+    "8-K - PIONEER POWER SOLUTIONS, INC. (00…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "PIONEER POWER SOLUTIONS",
+    "INC",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "PIONEER POWER SOLUTIONS",
+    "INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1449792/000149315226053559/0001493152-26-053559-index.htm",
+  "publishedAt": "2026-11-20T22:20:22.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 37,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "a2f771e4f87469db",
+  "status": "published"
+}

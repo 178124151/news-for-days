@@ -1,0 +1,36 @@
+{
+  "id": "42c8bb73026b8e0c",
+  "slug": "america-is-definitely-rich-enough-to-fix-social-security-and",
+  "titleZh": "美国有足够的财富修复社会保障和医疗保险",
+  "titleOriginal": "America is definitely rich enough to fix Social Security and Medicare. Here&#x2019;s how.",
+  "summary": "市场观察指出美国有足够的财富修复社会保障和医疗保险，只需一种低痛税即可解决问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美国有足够的财富修复社会保障和医疗保险",
+    "提出一种低痛税方案解决财政问题",
+    "旨在解决长期财政可持续性问题"
+  ],
+  "category": "finance",
+  "tags": [
+    "社会保障",
+    "医疗保险",
+    "税收改革",
+    "财政政策",
+    "老龄化"
+  ],
+  "entities": [
+    "America",
+    "Social Security",
+    "Medicare"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-21T18:20:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "be3dbd66b2f60185",
+  "status": "published"
+}

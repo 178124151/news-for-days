@@ -1,0 +1,34 @@
+{
+  "id": "47e97c559182f697",
+  "slug": "x2018-buyers-are-out-for-blood-x2019-with-home-sales-at-a-re",
+  "titleZh": "买家因房产销量创新低而掌握主动权",
+  "titleOriginal": "&#x2018;Buyers are out for blood&#x2019;: With home sales at a record low, buyers are calling the shots",
+  "summary": "市场上仅存的买家面对创纪录的高房价和7%抵押贷款利率，开始掌握议价权。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "市场买家因房产销量创新低而增多",
+    "买家面对创纪录高房价和7%抵押贷款利率",
+    "买家开始掌握议价权"
+  ],
+  "category": "finance",
+  "tags": [
+    "房地产",
+    "市场动态",
+    "买家议价",
+    "抵押贷款",
+    "价格谈判"
+  ],
+  "entities": [
+    "Buyers"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-21T19:45:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f58c2abdacf949d2",
+  "status": "published"
+}

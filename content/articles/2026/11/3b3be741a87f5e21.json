@@ -1,0 +1,36 @@
+{
+  "id": "3b3be741a87f5e21",
+  "slug": "introducing-openai-for-chile",
+  "titleZh": "OpenAIChile计划：支持智利负责任AI采用",
+  "titleOriginal": "Introducing OpenAI for Chile",
+  "summary": "OpenAI与智利政府合作，支持智利负责任AI采用、建设公共部门AI技能并助力本地初创企业开发AI应用。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI与智利政府合作推进AI计划",
+    "重点支持负责任AI采用和公共部门技能建设",
+    "助力智利本地初创企业开发AI应用"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "智利政府",
+    "负责任AI",
+    "公共部门",
+    "初创企业"
+  ],
+  "entities": [
+    "OpenAI",
+    "Introducing OpenAI",
+    "Chile"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-openai-for-chile",
+  "publishedAt": "2026-11-17T00:00:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e0aca074990ab08b",
+  "status": "published"
+}

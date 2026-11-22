@@ -1,0 +1,35 @@
+{
+  "id": "9f8ac8ad721a5e0b",
+  "slug": "review-godzilla-minus-zero-joins-the-list-of-truly-stellar-s",
+  "titleZh": "影评：Godzilla Minus Zero 续作佳作",
+  "titleOriginal": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+  "summary": "Godzilla Minus Zero 被列为真正杰出的续作之一。导演Takashi Yamazaki 将事件设定在战后日本，结合核浩劫象征意义与人性主题。影片融合人文关怀、出色特效与两大怪兽的对决，延续了Godzilla Minus One 的高水准。",
+  "keyPoints": [
+    "导演回归Godzilla电影根源，设定战后日本",
+    "融合核浩劫象征与人性主题的 guilt 与 redemption",
+    "特效出色，两大怪兽对决精彩"
+  ],
+  "category": "tech",
+  "tags": [
+    "Godzilla",
+    "电影续作",
+    "视觉特效",
+    "日本电影",
+    "怪兽电影"
+  ],
+  "entities": [
+    "Review",
+    "Godzilla Minus Zero"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+  "publishedAt": "2026-11-21T22:12:41.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 55,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "af4e8caeb342b189",
+  "status": "published"
+}

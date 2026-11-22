@@ -1,0 +1,32 @@
+{
+  "id": "995ac4e06e04a4ba",
+  "slug": "995ac4e06e04a4ba",
+  "titleZh": "全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响",
+  "titleOriginal": "全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响",
+  "summary": "全国秋冬种进入尾声，主产区因地制宜开展冬季田管。冬油菜播种基本结束，湖南推广机械化播种技术，全省机械直播面积达769万亩。河南提前发布麦播技术指导方案。受超强厄尔尼诺影响，今冬明春气候波动明显，冬季气温偏高但寒潮频次多、冷暖起伏大，给作物越冬带来挑战。",
+  "keyPoints": [
+    "秋冬种进入尾声，主产区开展冬季田管",
+    "冬油菜播种基本结束，湖南机械直播面积达769万亩",
+    "受厄尔尼诺影响冬季气候波动，作物越冬面临挑战"
+  ],
+  "category": "tech",
+  "tags": [
+    "秋冬种",
+    "油菜",
+    "小麦",
+    "厄尔尼诺",
+    "农业技术"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4080209929016455?f=rss",
+  "publishedAt": "2026-11-22T02:15:01.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a5cb443bf7bf467f",
+  "status": "published"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "32af5ab215dc32f4",
+  "slug": "reddit-hy",
+  "titleZh": "姚顺雨和混元团队上Reddit答网友",
+  "titleOriginal": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+  "summary": "Hy小模型已进路线图，并透露了不少训练背后的秘诀。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hy小模型已进路线图",
+    "透露训练背后的秘诀",
+    "混元团队Reddit互动"
+  ],
+  "category": "ai",
+  "tags": [
+    "混元模型",
+    "小模型",
+    "训练秘诀"
+  ],
+  "entities": [
+    "Reddit",
+    "Hy"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511757.html",
+  "publishedAt": "2026-11-21T06:30:55.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 62,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f7154472ae2ae3f2",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ca9ca0837de1673f",
+  "slug": "genie-4-is-now-available",
+  "titleZh": "Genie 4 is now available",
+  "titleOriginal": "Genie 4 is now available",
+  "summary": "Google DeepMind发布Genie 4，现已可用。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google DeepMind发布Genie 4",
+    "现已可用",
+    "AI模型新版本"
+  ],
+  "category": "ai",
+  "tags": [
+    "Genie",
+    "Google DeepMind",
+    "模型发布"
+  ],
+  "entities": [
+    "Genie"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "publishedAt": "2026-11-18T18:13:42.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 50,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "23694bedf9490a78",
+  "status": "published"
+}

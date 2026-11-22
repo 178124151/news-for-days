@@ -1,0 +1,32 @@
+{
+  "id": "6d394cf0aebf3be7",
+  "slug": "6d394cf0aebf3be7",
+  "titleZh": "澳大利亚房屋拍卖数量减少，清盘率小幅上升",
+  "titleOriginal": "澳大利亚房屋拍卖数量减少，清盘率小幅上升",
+  "summary": "澳大利亚房产拍卖成交率小幅回升至46.9%，较前一周上升2.9个百分点。但入市房源持续减少，楼市仍处下行周期。成交率虽上升但仍低于春季均值50.1%和冬季均值52.3%，处于今春以来第二低水平。",
+  "keyPoints": [
+    "拍卖成交率小幅回升至46.9%",
+    "入市房源持续减少，楼市下行周期未结束",
+    "成交率仍低于历史均值，市场信心不足"
+  ],
+  "category": "tech",
+  "tags": [
+    "房地产",
+    "拍卖",
+    "楼市",
+    "清盘率",
+    "下行周期"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4080209429058693?f=rss",
+  "publishedAt": "2026-11-22T02:00:33.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "65a9c4becffbcc6d",
+  "status": "published"
+}

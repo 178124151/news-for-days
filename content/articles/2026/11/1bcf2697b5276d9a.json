@@ -1,0 +1,36 @@
+{
+  "id": "1bcf2697b5276d9a",
+  "slug": "8-k-q-c-technologies-inc-0001321834-filer",
+  "titleZh": "8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)",
+  "titleOriginal": "8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)",
+  "summary": "Filed: 2026-11-20 AccNo: 0001493152-26-053558 Size: 342 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.03: Material Modifications to Rights of Security Holders Item 9.01: Financial …",
+  "keyPoints": [
+    "Filed: 2026-11-20 AccNo: 0001493152-26-…",
+    "8-K - Q/C TECHNOLOGIES, INC. (000132183…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "C TECHNOLOGIES",
+    "INC",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "C TECHNOLOGIES",
+    "INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1321834/000149315226053558/0001493152-26-053558-index.htm",
+  "publishedAt": "2026-11-20T22:20:19.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 37,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "30fa22aac2ca7f7e",
+  "status": "published"
+}

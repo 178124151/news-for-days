@@ -1,0 +1,35 @@
+{
+  "id": "daa8fb204fd1965d",
+  "slug": "amazon-is-complaining-about-nyc-council-on-shipping-labels-t",
+  "titleZh": "Amazon对纽约市议会运输标签法案投诉",
+  "titleOriginal": "Amazon is complaining about NYC Council on shipping labels, too",
+  "summary": "Amazon在纽约市议会针对配送保护法案的抗争中，开始在发货标签上声称市议会可能每单额外收取5美元。该法案将有效禁止Amazon目前使用的第三方配送安排，包括小公司和独立承包商。最后一公里配送企业将需获市政府许可并直接雇佣工人。",
+  "keyPoints": [
+    "Amazon在标签上警告额外5美元费用",
+    "纽约市议会法案将限制Amazon第三方配送安排",
+    "最后一公里配送将需许可并直接雇佣工人"
+  ],
+  "category": "tech",
+  "tags": [
+    "Amazon",
+    "纽约",
+    "配送法案",
+    "第三方配送",
+    "劳工权益"
+  ],
+  "entities": [
+    "Amazon",
+    "NYC Council"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+  "publishedAt": "2026-11-21T21:59:31.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1161d08f5ac7ca1f",
+  "status": "published"
+}

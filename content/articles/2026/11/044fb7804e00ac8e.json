@@ -1,0 +1,36 @@
+{
+  "id": "044fb7804e00ac8e",
+  "slug": "a-tale-of-two-nvidias",
+  "titleZh": "两张 Nvidia 面孔：财报与高管呼吁黄仁勋回归",
+  "titleOriginal": "A tale of two Nvidias",
+  "summary": "市场对 Nvidia 财报解读与高管公开呼吁 Jensen Huang 回归形成两种不同图景。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia 财报与高管呼吁黄仁勋回归形成对比",
+    "市场出现两种不同的 Nvidia 形象",
+    "高管层面的回归呼声"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "财报",
+    "黄仁募",
+    "科技高管",
+    "市场解读"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Nvidias"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "publishedAt": "2026-11-21T21:07:42.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "18ec3e1894f71b40",
+  "status": "published"
+}

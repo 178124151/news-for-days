@@ -1,0 +1,34 @@
+{
+  "id": "095ecabb09c33390",
+  "slug": "tech-outages-are-fueling-a-new-doomsday-economy",
+  "titleZh": "科技故障助燃新的末日经济",
+  "titleOriginal": "Tech outages are fueling a new doomsday economy",
+  "summary": "近期科技故障引发人们对 AI 网络攻击和美国电力电网安全的担忧，末日经济因素升温。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "科技故障引发对 AI 网络攻击的担忧",
+    "美国电力电网安全受到关注",
+    "末日经济因素因技术风险而升温"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技故障",
+    "AI 网络攻击",
+    "电力电网",
+    "末日经济",
+    "网络安全"
+  ],
+  "entities": [
+    "Tech"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+  "publishedAt": "2026-11-21T15:04:56.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b82490c14e47932f",
+  "status": "published"
+}

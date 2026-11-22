@@ -1,0 +1,35 @@
+{
+  "id": "3d32bfc7be5120cb",
+  "slug": "trump-says-there-could-be-a-positive-spin-from-the-latest-fb",
+  "titleZh": "特朗普称最新 FBI 数据库黑客攻击可能有‘正面解读'",
+  "titleOriginal": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+  "summary": "特朗普称最新 FBI 数据库黑客攻击可能有正面解读，这将是第二起 FBI 系统入侵。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "特朗普试图从 FBI 数据库黑客攻击中寻找正面因素",
+    "这是继近期之后第二起 FBI 系统入侵事件",
+    "黑客攻击事件引发对政府系统安全的担忧"
+  ],
+  "category": "finance",
+  "tags": [
+    "特朗普",
+    "FBI",
+    "数据库安全",
+    "网络安全",
+    "政府系统"
+  ],
+  "entities": [
+    "Trump",
+    "FBI"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+  "publishedAt": "2026-11-21T16:57:34.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "26ccae7291be9e79",
+  "status": "published"
+}

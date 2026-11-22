@@ -1,0 +1,35 @@
+{
+  "id": "f1e281a16dfe8ab3",
+  "slug": "x2018-never-too-late-to-start-x2019-practical-investing-advi",
+  "titleZh": "‘永远不晚起步'：顶级女性理财建议",
+  "titleOriginal": "&#x2018;Never too late to start&#x2019;: Practical investing advice from some of the top women in finance",
+  "summary": "市场观察汇集顶级女性理财建议，指出美国富有且有影响力的女性群体正逐渐崛起。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "顶级女性分享理财建议",
+    "美国富有女性群体影响力上升",
+    "鼓励晚起步也能实现财富积累"
+  ],
+  "category": "finance",
+  "tags": [
+    "女性理财",
+    "投资建议",
+    "财富管理",
+    "性别平等",
+    "金融趋势"
+  ],
+  "entities": [
+    "Never",
+    "Practical"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-21T18:19:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ca1ec10da9a6778d",
+  "status": "published"
+}

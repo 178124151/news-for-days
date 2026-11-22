@@ -1,0 +1,36 @@
+{
+  "id": "3de63ee82b4d0b91",
+  "slug": "anthropics-record-ipo-collides-with-techs-worst-week-on-wall",
+  "titleZh": "Anthropic IPO与壁 Street 最差周自2020以来",
+  "titleOriginal": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+  "summary": "Anthropic 在纳斯达克首次公开募股，次日 Nvidia 股价收跌创 2008 年以来最长 weekly 输。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic 历史性纳斯达克首日上市",
+    "Nvidia 股价创 2008 年以来最长周连跌",
+    "科技股整体表现疲软"
+  ],
+  "category": "finance",
+  "tags": [
+    "IPO",
+    "Anthropic",
+    "Nvidia",
+    "股市",
+    "科技周"
+  ],
+  "entities": [
+    "Anthropic",
+    "IPO",
+    "Wall Street"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+  "publishedAt": "2026-11-21T16:40:05.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1dab0beaca58f389",
+  "status": "published"
+}

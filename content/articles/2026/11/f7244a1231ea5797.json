@@ -1,0 +1,34 @@
+{
+  "id": "f7244a1231ea5797",
+  "slug": "an-illusion-of-glitz-and-glamour-inside-californias-modern-d",
+  "titleZh": "加州现代淘金潮：小型矿工投入劳力挖金",
+  "titleOriginal": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+  "summary": "金价上涨引发加州现代淘金潮，小型矿工投入时间、体力和资金开采黄金。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "金价上涨驱动加州小型淘金热",
+    "矿工投入时间、体力和资金开采黄金",
+    "小规模矿工参与现代黄金开采"
+  ],
+  "category": "finance",
+  "tags": [
+    "金价",
+    "加州",
+    "小型矿工",
+    "黄金开采",
+    "资源投入"
+  ],
+  "entities": [
+    "Inside California"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+  "publishedAt": "2026-11-21T14:05:40.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3c3e5892c2bdc97e",
+  "status": "published"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "a1de396d3910fa2e",
+  "slug": "le-groupe-figaro-and-openai-partner-to-bring-le-figaro-journ",
+  "titleZh": "勒菲加与OpenAI合作引入报道至ChatGPT",
+  "titleOriginal": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "summary": "勒菲加和OpenAI合作，通过摘要和摘录将勒菲加新闻内容带给ChatGPT用户，并提供原文链接。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "勒菲加与OpenAI建立合作伙伴关系",
+    "内容通过摘要和摘录形式呈现",
+    "用户可通过链接阅读原始报道"
+  ],
+  "category": "ai",
+  "tags": [
+    "勒菲加",
+    "ChatGPT",
+    "新闻合作",
+    "内容摘要",
+    "媒体合作"
+  ],
+  "entities": [
+    "OpenAI",
+    "ChatGPT",
+    "Le Groupe Figaro",
+    "Le Figaro"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "publishedAt": "2026-11-18T00:00:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "860a12d9208ae0fe",
+  "status": "published"
+}

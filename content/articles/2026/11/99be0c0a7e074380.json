@@ -1,0 +1,35 @@
+{
+  "id": "99be0c0a7e074380",
+  "slug": "managing-frontier-ai-risk-from-training-to-deployment",
+  "titleZh": "管理前沿AI风险：从训练到部署",
+  "titleOriginal": "Managing frontier AI risk: From training to deployment",
+  "summary": "OpenAI介绍从训练到部署管理前沿AI风险的方法，包括模型对齐、沙箱隔离、阻断防护和监控。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI阐述前沿AI风险管理流程",
+    "涵盖模型对齐、沙箱隔离等技术手段",
+    "从训练阶段持续到部署环节"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI风险",
+    "模型对齐",
+    "沙箱隔离",
+    "监控",
+    "OpenAI"
+  ],
+  "entities": [
+    "Managing",
+    "AI"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/managing-frontier-ai-risk",
+  "publishedAt": "2026-11-18T06:00:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "42da33c952ec2925",
+  "status": "published"
+}

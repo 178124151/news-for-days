@@ -1,0 +1,33 @@
+{
+  "id": "0ec6a9a661e3f4e4",
+  "slug": "gpt-6-2-astra-16-gpt-6-astra",
+  "titleZh": "GPT-6.2 Astra再次暴击具身模型",
+  "titleOriginal": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+  "summary": "GPT-6.2 Astra在16项任务中成功率较GPT-6 Astra，并实现可变形物体操控全球首通。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "GPT-6.2 Astra在16项任务中成功率较GPT-6 Astra",
+    "实现可变形物体操控全球首通",
+    "具身模型能力显著提升"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI模型",
+    "具身智能",
+    "任务成功率"
+  ],
+  "entities": [
+    "GPT",
+    "Astra"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511779.html",
+  "publishedAt": "2026-11-21T06:35:59.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "da022a69ad805ac0",
+  "status": "published"
+}

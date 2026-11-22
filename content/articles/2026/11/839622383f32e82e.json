@@ -1,0 +1,36 @@
+{
+  "id": "839622383f32e82e",
+  "slug": "8-k-sunation-energy-inc-0000022701-filer",
+  "titleZh": "8-K - SUNation Energy, Inc. (0000022701) (Filer)",
+  "titleOriginal": "8-K - SUNation Energy, Inc. (0000022701) (Filer)",
+  "summary": "Filed: 2026-11-20 AccNo: 0001213900-26-122794 Size: 389 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+  "keyPoints": [
+    "Filed: 2026-11-20 AccNo: 0001213900-26-…",
+    "8-K - SUNation Energy, Inc. (0000022701…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "SUNation Energy",
+    "Inc",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "SUNation Energy",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm",
+  "publishedAt": "2026-11-20T22:26:25.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 37,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "5a4dca10b8594d74",
+  "status": "published"
+}

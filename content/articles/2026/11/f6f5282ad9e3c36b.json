@@ -1,0 +1,35 @@
+{
+  "id": "f6f5282ad9e3c36b",
+  "slug": "signal-restricts-mobile-screenshots-as-it-confronts-existent",
+  "titleZh": "Signal 限制移动端截图以应对 AI 监控威胁",
+  "titleOriginal": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "summary": "Signal 在 Android 和 iOS 应用中限制用户截图功能，以应对 AI 监控的‘生存威胁’。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Signal 限制 Android/iOS 截图功能",
+    "应对 AI 监控的生存威胁",
+    "保护用户隐私安全"
+  ],
+  "category": "tech",
+  "tags": [
+    "Signal",
+    "AI 监控",
+    "隐私保护",
+    "移动应用",
+    "安全"
+  ],
+  "entities": [
+    "Signal",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "publishedAt": "2026-11-21T21:37:10.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 52,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "eaa12679acce5b43",
+  "status": "published"
+}

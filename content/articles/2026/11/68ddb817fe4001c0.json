@@ -1,0 +1,35 @@
+{
+  "id": "68ddb817fe4001c0",
+  "slug": "advancing-chip-design-with-openai-models",
+  "titleZh": "利用OpenAI模型推进芯片设计",
+  "titleOriginal": "Advancing chip design with OpenAI models",
+  "summary": "OpenAI模型优化了Jalapeño芯片和RISC-V核心设计，展示AI辅助芯片设计的进展。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI模型优化Jalapeño芯片设计",
+    "改进RISC-V核心设计展示进展",
+    "体现AI在芯片设计中的应用潜力"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI芯片",
+    "RISC-V",
+    "Jalapeño",
+    "模型优化",
+    "设计进展"
+  ],
+  "entities": [
+    "OpenAI",
+    "Advancing"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "publishedAt": "2026-11-18T00:00:00.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 72,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4a0f3a147013928e",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d149a01a2bca0d26",
+  "slug": "d149a01a2bca0d26",
+  "titleZh": "韩国悬赏重金查处高考作弊者",
+  "titleOriginal": "韩国悬赏重金查处高考作弊者",
+  "summary": "韩国总统李在明宣布，高考举报者每举报一起作弊可获1亿韩元奖金。作弊者主动承认并举报他人可获奖金并从轻处罚。教育部称当日共查处111名携带智能设备违规考生。李在明将高考作弊比作公职腐败，呼吁高考制度全面改革，应对人工智能新型作弊挑战。",
+  "keyPoints": [
+    "举报奖金高达1亿韩元，鼓励举报作弊",
+    "作弊者主动承认可获奖金从轻处罚",
+    "教育部查处111名携带智能设备考生"
+  ],
+  "category": "tech",
+  "tags": [
+    "高考",
+    "作弊",
+    "人工智能",
+    "制度改革",
+    "教育监管"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4080208942650248?f=rss",
+  "publishedAt": "2026-11-22T01:45:01.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b35c87025e1991bb",
+  "status": "published"
+}

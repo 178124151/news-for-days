@@ -1,0 +1,32 @@
+{
+  "id": "fa0b7c6e978692db",
+  "slug": "2026-1",
+  "titleZh": "2026年度领航级智能工厂名单公布 陕西中航西安入选",
+  "titleOriginal": "2026年度领航级智能工厂培育名单公布 陕西1家工厂入选",
+  "summary": "工业和信息化部等六部门公布2026年度领航级智能工厂培育名单，全国共34家工厂入选，陕西1家为中航西安飞机工业集团的大型飞机柔性协同高性能制造智能工厂。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "全国共34家工厂入选2026年度领航级智能工厂",
+    "陕西1家入选：中航西安飞机工业集团",
+    "具备全周期研发制造试验维修能力"
+  ],
+  "category": "tech",
+  "tags": [
+    "智能工厂",
+    "工业 4.0",
+    "中航西安",
+    "制造业",
+    "陕西"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4080211428348806?f=rss",
+  "publishedAt": "2026-11-22T02:30:34.000Z",
+  "fetchedAt": "2026-11-22T02:32:55.362Z",
+  "importance": 48,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "707a182839c3d8b0",
+  "status": "published"
+}

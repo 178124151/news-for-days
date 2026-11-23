@@ -1,0 +1,32 @@
+{
+  "id": "9fe6d2ae73e55f52",
+  "slug": "our-first-phase-of-embedded-assessments",
+  "titleZh": "OpenAI开始首阶段嵌入式评估",
+  "titleOriginal": "Our first phase of embedded assessments",
+  "summary": "OpenAI与Apollo Research、METR、Transluce及Goodfire合作，独立评估模型对齐、保障措施和监控系统。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "与多机构合作进行嵌入式评估",
+    "独立评估模型对齐与保障",
+    "关注监控系统与对齐安全"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "嵌入式评估",
+    "模型安全",
+    "对齐",
+    "监控系统"
+  ],
+  "entities": [],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "publishedAt": "2026-11-16T08:00:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "244ad978693bb8d9",
+  "status": "published"
+}

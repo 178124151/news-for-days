@@ -1,0 +1,35 @@
+{
+  "id": "f2ae25bdae92e07f",
+  "slug": "8-k-pearl-diver-credit-co-inc-0001998043-filer",
+  "titleZh": "珊瑚潜水信用合作社提交8-K文件",
+  "titleOriginal": "8-K - Pearl Diver Credit Co Inc. (0001998043) (Filer)",
+  "summary": "珊瑚潜水信用合作社于2026年11月20日提交8-K文件，项目包括其他事件及财务报表及展览。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "公司于2026年11月20日提交8-K文件",
+    "项目包含其他事件",
+    "包含财务报表及展览"
+  ],
+  "category": "policy",
+  "tags": [
+    "信用合作社",
+    "SEC filing",
+    "2026年11月",
+    "其他事件",
+    "财务报表"
+  ],
+  "entities": [
+    "Pearl Diver Credit",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1998043/000121465926014639/0001214659-26-014639-index.htm",
+  "publishedAt": "2026-11-20T22:17:51.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f4dafcf36c5feaa8",
+  "status": "published"
+}

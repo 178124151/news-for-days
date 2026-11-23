@@ -1,0 +1,37 @@
+{
+  "id": "f53e1d2e54383adb",
+  "slug": "sources-amid-leak-fears-anthropic-limited-some-ipo-banks-to-",
+  "titleZh": "Anthropic 限制 IPO 银行团队规模与顾问禁令",
+  "titleOriginal": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+  "summary": "据知情人士透露，因担心信息泄露，Anthropic 将部分 IPO 银行团队限制在四人组，使用了查看日志的文件平台，并寻求为顾问实施六个月的竞争对手禁令。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Anthropic 因泄密风险限制 IPO 团队规模",
+    "使用查看日志平台监控文件访问",
+    "寻求对顾问的六个月竞业禁止"
+  ],
+  "category": "tech",
+  "tags": [
+    "Anthropic",
+    "IPO",
+    "信息安全",
+    "银行业",
+    "竞业禁止"
+  ],
+  "entities": [
+    "Anthropic",
+    "Sources",
+    "IPO",
+    "Reuters"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261122/p8#a261122p8",
+  "publishedAt": "2026-11-22T17:15:01.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "32c15e1025ebefa1",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4d6f22963d28c3eb",
+  "slug": "ai-enhanced-robotics-b",
+  "titleZh": "AI体育硬件公司“英汉思动力Enhanced Robotics”完成超亿元B轮融资",
+  "titleOriginal": "AI体育硬件公司“英汉思动力Enhanced Robotics”完成超亿元B轮融资",
+  "summary": "AI体育硬件公司“英汉思动力Enhanced Robotics”完成超亿元B轮融资，投资方为国科投资。资金将重点投向技术研发、产能升级扩容与市场化落地，并加码海外渠道建设，搭建海外经销与用户服务体系。",
+  "keyPoints": [
+    "完成超亿元B轮融资，投资方为国科投资",
+    "资金重点投向技术研发、产能升级及市场化落地",
+    "加码海外渠道建设，搭建海外经销与服务体系"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI体育硬件",
+    "B轮融资",
+    "国科投资",
+    "产能扩容",
+    "海外渠道"
+  ],
+  "entities": [
+    "AI",
+    "Enhanced Robotics"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4081734258234246?f=rss",
+  "publishedAt": "2026-11-23T02:34:48.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "567382896242659b",
+  "status": "published"
+}

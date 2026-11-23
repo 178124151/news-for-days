@@ -1,0 +1,30 @@
+{
+  "id": "b27a6c42b0deaef8",
+  "slug": "ive-studied-over-200-kids-to-avoid-raising-a-people-pleaser-",
+  "titleZh": "研究200多名孩子：避免养成取悦型人格， ditch 6 种育儿习惯",
+  "titleOriginal": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
+  "summary": "有意识育儿教练 Reem Raouda 与200多个家庭合作，分享六种值得重新考虑的习惯，如将分歧视为不尊重。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Reem Raouda 与200+家庭合作",
+    "分享六种需重新考虑的育儿习惯",
+    "包括将分歧视为不尊重"
+  ],
+  "category": "finance",
+  "tags": [
+    "育儿教育",
+    "心理健康",
+    "家庭关系"
+  ],
+  "entities": [],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+  "publishedAt": "2026-11-22T17:33:25.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a40b3fa3b6a85d97",
+  "status": "published"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "314b78a6e897f785",
+  "slug": "corporate-america-hunts-for-x2018-generational-x2019-growth-",
+  "titleZh": "企业 America 寻找 AI、交易卡和 LA 机场的 \"世代增长\"",
+  "titleOriginal": "Corporate America hunts for &#x2018;generational&#x2019; growth in AI, trading cards and the L.A. airport",
+  "summary": "高管在业绩电话中称多种趋势为 \"once-in-a-generation\"，但文中未对这些趋势的实际增长潜力进行实质性分析。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "高管称多趋势为 \"once-in-a-generation\"",
+    "涉及 AI、交易卡和 LA 机场",
+    "文中未分析实际增长潜力"
+  ],
+  "category": "finance",
+  "tags": [
+    "AI 趋势",
+    "市场热点",
+    "企业战略"
+  ],
+  "entities": [
+    "Corporate America",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-22T21:51:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "05850f6828e6a60c",
+  "status": "published"
+}

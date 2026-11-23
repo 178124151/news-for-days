@@ -1,0 +1,35 @@
+{
+  "id": "f827f4526311362f",
+  "slug": "8-k-one-nuclear-energy-inc-0001846416-filer",
+  "titleZh": "ONE核能公司提交8-K文件",
+  "titleOriginal": "8-K - ONE Nuclear Energy Inc. (0001846416) (Filer)",
+  "summary": "ONE核能公司于2026年11月20日提交8-K文件，涉及重大协议、未注册股权发售、监管FD披露及财务报表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "公司于2026年11月20日提交8-K文件",
+    "涉及重大协议及未注册股权发售",
+    "包含监管FD披露及财务报表"
+  ],
+  "category": "policy",
+  "tags": [
+    "核能",
+    "SEC filing",
+    "2026年11月",
+    "重大协议",
+    "财务报表"
+  ],
+  "entities": [
+    "ONE Nuclear Energy",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226053556/0001493152-26-053556-index.htm",
+  "publishedAt": "2026-11-20T22:17:40.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ab4e30ca9dcda1b6",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9a9f2d276ba2011c",
+  "slug": "social-security-should-be-shut-down-this-republican-senator-",
+  "titleZh": "共和党参议员称应关闭社会保障",
+  "titleOriginal": "Social Security should be shut down, this Republican senator says",
+  "summary": "该参议员表示，社会保障信托基金预计在六年内耗尽资金。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "参议员主张关闭社会保障",
+    "信托基金预计六年内耗尽",
+    "涉及财政可持续性争议"
+  ],
+  "category": "finance",
+  "tags": [
+    "社会保障",
+    "财政政策",
+    "共和党",
+    "退休金",
+    "信托基金"
+  ],
+  "entities": [
+    "Social Security",
+    "Republican"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-22T20:26:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "67e9bafe1e11f220",
+  "status": "published"
+}

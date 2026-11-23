@@ -1,0 +1,32 @@
+{
+  "id": "4d53d9efe91f3f28",
+  "slug": "4d53d9efe91f3f28",
+  "titleZh": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
+  "titleOriginal": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
+  "summary": "上海黄金交易所公告，近期影响市场不稳定因素较多，不确定性持续上升，贵金属价格波动显著加剧。提示会员单位密切关注市场行情，做好风险应急预案，维护市场平稳运行。同时提示投资者做好风险防范，合理控制仓位，理性投资。",
+  "keyPoints": [
+    "近期市场不稳定因素较多，不确定性持续上升",
+    "贵金属价格波动显著加剧，需做好风险应急预案",
+    "提示会员单位和投资者做好风险防范与理性投资"
+  ],
+  "category": "tech",
+  "tags": [
+    "上海黄金交易所",
+    "市场风险控制",
+    "贵金属波动",
+    "风险防范",
+    "投资者提示"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4081675342320773?f=rss",
+  "publishedAt": "2026-11-23T01:34:52.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "abb2b19be09685bb",
+  "status": "published"
+}

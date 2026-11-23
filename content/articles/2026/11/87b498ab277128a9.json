@@ -1,0 +1,39 @@
+{
+  "id": "87b498ab277128a9",
+  "slug": "tpg-and-corpay-agree-to-acquire-and-take-private-bill-holdin",
+  "titleZh": "TPG and Corpay agree to acquire and take private BILL Holdings",
+  "titleOriginal": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
+  "summary": "TPG和Corpay同意以约60亿美元估值收购并退市BILL Holdings，BILL Holdings提供云端软件，让中小企业自动化财务运营。交易由私募股权集团TPG与Corpay合作完成。",
+  "keyPoints": [
+    "TPG和Corpay同意以约60亿美元估值收购BILL Holdings",
+    "交易将使BILL Holdings退市私有",
+    "BILL Holdings提供云端软件，让中小企业自动化财务运营"
+  ],
+  "category": "tech",
+  "tags": [
+    "TPG",
+    "Corpay",
+    "BILL Holdings",
+    "收购",
+    "金融科技"
+  ],
+  "entities": [
+    "TPG",
+    "Corpay",
+    "BILL Holdings",
+    "SMBs",
+    "Pritam Biswas",
+    "Reuters"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261122/p17#a261122p17",
+  "publishedAt": "2026-11-23T02:35:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "57e7f9f57d2d728a",
+  "status": "published"
+}

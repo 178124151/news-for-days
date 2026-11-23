@@ -1,0 +1,32 @@
+{
+  "id": "611f38c2de23bf0e",
+  "slug": "lets-weigh-the-cons-and-pros-of-this-brutal-market-to-find-a",
+  "titleZh": "权衡市场利弊寻找前进之路",
+  "titleOriginal": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+  "summary": "文章提到列表有助于在当下做出最明智的决策，但不一定总是对的。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "列表有助于做出明智决策",
+    "决策不一定总是正确",
+    "列表反映当下信息状态"
+  ],
+  "category": "finance",
+  "tags": [
+    "市场分析",
+    "决策方法",
+    "投资策略"
+  ],
+  "entities": [
+    "Let"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+  "publishedAt": "2026-11-22T23:49:44.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "56f4d0e1cffc415c",
+  "status": "published"
+}

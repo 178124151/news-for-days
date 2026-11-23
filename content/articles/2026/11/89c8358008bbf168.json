@@ -1,0 +1,34 @@
+{
+  "id": "89c8358008bbf168",
+  "slug": "1551-apl-apollo-tubes-26-38",
+  "titleZh": "塔塔钢铁拟最高1551亿印度卢比收购APL Apollo Tubes 26.38%股权",
+  "titleOriginal": "塔塔钢铁拟最高1551亿印度卢比收购APL Apollo Tubes 26.38%股权，并发起公开收购",
+  "summary": "塔塔钢铁拟以最高约1551.06亿印度卢比收购APL Apollo Tubes主要股东所持26.38%股权，分三阶段完成，交易价格每股2100卢比。同时发起公开收购，每股2301.40卢比，拟收购最多26%股权。两项交易完成后，塔塔钢铁持股比例最高达52.38%，成为发起人，扩大下游增值产品业务。",
+  "keyPoints": [
+    "拟最高1551亿印度卢比收购APL Apollo Tubes 26.38%股权",
+    "分三阶段完成，交易价格每股2100卢比",
+    "同时发起公开收购，每股2301.40卢比，拟收购最多26%股权"
+  ],
+  "category": "tech",
+  "tags": [
+    "塔塔钢铁",
+    "APL Apollo Tubes",
+    "股权收购",
+    "下游业务",
+    "印度市场"
+  ],
+  "entities": [
+    "APL Apollo Tubes"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4081721303536773?f=rss",
+  "publishedAt": "2026-11-23T02:21:37.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "155b3f2530ab9e63",
+  "status": "published"
+}

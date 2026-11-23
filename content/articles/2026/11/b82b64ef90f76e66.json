@@ -1,0 +1,34 @@
+{
+  "id": "b82b64ef90f76e66",
+  "slug": "how-revolut-raises-ambition-without-lowering-the-bar",
+  "titleZh": "Revolut利用OpenAI模型提升野心而不降低标准",
+  "titleOriginal": "How Revolut raises ambition without lowering the bar",
+  "summary": "Revolut使用OpenAI模型和Codex将编码时间缩减30-60%，并规模化金融犯罪调查，在创新的同时保持安全。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "使用OpenAI模型和Codex提升效率",
+    "编码时间缩减30-60%",
+    "规模化金融犯罪调查"
+  ],
+  "category": "ai",
+  "tags": [
+    "Revolut",
+    "OpenAI模型",
+    "Codex",
+    "金融犯罪",
+    "编码效率"
+  ],
+  "entities": [
+    "How Revolut"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/revolut",
+  "publishedAt": "2026-11-16T09:30:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8810edf7abc09a62",
+  "status": "published"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "91d051555cafc2dd",
+  "slug": "after-faa-microsoft-and-bank-outages-dni-jay-clayton-says-am",
+  "titleZh": "FAA 微软银行系统故障后 DNI 克莱顿警告",
+  "titleOriginal": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+  "summary": "美国国家情报总监克莱顿警告称，在 FAA、微软和银行系统出现故障后，美国民众应准备好在系统升级适应 AI 时代时出现\"路途上的颠簸\"。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "多个关键系统出现故障引发关注",
+    "国家情报总监发出系统升级预警",
+    "需适应 AI 时代的系统变革"
+  ],
+  "category": "tech",
+  "tags": [
+    "系统故障",
+    "AI 时代",
+    "网络安全",
+    "基础设施",
+    "克莱顿"
+  ],
+  "entities": [
+    "Microsoft",
+    "After FAA",
+    "DNI Jay Clayton",
+    "Americans",
+    "AI",
+    "Garrett Downs",
+    "CNBC"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261122/p11#a261122p11",
+  "publishedAt": "2026-11-22T20:35:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e413dd160d59ce3b",
+  "status": "published"
+}

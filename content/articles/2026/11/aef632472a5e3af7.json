@@ -1,0 +1,37 @@
+{
+  "id": "aef632472a5e3af7",
+  "slug": "time-series-models-in-the-streamhouse-a-new-frontier-and-use",
+  "titleZh": "Hugging Face发布时序模型新前沿",
+  "titleOriginal": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "summary": "Hugging Face发布时序模型在Streamhouse平台上的应用，探索了时序模型的新前沿和使用案例，拓展了AI在时间序列数据分析中的应用边界。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布时序模型在Streamhouse应用",
+    "探索时序模型新前沿",
+    "拓展AI时间序列分析边界"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "时序模型",
+    "Streamhouse",
+    "AI应用",
+    "数据分析"
+  ],
+  "entities": [
+    "Time Series Models",
+    "Streamhouse",
+    "A New Frontier",
+    "Use Cases"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "publishedAt": "2026-11-18T15:00:23.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d1d7d6f783d37245",
+  "status": "published"
+}

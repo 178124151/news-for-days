@@ -1,0 +1,34 @@
+{
+  "id": "3f105bbe6cd578f9",
+  "slug": "3-big-things-were-watching-in-the-market-this-thanksgiving-w",
+  "titleZh": "感恩节周市场关注焦点",
+  "titleOriginal": "3 big things we're watching in the market this Thanksgiving week",
+  "summary": "CNBC 市场分析师观察 AI 交易是否可复苏，加上零售活动高峰和美联储政策讨论周。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "关注 AI 交易的市场复苏情况",
+    "进入零售活动高峰期",
+    "美联储政策讨论成为焦点"
+  ],
+  "category": "finance",
+  "tags": [
+    "市场分析",
+    "感恩节",
+    "AI 交易",
+    "零售",
+    "美联储"
+  ],
+  "entities": [
+    "Thanksgiving"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+  "publishedAt": "2026-11-23T00:42:54.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "afe9f470901519dc",
+  "status": "published"
+}

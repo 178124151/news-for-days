@@ -1,0 +1,35 @@
+{
+  "id": "00eb7f68c71512cf",
+  "slug": "8-kcl-agent",
+  "titleZh": "腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+  "titleOriginal": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+  "summary": "基于8万条群聊消息发布首个基于群聊构建的Agent记忆基准，旨在评估大模型在长期对话中的记忆能力。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布基于群聊的Agent记忆基准",
+    "使用8万条群聊消息作为考卷",
+    "评估大模型长期对话记忆能力"
+  ],
+  "category": "ai",
+  "tags": [
+    "腾讯元宝",
+    "KCL",
+    "Agent记忆",
+    "群聊数据",
+    "大模型评估"
+  ],
+  "entities": [
+    "KCL",
+    "Agent"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511841.html",
+  "publishedAt": "2026-11-21T11:40:11.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d8e4c2c3804489b7",
+  "status": "published"
+}

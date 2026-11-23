@@ -1,0 +1,38 @@
+{
+  "id": "50eaee9a34139795",
+  "slug": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthr",
+  "titleZh": "Notable Capital GIC 与 Baillie Gifford 看好 Anthropic",
+  "titleOriginal": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "summary": "三大重要投资者分享了在 Anthropic 进行数十亿美元投资的信心所在。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "三大知名机构在 Anthropic IPO 前进行大额投资",
+    "投资决策基于对公司前景的看好",
+    "多家机构共同认可 Anthropic 的价值"
+  ],
+  "category": "tech",
+  "tags": [
+    "Anthropic",
+    "投资",
+    "AI 初创",
+    "机构投资",
+    "IPO"
+  ],
+  "entities": [
+    "Anthropic",
+    "How Notable Capital",
+    "GIC",
+    "Baillie Gifford",
+    "IPO"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "publishedAt": "2026-11-23T01:25:53.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "91b7e474e00dcfc9",
+  "status": "published"
+}

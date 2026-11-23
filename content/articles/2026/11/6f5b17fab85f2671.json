@@ -1,0 +1,33 @@
+{
+  "id": "6f5b17fab85f2671",
+  "slug": "ron-johnson-x2019-s-social-security-gaffe-buried-important-n",
+  "titleZh": "罗恩·约翰逊的社保失误掩盖了重要新闻",
+  "titleOriginal": "Ron Johnson&#x2019;s Social Security gaffe buried important news",
+  "summary": "威斯康星州共和党人的言论掩盖了可能对修复社保制度有用的参议院委员会听证会。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "共和党人言论掩盖实质性新闻",
+    "涉及社保制度改革",
+    "参议院委员会听证会被忽视"
+  ],
+  "category": "finance",
+  "tags": [
+    "政治新闻",
+    "社保改革",
+    "国会听证会"
+  ],
+  "entities": [
+    "Ron Johnson",
+    "Social Security"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-22T21:28:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e275ff1220f74229",
+  "status": "published"
+}

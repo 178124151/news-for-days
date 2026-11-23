@@ -1,0 +1,34 @@
+{
+  "id": "fbdfeeda4f094862",
+  "slug": "nature",
+  "titleZh": "糖尿病大鼠通过电刺激恢复正常血糖",
+  "titleOriginal": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+  "summary": "研究人员利用葡萄糖发电技术控制大鼠血糖，通过电刺激迷走神经实现糖尿病大鼠血糖恢复正常，展示了新的生物电调控方法。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "利用葡萄糖发电控制血糖",
+    "通过电刺激迷走神经调节血糖",
+    "在糖尿病大鼠模型中取得疗效"
+  ],
+  "category": "ai",
+  "tags": [
+    "糖尿病",
+    "迷走神经",
+    "电刺激",
+    "生物电",
+    "动物实验"
+  ],
+  "entities": [
+    "Nature"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/511904.html",
+  "publishedAt": "2026-11-22T06:21:47.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a3593c3940911d76",
+  "status": "published"
+}

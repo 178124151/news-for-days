@@ -1,0 +1,33 @@
+{
+  "id": "d5bd479926e2b29c",
+  "slug": "employees-at-eric-trump-backed-robot-startup-lose-health-ben",
+  "titleZh": "埃里克·特朗普背机器人创业公司员工失去健康福利",
+  "titleOriginal": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+  "summary": "公司因现金流紧张，正寻求紧急桥梁贷款，并与风险投资机构谈判，等待韩国 Base Group 1.5亿美元投资。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "公司现金流紧张",
+    "正寻求紧急桥梁贷款",
+    "等待1.5亿美元韩国投资"
+  ],
+  "category": "finance",
+  "tags": [
+    "创业融资",
+    "人员福利",
+    "现金流危机"
+  ],
+  "entities": [
+    "Employees",
+    "Eric Trump"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+  "publishedAt": "2026-11-22T18:55:05.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0baaa4c606f9dda4",
+  "status": "published"
+}

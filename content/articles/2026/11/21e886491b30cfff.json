@@ -1,0 +1,36 @@
+{
+  "id": "21e886491b30cfff",
+  "slug": "more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "titleZh": "OpenAI推出医疗版ChatGPT新功能",
+  "titleOriginal": "More ways to move care forward with ChatGPT for Healthcare",
+  "summary": "OpenAI发布计算机使用代理、改进的临床答案以及可跨医疗软件工作的新医疗插件，旨在通过AI技术帮助医疗行业完成实际工作。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布计算机使用代理功能",
+    "提供改进的临床答案",
+    "推出可跨软件运行的医疗插件"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "医疗AI",
+    "ChatGPT",
+    "临床应用",
+    "插件"
+  ],
+  "entities": [
+    "ChatGPT",
+    "More",
+    "Healthcare"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "publishedAt": "2026-11-16T06:00:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cf270ea3c11c07b2",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ff7833693fa2a067",
+  "slug": "lvmhs-media-division-announces-strategic-partnership-with-op",
+  "titleZh": "LVMH媒体部与OpenAI达成战略合作",
+  "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "summary": "LVMH媒体部与OpenAI合作，利用AI支持新闻业并通过ChatGPT使出版物更易获取。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "LVMH媒体部与OpenAI合作",
+    "利用AI支持新闻业发展",
+    "通过ChatGPT提高出版物可及性"
+  ],
+  "category": "ai",
+  "tags": [
+    "LVMH",
+    "OpenAI",
+    "新闻业",
+    "ChatGPT",
+    "AI合作"
+  ],
+  "entities": [
+    "OpenAI",
+    "LVMH",
+    "Media Division"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/lvmh-media-division-partnership",
+  "publishedAt": "2026-11-16T09:00:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5d49152804d8038c",
+  "status": "published"
+}

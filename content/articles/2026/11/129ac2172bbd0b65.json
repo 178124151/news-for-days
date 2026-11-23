@@ -1,0 +1,32 @@
+{
+  "id": "129ac2172bbd0b65",
+  "slug": "b-129ac2",
+  "titleZh": "“化合积电”完成B+轮融资，东山精密投资入股",
+  "titleOriginal": "“化合积电”完成B+轮融资，东山精密投资入股",
+  "summary": "‘化合积电’完成B+轮融资，东山精密全资产业投资平台入股，福建金投和兴证资本等创投基金跟投，老股东万久科技持续加码。木雁资本担任后续融资财务顾问。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "完成B+轮融资，东山精密入股",
+    "福建金投和兴证资本等跟投，老股东万久科技持续加码",
+    "木雁资本担任后续融资财务顾问"
+  ],
+  "category": "tech",
+  "tags": [
+    "化合积电",
+    "B+轮融资",
+    "东山精密",
+    "创投基金",
+    "财务顾问"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4081681920562049?f=rss",
+  "publishedAt": "2026-11-23T01:41:33.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8ca80e9de3e778e6",
+  "status": "published"
+}

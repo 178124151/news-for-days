@@ -1,0 +1,38 @@
+{
+  "id": "ec56b5eff9affb1c",
+  "slug": "180b-parameters-32gb-of-ram-pushing-moe-inference-to-the-lim",
+  "titleZh": "Transformers推动MoE推理极限",
+  "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "summary": "Hugging Face介绍180B参数模型配32GB内存，展示了在有限硬件资源下推动Mixture of Experts(MoE)推理的技术突破，提升了大模型的部署效率。",
+  "keyPoints": [
+    "介绍180B参数模型",
+    "突破MoE推理硬件限制",
+    "提升大模型部署效率"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hugging Face",
+    "MoE推理",
+    "大模型",
+    "硬件效率",
+    "Transformers"
+  ],
+  "entities": [
+    "Parameters",
+    "RAM",
+    "Pushing MoE Inference",
+    "Limit",
+    "Transformers"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/moe-expert-streaming",
+  "publishedAt": "2026-11-18T00:00:00.000Z",
+  "fetchedAt": "2026-11-23T02:59:41.283Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "54d8482880be70c7",
+  "status": "published"
+}

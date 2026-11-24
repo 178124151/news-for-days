@@ -1,0 +1,37 @@
+{
+  "id": "5e2478fb7557e8d3",
+  "slug": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-",
+  "titleZh": "Anthropic 发布 Claude Ship，AI 代理可审查修复代码",
+  "titleOriginal": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "summary": "Anthropic 推出新开发工具 Claude Ship，让 AI 代理能够处理常规代码审查和修复工作。旨在通过自动化常规 approval 流程，消除 AI 生成代码堆积带来的瓶颈。",
+  "keyPoints": [
+    "Anthropic 发布 Claude Ship 开发工具",
+    "AI 代理可进行代码审查和修复",
+    "旨在消除 AI 生成代码的审批瓶颈"
+  ],
+  "category": "tech",
+  "tags": [
+    "Anthropic",
+    "AI代理",
+    "代码审查",
+    "开发工具",
+    "自动化"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude",
+    "Claude Ship",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "publishedAt": "2026-11-23T22:05:50.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c225b84be98eeb4e",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "895b540db6a8889e",
+  "slug": "finding-faster-quantum-algorithms-with-agents-and-formal-ver",
+  "titleZh": "DeepMind研发量子算法新方法",
+  "titleOriginal": "Finding faster quantum algorithms with agents and formal verification",
+  "summary": "Google DeepMind利用代理团队和形式验证改进量子算法，应用于融合和化学领域。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "DeepMind使用代理团队改进算法",
+    "应用形式验证提升性能",
+    "针对融合和化学领域开发"
+  ],
+  "category": "ai",
+  "tags": [
+    "DeepMind",
+    "量子算法",
+    "形式验证",
+    "代理团队",
+    "科研"
+  ],
+  "entities": [
+    "Finding"
+  ],
+  "sourceId": "deepmind",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "publishedAt": "2026-11-23T16:59:40.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "9b05c6752ba7d677",
+  "status": "published"
+}

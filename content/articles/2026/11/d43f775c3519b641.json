@@ -1,0 +1,32 @@
+{
+  "id": "d43f775c3519b641",
+  "slug": "009",
+  "titleZh": "极氪与敦煌达成战略合作",
+  "titleOriginal": "极氪与敦煌达成战略合作，将联合推出009光辉敦煌限定版",
+  "summary": "11月24日，敦煌与极氪正式宣布达成战略合作。双方发布三项阶段成果：联合推出极氪009光辉敦煌限定版，成立敦煌-极氪联合色彩研究平台，并自2027年起极氪车主可享敦煌景区免费门票。",
+  "keyPoints": [
+    "极氪与敦煌合作由来已久，此次签约为进一步升级",
+    "联合推出极氪009光辉敦煌限定版",
+    "自2027年起极氪车主可享敦煌景区免费门票"
+  ],
+  "category": "tech",
+  "tags": [
+    "极氪",
+    "敦煌",
+    "新能源",
+    "战略合作",
+    "限定版"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4083360729721217?f=rss",
+  "publishedAt": "2026-11-24T06:09:20.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "2cc30965756204dd",
+  "status": "published"
+}

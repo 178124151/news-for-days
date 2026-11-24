@@ -1,0 +1,36 @@
+{
+  "id": "a88ce69da9e1f699",
+  "slug": "iran-says-three-tankers-hit-mines-in-hormuz-despite-u-s-esco",
+  "titleZh": "伊朗称三艘油轮在霍尔木兹海峡撞矿",
+  "titleOriginal": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+  "summary": "伊朗称三艘油轮在霍尔木兹海峡撞上海军水雷后起火，美国加大制裁旨在切断伊朗金融渠道。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "伊朗称三艘油轮在霍尔木兹海峡撞矿起火",
+    "美国随即升级制裁针对伊朗金融 lifelines",
+    "海峡安全形势引发关注"
+  ],
+  "category": "finance",
+  "tags": [
+    "伊朗",
+    "霍尔木兹海峡",
+    "油轮",
+    "海军水雷",
+    "制裁"
+  ],
+  "entities": [
+    "Iran",
+    "Hormuz",
+    "Treasury"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+  "publishedAt": "2026-11-24T05:05:08.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4b487b9b1d38ce98",
+  "status": "published"
+}

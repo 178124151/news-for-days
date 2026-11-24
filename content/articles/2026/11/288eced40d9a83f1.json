@@ -1,0 +1,36 @@
+{
+  "id": "288eced40d9a83f1",
+  "slug": "oceanbase-ai-oceanlake",
+  "titleZh": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+  "titleOriginal": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+  "summary": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎面向全球开源。该平台旨在加速中国AI数据平台的崛起。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布湖库一体AI数据平台OceanLake",
+    "核心引擎向全球开源",
+    "旨在加速中国AI数据平台崛起"
+  ],
+  "category": "ai",
+  "tags": [
+    "蚂蚁",
+    "OceanBase",
+    "AI数据平台",
+    "开源",
+    "数据库"
+  ],
+  "entities": [
+    "OceanBase",
+    "AI",
+    "OceanLake"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512330.html",
+  "publishedAt": "2026-11-24T03:30:46.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d1bac7994f9df30d",
+  "status": "published"
+}

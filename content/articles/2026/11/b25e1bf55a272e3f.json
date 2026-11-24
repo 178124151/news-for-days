@@ -1,0 +1,35 @@
+{
+  "id": "b25e1bf55a272e3f",
+  "slug": "russia-will-launch-a-routine-iss-supply-mission-tomorrow-app",
+  "titleZh": "俄罗斯将明天例行发射国际空间站补给任务",
+  "titleOriginal": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+  "summary": "俄罗斯将在明天发射一次前往国际空间站的例行补给任务。尽管这是一次常规进货飞行，但 NASA 在新闻发布会上拒绝提供发射日期和时间等基本信息。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "例行发射俄罗斯进货飞船前往国际空间站",
+    "发射时间定于明天10:13 UTC",
+    "NASA拒绝提供发射具体信息"
+  ],
+  "category": "tech",
+  "tags": [
+    "俄罗斯",
+    "国际空间站",
+    "补给任务",
+    "Progress MS-36",
+    "NASA"
+  ],
+  "entities": [
+    "Russia",
+    "ISS"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+  "publishedAt": "2026-11-23T20:34:51.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "258a6a23310129f5",
+  "status": "published"
+}

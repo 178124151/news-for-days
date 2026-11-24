@@ -1,0 +1,38 @@
+{
+  "id": "09c53e0e4dd0240b",
+  "slug": "filing-ex-openai-engineer-abdulrahman-alfozan-recorded-a-mee",
+  "titleZh": "前OpenAI工程师阿卜杜勒拉赫曼·阿尔福扎录音会议并拍摄机密条款",
+  "titleOriginal": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
+  "summary": "纽约时报援引庭审文件称，前OpenAI工程师阿卜杜勒拉赫曼·阿尔福扎录制了与外国政府代表的会议，并拍摄了另一家公司的机密条款。庭审文件显示他捕获了客户、AI安全以及外国政府简报等内容。",
+  "keyPoints": [
+    "录制与外国政府代表的会议",
+    "拍摄另一家公司机密条款",
+    "庭审文件涉及客户、AI安全等内容"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "工程师",
+    "泄密",
+    "庭审",
+    "贸易秘密"
+  ],
+  "entities": [
+    "OpenAI",
+    "Filing",
+    "Abdulrahman Alfozan",
+    "Emmy Martin",
+    "New York Times"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261123/p50#a261123p50",
+  "publishedAt": "2026-11-24T02:35:01.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a411e0801eb4dab7",
+  "status": "published"
+}

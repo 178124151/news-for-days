@@ -1,0 +1,32 @@
+{
+  "id": "e66dbae58ee26998",
+  "slug": "i-x2019-ve-been-married-for-58-years-it-x2019-s-x2018-our-x2",
+  "titleZh": "结婚58年：夫妻为何常分管财务",
+  "titleOriginal": "I&#x2019;ve been married for 58 years. It&#x2019;s &#x2018;our&#x2019; money, not &#x2018;his&#x2019; and &#x2018;hers.&#x2019; Why do so many couples keep their finances separate?",
+  "summary": "文章探讨了结婚58年夫妇理财观，指出许多夫妇选择分管财务，强调‘我们的钱’而非‘他的和她的’。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "结婚58年夫妇强调共同财务概念",
+    "许多夫妇选择分管财务管理",
+    "理财观中‘我们的钱’与‘他的和她的’的区别"
+  ],
+  "category": "finance",
+  "tags": [
+    "理财",
+    "婚姻",
+    "财务管理",
+    "夫妻理财",
+    "金融习惯"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-24T01:01:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8e2faf67fb073cff",
+  "status": "published"
+}

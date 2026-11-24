@@ -1,0 +1,34 @@
+{
+  "id": "e3f3c14321852ca2",
+  "slug": "hpe-just-posted-its-strongest-growth-ever-x2014-but-its-stoc",
+  "titleZh": "HPE业绩强劲股价下跌",
+  "titleOriginal": "HPE just posted its strongest growth ever &#x2014; but its stock is sinking",
+  "summary": "HPE因AI需求强劲上调财务预测，但股价仍出现下跌。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "HPE财务预测因AI需求上调",
+    "公司业绩创历史最强增长",
+    "股价尽管业绩良好仍下跌"
+  ],
+  "category": "finance",
+  "tags": [
+    "HPE",
+    "AI",
+    "财报",
+    "股价",
+    "预测"
+  ],
+  "entities": [
+    "HPE"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-24T01:01:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c68a4e6f71e0397c",
+  "status": "published"
+}

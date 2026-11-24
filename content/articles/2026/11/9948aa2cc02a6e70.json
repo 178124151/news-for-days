@@ -1,0 +1,37 @@
+{
+  "id": "9948aa2cc02a6e70",
+  "slug": "us-prosecutors-say-the-ex-openai-engineer-charged-with-buggi",
+  "titleZh": "美国检察官称前OpenAI工程师窃会议录音涉及商业机密",
+  "titleOriginal": "US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets (Madlin Mekelburg/Bloomberg)",
+  "summary": "美国检察官表示，被指控窃听高管会议室的前OpenAI工程师拥有大量OpenAI会议录音，其中许多涉及可能的商业机密。前工程师可能拦截了贸易秘密等内容。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "前OpenAI工程师被指控窃听会议室",
+    "拥有大量可能涉及商业机密的会议录音",
+    "检察官指其可能拦截了贸易秘密"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "工程师",
+    "窃听",
+    "商业机密",
+    "贸易秘密"
+  ],
+  "entities": [
+    "OpenAI",
+    "US",
+    "Madlin Mekelburg",
+    "Bloomberg"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261123/p49#a261123p49",
+  "publishedAt": "2026-11-24T02:10:02.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f029acfc8b9beafc",
+  "status": "published"
+}

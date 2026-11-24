@@ -1,0 +1,36 @@
+{
+  "id": "969aceb40cc60a38",
+  "slug": "jensen-huang-is-too-big-to-fire-putting-nvidias-governance-i",
+  "titleZh": "分析师聚焦Nvidia治理：黄仁勋‘太大不能解雇’",
+  "titleOriginal": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+  "summary": "黄仁勋的回归凸显了Nvidia对创始人的深度依赖，公司治理结构和董事会监督受到关注。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋回归凸显Nvidia对创始人的依赖",
+    "公司治理和董事会监督受到市场审视",
+    "创始人角色在公司战略中的核心地位"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "黄仁勋",
+    "公司治理",
+    "创始人",
+    "董事会"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Jensen Huang"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+  "publishedAt": "2026-11-24T05:09:34.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5fe5485b51dc1dd0",
+  "status": "published"
+}

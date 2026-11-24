@@ -1,0 +1,32 @@
+{
+  "id": "002d570e876b312d",
+  "slug": "the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-c",
+  "titleZh": "SharkNinja登陆S&P 500",
+  "titleOriginal": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+  "summary": "SharkNinja将取代AES成为S&P 500成员，标志着其在冰淇淋机领域的突破。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "SharkNinja将取代AES入S&P 500",
+    "公司为冰淇淋机制造商",
+    "标志行业认可度提升"
+  ],
+  "category": "finance",
+  "tags": [
+    "S&P 500",
+    "SharkNinja",
+    "AES",
+    "指数变动",
+    "冰淇淋机"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-23T23:18:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3913e7ec79af7ba5",
+  "status": "published"
+}

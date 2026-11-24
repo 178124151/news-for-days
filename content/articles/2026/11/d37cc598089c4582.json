@@ -1,0 +1,35 @@
+{
+  "id": "d37cc598089c4582",
+  "slug": "google-alternative-kagi-launches-an-email-service",
+  "titleZh": "Google 替代品 Kagi 发布邮件服务",
+  "titleOriginal": "Google alternative Kagi launches an email service",
+  "summary": "Kagi 宣布公开 beta 版 Kagi Mail，提供无监控、无广告、开放标准且无锁定的邮件服务。用户可获 @kagimail.com 地址，并支持无限别名和域名，附带 50GB 存储和内置日历。",
+  "keyPoints": [
+    "Kagi 发布 Kagi Mail 公开 beta 版",
+    "提供无监控无广告的邮件服务",
+    "支持无限别名、域名及 50GB 存储"
+  ],
+  "category": "tech",
+  "tags": [
+    "Kagi",
+    "邮件服务",
+    "Google替代",
+    "隐私",
+    "Beta"
+  ],
+  "entities": [
+    "Google",
+    "Kagi"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+  "publishedAt": "2026-11-24T00:02:52.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7ad13c115860e140",
+  "status": "published"
+}

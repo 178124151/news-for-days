@@ -1,0 +1,35 @@
+{
+  "id": "4f5fe20de68e9dfd",
+  "slug": "a-more-tailored-google-search-thats-uniquely-yours",
+  "titleZh": "Google搜索个性化功能升级",
+  "titleOriginal": "A more tailored Google Search that’s uniquely yours",
+  "summary": "Google AI博客介绍新搜索功能，用户可选择连接钱包、驱动器和Gemini应用以获得更有帮助的响应。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Google搜索新增个性化连接功能",
+    "可连接钱包、驱动器和Gemini应用",
+    "旨在提供更有帮助的搜索响应"
+  ],
+  "category": "ai",
+  "tags": [
+    "Google Search",
+    "AI模式",
+    "个性化",
+    "钱包",
+    "Gemini"
+  ],
+  "entities": [
+    "Google",
+    "Google Search"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "publishedAt": "2026-11-23T17:00:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "93ca6284ef0069cf",
+  "status": "published"
+}

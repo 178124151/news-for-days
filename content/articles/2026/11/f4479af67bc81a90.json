@@ -1,0 +1,36 @@
+{
+  "id": "f4479af67bc81a90",
+  "slug": "amazon-to-acquire-ai-startup-decarts-chip-software-hire-foun",
+  "titleZh": "Amazon收购AI初创公司Decart芯片软件",
+  "titleOriginal": "Amazon to acquire AI startup Decart's chip software, hire founders",
+  "summary": "Amazon收购了成立仅一年的AI初创公司Decart，其核心业务是让开发者能将AI模型跨不同芯片同步。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Amazon收购成立仅一年的AI初创公司Decart",
+    "Decart专注于AI模型跨芯片同步的软件技术",
+    "交易涉及聘请Decart的创始团队"
+  ],
+  "category": "finance",
+  "tags": [
+    "Amazon",
+    "AI芯片",
+    "软件收购",
+    "Decart",
+    "技术人才"
+  ],
+  "entities": [
+    "Amazon",
+    "AI",
+    "Decart"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+  "publishedAt": "2026-11-23T19:34:38.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "22e504b88b332e00",
+  "status": "published"
+}

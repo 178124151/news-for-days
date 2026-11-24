@@ -1,0 +1,34 @@
+{
+  "id": "10878202550bbbf9",
+  "slug": "connected-intelligence-for-in-house-legal",
+  "titleZh": "OpenAI讨论企业法律AI应用",
+  "titleOriginal": "Connected intelligence for in-house legal",
+  "summary": "OpenAI旗下Stacey Wang和Craig Bruney与LECG的Mary O’Carroll及Cooley的Richard Segal共同探讨，AI如何帮助内部法务团队连接业务上下文、构建可重用工作流并提升外部律师效能。",
+  "keyPoints": [
+    "OpenAI与LECG、Cooley联合探讨AI应用",
+    "聚焦内部法务业务上下文连接",
+    "旨在构建可重用工作流提升效率"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "法律AI",
+    "企业应用",
+    "工作流优化",
+    "技术探讨"
+  ],
+  "entities": [
+    "Connected"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "publishedAt": "2026-11-23T08:00:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8144835072b37098",
+  "status": "published"
+}

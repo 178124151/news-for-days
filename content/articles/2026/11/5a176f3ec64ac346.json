@@ -1,0 +1,36 @@
+{
+  "id": "5a176f3ec64ac346",
+  "slug": "8-k-hawthorn-bancshares-inc-0000893847-filer",
+  "titleZh": "Hawthorn Bancshares 8-K",
+  "titleOriginal": "8-K - HAWTHORN BANCSHARES, INC. (0000893847) (Filer)",
+  "summary": "SEC 8-K文件显示，Hawthorn Bancshares于2026年11月23日提交项目5.02及9.01相关材料，涉及董事或高管变动及补偿安排等事项。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "SEC 8-K文件于2026-11-23提交",
+    "涉及董事或高管变动及补偿安排",
+    "包含财务报表及展品材料"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC",
+    "8-K",
+    "公司治理",
+    "高管变动",
+    "金融监管"
+  ],
+  "entities": [
+    "HAWTHORN BANCSHARES",
+    "INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000104/0000893847-26-000104-index.htm",
+  "publishedAt": "2026-11-23T22:24:42.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "48fe42c971ad7b00",
+  "status": "published"
+}

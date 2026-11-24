@@ -1,0 +1,36 @@
+{
+  "id": "fc80b2e544661974",
+  "slug": "nvidia-sets-options-trading-record-after-ceo-comeback-here-a",
+  "titleZh": "Nvidia单股期权交易量创纪录",
+  "titleOriginal": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+  "summary": "Nvidia单股期权交易量创历史新高，成交活跃度显著提升。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia单股期权交易量创历史新高",
+    "CEO回归后交易活跃度显著提升",
+    "市场关注度和交易热度持续上升"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "期权交易",
+    "交易记录",
+    "CEO回归",
+    "市场活跃"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "CEO"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+  "publishedAt": "2026-11-23T23:24:02.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f7b4bf570d92da7f",
+  "status": "published"
+}

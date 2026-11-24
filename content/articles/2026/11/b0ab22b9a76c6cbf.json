@@ -1,0 +1,35 @@
+{
+  "id": "b0ab22b9a76c6cbf",
+  "slug": "meet2027-ai",
+  "titleZh": "MEET2027报名进行中",
+  "titleOriginal": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+  "summary": "量子位报道，MEET2027将于12月9日在北京举行，现场将有AI前沿实践者分享‘判断’相关主题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "MEET2027将于12月9日在北京举行",
+    "聚焦AI前沿实践者分享‘判断’",
+    "报名工作正在进行中"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI大会",
+    "MEET2027",
+    "前沿技术",
+    "北京活动",
+    "实践分享"
+  ],
+  "entities": [
+    "MEET2027",
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512329.html",
+  "publishedAt": "2026-11-24T03:33:48.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "eceab0cd6ba90a3d",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4114f7ead1267465",
+  "slug": "ai-1500",
+  "titleZh": "亿邦产业互联网年会召开",
+  "titleOriginal": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+  "summary": "量子位报道，2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店合体举行，近1500人参与。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "第八届亿邦产业互联网年会在北京举行",
+    "与首届产业智能体大会合体进行",
+    "近1500人次参与活动"
+  ],
+  "category": "ai",
+  "tags": [
+    "产业互联网",
+    "产业智能体",
+    "亿邦大会",
+    "北京活动",
+    "行业聚集"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512305.html",
+  "publishedAt": "2026-11-24T03:21:12.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 50,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cdf9900e9527aa81",
+  "status": "published"
+}

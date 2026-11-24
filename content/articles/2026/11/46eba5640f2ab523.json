@@ -1,0 +1,40 @@
+{
+  "id": "46eba5640f2ab523",
+  "slug": "sources-a-google-product-manager-spent-years-updating-maps-t",
+  "titleZh": "Google Maps更新为巴勒斯坦用户，后因以色列压力撤销关键部分",
+  "titleOriginal": "Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)",
+  "summary": "有消息称谷歌产品经理历时数年更新地图以更好服务约旦河西岸巴勒斯坦用户，但谷歌在以色列压力下撤销了关键部分。一名产品经理致力于在地图上准确标记约旦河西岸检查站。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "产品经理致力于准确映射约旦河西岸检查站",
+    "谷歌地图作为全球最流行的导航应用",
+    "因以色列压力撤销关键更新部分"
+  ],
+  "category": "tech",
+  "tags": [
+    "谷歌",
+    "地图",
+    "巴勒斯坦",
+    "约旦河西岸",
+    "科技政策"
+  ],
+  "entities": [
+    "Google",
+    "Sources",
+    "Maps",
+    "Palestinians",
+    "West Bank",
+    "Israeli",
+    "Wired"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261123/p53#a261123p53",
+  "publishedAt": "2026-11-24T04:00:14.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a5958f68743a7d08",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "b0689cf87ab570a4",
+  "slug": "openai-and-cisco-introduce-shirudo",
+  "titleZh": "OpenAI与Cisco推出开源运行时Shirudo",
+  "titleOriginal": "OpenAI and Cisco introduce Shirudo",
+  "summary": "OpenAI和Cisco共同发布开源项目Shirudo，旨在帮助团队在给系统打补丁时保护运行中的Linux系统。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "OpenAI与Cisco合作推出开源项目Shirudo",
+    "Shirudo专注于Linux系统在打补丁期间的安全防护",
+    "属于开源运行时安全工具"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "Cisco",
+    "Shirudo",
+    "开源",
+    "Linux安全"
+  ],
+  "entities": [
+    "OpenAI",
+    "Cisco",
+    "Shirudo"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/introducing-shirudo",
+  "publishedAt": "2026-11-23T21:20:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6d8545b13f952977",
+  "status": "published"
+}

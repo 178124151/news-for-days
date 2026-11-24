@@ -1,0 +1,35 @@
+{
+  "id": "701120d732c35ad2",
+  "slug": "8-k-monroe-capital-enhanced-corporate-lending-fund-000206167",
+  "titleZh": "8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+  "titleOriginal": "8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+  "summary": "Filed: 2026-11-23 AccNo: 0002061670-26-000112 Size: 201 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+  "keyPoints": [
+    "Filed: 2026-11-23 AccNo: 0002061670-26-…",
+    "8-K - Monroe Capital Enhanced Corporate…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "Monroe Capital Enhanced",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Monroe Capital Enhanced",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000112/0002061670-26-000112-index.htm",
+  "publishedAt": "2026-11-23T22:26:59.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 69,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "705a9014f72a62e1",
+  "status": "published"
+}

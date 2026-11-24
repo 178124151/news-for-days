@@ -1,0 +1,39 @@
+{
+  "id": "83cde2466ed22c3d",
+  "slug": "openai-and-cisco-launch-shirudo-an-open-source-runtime-that-",
+  "titleZh": "OpenAI 与 Cisco 联合发布 Shirudo",
+  "titleOriginal": "OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)",
+  "summary": "OpenAI 与 Cisco 联合发布开源运行时 Shirudo，帮助团队在不重启的情况下保护运行中的 Linux 系统进行补丁更新。旨在应对网络犯罪分子利用 AI 发现漏洞并快速利用的威胁。",
+  "keyPoints": [
+    "OpenAI 与 Cisco 联合发布开源运行时 Shirudo",
+    "保护运行中的 Linux 系统无需重启即可打补丁",
+    "应对 AI 驱动的网络安全威胁"
+  ],
+  "category": "tech",
+  "tags": [
+    "OpenAI",
+    "Cisco",
+    "Shirudo",
+    "Linux",
+    "开源"
+  ],
+  "entities": [
+    "OpenAI",
+    "Linux",
+    "Cisco",
+    "Shirudo",
+    "Mike Wheatley",
+    "SiliconANGLE"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261123/p54#a261123p54",
+  "publishedAt": "2026-11-24T04:15:00.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 68,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7e8282049f77473e",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "09d5962a67bb0bf1",
+  "slug": "8-k-quantum-space-inc-0002145371-filer",
+  "titleZh": "Quantum Space 11-K 文件披露",
+  "titleOriginal": "8-K - Quantum Space, Inc. (0002145371) (Filer)",
+  "summary": "2026年11月23日，Quantum Space, Inc. 通过SEC EDGAR提交8-K表格，涉及权利持有人权利修正、章程修订、财年变更、监管披露及其他事件等内容。",
+  "keyPoints": [
+    "SEC EDGAR 8-K表格于2026-11-23提交",
+    "涉及权利持有人权利及章程修订事项",
+    "包含财年变更及监管披露等内容"
+  ],
+  "category": "policy",
+  "tags": [
+    "SEC filing",
+    "公司治理",
+    "财务披露",
+    "8-K文件",
+    "权利修正"
+  ],
+  "entities": [
+    "Quantum Space",
+    "Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2145371/000121390026123273/0001213900-26-123273-index.htm",
+  "publishedAt": "2026-11-23T22:29:14.000Z",
+  "fetchedAt": "2026-11-24T06:17:49.758Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7d1d189b28d9eecd",
+  "status": "published"
+}

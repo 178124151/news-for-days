@@ -1,0 +1,36 @@
+{
+  "id": "a3c9028eefd69cfd",
+  "slug": "clay-helps-sales-teams-win-with-codex-and-chatgpt",
+  "titleZh": "Clay 利用 Codex 和 ChatGPT 辅助销售",
+  "titleOriginal": "Clay helps sales teams win with Codex and ChatGPT",
+  "summary": "OpenAI News 报道，ChatGPT 和 Codex 集成帮助 Clay 用户研究交易并转化市场策略，GPT-6 模型处理推理任务。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "ChatGPT 和 Codex 集成助力 Clay",
+    "协助研究交易和市场策略",
+    "GPT-6 模型处理推理任务"
+  ],
+  "category": "ai",
+  "tags": [
+    "Clay",
+    "Codex",
+    "ChatGPT",
+    "GPT-6",
+    "销售辅助"
+  ],
+  "entities": [
+    "ChatGPT",
+    "Clay",
+    "Codex"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
+  "publishedAt": "2026-11-24T00:00:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 20,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "67f7a0d8cc091e13",
+  "status": "published"
+}

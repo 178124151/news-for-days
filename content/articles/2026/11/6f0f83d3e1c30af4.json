@@ -1,0 +1,33 @@
+{
+  "id": "6f0f83d3e1c30af4",
+  "slug": "tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-a",
+  "titleZh": "Tidal 将删除数百万 AI 生成曲目",
+  "titleOriginal": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+  "summary": "Tidal 表示将继续接受有 AI 辅助的歌曲，但不接受完全由 AI 生成的曲目。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Tidal 将删除 AI 生成曲目",
+    "仍接受有 AI 辅助的歌曲",
+    "不接受完全由 AI 生成的曲目"
+  ],
+  "category": "tech",
+  "tags": [
+    "Tidal",
+    "AI音乐",
+    "版权"
+  ],
+  "entities": [
+    "Tidal",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+  "publishedAt": "2026-11-24T16:46:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "357d702fec9df150",
+  "status": "published"
+}

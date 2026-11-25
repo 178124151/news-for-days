@@ -1,0 +1,33 @@
+{
+  "id": "3d9795e0b578488b",
+  "slug": "tidal-announces-ban-on-ai-generated-music-27-million-tracks-",
+  "titleZh": "Tidal 将删除 2700 万 AI 标记曲目",
+  "titleOriginal": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+  "summary": "Tidal 将在 12 月 9 日删除全部 2700 万 AI 标记曲目。过去 90 天新增曲目中有 43% 为完全 AI 生成，11 月 6 日更达 60%。这些曲目占 Tidal 总库的 6.3%，但 96% 过去 90 天无播放。Tidal 只封禁完全由 AI 创作的音乐，允许使用 AI 辅助但需包含人元素。",
+  "keyPoints": [
+    "删除 2700 万 AI 标记曲目",
+    "过去 90 天新增 43% 为 AI 生成",
+    "96% AI 曲目过去 90 天无播放"
+  ],
+  "category": "tech",
+  "tags": [
+    "Tidal",
+    "AI音乐",
+    "版权"
+  ],
+  "entities": [
+    "Tidal",
+    "AI"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+  "publishedAt": "2026-11-24T17:34:34.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 90,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "b9ff6359f5d1861b",
+  "status": "published"
+}

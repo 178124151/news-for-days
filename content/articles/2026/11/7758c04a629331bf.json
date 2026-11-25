@@ -1,0 +1,35 @@
+{
+  "id": "7758c04a629331bf",
+  "slug": "searching-for-distant-planets-with-astra",
+  "titleZh": "业余天文学家利用 OpenAI 查找系外行星",
+  "titleOriginal": "Searching for distant planets with Astra",
+  "summary": "两名业余天文学家利用 OpenAI Codex 和 Astra，从 NASA Kepler 和 TESS 空间望远镜公开数据中搜寻潜在系外行星。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "两名业余天文学家搜寻系外行星",
+    "使用 OpenAI Codex 和 Astra 工具",
+    "基于 NASA Kepler 和 TESS 公开数据"
+  ],
+  "category": "ai",
+  "tags": [
+    "OpenAI",
+    "Astra",
+    "系外行星",
+    "NASA",
+    "业余天文"
+  ],
+  "entities": [
+    "Searching",
+    "Astra"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "publishedAt": "2026-11-24T11:00:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1431222d9d96d79f",
+  "status": "published"
+}

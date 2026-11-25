@@ -1,0 +1,36 @@
+{
+  "id": "18c51b2d4bd4060e",
+  "slug": "ready-for-any-storm-uae-minister-optimistic-on-economy-as-im",
+  "titleZh": "UAE部长对经济持乐观态度",
+  "titleOriginal": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+  "summary": "UAE部长表示，凭借‘不同’的经济模型，明年有望实现7%-8%经济增长。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "UAE明年经济增长预期7%-8%",
+    "部长信心经济模型‘不同’",
+    "基于IMF上调预测"
+  ],
+  "category": "finance",
+  "tags": [
+    "经济",
+    "增长",
+    "IMF",
+    "UAE",
+    "政策"
+  ],
+  "entities": [
+    "IMF",
+    "Ready",
+    "UAE"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+  "publishedAt": "2026-11-25T04:06:01.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "94d80ef172fb3d74",
+  "status": "published"
+}

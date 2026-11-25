@@ -1,0 +1,36 @@
+{
+  "id": "cd26d95554d7ee3a",
+  "slug": "yales-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-migh",
+  "titleZh": "耶鲁 Sonnenfeld：Nvidia 危害美国工业",
+  "titleOriginal": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+  "summary": "耶鲁大学 Jeffrey Sonnenfeld 指出，市场欢迎 Jensen Huang 回归 Nvidia 董事会一事可能是巨大错误，可能使董事面临 \"史无前例\" 个人诉讼风险，并引发美国是否庆祝将先进芯片提供给对手之疑问。",
+  "keyPoints": [
+    "Sonnenfeld 批评 Nvidia 回归",
+    "可能使董事面临个人诉讼风险",
+    "涉及先进芯片流向对手"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "政治",
+    "产业"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Yale",
+    "Sonnenfeld",
+    "US"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "publishedAt": "2026-11-25T00:12:02.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "31b4b39396939fdd",
+  "status": "published"
+}

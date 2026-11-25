@@ -1,0 +1,36 @@
+{
+  "id": "6615b3297b62d698",
+  "slug": "softbank-drops-15-as-wall-street-ai-sell-off-ripples-across-",
+  "titleZh": "软银因华尔街AI抛售亚洲科技股下跌15%",
+  "titleOriginal": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+  "summary": "亚洲科技股周三下跌，日本半导体股领跌，因对人工智能交易的担忧再次升级，投资者情绪受阻。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "亚洲科技股普遍下跌",
+    "日本半导体股领跌",
+    "AI相关担忧影响投资者情绪"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技股",
+    "半导体",
+    "AI市场",
+    "软银",
+    "亚洲市场"
+  ],
+  "entities": [
+    "SoftBank",
+    "Wall Street AI",
+    "Asian"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+  "publishedAt": "2026-11-25T03:52:03.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fe91fb14e4df3c29",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bb16148e390da467",
+  "slug": "dell-x2019-s-stock-rises-as-the-ai-boom-helps-sales-more-tha",
+  "titleZh": "Dell股价上涨受AI带动",
+  "titleOriginal": "Dell&#x2019;s stock rises as the AI boom helps sales more than double",
+  "summary": "Dell称其订单已‘严格审核客户质量及获取资本、土地和电力’，AI带动销售增长两倍以上。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI带动Dell销售增长两倍以上",
+    "订单审核聚焦质量与资源获取",
+    "股价受AI相关业务提振"
+  ],
+  "category": "finance",
+  "tags": [
+    "Dell",
+    "AI",
+    "财报",
+    "科技",
+    "市场表现"
+  ],
+  "entities": [
+    "Dell",
+    "AI"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-25T01:11:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "16f3fa933dc2bfe0",
+  "status": "published"
+}

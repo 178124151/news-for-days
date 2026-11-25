@@ -1,0 +1,38 @@
+{
+  "id": "f714c16d39747e97",
+  "slug": "attestation-is-all-you-need-toward-a-zero-trust-architecture",
+  "titleZh": "Attestation is All You Need：零信任 HPC AI 代理架构",
+  "titleOriginal": "Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents",
+  "summary": "HPC 环境中 AI 代理自动化数据分析、编排与模拟 steering，但引入现有集群防御未覆盖的劫持授权代理安全问题。攻击者可通过提示注入、中毒共享数据、受损工具或多代理协同劫持代理并通过合法加密 LLM API 流量外泄敏感数据。",
+  "keyPoints": [
+    "AEGIS 系统利用 ebpf 监控代理行为并验证证据",
+    "检测四类攻击类别，中位延迟低于 1 秒",
+    "无假阳性，控制实验覆盖全攻击套件"
+  ],
+  "category": "ai",
+  "tags": [
+    "HPC",
+    "AI 代理",
+    "零信任",
+    "安全",
+    "行为验证"
+  ],
+  "entities": [
+    "Attestation",
+    "All You Need",
+    "Toward",
+    "Zero Trust Architecture",
+    "HPC AI Agents"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.32958v1",
+  "publishedAt": "2026-11-24T16:57:12.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 85,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "fcb6ca89b8b8b65b",
+  "status": "published"
+}

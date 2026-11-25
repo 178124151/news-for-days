@@ -1,0 +1,32 @@
+{
+  "id": "5164124b7a31b1b8",
+  "slug": "button-sounds-collection-of-professionally-recorded-button-c",
+  "titleZh": "Button Sounds – 专业录制的按键点击声",
+  "titleOriginal": "Button Sounds – collection of professionally-recorded button clicks and presses",
+  "summary": "提供专业录制的按键点击和按压声效。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提供按键点击声效",
+    "出自 Joshwcomeau 作品",
+    "在 Hacker News 讨论"
+  ],
+  "category": "tech",
+  "tags": [
+    "音效",
+    "按键",
+    "Hacker News"
+  ],
+  "entities": [
+    "Button Sounds"
+  ],
+  "sourceId": "hackernews",
+  "sourceName": "Hacker News",
+  "sourceUrl": "https://buttons.joshwcomeau.com/",
+  "publishedAt": "2026-11-25T03:23:07.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ebdd317e79a917fa",
+  "status": "published"
+}

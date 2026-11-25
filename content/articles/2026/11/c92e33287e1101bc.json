@@ -1,0 +1,36 @@
+{
+  "id": "c92e33287e1101bc",
+  "slug": "electric-truck-startup-harbinger-gets-financing-boost-from-p",
+  "titleZh": "电动卡车初创公司Harbinger获Palmer Luckey银行融资提振",
+  "titleOriginal": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+  "summary": "电动卡车初创公司Harbinger获Palmer Luckey的Erebor Bank融资支持，以多元化资金方式推进增长。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "获Palmer Luckey的Erebor Bank融资",
+    "电动卡车初创公司",
+    "资金用于多元化增长"
+  ],
+  "category": "tech",
+  "tags": [
+    "电动卡车",
+    "融资",
+    "Harbinger",
+    "Palmer Luckey",
+    "Erebor Bank"
+  ],
+  "entities": [
+    "Electric",
+    "Harbinger",
+    "Palmer Luckey"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+  "publishedAt": "2026-11-24T17:29:09.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c9b80bfde8250513",
+  "status": "published"
+}

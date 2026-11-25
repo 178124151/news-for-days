@@ -1,0 +1,36 @@
+{
+  "id": "4d4ffdea51d5a818",
+  "slug": "chinas-xiamen-airlines-to-buy-50-boeing-jets-in-7-4-billion-",
+  "titleZh": "厦门航空订购50架波音737-8",
+  "titleOriginal": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+  "summary": "厦门航空与波音达成协议，订购50架737-8客机，合同总 catalog 价约7.4亿美元。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "厦门航空订购50架波音737-8",
+    "合同总价约7.4亿美元",
+    "客机交付将推进航线网络"
+  ],
+  "category": "finance",
+  "tags": [
+    "航空",
+    "波音",
+    "订单",
+    "客机",
+    "民航"
+  ],
+  "entities": [
+    "China",
+    "Xiamen Airlines",
+    "Boeing"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+  "publishedAt": "2026-11-25T03:58:32.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "efd9c3e2ee3c8e0f",
+  "status": "published"
+}

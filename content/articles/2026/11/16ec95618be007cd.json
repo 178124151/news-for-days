@@ -1,0 +1,36 @@
+{
+  "id": "16ec95618be007cd",
+  "slug": "houthi-attack-on-saudi-arabian-sovereign-wealth-fund-pifs-to",
+  "titleZh": "胡塞武装袭击沙特主权财富基金PIF大楼致11人受伤",
+  "titleOriginal": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+  "summary": "胡塞武装对沙特主权财富基金大楼发动第二次袭击，已造成11人受伤。此前六天内曾有袭击但无人员伤亡。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "胡塞武装袭击PIF大楼",
+    "造成11人受伤",
+    "为第二次袭击，六天内两次"
+  ],
+  "category": "finance",
+  "tags": [
+    "胡塞武装",
+    "沙特",
+    "主权财富基金",
+    "袭击",
+    "安全"
+  ],
+  "entities": [
+    "Houthi",
+    "Saudi Arabian",
+    "PIF"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+  "publishedAt": "2026-11-25T02:36:43.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "f5113f5dbc1330bd",
+  "status": "published"
+}

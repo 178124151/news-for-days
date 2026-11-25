@@ -1,0 +1,32 @@
+{
+  "id": "ec65058361c8e4a1",
+  "slug": "36-ec6505",
+  "titleZh": "36氪首发丨师从“量子互联网之父”，量子计算企业获联想之星等超亿天使轮融资",
+  "titleOriginal": "36氪首发丨创始人师从“量子互联网之父”，量子计算企业获联想之星等超亿天使轮融资",
+  "summary": "中性原子量子计算企业原子芯光完成超亿元天使轮融资，联想之星、上海未来产业基金等领投。公司提出中性原子QPU与光量子互联QLink的分布式量子计算架构，旨在突破单台QPU物理比特规模上限。创始人栾兴生曾师从H. Jeff Kimble，并在字节跳动负责AI芯片战略规划。",
+  "keyPoints": [
+    "完成超亿元天使轮融资",
+    "提出中性原子QPU+光量子QLink架构",
+    "创始人师从量子互联网之父H. Jeff Kimble"
+  ],
+  "category": "tech",
+  "tags": [
+    "量子计算",
+    "融资",
+    "原子芯光",
+    "分布式计算",
+    "栾兴生"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4084553221630343?f=rss",
+  "publishedAt": "2026-11-25T02:23:03.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 85,
+  "readMinutes": 6,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4012be1934b34980",
+  "status": "published"
+}

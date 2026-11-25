@@ -1,0 +1,34 @@
+{
+  "id": "7e14b56be6744308",
+  "slug": "how-intentful-uses-dots-to-make-more-time-for-growth",
+  "titleZh": "Intentful 使用点状技术助力增长",
+  "titleOriginal": "How Intentful uses dots to make more time for growth",
+  "summary": "OpenAI News 报道，Marina Petrova 的 dot Aria 可协助研究网站、撰写提案，并主动标记消息并解决问题。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Marina Petrova 的 dot Aria 助力研究",
+    "协助研究网站和撰写提案",
+    "主动标记消息并解决问题"
+  ],
+  "category": "ai",
+  "tags": [
+    "Intentful",
+    "dot Aria",
+    "OpenAI",
+    "研究助手",
+    "自动化"
+  ],
+  "entities": [
+    "How Intentful"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/intentful-dots",
+  "publishedAt": "2026-11-24T00:00:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 15,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "29a76c76bd1c8641",
+  "status": "published"
+}

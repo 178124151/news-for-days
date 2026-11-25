@@ -1,0 +1,34 @@
+{
+  "id": "0246f0b10ef42ba3",
+  "slug": "uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ah",
+  "titleZh": "Uber 和 Nuro 开始测试无驾驶员 Lucid 机器人出租车",
+  "titleOriginal": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+  "summary": "Uber 和 Nuro 已在旧金山湾区公共道路上测试无驾驶员的 Lucid Gravity SUV。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Uber 和 Nuro 测试无驾驶员 Lucid",
+    "车型为 Lucid Gravity SUV",
+    "地点为旧金山湾区"
+  ],
+  "category": "tech",
+  "tags": [
+    "Uber",
+    "Nuro",
+    "自动驾驶"
+  ],
+  "entities": [
+    "Uber",
+    "Nuro",
+    "Lucid"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+  "publishedAt": "2026-11-24T16:40:46.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a3631fa4e34f0fba",
+  "status": "published"
+}

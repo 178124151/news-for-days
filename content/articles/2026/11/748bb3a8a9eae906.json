@@ -1,0 +1,35 @@
+{
+  "id": "748bb3a8a9eae906",
+  "slug": "8-k-american-resources-corp-0001590715-filer",
+  "titleZh": "8-K - American Resources Corp (0001590715) (Filer)",
+  "titleOriginal": "8-K - American Resources Corp (0001590715) (Filer)",
+  "summary": "Filed: 2026-11-24 AccNo: 0001477932-26-007287 Size: 3 MB Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review Item 9.01: Financial …",
+  "keyPoints": [
+    "Filed: 2026-11-24 AccNo: 0001477932-26-…",
+    "8-K - American Resources Corp (00015907…",
+    "详见原文"
+  ],
+  "category": "policy",
+  "tags": [
+    "American Resources Corp",
+    "Filer",
+    "政策",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "American Resources Corp",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1590715/000147793226007287/0001477932-26-007287-index.htm",
+  "publishedAt": "2026-11-24T22:30:36.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 59,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "4ef63480d47a7859",
+  "status": "published"
+}

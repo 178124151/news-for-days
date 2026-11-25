@@ -1,0 +1,36 @@
+{
+  "id": "5af635362fbeff15",
+  "slug": "benchmarking-evidence-sufficiency-in-vision-language-models-",
+  "titleZh": "视觉语言模型自动驾驶证据充分性基准测试",
+  "titleOriginal": "Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving",
+  "summary": "现有评估将定位与可答性分离，难以区分有依据预测与仅依赖相关但证据不足预测。研究者推出 DriveAnswer 基准，包含 20151 道七类推理题，通过强弱证据配对区分证据充分性。六家族评估中最强零-shot baseline 仅强证据准确率 67.31%，但仅有 21.55% 问题同时满足答非所问与完整定位。",
+  "keyPoints": [
+    "DriveAnswer 基准通过强弱证据配对区分证据充分性",
+    "六家族评估中最强模型强证据准确率仅 67.31%",
+    "仅 21.55% 问题同时满足答非所问与完整定位"
+  ],
+  "category": "ai",
+  "tags": [
+    "视觉语言模型",
+    "自动驾驶",
+    "证据充分性",
+    "定位",
+    "推理基准"
+  ],
+  "entities": [
+    "Benchmarking Evidence Sufficiency",
+    "Vision Language Models",
+    "Autonomous Driving"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.32964v1",
+  "publishedAt": "2026-11-24T17:01:37.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 78,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c42bc69c8fcab04a",
+  "status": "published"
+}

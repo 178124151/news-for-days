@@ -1,0 +1,35 @@
+{
+  "id": "b06a1f0cdbca2da6",
+  "slug": "micron-boosted-ceo-sanjay-mehrotra-x2019-s-security-budget-b",
+  "titleZh": "Micron CEO Mehrotra 安全预算增幅 2000%",
+  "titleOriginal": "Micron boosted CEO Sanjay Mehrotra&#x2019;s security budget by 2,000%, new filing shows",
+  "summary": "Micron 最新财年 CEO Sanjay Mehrotra 总薪酬 39.7 万美元，其中安全开支 764,748 美元，较前历年大幅增加。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "CEO 安全预算增幅 2000%",
+    "2024 财年总薪酬 39.7 万美元",
+    "安全开支达 764,748 美元"
+  ],
+  "category": "finance",
+  "tags": [
+    "Micron",
+    "CEO 薪酬",
+    "安全预算",
+    "财报",
+    "2024"
+  ],
+  "entities": [
+    "Micron",
+    "CEO Sanjay Mehrotra"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-24T23:11:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "56ec1aeb4ca24943",
+  "status": "published"
+}

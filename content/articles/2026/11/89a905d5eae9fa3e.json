@@ -1,0 +1,32 @@
+{
+  "id": "89a905d5eae9fa3e",
+  "slug": "how-ifood-scales-coding-agents-across-15-000-repositories",
+  "titleZh": "iFood 规模化编码代理 across 15,000 仓库",
+  "titleOriginal": "How iFood scales coding agents across 15,000 repositories",
+  "summary": "OpenAI News 报道，iFood 已将编码代理规模化部署至 15,000 个代码仓库。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "iFood 规模化部署编码代理",
+    "覆盖 15,000 个代码仓库",
+    "提升开发效率"
+  ],
+  "category": "ai",
+  "tags": [
+    "iFood",
+    "编码代理",
+    "OpenAI",
+    "大规模部署",
+    "软件开发"
+  ],
+  "entities": [],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/business/customer-stories/ifood",
+  "publishedAt": "2026-11-24T00:00:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 25,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0c6ce8656b5c1638",
+  "status": "published"
+}

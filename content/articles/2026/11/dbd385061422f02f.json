@@ -1,0 +1,35 @@
+{
+  "id": "dbd385061422f02f",
+  "slug": "12-days-of-sardines-and-croc-charms-are-advent-calendars-get",
+  "titleZh": "冒险日历奢华化是否失控？",
+  "titleOriginal": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+  "summary": "奢华冒险日历价格可达数百美元，近期销量激增。文章探讨其背后原因。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "奢华冒险日历价格高昂",
+    "近期销量出现激增",
+    "探讨销量增长原因"
+  ],
+  "category": "finance",
+  "tags": [
+    "冒险日历",
+    "消费趋势",
+    "奢华消费",
+    "MarketWatch",
+    "销量增长"
+  ],
+  "entities": [
+    "Croc",
+    "Are Advent"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-24T21:53:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a12a4f273943a585",
+  "status": "published"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6a28e842b3bf4bfd",
+  "slug": "microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac-",
+  "titleZh": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "titleOriginal": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Microduck Obstacle Avoidance: A Sim2Rea…",
+    "Microduck Obstacle Avoidance: A Sim2Rea…",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Microduck Obstacle Avoidance",
+    "A Sim2Real Workflow",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Microduck Obstacle Avoidance",
+    "A Sim2Real Workflow",
+    "Isaac Lab",
+    "Newton"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "publishedAt": "2026-11-24T16:34:13.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 55,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "81d24046b491ea0f",
+  "status": "published"
+}

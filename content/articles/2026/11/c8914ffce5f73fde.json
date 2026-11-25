@@ -1,0 +1,36 @@
+{
+  "id": "c8914ffce5f73fde",
+  "slug": "minutes-of-the-boards-discount-rate-meetings-on-october-19-a",
+  "titleZh": "美联储 10 月 19 日和 10 月 28 日折扣率会议纪要",
+  "titleOriginal": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+  "summary": "美联储 10 月 19 日和 10 月 28 日召开折扣率会议，已发布会议纪要。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美联储 10 月 19 日召开折扣率会议",
+    "美联储 10 月 28 日召开折扣率会议",
+    "已发布会议纪要"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "折扣率",
+    "会议纪要",
+    "货币政策",
+    "2026"
+  ],
+  "entities": [
+    "Minutes",
+    "Board",
+    "October"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+  "publishedAt": "2026-11-24T19:00:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5db8489b65109594",
+  "status": "published"
+}

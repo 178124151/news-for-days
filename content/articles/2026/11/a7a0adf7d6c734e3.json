@@ -1,0 +1,36 @@
+{
+  "id": "a7a0adf7d6c734e3",
+  "slug": "how-gemini-is-changing-the-game-for-golden-states-organizati",
+  "titleZh": "How Gemini is changing the game for Golden State's organization and fans.",
+  "titleOriginal": "How Gemini is changing the game for Golden State's organization and fans.",
+  "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center.See the news.",
+  "keyPoints": [
+    "Google Gemini partners with Golden Stat…",
+    "See the news.",
+    "How Gemini is changing the game for Gol…"
+  ],
+  "category": "ai",
+  "tags": [
+    "Gemini",
+    "How Gemini",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Gemini",
+    "How Gemini",
+    "Golden State"
+  ],
+  "sourceId": "google-ai",
+  "sourceName": "Google AI Blog",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+  "publishedAt": "2026-11-24T16:00:00.000Z",
+  "fetchedAt": "2026-11-25T04:59:43.786Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "225ce658d5eaf4fd",
+  "status": "published"
+}

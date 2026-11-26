@@ -1,0 +1,34 @@
+{
+  "id": "ac2f786b30f6d457",
+  "slug": "gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti",
+  "titleZh": "GPT-6模型展示蛋白质设计能力",
+  "titleOriginal": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "summary": "GPT-6模型利用推理和代码设计蛋白质结构和序列。实验室测试发现其在五个靶点上表现出结合证据。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "GPT-6利用推理和代码设计蛋白质",
+    "实验证实五个靶点存在结合证据",
+    "展示了模型的蛋白质设计能力"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI模型",
+    "蛋白质设计",
+    "GPT-6",
+    "生物技术",
+    "推理能力"
+  ],
+  "entities": [
+    "GPT"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "publishedAt": "2026-11-24T13:00:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1a6025a4c0857136",
+  "status": "published"
+}

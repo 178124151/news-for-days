@@ -1,0 +1,32 @@
+{
+  "id": "ba0922bc733e5eb6",
+  "slug": "agencies-announce-dollar-thresholds-for-applicability-of-tru",
+  "titleZh": "美联储宣布真实借贷门槛",
+  "titleOriginal": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+  "summary": "美联储等机构宣布适用于消费信用和租赁交易的真实借贷和消费租赁规则的美元门槛。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "宣布真实借贷门槛",
+    "适用消费信用规则",
+    "涉及美元门槛设定"
+  ],
+  "category": "policy",
+  "tags": [
+    "美联储",
+    "政策",
+    "消费信用"
+  ],
+  "entities": [
+    "Agencies"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+  "publishedAt": "2026-11-25T20:00:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "960a6aa98f10d16c",
+  "status": "published"
+}

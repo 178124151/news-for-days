@@ -1,0 +1,37 @@
+{
+  "id": "6c86b83658125545",
+  "slug": "sources-a16z-is-in-talks-to-raise-20b-across-its-next-set-of",
+  "titleZh": "a16z 正谈判募集约 200 亿美元新基金",
+  "titleOriginal": "Sources: a16z is in talks to raise ~$20B across its next set of funds; its last set, announced in January at $15B+, later grew to $20B+ with three add-ons (Lucinda Shen/Axios)",
+  "summary": "风险投资公司 a16z 正在谈判募集约 200 亿美元的新基金，此前其去年一月宣布的基金规模为 150 亿美元以上，后因三次追加已增至 200 亿美元以上。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "a16z 正谈判募集约 200 亿美元新基金",
+    "去年一月宣布基金规模为 150 亿美元以上",
+    "后因三次追加已增至 200 亿美元以上"
+  ],
+  "category": "tech",
+  "tags": [
+    "a16z",
+    "风险投资",
+    "基金募集",
+    "融资规模",
+    "科技投资"
+  ],
+  "entities": [
+    "Sources",
+    "January",
+    "Lucinda Shen",
+    "Axios"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261125/p33#a261125p33",
+  "publishedAt": "2026-11-25T20:30:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "178f838ef6b2b766",
+  "status": "published"
+}

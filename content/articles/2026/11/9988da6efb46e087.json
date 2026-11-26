@@ -1,0 +1,35 @@
+{
+  "id": "9988da6efb46e087",
+  "slug": "oracle-coreweave-and-other-tech-stocks-bounce-back-after-sel",
+  "titleZh": "Oracle、CoreWeave等科技股回升",
+  "titleOriginal": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+  "summary": "Oracle、CoreWeave及其他科技股周三回升，早盘抛售后在市场收盘前有所缓解。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "科技股周三回升回补早盘亏损",
+    "抛售压力在收盘前有所缓解",
+    "Oracle和CoreWeed等股价回升"
+  ],
+  "category": "finance",
+  "tags": [
+    "科技股",
+    "回升",
+    "抛售",
+    "MarketWatch",
+    "市场"
+  ],
+  "entities": [
+    "Oracle",
+    "CoreWeave"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-25T22:16:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ed1ac1cf05fe1f99",
+  "status": "published"
+}

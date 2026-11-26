@@ -1,0 +1,30 @@
+{
+  "id": "898ded77584b89f5",
+  "slug": "why-this-stock-market-selloff-is-probably-going-to-get-worse",
+  "titleZh": "股市抛售或将恶化",
+  "titleOriginal": "Why this stock-market selloff is probably going to get worse before it gets better",
+  "summary": "MarketWatch指出周一的反弹只能掩盖必须解决的更深层问题， durable bottom 需要更久才能到达。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "股市抛售或将恶化",
+    "周一反弹掩盖深层问题",
+    "durable bottom 需要更久"
+  ],
+  "category": "finance",
+  "tags": [
+    "股市",
+    "抛售",
+    "MarketWatch"
+  ],
+  "entities": [],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-26T00:33:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "595bb84771eafb3b",
+  "status": "published"
+}

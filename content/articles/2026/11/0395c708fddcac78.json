@@ -1,0 +1,35 @@
+{
+  "id": "0395c708fddcac78",
+  "slug": "inside-india-newsletter-roaring-economy-foreign-investors-re",
+  "titleZh": "印度新闻简报：经济强劲，外资回流，现创纪录汽车销量",
+  "titleOriginal": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+  "summary": "印度汽车制造商计划在截至2027年3月的财年销售超过3000万辆车。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "印度汽车制造商计划在财年销售超过3000万辆车",
+    "基于印度经济强劲和外资回流的背景",
+    "创纪录的汽车销量反映市场活跃度提升"
+  ],
+  "category": "finance",
+  "tags": [
+    "印度",
+    "汽车行业",
+    "经济增长",
+    "外资",
+    "销量纪录"
+  ],
+  "entities": [
+    "Inside India",
+    "Roaring"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+  "publishedAt": "2026-11-26T00:12:16.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cb7447d3f0f13b9c",
+  "status": "published"
+}

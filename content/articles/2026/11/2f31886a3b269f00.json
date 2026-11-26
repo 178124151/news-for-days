@@ -1,0 +1,32 @@
+{
+  "id": "2f31886a3b269f00",
+  "slug": "36-2f3188",
+  "titleZh": "「华源智因」获过亿元天使轮融资，已有基于临床管线的药效预测合作落地",
+  "titleOriginal": "「华源智因」获过亿元天使轮融资，已有基于临床管线的药效预测合作落地｜36氪首发",
+  "summary": "「华源智因」完成过亿元天使轮融资，由华盖资本领投，华方资本等跟投。募集资金将用于大规模人源扰动数据生产、联合实验室建设及加速药企订单执行。公司致力于通过虚拟细胞技术对药物人体药效进行预测，已有临床管线合作落地。",
+  "keyPoints": [
+    "获过亿元天使轮融资",
+    "聚焦虚拟细胞与药效预测",
+    "已落地临床管线合作"
+  ],
+  "category": "tech",
+  "tags": [
+    "生物医药",
+    "虚拟细胞",
+    "天使轮",
+    "AI药物",
+    "临床合作"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4084622369516167?f=rss",
+  "publishedAt": "2026-11-26T01:00:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 80,
+  "readMinutes": 4,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e1fc779fb226f0de",
+  "status": "published"
+}

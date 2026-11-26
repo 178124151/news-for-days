@@ -1,0 +1,32 @@
+{
+  "id": "ac65c344bb219955",
+  "slug": "ai-ac65c3",
+  "titleZh": "九章云极发布物理AI工厂",
+  "titleOriginal": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+  "summary": "11月25日，以‘算力唤醒真实世界’为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行，发布物理AI工厂与生态开放计划。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "九章云极发布物理AI工厂",
+    "发布生态开放计划",
+    "在深圳举行行业峰会"
+  ],
+  "category": "ai",
+  "tags": [
+    "九章云极",
+    "物理AI",
+    "算力"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512582.html",
+  "publishedAt": "2026-11-25T14:21:20.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7b8d0ba57ec518d0",
+  "status": "published"
+}

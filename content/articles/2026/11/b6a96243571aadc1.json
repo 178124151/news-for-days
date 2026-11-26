@@ -1,0 +1,41 @@
+{
+  "id": "b6a96243571aadc1",
+  "slug": "ny-gov-kathy-hochul-signs-a-bill-banning-ai-chatbot-toys-for",
+  "titleZh": "纽约州长签署法案五年禁用 AI 聊天机器人玩具",
+  "titleOriginal": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+  "summary": "纽约州长签署法案，将在二月起五年禁用 AI 聊天机器人玩具；此前加州州长在九月签署四年禁令。旨在规范 AI 玩具的制造、交易和销售。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "纽约州长签署法案五年禁用 AI 聊天机器人玩具",
+    "加州州长早前已签署四年禁令",
+    "旨在规范 AI 玩具的制造、交易和销售"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI 玩具",
+    "纽约州",
+    "加州州长",
+    "法规禁令",
+    "儿童安全"
+  ],
+  "entities": [
+    "NY Gov",
+    "Kathy Hochul",
+    "AI",
+    "February",
+    "California Gov",
+    "Gavin Newsom",
+    "September",
+    "NBC News"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261125/p37#a261125p37",
+  "publishedAt": "2026-11-25T21:30:02.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0168cfb59a00bc8d",
+  "status": "published"
+}

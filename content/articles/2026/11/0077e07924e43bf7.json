@@ -1,0 +1,35 @@
+{
+  "id": "0077e07924e43bf7",
+  "slug": "an-indic-voice-agent-with-cuga",
+  "titleZh": "带CUGA的印地语语音代理",
+  "titleOriginal": "An Indic Voice Agent with CUGA",
+  "summary": "Hugging Face发布带有CUGA功能的印地语语音代理。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "发布印地语语音代理",
+    "具备CUGA功能",
+    "Hugging Face平台发布"
+  ],
+  "category": "ai",
+  "tags": [
+    "语音代理",
+    "印地语",
+    "CUGA",
+    "Hugging Face",
+    "AI"
+  ],
+  "entities": [
+    "An Indic Voice",
+    "CUGA"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "publishedAt": "2026-11-25T10:22:09.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 30,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "47e20e0040bb8e75",
+  "status": "published"
+}

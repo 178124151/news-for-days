@@ -1,0 +1,34 @@
+{
+  "id": "f939097a185ac174",
+  "slug": "36-ai",
+  "titleZh": "36氪首发丨安克前高管创业做AI音频设备，获博裕创投等数千万元种子轮融资，产品即将众筹",
+  "titleOriginal": "36氪首发丨安克前高管创业做AI音频设备，获博裕创投等数千万元种子轮融资，产品即将众筹",
+  "summary": "AI声学感知公司「听好科技」创始人王志军曾任安克智能音频业务负责人，离职后组建团队创立HearWell。公司以AI声学感知技术为核心，从语音转文字转向声音理解，构建声学感知平台，涵盖声学采集、事件识别及AI理解记忆三层技术体系。",
+  "keyPoints": [
+    "王志军离安克创立AI音频公司",
+    "核心技术为声学感知与声音理解",
+    "产品将进入众筹阶段"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI音频",
+    "种子轮融资",
+    "安克",
+    "声学感知",
+    "众筹"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4085971424995714?f=rss",
+  "publishedAt": "2026-11-26T02:25:52.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 70,
+  "readMinutes": 8,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3fa60fbe0f898918",
+  "status": "published"
+}

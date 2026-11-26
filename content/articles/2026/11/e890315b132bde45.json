@@ -1,0 +1,32 @@
+{
+  "id": "e890315b132bde45",
+  "slug": "ai-e89031",
+  "titleZh": "沈向洋谈AI非共识",
+  "titleOriginal": "沈向洋刚讲了好多AI非共识啊",
+  "summary": "沈向洋提到灵巧手是人类最后的尊严。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "沈向洋谈AI话题",
+    "提及灵巧手概念",
+    "涉及人类尊严观点"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "沈向洋",
+    "科技哲学"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512840.html",
+  "publishedAt": "2026-11-26T03:13:16.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c2d14e2f2aa42128",
+  "status": "published"
+}

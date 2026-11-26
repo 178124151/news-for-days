@@ -1,0 +1,36 @@
+{
+  "id": "e2dddde7b7e1bafa",
+  "slug": "google-search-alternative-kagi-launches-gmail-rival",
+  "titleZh": "谷歌搜索替代品 Kagi 推出 Gmail 对手机",
+  "titleOriginal": "Google search alternative Kagi launches Gmail rival",
+  "summary": "Kagi 公司推出订阅制搜索引擎替代品 Kagi Mail，主打隐私、个人数据主权、自定义和控制等功能。目前界面为网页版，计划于明年四季度推出安卓和 iOS 原生应用。",
+  "keyPoints": [
+    "Kagi 推出订阅制邮件服务 Kagi Mail",
+    "界面目前为网页版，安卓 iOS 客户端计划明年四季度上线",
+    "强调隐私、无广告和可定制体验"
+  ],
+  "category": "tech",
+  "tags": [
+    "Kagi",
+    "邮件服务",
+    "隐私",
+    "订阅制",
+    "搜索替代"
+  ],
+  "entities": [
+    "Google",
+    "Kagi",
+    "Gmail"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+  "publishedAt": "2026-11-25T20:57:09.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 60,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c9701341d4c80713",
+  "status": "published"
+}

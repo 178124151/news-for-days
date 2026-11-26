@@ -1,0 +1,32 @@
+{
+  "id": "99d37e3385ca44a9",
+  "slug": "11-30-80",
+  "titleZh": "中信证券：11月30日起融资保证金比例降至80%",
+  "titleOriginal": "中信证券：11月30日起融资保证金比例降至80%",
+  "summary": "中信证券公告，自11月30日起，对融资保证金比例为100%的投资者，新开立融资合约与尚未了结的融资合约，适用保证金比例统一调整为80%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "融资保证金比例统一调整为80%",
+    "适用新开立与未了结融资合约",
+    "对保证金比例为100%的投资者生效"
+  ],
+  "category": "tech",
+  "tags": [
+    "融资",
+    "保证金",
+    "中信证券",
+    "监管",
+    "资本市场"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4086001402030721?f=rss",
+  "publishedAt": "2026-11-26T02:55:34.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3bcf4969879b1add",
+  "status": "published"
+}

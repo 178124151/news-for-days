@@ -1,0 +1,35 @@
+{
+  "id": "aa7371b3c2962be8",
+  "slug": "8-k-cathay-general-bancorp-0000861842-filer",
+  "titleZh": "cathay general bancorp 8-K 文件",
+  "titleOriginal": "8-K - CATHAY GENERAL BANCORP (0000861842) (Filer)",
+  "summary": "cathay general bancorp 提交 8-K 文件，涉及其他事项及财务报表展示。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "cathay general bancorp 提交 8-K 文件",
+    "涉及其他事项及财务报表展示",
+    "文件大小 187 KB，于 2026-11-25 提交"
+  ],
+  "category": "policy",
+  "tags": [
+    "Cathay General Bancorp",
+    "8-K 文件",
+    "SEC 监管",
+    "财务报告",
+    "其他事项"
+  ],
+  "entities": [
+    "CATHAY GENERAL BANCORP",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/861842/000143774926038312/0001437749-26-038312-index.htm",
+  "publishedAt": "2026-11-25T22:05:29.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cd954ed40592b4f6",
+  "status": "published"
+}

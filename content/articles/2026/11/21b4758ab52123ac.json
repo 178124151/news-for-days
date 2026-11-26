@@ -1,0 +1,34 @@
+{
+  "id": "21b4758ab52123ac",
+  "slug": "advancing-computer-use-agents-for-healthcare-teams",
+  "titleZh": "推进医疗团队计算机使用代理",
+  "titleOriginal": "Advancing computer-use agents for healthcare teams",
+  "summary": "材料仅标题，未提供关于推进医疗团队计算机使用代理的具体内容。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "标题涉及医疗团队计算机使用代理",
+    "材料信息有限，仅标题",
+    "属于AI应用方向"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI代理",
+    "医疗应用",
+    "计算机使用",
+    "医疗技术",
+    "标题仅"
+  ],
+  "entities": [
+    "Advancing"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "publishedAt": "2026-11-16T06:00:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 40,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "cede8b19ca4567e5",
+  "status": "published"
+}

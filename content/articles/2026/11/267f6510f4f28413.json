@@ -1,0 +1,36 @@
+{
+  "id": "267f6510f4f28413",
+  "slug": "how-trumps-latest-tariff-moves-hand-india-an-edge-over-rival",
+  "titleZh": "特朗普关税提议让印度获利",
+  "titleOriginal": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+  "summary": "美国拟对孟加拉、柬埔寨、泰国征收18%关税，对中国、越南征收20%关税，印度因贸易协议获取竞争优势。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "美国拟对部分亚洲国家征收高额关税",
+    "印度因贸易协议获取竞争优势",
+    "关税政策或重塑亚洲出口格局"
+  ],
+  "category": "finance",
+  "tags": [
+    "关税",
+    "贸易",
+    "印度",
+    "亚洲出口",
+    "美国政策"
+  ],
+  "entities": [
+    "How Trump",
+    "India",
+    "Asian"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+  "publishedAt": "2026-11-26T04:12:18.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dc34270aabf93f9a",
+  "status": "published"
+}

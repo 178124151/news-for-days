@@ -1,0 +1,35 @@
+{
+  "id": "77bb663b6361291f",
+  "slug": "s-p-considers-nvidia-credit-downgrade-over-governance-and-ke",
+  "titleZh": "S&P考虑下调Nvidia信用评级",
+  "titleOriginal": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "summary": "信用评级机构可能将Nvidia评级下调至AA-，为第四高评级。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "S&P考虑下调Nvidia信用评级",
+    "原因涉及治理和'关键人员'风险",
+    "评级可能调至AA-级别"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "信用评级",
+    "S&P",
+    "治理风险",
+    "关键人员"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "publishedAt": "2026-11-25T22:44:32.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bb03a43479d70101",
+  "status": "published"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1f0e24e97001de28",
+  "slug": "hedge-funds-are-no-longer-just-for-the-rich-theyre-coming-fo",
+  "titleZh": "Hedge funds are no longer just for the rich. They’re coming for everyday invest…",
+  "titleOriginal": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+  "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+  "keyPoints": [
+    "Hedge funds are increasingly courting r…",
+    "Hedge funds are no longer just for the …",
+    "详见原文"
+  ],
+  "category": "finance",
+  "tags": [
+    "Hedge",
+    "金融",
+    "行业动态",
+    "每日速览",
+    "全球市场"
+  ],
+  "entities": [
+    "Hedge"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+  "publishedAt": "2026-11-26T01:10:58.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 79,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "d5165f6e0e60e78e",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "958594e57ac086aa",
+  "slug": "3-0-5",
+  "titleZh": "李斌坦言：不做AI变革可能活不下去",
+  "titleOriginal": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+  "summary": "蔚来智驾训练提效5倍，座舱引入强化学习，世界模型3.0助力车企AI变革。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "蔚来智驾训练提效5倍",
+    "座舱系统引入强化学习",
+    "世界模型3.0助力AI变革"
+  ],
+  "category": "ai",
+  "tags": [
+    "蔚来",
+    "AI",
+    "强化学习",
+    "世界模型",
+    "智驾"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512897.html",
+  "publishedAt": "2026-11-26T03:23:35.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 78,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8ba4d8f000a00656",
+  "status": "published"
+}

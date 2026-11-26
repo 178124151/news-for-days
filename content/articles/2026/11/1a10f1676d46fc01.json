@@ -1,0 +1,35 @@
+{
+  "id": "1a10f1676d46fc01",
+  "slug": "perplexity-and-intelligence",
+  "titleZh": "困惑度衡量AI模型进展",
+  "titleOriginal": "Perplexity and Intelligence",
+  "summary": "文章探讨了困惑度如何衡量AI模型进展，以及其为何能帮助开发者建立评估新兴能力的共同方法。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "困惑度衡量AI模型进展",
+    "有助于建立评估新兴能力的共同方法",
+    "对开发者评估能力具有参考价值"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI评估",
+    "模型进展",
+    "困惑度",
+    "开发者工具",
+    "能力评估"
+  ],
+  "entities": [
+    "Perplexity",
+    "Intelligence"
+  ],
+  "sourceId": "openai",
+  "sourceName": "OpenAI News",
+  "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+  "publishedAt": "2026-11-22T00:00:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c2196c4c70e550f3",
+  "status": "published"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4a7fe2d5bd0dba83",
+  "slug": "ai-4a7fe2",
+  "titleZh": "AI影视高地北影海淀崛起",
+  "titleOriginal": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+  "summary": "AI影视在北影海淀一带崛起，形成最强AI Buff，支持‘一人制片厂’基建搭建。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "AI影视在北影海淀崛起",
+    "形成最强AI Buff",
+    "支持‘一人制片厂’基建"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "影视",
+    "北影海淀"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/512828.html",
+  "publishedAt": "2026-11-26T02:53:14.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "74a5d78bf26bf91c",
+  "status": "published"
+}

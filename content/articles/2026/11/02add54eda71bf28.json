@@ -1,0 +1,32 @@
+{
+  "id": "02add54eda71bf28",
+  "slug": "02add54eda71bf28",
+  "titleZh": "“听好科技”完成两轮共数千万元融资",
+  "titleOriginal": "“听好科技”完成两轮共数千万元融资",
+  "summary": "“听好科技”近日完成两轮共数千万元融资，由博裕创投、璀璨资本、梅花创投、修远资本参与投资，涵盖财务投资机构与产业投资方。向阳资本担任长期财务顾问。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "完成两轮共数千万元融资",
+    "博裕创投等机构参与投资",
+    "向阳担任财务顾问"
+  ],
+  "category": "tech",
+  "tags": [
+    "融资",
+    "AI音频",
+    "博裕创投",
+    "产业投资",
+    "财务顾问"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4085992391830153?f=rss",
+  "publishedAt": "2026-11-26T02:53:16.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dfb914b3b0a3d62a",
+  "status": "published"
+}

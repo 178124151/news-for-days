@@ -1,0 +1,34 @@
+{
+  "id": "9693ae5b8e38f1e2",
+  "slug": "agencies-announce-dollar-thresholds-for-smaller-loan-exempti",
+  "titleZh": "监管机构宣布小额贷款免评估美元门槛",
+  "titleOriginal": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+  "summary": "监管机构发布较小贷款免于高价抵押贷款评估要求的美元门槛。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "监管机构发布小额贷款免评估门槛",
+    "涉及高价抵押贷款评估要求",
+    "设定具体美元门槛阈值"
+  ],
+  "category": "policy",
+  "tags": [
+    "政策",
+    "抵押贷款",
+    "监管",
+    "美元",
+    "门槛"
+  ],
+  "entities": [
+    "Agencies"
+  ],
+  "sourceId": "federalreserve",
+  "sourceName": "美联储",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+  "publishedAt": "2026-11-25T20:00:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "75e7fa167d71729b",
+  "status": "published"
+}

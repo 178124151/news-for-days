@@ -1,0 +1,37 @@
+{
+  "id": "da4dd984e1044f96",
+  "slug": "judge-blocks-fcc-early-renewal-process-for-disney-owned-abc-",
+  "titleZh": "法官阻止迪士尼旗下ABC电台提前续证",
+  "titleOriginal": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+  "summary": "法官暂停FCC对迪士尼旗下ABC电台的提前续证程序，被视为第一修正案的重要胜利。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "法官阻止ABC电台提前续证",
+    "案件涉及第一修正案争议",
+    "FCD程序被暂停 'for now'"
+  ],
+  "category": "finance",
+  "tags": [
+    "迪士尼",
+    "ABC",
+    "FCC",
+    "续证",
+    "第一修正案"
+  ],
+  "entities": [
+    "Judge",
+    "FCC",
+    "Disney",
+    "ABC"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+  "publishedAt": "2026-11-26T04:00:15.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "69ce74a58a2bbe3d",
+  "status": "published"
+}

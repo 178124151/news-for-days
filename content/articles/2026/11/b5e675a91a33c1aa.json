@@ -1,0 +1,35 @@
+{
+  "id": "b5e675a91a33c1aa",
+  "slug": "nvidia-x2019-s-stock-has-given-back-a-big-chunk-of-monday-x2",
+  "titleZh": "Nvidia股价回吐周一涨幅",
+  "titleOriginal": "Nvidia&#x2019;s stock has given back a big chunk of Monday&#x2019;s rally as dip buyers cash in",
+  "summary": "根据Vanda Research数据，散户上周买入Nvidia股价回调后的获利已基本归零。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia回调后散户获利基本归零",
+    "dip买家获利已基本消失",
+    "基于Vanda Research零售买入数据"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "股价",
+    "回调",
+    "Vanda Research",
+    "散户"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-25T22:11:00.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3320899cb8798052",
+  "status": "published"
+}

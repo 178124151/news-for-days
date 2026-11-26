@@ -1,0 +1,36 @@
+{
+  "id": "71fa87fc35c44117",
+  "slug": "fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
+  "titleZh": "FCC批准SpaceX太空AI数据中心计划",
+  "titleOriginal": "FCC approves SpaceX plan to put AI data centers in space",
+  "summary": "FCC批准SpaceX在太空部署AI数据中心，驳回了关于科学研究威胁的主要担忧，因认定超出监管权限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "FCC批准SpaceX太空AI数据中心计划",
+    "驳回科学研究威胁担忧",
+    "认定相关担忧超出监管权限"
+  ],
+  "category": "tech",
+  "tags": [
+    "SpaceX",
+    "太空",
+    "AI数据中心",
+    "FCC批准",
+    "监管"
+  ],
+  "entities": [
+    "SpaceX",
+    "FCC",
+    "AI"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+  "publishedAt": "2026-11-25T20:56:44.000Z",
+  "fetchedAt": "2026-11-26T04:18:26.683Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a4b163dec253758c",
+  "status": "published"
+}

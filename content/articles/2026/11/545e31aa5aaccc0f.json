@@ -1,0 +1,34 @@
+{
+  "id": "545e31aa5aaccc0f",
+  "slug": "sovereign-wealth-funds-are-acting-more-like-private-equity-g",
+  "titleZh": "主权财富基金行为趋向私募巨头承担风险",
+  "titleOriginal": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+  "summary": "主权财富基金日益源发交易、持有控股股份并自行建立投资平台。报道指出其正越来越像私募巨头并继承其风险。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "主权财富基金日益源发交易并持有控股股份",
+    "基金正越来越像私募巨头并继承其风险",
+    "建立自身投资平台以拓展业务"
+  ],
+  "category": "finance",
+  "tags": [
+    "主权财富基金",
+    "私募投资",
+    "风险管理",
+    "资产配置",
+    "市场趋势"
+  ],
+  "entities": [
+    "Sovereign"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+  "publishedAt": "2026-11-27T00:22:29.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a11f62f6aeabb370",
+  "status": "published"
+}

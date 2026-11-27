@@ -1,0 +1,36 @@
+{
+  "id": "35562237e1c0b23f",
+  "slug": "ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again",
+  "titleZh": "福特发布GT41赛车冲击勒芒",
+  "titleOriginal": "Ford unveils the GT41 as it hopes to win Le Mans again",
+  "summary": "福特在狮子队与熊队比赛中首发GT41，基于LMDh技术路线，目标在2027年前实现整体胜利。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "福特基于LMDh路线发布GT41",
+    "目标锁定2027年整体胜利",
+    "竞争激烈需循序渐进发展"
+  ],
+  "category": "tech",
+  "tags": [
+    "福特",
+    "GT41",
+    "勒芒",
+    "LMDh",
+    "赛车"
+  ],
+  "entities": [
+    "Ford",
+    "GT41",
+    "Le Mans"
+  ],
+  "sourceId": "arstechnica",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+  "publishedAt": "2026-11-26T18:00:29.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 60,
+  "readMinutes": 3,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dbb1b62a2f7f8c9f",
+  "status": "published"
+}

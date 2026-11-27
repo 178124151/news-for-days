@@ -1,0 +1,37 @@
+{
+  "id": "a734da9d3a1d8760",
+  "slug": "introducing-the-llama-cpp-benchmark-dashboard-for-amd-ryzen-",
+  "titleZh": "AMD 睿龙与锐龙基准测试仪表盘发布",
+  "titleOriginal": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "summary": "Hugging Face 推出针对 AMD 睿龙和锐龙平台的 llama.cpp 基准测试仪表盘。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hugging Face 发布新基准测试工具",
+    "支持 AMD 睿龙和锐龙硬件",
+    "针对 llama.cpp 进行了优化"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "AMD",
+    "基准测试",
+    "Hugging Face",
+    "硬件"
+  ],
+  "entities": [
+    "Llama",
+    "Introducing",
+    "AMD Ryzen",
+    "Radeon"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "publishedAt": "2026-11-26T11:37:17.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 65,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dac59e285b070991",
+  "status": "published"
+}

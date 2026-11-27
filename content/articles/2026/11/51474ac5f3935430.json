@@ -1,0 +1,34 @@
+{
+  "id": "51474ac5f3935430",
+  "slug": "is-alice-huang-a-spy-or-not",
+  "titleZh": "Alice Huang是间谍吗？",
+  "titleOriginal": "Is Alice Huang a spy or not?",
+  "summary": "Nvidia丑闻中的核心指控仍未证实，指称前美高速高管Alice Huang与Nvidia CEO黄仁勋有婚外情，且为中国间谍。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "指控Alice Huang为中国间谍",
+    "指控尚未证实",
+    "涉及Nvidia CEO黄仁勋"
+  ],
+  "category": "tech",
+  "tags": [
+    "科技丑闻",
+    "间谍",
+    "人事",
+    "Nvidia",
+    "安全"
+  ],
+  "entities": [
+    "Is Alice Huang"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+  "publishedAt": "2026-11-26T20:00:00.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "47917aef716ebb49",
+  "status": "published"
+}

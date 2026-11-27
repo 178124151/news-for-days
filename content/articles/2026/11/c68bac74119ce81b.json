@@ -1,0 +1,32 @@
+{
+  "id": "c68bac74119ce81b",
+  "slug": "ai-c68bac",
+  "titleZh": "陶哲轩下场验证黎曼猜想",
+  "titleOriginal": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+  "summary": "材料信息有限。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "陶哲轩下场验证黎曼猜想",
+    "AI批量吐证明就像发电厂排核废料",
+    "担心课题被AI抢先"
+  ],
+  "category": "ai",
+  "tags": [
+    "数学",
+    "AI",
+    "黎曼猜想"
+  ],
+  "entities": [
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/513075.html",
+  "publishedAt": "2026-11-27T02:03:10.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 85,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "167a475933403fd5",
+  "status": "published"
+}

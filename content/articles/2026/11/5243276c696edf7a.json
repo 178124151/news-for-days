@@ -1,0 +1,35 @@
+{
+  "id": "5243276c696edf7a",
+  "slug": "spacex-shares-jump-on-alternative-trading-platform-after-mus",
+  "titleZh": "SpaceX股份在替代交易平台上涨",
+  "titleOriginal": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+  "summary": "SpaceX股份于Blue Ocean ATS平台交易上涨，因马斯克宣布将每年向美国儿童捐赠股份。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "马斯克宣布每年捐赠SpaceX股份",
+    "股份在替代平台交易活跃",
+    "关注股份捐赠计划影响"
+  ],
+  "category": "finance",
+  "tags": [
+    "SpaceX",
+    "马斯克",
+    "股份捐赠",
+    "交易",
+    "金融"
+  ],
+  "entities": [
+    "SpaceX",
+    "Musk"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+  "publishedAt": "2026-11-27T04:20:55.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 45,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "77adfa375494aa14",
+  "status": "published"
+}

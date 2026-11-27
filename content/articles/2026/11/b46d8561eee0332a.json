@@ -1,0 +1,30 @@
+{
+  "id": "b46d8561eee0332a",
+  "slug": "b46d8561eee0332a",
+  "titleZh": "一杯红茶里的帝国棋局",
+  "titleOriginal": "一杯红茶里的帝国棋局",
+  "summary": "魏城：有人开玩笑说，帝国后人中，地缘战略侃爷特别多。在土耳其八天旅游行程里，至少遇到了两个。土耳其一直在多面下注，为自己争取更大的战略空间。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "帝国后人中地缘战略侃爷多",
+    "土耳其旅游行程中遇到相关人士",
+    "土耳其多面下注争取战略空间"
+  ],
+  "category": "finance",
+  "tags": [
+    "地缘战略",
+    "帝国",
+    "土耳其"
+  ],
+  "entities": [],
+  "sourceId": "ftchinese",
+  "sourceName": "FT中文网",
+  "sourceUrl": "https://www.ftchinese.com/story/efcffd1f-40a1-4fe6-8885-307dedbbb6cc",
+  "publishedAt": "2026-11-26T16:00:00.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c5056b19eebd5990",
+  "status": "published"
+}

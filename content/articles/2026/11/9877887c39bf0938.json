@@ -1,0 +1,32 @@
+{
+  "id": "9877887c39bf0938",
+  "slug": "9877887c39bf0938",
+  "titleZh": "发布网络视听版权保护行业自律公约",
+  "titleOriginal": "《网络视听领域版权保护行业自律公约》发布",
+  "summary": "国家广播电视总局指导中国网络视听节目服务协会发布《网络视听领域版权保护行业自律公约》。公约以著作权法为依据，确立先授权后使用、先合规后传播原则，覆盖全品类网络视听作品。旨在维护权利人权益，为行业版权合规建设与自律治理提供统一行动指引，引导行业崇德守信、合规经营、公平竞争。",
+  "keyPoints": [
+    "行业自律公约发布，确立版权保护基本原则",
+    "聚焦版权保护痛点难点，覆盖全品类网络视听作品",
+    "旨在维护权利人权益，规范行业合规经营"
+  ],
+  "category": "tech",
+  "tags": [
+    "版权保护",
+    "行业自律",
+    "网络视听",
+    "著作权",
+    "合规治理"
+  ],
+  "entities": [],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4087459720673665?f=rss",
+  "publishedAt": "2026-11-27T03:49:04.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6374f0b78dcecf2b",
+  "status": "published"
+}

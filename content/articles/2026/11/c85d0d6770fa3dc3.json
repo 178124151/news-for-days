@@ -1,0 +1,33 @@
+{
+  "id": "c85d0d6770fa3dc3",
+  "slug": "20-ai-agents-4-350-clickbench",
+  "titleZh": "20个AI Agents组队狂跑实验",
+  "titleOriginal": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+  "summary": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩。Quickwit查询总耗时降31%，最高降87%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "20个AI Agents组队进行实验",
+    "4天狂跑350次实验",
+    "超越ClickBench最佳公开成绩"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "实验",
+    "ClickBench"
+  ],
+  "entities": [
+    "AI Agents",
+    "ClickBench"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/513053.html",
+  "publishedAt": "2026-11-27T01:16:10.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "5830f5306d09a56b",
+  "status": "published"
+}

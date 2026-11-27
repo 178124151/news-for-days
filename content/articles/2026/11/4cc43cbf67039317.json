@@ -1,0 +1,38 @@
+{
+  "id": "4cc43cbf67039317",
+  "slug": "altair-semiconductor-an-israeli-chipmaker-spun-off-from-sony",
+  "titleZh": "Altair Semiconductor获1亿美元A轮融资",
+  "titleOriginal": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
+  "summary": "Altair Semiconductor，一家早年从索尼剥离的以色列芯片公司，完成1亿美元A轮融资。公司正准备推出低功耗5G调制解调器，目标市场包括智能眼镜、可穿戴设备和工业设备。",
+  "keyPoints": [
+    "公司于2026年初从索尼剥离成立",
+    "完成1亿美元A轮融资",
+    "计划推出低功耗5G调制解调器"
+  ],
+  "category": "tech",
+  "tags": [
+    "融资",
+    "芯片",
+    "5G",
+    "可穿戴",
+    "工业设备"
+  ],
+  "entities": [
+    "Altair Semiconductor",
+    "Israeli",
+    "Sony",
+    "Series A",
+    "CTech"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261126/p23#a261126p23",
+  "publishedAt": "2026-11-26T18:05:38.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "893adee188028d28",
+  "status": "published"
+}

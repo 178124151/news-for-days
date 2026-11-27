@@ -1,0 +1,36 @@
+{
+  "id": "0f8bd73c026011a7",
+  "slug": "spectrum-adaptation-of-ai-native-autoencoder-communications-",
+  "titleZh": "AI-Native Autoencoder 通信适应研究",
+  "titleOriginal": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+  "summary": "研究AI原生通信中自编码器的端到端物理层学习，模型在AWGN通道训练匹配时BER低，但在瑞利 fading 信道下因前端损耗严重。提出低延迟转移学习方法，从AWGN预训练系统出发，仅微调少量发射接收层并冻结其余层。通过预算约束优化确定关键参数，保留信号几何结构与深度决策结构，使轻量前端适应 fading 与损耗。",
+  "keyPoints": [
+    "AI原生通信研究AWGN与 fading 信道匹配性",
+    "提出低延迟转移学习方法适应新通道条件",
+    "部分参数更新可消除误差下限并降低计算资源消耗"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI通信",
+    "自编码器",
+    "转移学习",
+    "信道自适应",
+    "BER性能"
+  ],
+  "entities": [
+    "Spectrum Adaptation",
+    "AI Native Autoencoder",
+    "Transfer Learning"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.34942v1",
+  "publishedAt": "2026-11-25T18:59:57.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 75,
+  "readMinutes": 3,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ca389d4f5a3460f8",
+  "status": "published"
+}

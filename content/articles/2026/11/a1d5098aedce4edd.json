@@ -1,0 +1,32 @@
+{
+  "id": "a1d5098aedce4edd",
+  "slug": "a1d5098aedce4edd",
+  "titleZh": "华为乾崑生态共赴热爱大会发布乾崑共创者计划",
+  "titleOriginal": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+  "summary": "11月26日，华为乾崑生态大会在广州南沙体育馆举行。大会发布乾崑共创者计划，旨在邀请伙伴加入乾崑生态，共创出行未来。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "华为乾崑生态大会在广州召开，发布共创者计划",
+    "计划邀请伙伴加入乾崑生态共创出行未来",
+    "大会旨在凝聚生态合作力量"
+  ],
+  "category": "ai",
+  "tags": [
+    "华为乾崑",
+    "出行生态",
+    "共创计划",
+    "智能汽车",
+    "生态合作"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/513087.html",
+  "publishedAt": "2026-11-27T02:19:12.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "84d1b64ddc89e8d8",
+  "status": "published"
+}

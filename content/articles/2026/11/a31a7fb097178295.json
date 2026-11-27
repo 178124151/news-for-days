@@ -1,0 +1,35 @@
+{
+  "id": "a31a7fb097178295",
+  "slug": "8-k-scilex-holding-co-0001820190-filer",
+  "titleZh": "Scilex Holding Co 8-K 文件",
+  "titleOriginal": "8-K - Scilex Holding Co (0001820190) (Filer)",
+  "summary": "2026年11月25日提交8-K文件，项目包括Item 3.01关于退市或未满足持续列入规则，Item 8.01关于其他事件及Item 9.01关于财务报表和展览。",
+  "keyPoints": [
+    "2026-11-25提交8-K文件",
+    "包含退市或未满足持续列入规则项目",
+    "涉及其他事件及财务报表展览"
+  ],
+  "category": "policy",
+  "tags": [
+    "8-K文件",
+    "退市",
+    "持续列入",
+    "财务报表",
+    "Scilex Holding"
+  ],
+  "entities": [
+    "Scilex Holding Co",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526478695/0001193125-26-478695-index.htm",
+  "publishedAt": "2026-11-25T22:25:35.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "229ebfa4dffbf230",
+  "status": "published"
+}

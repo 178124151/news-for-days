@@ -1,0 +1,35 @@
+{
+  "id": "c86811aca6249ad9",
+  "slug": "meet2027-ai-c86811",
+  "titleZh": "第三批嘉宾来袭！MEET2027报名进行时",
+  "titleOriginal": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+  "summary": "量子位平台宣布MEET2027大会第三批嘉宾，报名倒计时两周，速速报名。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "第三批嘉宾公布",
+    "MEET2027大会",
+    "报名倒计时两周"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI大会",
+    "报名",
+    "量子位",
+    "嘉宾",
+    "科技"
+  ],
+  "entities": [
+    "MEET2027",
+    "AI"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/513091.html",
+  "publishedAt": "2026-11-27T02:56:03.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 20,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "dd46dda2cf6e7f12",
+  "status": "published"
+}

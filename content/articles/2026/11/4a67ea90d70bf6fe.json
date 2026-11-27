@@ -1,0 +1,35 @@
+{
+  "id": "4a67ea90d70bf6fe",
+  "slug": "trump-demands-probe-into-record-setting-error-after-third-qu",
+  "titleZh": "特朗普要求调查GDP数据修正错误",
+  "titleOriginal": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+  "summary": "特朗普称最新国内生产总值修正为‘记录性错误’，要求立即调查。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "特朗普称GDP修正为记录性错误",
+    "要求立即展开调查",
+    "引发政治关注"
+  ],
+  "category": "finance",
+  "tags": [
+    "特朗普",
+    "GDP",
+    "数据修正",
+    "经济",
+    "政治"
+  ],
+  "entities": [
+    "Trump",
+    "GDP"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+  "publishedAt": "2026-11-26T21:13:17.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "79bc8eda5c126e9a",
+  "status": "published"
+}

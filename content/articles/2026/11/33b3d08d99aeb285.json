@@ -1,0 +1,36 @@
+{
+  "id": "33b3d08d99aeb285",
+  "slug": "nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+  "titleZh": "Nvidia暂停向东南亚发货",
+  "titleOriginal": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "summary": "Nvidia指示制造合作伙伴暂停向马来西亚、新加坡、泰国和印尼发货服务器。美国加大压力，旨在防止AI芯片流向中国。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "暂停向四国发货",
+    "涉及服务器出货",
+    "美国收紧芯片出口管控"
+  ],
+  "category": "tech",
+  "tags": [
+    "Nvidia",
+    "AI芯片",
+    "出口管制",
+    "东南亚",
+    "中国"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Southeast Asia"
+  ],
+  "sourceId": "techcrunch",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "publishedAt": "2026-11-26T20:03:54.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "a197b3c196e1af92",
+  "status": "published"
+}

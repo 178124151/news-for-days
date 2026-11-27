@@ -1,0 +1,39 @@
+{
+  "id": "3d2697b636d74b83",
+  "slug": "building-on-nemotron-3-5-parse-open-data-fine-tuning-and-fas",
+  "titleZh": "基于 Nemotron 3.5 Parse：开放数据、微调与更快推理",
+  "titleOriginal": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "summary": "Hugging Face 介绍基于 Nemotron 3.5 Parse 的新功能，涵盖开放数据、模型微调以及推理速度提升。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nemotron 3.5 Parse 成为新平台基础",
+    "支持开放数据和模型微调",
+    "旨在实现更快的推理性能"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "Nemotron",
+    "微调",
+    "开放数据",
+    "推理"
+  ],
+  "entities": [
+    "Building",
+    "Nemotron",
+    "Parse",
+    "Open Data",
+    "Fine Tuning",
+    "Faster Inference"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "publishedAt": "2026-11-26T05:05:36.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 55,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "14658bd97b2d4880",
+  "status": "published"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "d6b33009f12058e2",
+  "slug": "two-italians-killed-in-kuwait-drone-attack-trump-says-iran-w",
+  "titleZh": "两意大利人在科威特无人机袭击中遇难",
+  "titleOriginal": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+  "summary": "伊朗外长阿拉格奇称该事件可疑，似乎是一场战争的预设剧本。两名意大利人在科威特遭无人机袭击身亡。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "科威特发生无人机袭击",
+    "两名意大利人遇难",
+    "伊朗外长指责事件可疑"
+  ],
+  "category": "finance",
+  "tags": [
+    "国际",
+    "冲突",
+    "科威特",
+    "无人机",
+    "意大利"
+  ],
+  "entities": [
+    "Two Italians",
+    "Kuwait",
+    "Trump",
+    "Iran"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+  "publishedAt": "2026-11-27T03:30:23.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "0b245e8765596da7",
+  "status": "published"
+}

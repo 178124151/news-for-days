@@ -1,0 +1,36 @@
+{
+  "id": "819f2bb8e324e5e7",
+  "slug": "swarms-flocks-gangs-how-to-build-train-and-evaluate-multi-ag",
+  "titleZh": "如何构建、训练和评估多智能体系统",
+  "titleOriginal": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "summary": "Hugging Face 发布关于 Swarms、Flocks、Gangs 的文章，详细介绍了多智能体系统的构建、训练和评估方法。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "文章聚焦多智能体系统方法",
+    "涵盖构建、训练等全流程",
+    "提供评估相关指南"
+  ],
+  "category": "ai",
+  "tags": [
+    "AI",
+    "多智能体",
+    "训练",
+    "评估",
+    "方法"
+  ],
+  "entities": [
+    "Swarms",
+    "Flocks",
+    "Gangs"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/training-swarms",
+  "publishedAt": "2026-11-26T00:00:00.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 45,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "6259300acfa39b09",
+  "status": "published"
+}

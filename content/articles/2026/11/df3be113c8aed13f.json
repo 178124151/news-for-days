@@ -1,0 +1,37 @@
+{
+  "id": "df3be113c8aed13f",
+  "slug": "hill-climbing-inkling-2-mini-inference-on-one-rtx-pro-6000",
+  "titleZh": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "titleOriginal": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "summary": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Hill-climbing Inkling 2 Mini inference …",
+    "Hill-climbing Inkling 2 Mini inference …",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Hill",
+    "Inkling",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Hill",
+    "Inkling",
+    "Mini",
+    "RTX PRO"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "publishedAt": "2026-11-25T00:00:00.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 38,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "cf58f91539588f34",
+  "status": "published"
+}

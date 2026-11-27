@@ -1,0 +1,34 @@
+{
+  "id": "7e0917af058969d6",
+  "slug": "3d-hy3d-3-6",
+  "titleZh": "腾讯混元发布3D大模型Hy3D 3.6",
+  "titleOriginal": "腾讯混元发布3D大模型Hy3D 3.6",
+  "summary": "36氪获悉，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。目前已上线腾讯云Token Hub提供API服务，腾讯AI创意智能体Miora、腾讯游戏平台LAP、专业影视平台WorkRally等已接入。",
+  "keyPoints": [
+    "腾讯混元发布3D大模型Hy3D 3.6，优化高模和PBR材质贴图生成",
+    "新模型已上线腾讯云Token Hub提供API服务",
+    "多款腾讯产品已接入，面向专业3D创作"
+  ],
+  "category": "tech",
+  "tags": [
+    "腾讯AI",
+    "3D大模型",
+    "生成式AI",
+    "内容创作",
+    "腾讯云"
+  ],
+  "entities": [
+    "Hy3D"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/newsflashes/4087437995981443?f=rss",
+  "publishedAt": "2026-11-27T03:16:56.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3bce843eb0c04127",
+  "status": "published"
+}

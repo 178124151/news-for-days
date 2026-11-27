@@ -1,0 +1,30 @@
+{
+  "id": "f4f5c93c18b1c799",
+  "slug": "f4f5c93c18b1c799",
+  "titleZh": "从英国福利改革中重新学会读新闻",
+  "titleOriginal": "从英国福利改革中，我重新学会读新闻",
+  "summary": "何越：20多年前，读政策新闻习惯从标题里寻找一个统一的答案。现在读完一篇报道，会提醒自己，那只是看待这件事的一个角度。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "20多年前阅读政策新闻习惯",
+    "现在阅读会意识到仅是一个角度",
+    "重新学会读新闻的方法"
+  ],
+  "category": "finance",
+  "tags": [
+    "英国",
+    "福利改革",
+    "阅读方法"
+  ],
+  "entities": [],
+  "sourceId": "ftchinese",
+  "sourceName": "FT中文网",
+  "sourceUrl": "https://www.ftchinese.com/story/ec09e59d-6596-4575-a35c-bc704dc582f3",
+  "publishedAt": "2026-11-26T16:00:00.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 55,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "67c576f522d13b4f",
+  "status": "published"
+}

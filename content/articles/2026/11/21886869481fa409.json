@@ -1,0 +1,30 @@
+{
+  "id": "21886869481fa409",
+  "slug": "21886869481fa409",
+  "titleZh": "新北市长选战：蓝营强攻火药味越来越猛",
+  "titleOriginal": "新北市长选战：蓝营强攻火药味越来越猛",
+  "summary": "叶胜舟：新北今年选战复杂胶着，变数最大、危险最大，蓝营强攻火药味越来越猛。对国民党而言更输不起，对民进党而言已有小丰收。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "新北市长选战复杂胶着",
+    "蓝营强攻火药味越来越猛",
+    "国民党更输不起，民进党已有小丰收"
+  ],
+  "category": "finance",
+  "tags": [
+    "新北",
+    "市长选战",
+    "蓝营"
+  ],
+  "entities": [],
+  "sourceId": "ftchinese",
+  "sourceName": "FT中文网",
+  "sourceUrl": "https://www.ftchinese.com/story/2418b4e6-97c4-4c09-84d7-e918284e5712",
+  "publishedAt": "2026-11-26T16:00:00.000Z",
+  "fetchedAt": "2026-11-27T04:27:22.110Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "493ae62421f98586",
+  "status": "published"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e86c930e484eec60",
+  "slug": "these-stocks-soared-the-most-during-a-wild-week-highlighted-",
+  "titleZh": "Nvidia股价本周飙升",
+  "titleOriginal": "These stocks soared the most during a wild week highlighted by Huang&#x2019;s return to Nvidia",
+  "summary": "Nvidia股价本周上涨，但全年仍下跌近28%，2026年下跌21%。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Nvidia股价本周上涨",
+    "全年股价下跌近28%",
+    "2026年股价下跌21%"
+  ],
+  "category": "finance",
+  "tags": [
+    "Nvidia",
+    "股价",
+    "市场表现",
+    "科技股",
+    "财报"
+  ],
+  "entities": [
+    "NVIDIA",
+    "Nvidia",
+    "Huang"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-27T20:16:00.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "1c3b27bf4c150191",
+  "status": "published"
+}

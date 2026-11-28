@@ -1,0 +1,36 @@
+{
+  "id": "a5821eafae94ab35",
+  "slug": "budget-airline-norse-atlantic-files-for-bankruptcy-in-europe",
+  "titleZh": "挪威航空欧洲申请破产",
+  "titleOriginal": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+  "summary": "挪威航空表示因燃油成本飙升导致资金筹措失败，于周五在欧洲申请破产。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "挪威航空欧洲申请破产",
+    "因燃油成本上涨导致资金筹措失败",
+    "公司运营受到严重压力"
+  ],
+  "category": "finance",
+  "tags": [
+    "航空业",
+    "破产",
+    "燃油成本",
+    "资金筹措",
+    "欧洲"
+  ],
+  "entities": [
+    "Budget",
+    "Norse Atlantic",
+    "Europe"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+  "publishedAt": "2026-11-27T18:20:32.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "654a33fde6dd27a8",
+  "status": "published"
+}

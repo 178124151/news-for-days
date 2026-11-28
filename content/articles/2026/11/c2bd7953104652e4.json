@@ -1,0 +1,37 @@
+{
+  "id": "c2bd7953104652e4",
+  "slug": "taking-trainium3-to-the-track-generating-videos-with-ltx-2-5",
+  "titleZh": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "titleOriginal": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Taking Trainium3 to the Track: Generati…",
+    "Taking Trainium3 to the Track: Generati…",
+    "详见原文"
+  ],
+  "category": "ai",
+  "tags": [
+    "Taking Trainium3",
+    "Track",
+    "AI",
+    "行业动态",
+    "每日速览"
+  ],
+  "entities": [
+    "Taking Trainium3",
+    "Track",
+    "Generating Videos",
+    "LTX"
+  ],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/video-trainium3",
+  "publishedAt": "2026-11-27T00:00:00.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 39,
+  "readMinutes": 2,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "55690d5e01f1432b",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4249b565b3749408",
+  "slug": "coming-next-year-medicare-advantage-plans-without-drug-cover",
+  "titleZh": "明年将有近64万人受影响的医保计划变动",
+  "titleOriginal": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+  "summary": "明年将有近64万人受影响的医保计划变动，医保优势计划失去全方位福利，选择范围减少。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "明年将有近64万人受影响的医保计划变动",
+    "医保优势计划失去全方位福利",
+    "选择范围减少"
+  ],
+  "category": "finance",
+  "tags": [
+    "医保",
+    "医疗政策",
+    "福利变动",
+    "政策解读",
+    "医疗改革"
+  ],
+  "entities": [
+    "Coming",
+    "Medicare Advantage"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-27T19:55:00.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 60,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "44d219e7a3c422c2",
+  "status": "published"
+}

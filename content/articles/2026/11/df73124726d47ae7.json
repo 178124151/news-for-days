@@ -1,0 +1,34 @@
+{
+  "id": "df73124726d47ae7",
+  "slug": "9-1-deepseek",
+  "titleZh": "DeepSeek或将推出付费模式",
+  "titleOriginal": "9点1氪丨DeepSeek或将推出付费模式；广电正式禁播电视开机广告；李斌：“速成车”是对国产车的污名化",
+  "summary": "DeepSeek安卓端App更新2.10.0版本后新增功能按钮，用户可查看每轮对话消耗额度对应资费，计费模式同API官方文档。此举或为后续推出App付费模式铺垫。本月已对长对话、单日调用额度做出限制，单次输入文字上限缩短至4万字左右，不再支持超过7天不活跃的长对话。",
+  "keyPoints": [
+    "App更新新增查看对话消耗额度按钮",
+    "计费模式与API官方文档一致，或将推出App付费模式",
+    "已限制单次输入上限及长对话保留功能"
+  ],
+  "category": "tech",
+  "tags": [
+    "AI大模型",
+    "付费模式",
+    "DeepSeek",
+    "API计费",
+    "用户限制"
+  ],
+  "entities": [
+    "DeepSeek"
+  ],
+  "sourceId": "36kr",
+  "sourceName": "36氪",
+  "sourceUrl": "https://36kr.com/p/4088718976268932?f=rss",
+  "publishedAt": "2026-11-28T01:07:21.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 68,
+  "readMinutes": 9,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c500bd5b97fe6d78",
+  "status": "published"
+}

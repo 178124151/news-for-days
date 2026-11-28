@@ -1,0 +1,32 @@
+{
+  "id": "caeabfeee98d13c3",
+  "slug": "10",
+  "titleZh": "众擎开放大小脑，10亿产业级生态支持计划",
+  "titleOriginal": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+  "summary": "人形机器人开发者集合，众擎开放大小脑，10亿产业级生态支持计划发布。一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "众擎开放大小脑",
+    "10亿产业级生态支持计划",
+    "真机验证成果可延续开发"
+  ],
+  "category": "ai",
+  "tags": [
+    "众擎",
+    "人形机器人",
+    "大小脑",
+    "产业生态",
+    "开发者"
+  ],
+  "entities": [],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/513352.html",
+  "publishedAt": "2026-11-27T14:07:33.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "4cb0ddfa65d1286b",
+  "status": "published"
+}

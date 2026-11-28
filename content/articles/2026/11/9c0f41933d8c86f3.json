@@ -1,0 +1,34 @@
+{
+  "id": "9c0f41933d8c86f3",
+  "slug": "hy3d-3-6",
+  "titleZh": "腾讯混元发布 Hy3D 3.6：3D生成竞争转向能用",
+  "titleOriginal": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+  "summary": "腾讯混元发布Hy3D 3.6版本，重点从‘能看’转向‘能用’，高模表面更整洁、结构更清晰、刻画更细腻。3D生成的竞争重点正在从‘能看’转向‘能用’。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "腾讯混元发布Hy3D 3.6版本",
+    "高模表面更整洁、结构更清晰",
+    "刻画更细腻，聚焦‘能用’"
+  ],
+  "category": "ai",
+  "tags": [
+    "腾讯混元",
+    "Hy3D",
+    "3D生成",
+    "AI模型",
+    "内容生成"
+  ],
+  "entities": [
+    "Hy3D"
+  ],
+  "sourceId": "qbitai",
+  "sourceName": "量子位",
+  "sourceUrl": "https://www.qbitai.com/2026/11/513155.html",
+  "publishedAt": "2026-11-27T03:45:19.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 75,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d3a793a988e62d53",
+  "status": "published"
+}

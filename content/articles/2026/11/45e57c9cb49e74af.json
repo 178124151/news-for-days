@@ -1,0 +1,38 @@
+{
+  "id": "45e57c9cb49e74af",
+  "slug": "sources-verizon-is-in-talks-to-buy-fiber-optic-broadband-ope",
+  "titleZh": "Verizon 或以60亿美元收购Fidium",
+  "titleOriginal": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
+  "summary": "据Financial Times报道，Verizon 正在谈判以约60亿美元收购光纤宽带运营商Fidium，以扩展其网络至5000万美国家庭和企业。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "Verizon 谈判收购Fidium",
+    "交易金额约60亿美元",
+    "目标扩展至5000万家庭和企业"
+  ],
+  "category": "tech",
+  "tags": [
+    "并购",
+    "光纤宽带",
+    "Verizon",
+    "美国市场",
+    "基础设施"
+  ],
+  "entities": [
+    "Sources",
+    "Verizon",
+    "Fidium",
+    "US",
+    "Financial Times"
+  ],
+  "sourceId": "techmeme",
+  "sourceName": "Techmeme",
+  "sourceUrl": "https://www.techmeme.com/261127/p11#a261127p11",
+  "publishedAt": "2026-11-27T18:50:02.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 80,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "bd5f627c160d849b",
+  "status": "published"
+}

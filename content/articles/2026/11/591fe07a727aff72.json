@@ -1,0 +1,35 @@
+{
+  "id": "591fe07a727aff72",
+  "slug": "8-k-t-rowe-price-oha-select-private-credit-fund-0001901164-f",
+  "titleZh": "T. Rowe Price OHA Select Private Credit Fund 8-K",
+  "titleOriginal": "8-K - T. Rowe Price OHA Select Private Credit Fund (0001901164) (Filer)",
+  "summary": "该基金于2026年11月27日提交8-K文件，涉及监管披露、其他事项及财务报表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "提交8-K文件",
+    "涉及监管披露及财务报表",
+    "AccNo: 0001140361-26-045898"
+  ],
+  "category": "policy",
+  "tags": [
+    "私募信贜",
+    "监管披露",
+    "财务报表",
+    "基金运作",
+    "SEC"
+  ],
+  "entities": [
+    "Rowe Price OHA",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1901164/000114036126045898/0001140361-26-045898-index.htm",
+  "publishedAt": "2026-11-27T21:59:50.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "e5728ea50592c045",
+  "status": "published"
+}

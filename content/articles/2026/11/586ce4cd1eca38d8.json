@@ -1,0 +1,31 @@
+{
+  "id": "586ce4cd1eca38d8",
+  "slug": "new-car-prices-are-at-a-record-high-heres-where-to-look-for-",
+  "titleZh": "New car prices are at a record high. Here's where to look for deals",
+  "titleOriginal": "New car prices are at a record high. Here's where to look for deals",
+  "summary": "While the average price of a new car hit $51,109 in October, according to Kelley Blue Book, many buyers are spending far less on their purchase.Here's how.",
+  "keyPoints": [
+    "While the average price of a new car hi…",
+    "Here's how.",
+    "New car prices are at a record high. He…"
+  ],
+  "category": "finance",
+  "tags": [
+    "金融",
+    "行业动态",
+    "每日速览",
+    "全球市场"
+  ],
+  "entities": [],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+  "publishedAt": "2026-11-27T13:15:01.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 67,
+  "readMinutes": 1,
+  "aiProvider": "extractive",
+  "aiModel": "extractive-v1",
+  "contentHash": "0a3e2cc95740f721",
+  "status": "published"
+}

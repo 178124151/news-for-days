@@ -1,0 +1,35 @@
+{
+  "id": "9050ab9ea1bcd8a7",
+  "slug": "8-k-olenox-industries-inc-0001023994-filer",
+  "titleZh": "Olenox Industries Inc. 8-K文件",
+  "titleOriginal": "8-K - OLENOX INDUSTRIES INC. (0001023994) (Filer)",
+  "summary": "Olenox Industries Inc. 于2026年11月27日提交8-K文件，涉及无注册证券的股权发行。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "于2026年11月27日提交8-K文件",
+    "涉及无注册证券的股权发行",
+    "符合SEC披露要求"
+  ],
+  "category": "policy",
+  "tags": [
+    "8-K文件",
+    "SEC",
+    "公司治理",
+    "股权发行",
+    "合规"
+  ],
+  "entities": [
+    "OLENOX INDUSTRIES INC",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1023994/000121390026124611/0001213900-26-124611-index.htm",
+  "publishedAt": "2026-11-27T22:26:47.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c1d6ac8836609060",
+  "status": "published"
+}

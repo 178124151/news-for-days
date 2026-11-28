@@ -1,0 +1,32 @@
+{
+  "id": "00d52199bef25f9e",
+  "slug": "how-to-build-and-maintain-an-agentic-evaluation",
+  "titleZh": "如何构建和维护代理评估",
+  "titleOriginal": "How to build and maintain an agentic evaluation",
+  "summary": "文章介绍了如何构建和维护代理评估的方法。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "文章标题为《How to build and maintain an agen…",
+    "来源为 Hugging Face，属于 ai 类别",
+    "内容涉及代理评估的构建与维护要点"
+  ],
+  "category": "ai",
+  "tags": [
+    "ai",
+    "评估",
+    "代理",
+    "Hugging Face",
+    "方法"
+  ],
+  "entities": [],
+  "sourceId": "huggingface",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/agentic-evals",
+  "publishedAt": "2026-11-23T00:00:00.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 30,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "3e3fae1fefba1398",
+  "status": "published"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f78bf2e106552f7b",
+  "slug": "the-m5-macbook-air-just-got-its-biggest-discount-since-apple",
+  "titleZh": "M5 MacBook Air黑五降至历史低价",
+  "titleOriginal": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+  "summary": "M5 MacBook Air 13英寸和15英寸配置均降价300美元，13英寸起售价999美元，15英寸起售价1199美元。Apple在6月提价200美元后，此次降价为自价格上调以来最大幅度折扣，低于此前见过的价格。",
+  "keyPoints": [
+    "13英寸及15英寸M5 MacBook Air降价300美元",
+    "13英寸起售价999美元，为Apple提价后最低价",
+    "黑五折扣力度大，低于以往见过价格"
+  ],
+  "category": "tech",
+  "tags": [
+    "MacBook Air",
+    "黑五促销",
+    "M5芯片",
+    "电脑降价",
+    "零售优惠"
+  ],
+  "entities": [
+    "Apple",
+    "The M5 MacBook"
+  ],
+  "sourceId": "theverge",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+  "publishedAt": "2026-11-28T03:30:00.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 58,
+  "readMinutes": 3,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "d4f7d7b1ad02e40a",
+  "status": "published"
+}

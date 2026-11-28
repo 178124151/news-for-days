@@ -1,0 +1,35 @@
+{
+  "id": "6a80fdac66e3ae97",
+  "slug": "8-k-heartsciences-inc-0001468492-filer",
+  "titleZh": "HeartSciences Inc. 8-K文件",
+  "titleOriginal": "8-K - HeartSciences Inc. (0001468492) (Filer)",
+  "summary": "HeartSciences Inc. 于2026年11月27日提交8-K文件，涉及重大协议、其他事项及财务报表。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "于2026年11月27日提交8-K文件",
+    "涉及重大协议及其他事项",
+    "包含财务报表和展示"
+  ],
+  "category": "policy",
+  "tags": [
+    "8-K文件",
+    "SEC",
+    "公司治理",
+    "财务披露",
+    "合规"
+  ],
+  "entities": [
+    "HeartSciences Inc",
+    "Filer"
+  ],
+  "sourceId": "sec-edgar",
+  "sourceName": "SEC EDGAR 8-K",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1468492/000121390026124612/0001213900-26-124612-index.htm",
+  "publishedAt": "2026-11-27T22:27:09.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 30,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "8531a8fe74b60ac9",
+  "status": "published"
+}

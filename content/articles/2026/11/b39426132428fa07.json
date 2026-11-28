@@ -1,0 +1,34 @@
+{
+  "id": "b39426132428fa07",
+  "slug": "clearing-out-my-parents-x2019-house-was-a-legal-nightmare-ho",
+  "titleZh": "清理父母房产法律困局",
+  "titleOriginal": "Clearing out my parents&#x2019; house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+  "summary": "清理父母房产过程涉及法律复杂性，可能给子女留下类似的整理负担。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "清理房产涉法律复杂性",
+    "可能延续给下一代负担",
+    "需谨慎规划整理方案"
+  ],
+  "category": "finance",
+  "tags": [
+    "房产",
+    "法律",
+    "整理",
+    "家庭",
+    "黑 Friday"
+  ],
+  "entities": [
+    "Clearing"
+  ],
+  "sourceId": "marketwatch",
+  "sourceName": "MarketWatch",
+  "sourceUrl": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+  "publishedAt": "2026-11-27T23:15:00.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 40,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "ce77e8bba306b9f0",
+  "status": "published"
+}

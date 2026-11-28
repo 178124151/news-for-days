@@ -1,0 +1,35 @@
+{
+  "id": "d068cafd35aa878d",
+  "slug": "jensen-huangs-return-did-little-to-ease-ai-jitters-we-used-t",
+  "titleZh": "黄仁勋回归未消除AI担忧",
+  "titleOriginal": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+  "summary": "黄仁勋回归虽引发短暂AI股价 rally，但市场波动持续，被视为布局的机会。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "黄仁勋回归引发短暂AI rally",
+    "市场波动持续存在",
+    "被视为布局机会"
+  ],
+  "category": "finance",
+  "tags": [
+    "AI",
+    "黄仁募",
+    "市场波动",
+    "投资机会",
+    "科技股"
+  ],
+  "entities": [
+    "Jensen Huang",
+    "AI"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+  "publishedAt": "2026-11-27T18:46:20.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 70,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "7e6da71c47f9b4ea",
+  "status": "published"
+}

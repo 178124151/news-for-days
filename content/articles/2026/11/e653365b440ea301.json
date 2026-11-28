@@ -1,0 +1,35 @@
+{
+  "id": "e653365b440ea301",
+  "slug": "diverse-alternative-reasoning-traces-for-hard-math-problems",
+  "titleZh": "硬 math 问题的多样化备选推理轨迹",
+  "titleOriginal": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+  "summary": "文章提出了DART方法，用于挖掘大语言模型的备选推理轨迹。该方法从被拒绝的轨迹出发，按位置加权不确定性对推理步骤进行排序，并利用答案指引生成截然不同的候选轨迹。实验表明，在DeepMath-103K问题上，DART比独立Monte Carlo采样多回收37%的问题。其每问题估计生成成本基本持平，每个接受轨迹的成本降低30%。",
+  "keyPoints": [
+    "DART方法从被拒绝轨迹挖掘备选推理，可回收37%更多硬 math 问题",
+    "每问题生成成本基本持平，每接受轨迹成本降低30%",
+    "训练后的Llama-3.1-8B-Instruct在MATH-500和AIME…"
+  ],
+  "category": "ai",
+  "tags": [
+    "ai",
+    "数学推理",
+    "DART",
+    "Llama-3.1",
+    "post-training"
+  ],
+  "entities": [
+    "Diverse Alternative Reasoning",
+    "Hard Math Problems"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.34928v1",
+  "publishedAt": "2026-11-25T18:59:11.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 70,
+  "readMinutes": 2,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "322d2699cef82729",
+  "status": "published"
+}

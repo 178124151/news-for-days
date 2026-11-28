@@ -1,0 +1,35 @@
+{
+  "id": "0c272f1d0957d70a",
+  "slug": "attack-policy-selection-can-mislead-monitor-evaluators",
+  "titleZh": "攻击策略选择可能误导监控评估者",
+  "titleOriginal": "Attack Policy Selection can Mislead Monitor Evaluators",
+  "summary": "研究发现，AI监控分类器的假阴性率高度依赖攻击策略的生成方法和优化程度。实验显示，单一强化学习方法在不同优化水平下假阴性率从0.5%到20.8%不等，不同方法在最优水平下从6.4%到23.0%。所有攻击策略均针对代理监控开发，结果显示攻击可转移至GPT-5.4目标监控。研究警告称，仅使用基础攻击方法的评估可能给监控强度提供错误的信心，且攻击策略的选择会影响结果解释。",
+  "keyPoints": [
+    "AI监控分类器的假阴性率对攻击策略方法和优化程度高度敏感",
+    "单一强化学习方法优化水平不同，假阴性率范围0.5%-20.8%",
+    "不同攻击方法最优水平下假阴性率范围6.4%-23.0%"
+  ],
+  "category": "ai",
+  "tags": [
+    "ai",
+    "监控",
+    "攻击策略",
+    "假阴性率",
+    "GPT-5.4"
+  ],
+  "entities": [
+    "Attack Policy Selection",
+    "Mislead Monitor Evaluators"
+  ],
+  "sourceId": "arxiv-ai",
+  "sourceName": "arXiv cs.AI",
+  "sourceUrl": "https://arxiv.org/abs/2611.34934v1",
+  "publishedAt": "2026-11-25T18:59:28.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 85,
+  "readMinutes": 3,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "661202f4319ed4e4",
+  "status": "published"
+}

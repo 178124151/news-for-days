@@ -1,0 +1,35 @@
+{
+  "id": "331c202c6e7779eb",
+  "slug": "inflation-has-shoppers-hunting-for-value-that-bodes-well-for",
+  "titleZh": "通胀下消费者求价值",
+  "titleOriginal": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+  "summary": "面对宏观经济压力，消费者寻求价值，零售商预计黑 Friday及后续假日季将保持强劲消费。原文信息有限，建议阅读原文。",
+  "keyPoints": [
+    "通胀推动消费者求价值",
+    "零售商预计假日季强劲",
+    "黑 Friday消费预期乐观"
+  ],
+  "category": "finance",
+  "tags": [
+    "通胀",
+    "消费者",
+    "黑 Friday",
+    "零售",
+    "假日消费"
+  ],
+  "entities": [
+    "Inflation",
+    "Black Friday"
+  ],
+  "sourceId": "cnbc",
+  "sourceName": "CNBC Markets",
+  "sourceUrl": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+  "publishedAt": "2026-11-27T22:00:57.000Z",
+  "fetchedAt": "2026-11-28T04:08:39.308Z",
+  "importance": 65,
+  "readMinutes": 1,
+  "aiProvider": "nvidia",
+  "aiModel": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "contentHash": "c7d32e6344fab1f7",
+  "status": "published"
+}
